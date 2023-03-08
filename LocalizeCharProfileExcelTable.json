@@ -2104,7 +2104,7 @@
     "CharHeight": "166cm",
     "DesignerName": "Mx2J",
     "IllustratorName": "Mx2J",
-    "CharacterVoice": "平井祥惠",
+    "CharacterVoice": "平井祥恵",
     "Hobby": "散歩、突撃",
     "WeaponName": "バラライカ",
     "WeaponDesc": "マリナが愛用している、ドラムマガジン付きのサブマシンガン。\n\nその驚異的な発射速度は、レッドウィンターの権威を疑う者たちに容赦なく襲い掛かる。",
@@ -3034,5 +3034,27 @@
     "WeaponDesc": "ナギサが愛用する拳銃。\n\nクラシカルなデザインのため、お茶会でも目立つことなく調和している。お茶会の品位を落とすような招かざる客を追い払う用途としてよく使われている。",
     "ProfileIntroduction": "トリニティ総合学園所属、トリニティを構成している生徒連合「フィリウス」のリーダーであり、生徒会「ティーパーティー」のホスト。\n\n穏やかで優しい言葉遣いだが、本音をほとんど明かさないため、気難しく謎の多い人物と評されている。趣味はお茶会に使う茶葉やお茶菓子を用意すること。多くのトリニティ生が彼女のお茶会に招待される日を夢見ている。",
     "CharacterSSRNew": "……ごきげんよう。\nトリニティを代表してご挨拶申し上げます"
+  },
+  {
+    "CharacterId": 10063,
+    "StatusMessage": "いや、これって私のせいですか……？",
+    "FullName": "黒崎 コユキ",
+    "FamilyName": "黒崎",
+    "FamilyNameRuby": "くろさき",
+    "PersonalName": "コユキ",
+    "PersonalNameRuby": "",
+    "SchoolYear": "1年生",
+    "CharacterAge": "15歳",
+    "BirthDay": "2/14",
+    "Birthday": "2月14日",
+    "CharHeight": "149cm",
+    "DesignerName": "MISOM150",
+    "IllustratorName": "MISOM150",
+    "CharacterVoice": "乾夏寧",
+    "Hobby": "運試し、脱出",
+    "WeaponName": "マリ・ガン",
+    "WeaponDesc": "コユキと共にあらゆる苦難を乗り越えてきたマシンガン。\n\n一度修理に出した際に色を変えた。些細なことを気にしないコユキに似て頑丈な銃だ。",
+    "ProfileIntroduction": "ミレニアムサイエンススクール所属、生徒会「セミナー」のトラブルメーカーな天才少女。\n\n数学的な暗号の解読に関して、天賦の才を持っているが、本人にはその自覚が全くない。また、自分では制御できない運が絡む要素が好きで、様々な方法で自分の運を試している。苦難にあっても諦めない。",
+    "CharacterSSRNew": "思い通りにいかない時こそ、\n人生は面白くなるんですよ！"
   }
 ]
