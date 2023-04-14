@@ -397,9 +397,9 @@
   },
   {
     "CharacterId": 13008,
-    "StatusMessage": "對策委員會黑見茜香",
+    "StatusMessage": "對策委員會黒見茜香",
     "FullName": "쿠로미 세리카",
-    "FamilyName": "黑見",
+    "FamilyName": "黒見",
     "FamilyNameRuby": "",
     "PersonalName": "茜香",
     "PersonalNameRuby": "",
@@ -744,7 +744,7 @@
     "Hobby": "讀哲學書",
     "WeaponName": "Support Pointer",
     "WeaponDesc": "千夏愛用的手槍。\n\n比起對其他人開火，似乎更常用來進行業務上的指示和表示位置的用途。",
-    "ProfileIntroduction": "格黑娜學園所屬，風紀委員會的救護負責人。\n\n重視規定、紀律及程序，是風紀委員會裡為數不多有常識的人。在亞子或伊織等等風紀委員暴走時負責阻止他們的人。\n說話語氣生硬，雖然給人「典型的風紀委員會員」的冷漠印象，但其實是個對可愛的動物毫無招架之力的善良少女。",
+    "ProfileIntroduction": "格黑娜學園所屬，風紀委員會的救護負責人。\n\n重視規定、紀律及程序，是風紀委員會裡為數不多有常識的人。在亞子或伊織等等風紀委員暴走時負責阻止他們的人。\n說話語氣生硬，雖然給人「典型的風紀委員」的冷漠印象，但其實是個對可愛的動物毫無招架之力的善良少女。",
     "CharacterSSRNew": ""
   },
   {
@@ -853,7 +853,7 @@
     "CharacterVoice": "沼倉愛美",
     "Hobby": "清掃",
     "WeaponName": "Hawkeye",
-    "WeaponDesc": "花凛專用的反器材狙擊槍，\n\n就算飛行中的目標也能精準無比地擊落。",
+    "WeaponDesc": "花凛專用的反器材狙擊步槍。\n\n就算是飛舞於空中的目標也能精準無比地擊落。",
     "ProfileIntroduction": "千年科學學園所屬，秘密組織「C&C」的特務。\n\n代號為「Zero Two」，使用強大的火力負責後援。\n和看似兇惡的外表不同，其實是C&C特務中最謹慎的人。每天在都為了阻止在作戰中時常暴走的明日奈和朱音而傷腦筋。",
     "CharacterSSRNew": "遵照主人的指示"
   },
@@ -1667,7 +1667,7 @@
     "CharacterVoice": "沼倉愛美",
     "Hobby": "打掃",
     "WeaponName": "Hawkeye",
-    "WeaponDesc": "花凜專用的反器材狙擊步槍。\n\n就算是飛舞於空中的「白兔」，也能精確無比地擊落。",
+    "WeaponDesc": "花凜專用的反器材狙擊步槍。\n\n就算是飛舞於空中的「白兔」也能精確無比地擊落。",
     "ProfileIntroduction": "千年科學學園所屬，直接參加這次作戰最前線的「C&C」特務。\n\n嘴裡雖說著「如果是為了任務的話」，仍然興沖沖地換裝。不過，卻比平時更在意周圍的人投來的視線。",
     "CharacterSSRNew": "無論是什麼樣的任務，都和我沒關係"
   },
@@ -1775,7 +1775,7 @@
     "DesignerName": "DoReMi",
     "IllustratorName": "DoReMi",
     "CharacterVoice": "高野麻里佳",
-    "Hobby": "陽奈部長",
+    "Hobby": "陽奈委員長",
     "WeaponName": "Hot Shot",
     "WeaponDesc": "亞子隨身攜帶的手槍。\n\n經過刻苦的努力，亞子就任行政官時被交付的重要之物。總是攜帶於身，非常珍惜地對待。",
     "ProfileIntroduction": "格黑娜學園所屬，除了是風紀委員會的行政官，對風紀委員長陽奈來說也是如祕書般的存在。\n\n乍看之下給人一種親切善良的印象，但對於違規的學生可是毫不留情。總是在風紀委員長陽奈的身邊輔佐她。因此也被格黑娜的學生稱為「陽奈的寵物」，不過本人並不是特別在意。",
@@ -1798,7 +1798,7 @@
     "IllustratorName": "kokosando",
     "CharacterVoice": "丹下桜",
     "Hobby": "肅清、打雪仗",
-    "WeaponName": "肅清",
+    "WeaponName": "Chistka",
     "WeaponDesc": "潔莉諾在肅清時使用的手槍。\n\n為了能在溫泉鄉這種高溫多濕的環境也不會生鏽，智惠似乎進行了改造。",
     "ProfileIntroduction": "赤冬聯邦學園所屬，於227號溫泉鄉享樂的學生會長。\n\n最初雖然無法容忍在未經自己許可下建設溫泉鄉，認為這種東西必須撤除並肅清才行。然而，抵達後馬上被香她們說服，在溫泉鄉盡情享受了一番。雖然對於溫泉鄉和食物感到滿足，但好像不太喜歡溫泉本身。",
     "CharacterSSRNew": "在「肅清君1號」的面前，跪下吧！"
@@ -1917,7 +1917,7 @@
     "CharacterId": 20011,
     "StatusMessage": "謹賀新年",
     "FullName": "쿠로미 세리카",
-    "FamilyName": "黑見",
+    "FamilyName": "黒見",
     "FamilyNameRuby": "",
     "PersonalName": "茜香",
     "PersonalNameRuby": "",
@@ -2747,7 +2747,7 @@
     "WeaponName": "高嶺之花",
     "WeaponDesc": "陽葵所持有的手槍。\n\n是把外觀簡約美麗的槍。平常很難看到陽葵使用這把槍，根據她的說法：「所謂的高嶺之花，本來就不容易看到……就像我一樣吧？」",
     "ProfileIntroduction": "千年科學學園所屬，駭客集團「貝里塔斯」的前部長，現為特異現象搜查部的部長。\n\n自稱是超天才清楚系病弱美少女，並取得千年史上僅有三人得到的「全知」學位……至於其說法是真是假，以及該學位是否實存，目前仍包覆在神秘的面紗中。陽葵說，越是神秘的女孩越美麗……也許吧。不過他確實是能力首屈一指的天才駭客，同時也非常喜歡神秘的事物，是個擁有奇特愛好的少女。",
-    "CharacterSSRNew": "呵呵，輪到千年的超天才清楚系病弱美少女\n出場了嗎？"
+    "CharacterSSRNew": "呵呵，輪到千年的超天才清楚系病弱美少女駭客\n出場了嗎？"
   },
   {
     "CharacterId": 10055,
