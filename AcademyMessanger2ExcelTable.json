@@ -10669,7 +10669,7 @@
   },
   {
     "MessageGroupId": 200140240,
-    "Message": "剛剛我從女武神警察學校裡認識的人聽說"
+    "Message": "剛剛我從女武神警察學園裡認識的人聽說"
   },
   {
     "MessageGroupId": 200140250,
@@ -16150,5 +16150,257 @@
   {
     "MessageGroupId": 100550450,
     "Message": "那下次見囉，老師"
+  },
+  {
+    "MessageGroupId": 100560010,
+    "Message": "你好，老師！"
+  },
+  {
+    "MessageGroupId": 100560020,
+    "Message": "聖誕快樂！"
+  },
+  {
+    "MessageGroupId": 100560030,
+    "Message": "芹奈也聖誕快樂！"
+  },
+  {
+    "MessageGroupId": 100560040,
+    "Message": "呵呵，謝謝"
+  },
+  {
+    "MessageGroupId": 100560050,
+    "Message": "今天市區有個慈善活動"
+  },
+  {
+    "MessageGroupId": 100560050,
+    "Message": "不介意的話，老師要不要也來看看？"
+  },
+  {
+    "MessageGroupId": 100560060,
+    "Message": "既然是芹奈的指名，無論如何都要去！"
+  },
+  {
+    "MessageGroupId": 100560070,
+    "Message": "非，非常感謝！"
+  },
+  {
+    "MessageGroupId": 100560070,
+    "Message": "我等你！"
+  },
+  {
+    "MessageGroupId": 100560080,
+    "Message": "你好，老師！"
+  },
+  {
+    "MessageGroupId": 100560090,
+    "Message": "最近身體還好嗎？"
+  },
+  {
+    "MessageGroupId": 100560100,
+    "Message": "雖然很想好好休息……"
+  },
+  {
+    "MessageGroupId": 100560110,
+    "Message": "真，真是的……！"
+  },
+  {
+    "MessageGroupId": 100560110,
+    "Message": "雖然知道老師很忙，不過不可以唷"
+  },
+  {
+    "MessageGroupId": 100560120,
+    "Message": "這樣下去的話，總有一天會"
+  },
+  {
+    "MessageGroupId": 100560130,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 100560140,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 100560140,
+    "Message": "今天，有時間嗎？"
+  },
+  {
+    "MessageGroupId": 100560150,
+    "Message": "就算沒有也會擠出來的！"
+  },
+  {
+    "MessageGroupId": 100560160,
+    "Message": "呃，嗯……？"
+  },
+  {
+    "MessageGroupId": 100560160,
+    "Message": "雖然你這麼說我很高興……"
+  },
+  {
+    "MessageGroupId": 100560170,
+    "Message": "那，那麼待會見"
+  },
+  {
+    "MessageGroupId": 100560180,
+    "Message": "老師，身體還好嗎？"
+  },
+  {
+    "MessageGroupId": 100560180,
+    "Message": "我今天要去某個醫院參加慈善活動"
+  },
+  {
+    "MessageGroupId": 100560190,
+    "Message": "雖然常常會見到那些病患，但這次要扮成聖誕老人去，所以有點緊張"
+  },
+  {
+    "MessageGroupId": 100560200,
+    "Message": "這樣啊。那個活動，我也可以去嗎？"
+  },
+  {
+    "MessageGroupId": 100560210,
+    "Message": "嗯？"
+  },
+  {
+    "MessageGroupId": 100560210,
+    "Message": "雖，雖然不是不行……"
+  },
+  {
+    "MessageGroupId": 100560220,
+    "Message": "怎麼這麼突然呢？"
+  },
+  {
+    "MessageGroupId": 100560230,
+    "Message": "那個，老師？"
+  },
+  {
+    "MessageGroupId": 200210010,
+    "Message": "老師，其實我有個煩惱"
+  },
+  {
+    "MessageGroupId": 200210020,
+    "Message": "這樣啊……是我可以問的煩惱嗎？"
+  },
+  {
+    "MessageGroupId": 200210030,
+    "Message": "嗯，老師當然可以！"
+  },
+  {
+    "MessageGroupId": 200210030,
+    "Message": "但是，會不會給老師添麻煩呢……"
+  },
+  {
+    "MessageGroupId": 200210040,
+    "Message": "傾聽學生的煩惱，是老師的職責哦"
+  },
+  {
+    "MessageGroupId": 200210050,
+    "Message": "那，可以拜託你嗎？"
+  },
+  {
+    "MessageGroupId": 200210050,
+    "Message": "我現在就去找你！"
+  },
+  {
+    "MessageGroupId": 200210060,
+    "Message": "雖然煩惱很讓人煎熬，但我覺得也是件好事！"
+  },
+  {
+    "MessageGroupId": 200210070,
+    "Message": "只要能克服困難，就會更有自信！"
+  },
+  {
+    "MessageGroupId": 200210080,
+    "Message": "似乎確實是那樣呢"
+  },
+  {
+    "MessageGroupId": 200210080,
+    "Message": "話說，為什麼突然說到「煩惱」……？"
+  },
+  {
+    "MessageGroupId": 200210090,
+    "Message": "因為我對一直煩惱著的事情，得出了自己的結論"
+  },
+  {
+    "MessageGroupId": 200210100,
+    "Message": "我也會讓老師看到的，敬請期待！"
+  },
+  {
+    "MessageGroupId": 200210110,
+    "Message": "老師！"
+  },
+  {
+    "MessageGroupId": 200210120,
+    "Message": "你不覺得編織很有趣嗎？"
+  },
+  {
+    "MessageGroupId": 200210130,
+    "Message": "編織……襪子之類的？"
+  },
+  {
+    "MessageGroupId": 200210140,
+    "Message": "嗯，我正在做準備"
+  },
+  {
+    "MessageGroupId": 200210140,
+    "Message": "每年的這個時期我都會製作"
+  },
+  {
+    "MessageGroupId": 200210150,
+    "Message": "原來如此……？"
+  },
+  {
+    "MessageGroupId": 200210160,
+    "Message": "啊，對了！"
+  },
+  {
+    "MessageGroupId": 200210170,
+    "Message": "老師，可以來我的房間一趟嗎？"
+  },
+  {
+    "MessageGroupId": 200210170,
+    "Message": "請務必成為我的共犯吧！"
+  },
+  {
+    "MessageGroupId": 200210180,
+    "Message": "共犯！？"
+  },
+  {
+    "MessageGroupId": 200210190,
+    "Message": "老師，老師！"
+  },
+  {
+    "MessageGroupId": 200210200,
+    "Message": "請看！是聖誕老人給我的禮物！"
+  },
+  {
+    "MessageGroupId": 200210200,
+    "Message": "而且，還把牛奶跟餅乾都吃光光了！"
+  },
+  {
+    "MessageGroupId": 200210210,
+    "Message": "雖然很遺憾沒見到聖誕老人……"
+  },
+  {
+    "MessageGroupId": 200210210,
+    "Message": "但是，似乎有成功送出禮物的回禮所以很開心。耶嘿嘿！"
+  },
+  {
+    "MessageGroupId": 200210220,
+    "Message": "嗯，太好了"
+  },
+  {
+    "MessageGroupId": 200210230,
+    "Message": "話說，收到消毒藥當禮物……"
+  },
+  {
+    "MessageGroupId": 200210230,
+    "Message": "應該是要我今後在治療傷患時，更注重消毒的意思對吧？"
+  },
+  {
+    "MessageGroupId": 200210240,
+    "Message": "要切除患部相當困難，果然還是要用火來"
+  },
+  {
+    "MessageGroupId": 200210250,
+    "Message": "我覺得不是那個意思唷！？"
   }
 ]

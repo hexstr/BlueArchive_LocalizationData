@@ -1881,11 +1881,11 @@
   },
   {
     "Key": 757335485,
-    "Value": "Phase自動結束"
+    "Value": "PHASE自動結束"
   },
   {
     "Key": 2922594870,
-    "Value": "Phase結束"
+    "Value": "PHASE結束"
   },
   {
     "Key": 1072842224,
@@ -3721,7 +3721,7 @@
   },
   {
     "Key": 3333854855,
-    "Value": "{0}～{1} 維護前獎勵領取期間"
+    "Value": "獎勵領取期間\n{0} ~ {1}下個總力戰開始前為止"
   },
   {
     "Key": 4279221644,
@@ -3745,7 +3745,7 @@
   },
   {
     "Key": 1390644244,
-    "Value": "{0}～{1} 維護前獎勵領取期間"
+    "Value": "獎勵領取期間\n{0} ~ {1}下個總力戰開始前為止"
   },
   {
     "Key": 3758745260,
@@ -4897,11 +4897,11 @@
   },
   {
     "Key": 2059069905,
-    "Value": "https://forum.nexon.com/bluearchiveTW"
+    "Value": "https://forum.nexon.com/bluearchive/"
   },
   {
     "Key": 2443507667,
-    "Value": "https://forum.nexon.com/bluearchiveTW"
+    "Value": "https://m.nexon.com/forum/552"
   },
   {
     "Key": 1483013496,
