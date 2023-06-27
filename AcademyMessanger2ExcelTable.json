@@ -2169,7 +2169,7 @@
   },
   {
     "MessageGroupId": 100180220,
-    "Message": "遊戲開發是的世界真艱難呢……"
+    "Message": "遊戲開發的世界真艱難呢……"
   },
   {
     "MessageGroupId": 100180230,
@@ -16402,5 +16402,413 @@
   {
     "MessageGroupId": 200210250,
     "Message": "我覺得不是那個意思唷！？"
+  },
+  {
+    "MessageGroupId": 100570010,
+    "Message": "您好，老師"
+  },
+  {
+    "MessageGroupId": 100570020,
+    "Message": "新的一年即將到來，您過得如何呢？"
+  },
+  {
+    "MessageGroupId": 100570030,
+    "Message": "跟平時差不多吧。羽留奈呢？"
+  },
+  {
+    "MessageGroupId": 100570040,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100570040,
+    "Message": "我在年末也依然進行著對美食的探究……"
+  },
+  {
+    "MessageGroupId": 100570040,
+    "Message": "但是對美食來說，季節和氣氛也是重要的要素之一"
+  },
+  {
+    "MessageGroupId": 100570050,
+    "Message": "也就是說，年始年末的這個時期"
+  },
+  {
+    "MessageGroupId": 100570050,
+    "Message": "正是挑戰別具特色美食的好機會"
+  },
+  {
+    "MessageGroupId": 100570060,
+    "Message": "這，這樣啊……"
+  },
+  {
+    "MessageGroupId": 100570070,
+    "Message": "沒必要想得那麼困難唷"
+  },
+  {
+    "MessageGroupId": 100570080,
+    "Message": "基於這個理由，老師"
+  },
+  {
+    "MessageGroupId": 100570080,
+    "Message": "能請您陪我一下嗎？"
+  },
+  {
+    "MessageGroupId": 100570090,
+    "Message": "什，什麼理由……！？"
+  },
+  {
+    "MessageGroupId": 100570100,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100570110,
+    "Message": "您認為工作的結果與過程哪個比較重要呢？"
+  },
+  {
+    "MessageGroupId": 100570120,
+    "Message": "真是困難的問題呢……"
+  },
+  {
+    "MessageGroupId": 100570120,
+    "Message": "雖然我覺得兩個都很重要……"
+  },
+  {
+    "MessageGroupId": 100570130,
+    "Message": "果然是這樣呢"
+  },
+  {
+    "MessageGroupId": 100570140,
+    "Message": "結果固然重要"
+  },
+  {
+    "MessageGroupId": 100570140,
+    "Message": "但是，也不能說過程就沒有意義……"
+  },
+  {
+    "MessageGroupId": 100570140,
+    "Message": "我想美食之路或許也是一樣的"
+  },
+  {
+    "MessageGroupId": 100570150,
+    "Message": "是……嗎？"
+  },
+  {
+    "MessageGroupId": 100570160,
+    "Message": "唔呵呵"
+  },
+  {
+    "MessageGroupId": 100570160,
+    "Message": "今天就來探究這個過程吧"
+  },
+  {
+    "MessageGroupId": 100570170,
+    "Message": "敬請期待唷"
+  },
+  {
+    "MessageGroupId": 100570180,
+    "Message": "老師，今天非常感謝您"
+  },
+  {
+    "MessageGroupId": 100570180,
+    "Message": "下次請務必一同享受最棒的美食吧"
+  },
+  {
+    "MessageGroupId": 100570190,
+    "Message": "唔呵呵"
+  },
+  {
+    "MessageGroupId": 100570200,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100570200,
+    "Message": "之前的約定，您還記得嗎？"
+  },
+  {
+    "MessageGroupId": 100570210,
+    "Message": "記得唷。是要享受最棒的美食對吧"
+  },
+  {
+    "MessageGroupId": 100570210,
+    "Message": "當然，是要一起去捕梭子蟹對吧？"
+  },
+  {
+    "MessageGroupId": 100570220,
+    "Message": "……？"
+  },
+  {
+    "MessageGroupId": 100570230,
+    "Message": "雖然不知道您把我和誰搞錯了……"
+  },
+  {
+    "MessageGroupId": 100570230,
+    "Message": "是要享受最棒美食的約定。不過捕螃蟹似乎也不錯……"
+  },
+  {
+    "MessageGroupId": 100570240,
+    "Message": "雖然當天才連絡您，稍後能占用您一點時間嗎？"
+  },
+  {
+    "MessageGroupId": 100570240,
+    "Message": "那麼，時間和地點是……"
+  },
+  {
+    "MessageGroupId": 160120010,
+    "Message": "老師，你今天忙嗎？"
+  },
+  {
+    "MessageGroupId": 160120020,
+    "Message": "有時間的話，要不要來我打工的地方一趟？"
+  },
+  {
+    "MessageGroupId": 160120030,
+    "Message": "我記得……是「L'Oiseau Bleu」嗎？"
+  },
+  {
+    "MessageGroupId": 160120040,
+    "Message": "沒錯沒錯。話說，虧你還記得呢"
+  },
+  {
+    "MessageGroupId": 160120040,
+    "Message": "有個東西想讓老師看看"
+  },
+  {
+    "MessageGroupId": 160120050,
+    "Message": "我等你，一定要來哦！"
+  },
+  {
+    "MessageGroupId": 160120060,
+    "Message": "老師，老師！"
+  },
+  {
+    "MessageGroupId": 160120060,
+    "Message": "我收到打工的薪水了！"
+  },
+  {
+    "MessageGroupId": 160120070,
+    "Message": "因為淳子很努力呀"
+  },
+  {
+    "MessageGroupId": 160120080,
+    "Message": "也對！所以說……"
+  },
+  {
+    "MessageGroupId": 160120080,
+    "Message": "現在是回禮時間唷！"
+  },
+  {
+    "MessageGroupId": 160120090,
+    "Message": "……什麼意思？"
+  },
+  {
+    "MessageGroupId": 160120090,
+    "Message": "請，請留小的一命……"
+  },
+  {
+    "MessageGroupId": 160120100,
+    "Message": "呵呵，等著看吧"
+  },
+  {
+    "MessageGroupId": 160120110,
+    "Message": "別說那種奇怪的話！"
+  },
+  {
+    "MessageGroupId": 160120120,
+    "Message": "總之"
+  },
+  {
+    "MessageGroupId": 160120130,
+    "Message": "傍晚來慶典大街一趟吧"
+  },
+  {
+    "MessageGroupId": 160120140,
+    "Message": "一定要唷！"
+  },
+  {
+    "MessageGroupId": 160120150,
+    "Message": "連假"
+  },
+  {
+    "MessageGroupId": 160120160,
+    "Message": "結束了"
+  },
+  {
+    "MessageGroupId": 160120170,
+    "Message": "都結束了……"
+  },
+  {
+    "MessageGroupId": 160120180,
+    "Message": "冷，冷靜點，淳子。連假明天才結束唷"
+  },
+  {
+    "MessageGroupId": 160120190,
+    "Message": "我知道啦！"
+  },
+  {
+    "MessageGroupId": 160120200,
+    "Message": "但是我心中的連假已經死了！已經不在了！"
+  },
+  {
+    "MessageGroupId": 160120200,
+    "Message": "沒有在我的背上或胸膛和我一起活下去！"
+  },
+  {
+    "MessageGroupId": 160120210,
+    "Message": "不過儘管如此，也不能就這麼結束！"
+  },
+  {
+    "MessageGroupId": 200220010,
+    "Message": "你好，老師。"
+  },
+  {
+    "MessageGroupId": 200220020,
+    "Message": "快要過年了呢"
+  },
+  {
+    "MessageGroupId": 200220020,
+    "Message": "今年也受你照顧了"
+  },
+  {
+    "MessageGroupId": 200220030,
+    "Message": "彼此彼此，我也受你照顧了"
+  },
+  {
+    "MessageGroupId": 200220040,
+    "Message": "風華今天有什麼計畫嗎？"
+  },
+  {
+    "MessageGroupId": 200220050,
+    "Message": "我今天應該也會忙著處理供給部的事……"
+  },
+  {
+    "MessageGroupId": 200220050,
+    "Message": "不過不要緊"
+  },
+  {
+    "MessageGroupId": 200220060,
+    "Message": "我會全力以赴，努力到最後的！"
+  },
+  {
+    "MessageGroupId": 200220070,
+    "Message": "那個……早安"
+  },
+  {
+    "MessageGroupId": 200220080,
+    "Message": "起來就發現已經這個時間了……"
+  },
+  {
+    "MessageGroupId": 200220090,
+    "Message": "風華居然睡過頭，真是少見……！"
+  },
+  {
+    "MessageGroupId": 200220100,
+    "Message": "真是太丟臉了……"
+  },
+  {
+    "MessageGroupId": 200220110,
+    "Message": "別在意，這個時期睡過頭很正常的。又很可愛"
+  },
+  {
+    "MessageGroupId": 200220120,
+    "Message": "真，真是的"
+  },
+  {
+    "MessageGroupId": 200220120,
+    "Message": "請別取笑我了"
+  },
+  {
+    "MessageGroupId": 200220130,
+    "Message": "話說回來，那個"
+  },
+  {
+    "MessageGroupId": 200220130,
+    "Message": "雖然可能已經錯過時機了"
+  },
+  {
+    "MessageGroupId": 200220130,
+    "Message": "方便的話，要不要一起吃稍微晚了點的跨年蕎麥麵呢？"
+  },
+  {
+    "MessageGroupId": 200220140,
+    "Message": "風華親手做的料理！我現在就想吃！"
+  },
+  {
+    "MessageGroupId": 200220150,
+    "Message": "謝，謝謝老師"
+  },
+  {
+    "MessageGroupId": 200220150,
+    "Message": "因為還需要做些準備，傍晚左右可以嗎？"
+  },
+  {
+    "MessageGroupId": 200220160,
+    "Message": "我會在食堂等你的"
+  },
+  {
+    "MessageGroupId": 200220170,
+    "Message": "老師，你今天也很忙嗎？"
+  },
+  {
+    "MessageGroupId": 200220180,
+    "Message": "我想連假也快結束了，於是就聯絡了老師……"
+  },
+  {
+    "MessageGroupId": 200220180,
+    "Message": "休假的日子為何總是過得這麼快呢……"
+  },
+  {
+    "MessageGroupId": 200220190,
+    "Message": "我和平時一樣唷。風華呢？"
+  },
+  {
+    "MessageGroupId": 200220200,
+    "Message": "那個，該說一晃眼就過去了嗎……"
+  },
+  {
+    "MessageGroupId": 200220200,
+    "Message": "但是明天就要開始為供給部做準備"
+  },
+  {
+    "MessageGroupId": 200220200,
+    "Message": "所以明天得去購買食材才行"
+  },
+  {
+    "MessageGroupId": 200220210,
+    "Message": "也就是說，今天是連假的最後一天……！？"
+  },
+  {
+    "MessageGroupId": 200220220,
+    "Message": "確，確實是呢"
+  },
+  {
+    "MessageGroupId": 200220220,
+    "Message": "該說平常就這樣嗎"
+  },
+  {
+    "MessageGroupId": 200220220,
+    "Message": "畢竟是供給部，這也沒辦法"
+  },
+  {
+    "MessageGroupId": 200220230,
+    "Message": "不會沒辦法唷！"
+  },
+  {
+    "MessageGroupId": 200220240,
+    "Message": "既然如此，今天得綁架風華才行……"
+  },
+  {
+    "MessageGroupId": 200220250,
+    "Message": "什麼！？"
+  },
+  {
+    "MessageGroupId": 200220250,
+    "Message": "連，連老師都要綁架我嗎！？"
+  },
+  {
+    "MessageGroupId": 200220260,
+    "Message": "畢竟是難得的連假最後一天啊！"
+  },
+  {
+    "MessageGroupId": 200220270,
+    "Message": "這，這是什麼意思……？"
   }
 ]
