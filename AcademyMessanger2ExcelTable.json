@@ -9069,7 +9069,7 @@
   },
   {
     "MessageGroupId": 200130160,
-    "Message": "抱歉，我剛剛睡了一會"
+    "Message": "抱歉，我剛剛睡了一會兒"
   },
   {
     "MessageGroupId": 200130170,
@@ -10369,7 +10369,7 @@
   },
   {
     "MessageGroupId": 100380010,
-    "Message": "這裡是RABBIT 1，請求著陸"
+    "Message": "這裡是RABBIT1，請求著陸"
   },
   {
     "MessageGroupId": 100380020,
@@ -10489,7 +10489,7 @@
   },
   {
     "MessageGroupId": 100380250,
-    "Message": "這裡是RABBIT 1，請求起飛……"
+    "Message": "這裡是RABBIT1，請求起飛……"
   },
   {
     "MessageGroupId": 100380260,
@@ -16657,7 +16657,7 @@
   },
   {
     "MessageGroupId": 200220010,
-    "Message": "你好，老師。"
+    "Message": "你好，老師"
   },
   {
     "MessageGroupId": 200220020,
@@ -16810,5 +16810,185 @@
   {
     "MessageGroupId": 200220270,
     "Message": "這，這是什麼意思……？"
+  },
+  {
+    "MessageGroupId": 100580010,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100580020,
+    "Message": "雖然您應該很忙……如果方便的話，今天能否占用您一點時間呢？"
+  },
+  {
+    "MessageGroupId": 100580030,
+    "Message": "如果是美禰的請求當然沒問題"
+  },
+  {
+    "MessageGroupId": 100580040,
+    "Message": "非常感謝"
+  },
+  {
+    "MessageGroupId": 100580050,
+    "Message": "不過怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 100580060,
+    "Message": "仔細想想"
+  },
+  {
+    "MessageGroupId": 100580060,
+    "Message": "竟然不先詢問內容就欣然答應……"
+  },
+  {
+    "MessageGroupId": 100580070,
+    "Message": "也許老師是值得信賴的貴人"
+  },
+  {
+    "MessageGroupId": 100580070,
+    "Message": "我不禁這麼覺得呢"
+  },
+  {
+    "MessageGroupId": 100580080,
+    "Message": "美禰……？"
+  },
+  {
+    "MessageGroupId": 100580090,
+    "Message": "老師，我今天……"
+  },
+  {
+    "MessageGroupId": 100580100,
+    "Message": "非常難得地居然有空"
+  },
+  {
+    "MessageGroupId": 100580110,
+    "Message": "休，休息也是很重要的唷！"
+  },
+  {
+    "MessageGroupId": 100580110,
+    "Message": "美禰有空的時候都會做些什麼事呢？"
+  },
+  {
+    "MessageGroupId": 100580120,
+    "Message": "這個嘛……"
+  },
+  {
+    "MessageGroupId": 100580130,
+    "Message": "雖然不知道能不能稱的上是興趣"
+  },
+  {
+    "MessageGroupId": 100580130,
+    "Message": "我會看著自己收集的醫療用品打發時間"
+  },
+  {
+    "MessageGroupId": 100580140,
+    "Message": "看著醫療用品……？"
+  },
+  {
+    "MessageGroupId": 100580150,
+    "Message": "是的"
+  },
+  {
+    "MessageGroupId": 100580150,
+    "Message": "對各自的效果進行比較，或是想像其適用的場合……"
+  },
+  {
+    "MessageGroupId": 100580150,
+    "Message": "實在很有趣，時間一下就過去了"
+  },
+  {
+    "MessageGroupId": 100580160,
+    "Message": "這種興趣我還是第一次聽見……"
+  },
+  {
+    "MessageGroupId": 100580170,
+    "Message": "這樣啊"
+  },
+  {
+    "MessageGroupId": 100580170,
+    "Message": "既然如此，難得有這種機會"
+  },
+  {
+    "MessageGroupId": 100580180,
+    "Message": "我想讓老師看看我的醫療用品……"
+  },
+  {
+    "MessageGroupId": 100580180,
+    "Message": "您願意過來一趟嗎？"
+  },
+  {
+    "MessageGroupId": 100580190,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100580200,
+    "Message": "今天下午，能否占用您一些時間呢？"
+  },
+  {
+    "MessageGroupId": 100580210,
+    "Message": "完全沒問題唷"
+  },
+  {
+    "MessageGroupId": 100580210,
+    "Message": "要做之前說的巡迴救護嗎？"
+  },
+  {
+    "MessageGroupId": 100580220,
+    "Message": "今天的巡迴救護上午就會結束"
+  },
+  {
+    "MessageGroupId": 100580220,
+    "Message": "所以想在午後和老師一起享用下午茶"
+  },
+  {
+    "MessageGroupId": 100580230,
+    "Message": "我馬上把工作處理完就過去哦！"
+  },
+  {
+    "MessageGroupId": 100580240,
+    "Message": "非常感謝您"
+  },
+  {
+    "MessageGroupId": 100580240,
+    "Message": "那麼，我會等您來的"
+  },
+  {
+    "MessageGroupId": 100580250,
+    "Message": "這是我第一次協助夏萊的工作"
+  },
+  {
+    "MessageGroupId": 100580260,
+    "Message": "是否有什麼需要事先準備的呢？"
+  },
+  {
+    "MessageGroupId": 100580270,
+    "Message": "沒關係，直接過來也可以的唷"
+  },
+  {
+    "MessageGroupId": 100580280,
+    "Message": "這樣啊"
+  },
+  {
+    "MessageGroupId": 100580280,
+    "Message": "那是否有需要事先注意的要點或是規則之類的呢……？"
+  },
+  {
+    "MessageGroupId": 100580290,
+    "Message": "細節等你來了之後會跟你說明的"
+  },
+  {
+    "MessageGroupId": 100580300,
+    "Message": "我知道了"
+  },
+  {
+    "MessageGroupId": 100580300,
+    "Message": "那麼我稍後會去拜訪您"
+  },
+  {
+    "MessageGroupId": 100580310,
+    "Message": "雖然這麼說有點難以啟齒"
+  },
+  {
+    "MessageGroupId": 100580320,
+    "Message": "但其實……我現在非常緊張"
   }
 ]
