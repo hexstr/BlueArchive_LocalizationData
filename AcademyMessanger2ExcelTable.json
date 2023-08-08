@@ -8777,7 +8777,7 @@
   },
   {
     "MessageGroupId": 100330290,
-    "Message": "啊，抱歉……現在有點離不開手的工作……"
+    "Message": "啊，抱歉……手上有份必須現在完成的工作……"
   },
   {
     "MessageGroupId": 100330300,
@@ -11233,7 +11233,7 @@
   },
   {
     "MessageGroupId": 200160110,
-    "Message": "中層管理人員就是這麼辛苦"
+    "Message": "中階管理者真是辛苦"
   },
   {
     "MessageGroupId": 200160120,
@@ -17834,5 +17834,381 @@
   {
     "MessageGroupId": 200230350,
     "Message": "沒有，什麼都沒有！"
+  },
+  {
+    "MessageGroupId": 100610010,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100610020,
+    "Message": "唔呵呵"
+  },
+  {
+    "MessageGroupId": 100610030,
+    "Message": "……櫻子？"
+  },
+  {
+    "MessageGroupId": 100610030,
+    "Message": "怎麼了？"
+  },
+  {
+    "MessageGroupId": 100610040,
+    "Message": "……請別在意，老師"
+  },
+  {
+    "MessageGroupId": 100610040,
+    "Message": "唔嗯……硬要說的話，想向您問好……"
+  },
+  {
+    "MessageGroupId": 100610050,
+    "Message": "我從以前就一直在尋找和老師說話的機會"
+  },
+  {
+    "MessageGroupId": 100610050,
+    "Message": "或許……在不遠的將來就能與您相見了呢"
+  },
+  {
+    "MessageGroupId": 100610060,
+    "Message": "那麼，在時機來臨之前"
+  },
+  {
+    "MessageGroupId": 100610060,
+    "Message": "願您能有安穩的每一天"
+  },
+  {
+    "MessageGroupId": 100610070,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100610080,
+    "Message": "唔呵呵"
+  },
+  {
+    "MessageGroupId": 100610090,
+    "Message": "……？？？"
+  },
+  {
+    "MessageGroupId": 100610100,
+    "Message": "嗨嗨～老師☆"
+  },
+  {
+    "MessageGroupId": 100610110,
+    "Message": "今天過得好嗎？"
+  },
+  {
+    "MessageGroupId": 100610110,
+    "Message": "櫻子一直都在祈求老師的平安哦！"
+  },
+  {
+    "MessageGroupId": 100610120,
+    "Message": "希望今天也是美好的一天～！！"
+  },
+  {
+    "MessageGroupId": 100610130,
+    "Message": "那，掰掰囉☆"
+  },
+  {
+    "MessageGroupId": 100610140,
+    "Message": "……櫻子？？？"
+  },
+  {
+    "MessageGroupId": 100610140,
+    "Message": "是本人……嗎？"
+  },
+  {
+    "MessageGroupId": 100610150,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 100610160,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 100610170,
+    "Message": "不好意思，老師。看來似乎有點搞錯了呢"
+  },
+  {
+    "MessageGroupId": 100610170,
+    "Message": "我在網路上搜尋了「讓人容易親近的人」"
+  },
+  {
+    "MessageGroupId": 100610180,
+    "Message": "那個……如果有什麼失禮之處……"
+  },
+  {
+    "MessageGroupId": 100610180,
+    "Message": "我非常抱歉"
+  },
+  {
+    "MessageGroupId": 100610190,
+    "Message": "那麼，再會……"
+  },
+  {
+    "MessageGroupId": 100610200,
+    "Message": "老師，您辛苦了"
+  },
+  {
+    "MessageGroupId": 100610210,
+    "Message": "這是我第一次在分別後聯絡您呢"
+  },
+  {
+    "MessageGroupId": 100610210,
+    "Message": "今天真的非常謝謝您"
+  },
+  {
+    "MessageGroupId": 100610220,
+    "Message": "那個……雖然是個厚顏無恥的請求……如果又發生什麼事的話，再麻煩老師幫忙了"
+  },
+  {
+    "MessageGroupId": 100610230,
+    "Message": "那麼，老師"
+  },
+  {
+    "MessageGroupId": 100610230,
+    "Message": "希望明天也是和平安穩的一天"
+  },
+  {
+    "MessageGroupId": 100610240,
+    "Message": "那麼……啾咪～！"
+  },
+  {
+    "MessageGroupId": 100610250,
+    "Message": "這麼晚打擾您非常抱歉，老師……"
+  },
+  {
+    "MessageGroupId": 100610260,
+    "Message": "能占用您一些時間嗎？"
+  },
+  {
+    "MessageGroupId": 100610270,
+    "Message": "可以是可以，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 100610270,
+    "Message": "發生什麼事了？"
+  },
+  {
+    "MessageGroupId": 100610280,
+    "Message": "雖然不是什麼嚴重的事"
+  },
+  {
+    "MessageGroupId": 100610290,
+    "Message": "但這次……不，一直以來都是這樣"
+  },
+  {
+    "MessageGroupId": 100610300,
+    "Message": "方便的話，能請您單獨過來嗎？"
+  },
+  {
+    "MessageGroupId": 100610310,
+    "Message": "那個，該怎麼說才好呢……"
+  },
+  {
+    "MessageGroupId": 100610310,
+    "Message": "有些話，我想與您單獨討論……"
+  },
+  {
+    "MessageGroupId": 100610320,
+    "Message": "那，那個……果然"
+  },
+  {
+    "MessageGroupId": 100610330,
+    "Message": "我還是很擔心，會不會太晚找您出來"
+  },
+  {
+    "MessageGroupId": 100610330,
+    "Message": "既然是我有事找老師商量，應該提供休息的地方給老師才對"
+  },
+  {
+    "MessageGroupId": 100610340,
+    "Message": "非常抱歉……"
+  },
+  {
+    "MessageGroupId": 100610350,
+    "Message": "下次開始我會這麼做的"
+  },
+  {
+    "MessageGroupId": 100610350,
+    "Message": "那麼……希望您能永遠平安"
+  },
+  {
+    "MessageGroupId": 100610360,
+    "Message": "老師，您好"
+  },
+  {
+    "MessageGroupId": 100610370,
+    "Message": "如果您不介意的話"
+  },
+  {
+    "MessageGroupId": 100610370,
+    "Message": "能請問老師放假時都在做些什麼嗎？"
+  },
+  {
+    "MessageGroupId": 100610380,
+    "Message": "這倒是沒問題，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 100610380,
+    "Message": "做各種事吧……"
+  },
+  {
+    "MessageGroupId": 100610390,
+    "Message": "那個……其實，最近我也被問了相同的問題"
+  },
+  {
+    "MessageGroupId": 100610400,
+    "Message": "只是……"
+  },
+  {
+    "MessageGroupId": 100610410,
+    "Message": "我不知道該如何回答"
+  },
+  {
+    "MessageGroupId": 100610420,
+    "Message": "只好糊弄過去"
+  },
+  {
+    "MessageGroupId": 100610430,
+    "Message": "老師……那個"
+  },
+  {
+    "MessageGroupId": 100610440,
+    "Message": "今天真的非常抱歉"
+  },
+  {
+    "MessageGroupId": 100610450,
+    "Message": "但是，多虧老師才讓我能順利解開煩惱"
+  },
+  {
+    "MessageGroupId": 100610450,
+    "Message": "我想向您致上謝意"
+  },
+  {
+    "MessageGroupId": 100610460,
+    "Message": "那真是太好了"
+  },
+  {
+    "MessageGroupId": 100610460,
+    "Message": "櫻子覺得沒問題那就夠了"
+  },
+  {
+    "MessageGroupId": 100610470,
+    "Message": "謝謝您"
+  },
+  {
+    "MessageGroupId": 100610470,
+    "Message": "願祝福明日也與您同在"
+  },
+  {
+    "MessageGroupId": 100610480,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 100610480,
+    "Message": "也許，有朝一日……"
+  },
+  {
+    "MessageGroupId": 100610480,
+    "Message": "或是近期"
+  },
+  {
+    "MessageGroupId": 100610490,
+    "Message": "可能還會因為其他的事向老師諮詢"
+  },
+  {
+    "MessageGroupId": 100610500,
+    "Message": "到時候……"
+  },
+  {
+    "MessageGroupId": 100610500,
+    "Message": "老師願意撥空的話我會很開心的？"
+  },
+  {
+    "MessageGroupId": 100610510,
+    "Message": "您好，老師"
+  },
+  {
+    "MessageGroupId": 100610520,
+    "Message": "那個……發生了一些問題"
+  },
+  {
+    "MessageGroupId": 100610530,
+    "Message": "問題？"
+  },
+  {
+    "MessageGroupId": 100610530,
+    "Message": "怎麼了？"
+  },
+  {
+    "MessageGroupId": 100610540,
+    "Message": "雖然並非如我所願……"
+  },
+  {
+    "MessageGroupId": 100610550,
+    "Message": "……不過我還是希望"
+  },
+  {
+    "MessageGroupId": 100610550,
+    "Message": "能夠借用老師的力量"
+  },
+  {
+    "MessageGroupId": 100610560,
+    "Message": "非常抱歉……明明占用了老師的時間"
+  },
+  {
+    "MessageGroupId": 100610570,
+    "Message": "問題究竟出在哪裡呢……比想像中還困難呢"
+  },
+  {
+    "MessageGroupId": 100610580,
+    "Message": "那個，抱歉"
+  },
+  {
+    "MessageGroupId": 100610580,
+    "Message": "沒能幫上你的忙"
+  },
+  {
+    "MessageGroupId": 100610590,
+    "Message": "別這麼說，您已經幫了我很大的忙了"
+  },
+  {
+    "MessageGroupId": 100610590,
+    "Message": "至少和之前相比"
+  },
+  {
+    "MessageGroupId": 100610590,
+    "Message": "覺得我是個難相處的人的印象確實減少了"
+  },
+  {
+    "MessageGroupId": 100610600,
+    "Message": "雖然，是個難以捉摸的、"
+  },
+  {
+    "MessageGroupId": 100610610,
+    "Message": "奇怪的人的印象似乎……"
+  },
+  {
+    "MessageGroupId": 100610620,
+    "Message": "已經形成了"
+  },
+  {
+    "MessageGroupId": 100610630,
+    "Message": "也算是向前邁進了一步吧？"
+  },
+  {
+    "MessageGroupId": 100610630,
+    "Message": "一步步解決吧"
+  },
+  {
+    "MessageGroupId": 100610640,
+    "Message": "好的……"
+  },
+  {
+    "MessageGroupId": 100610650,
+    "Message": "真的非常感謝您"
+  },
+  {
+    "MessageGroupId": 100610660,
+    "Message": "今後……也請多多指教"
   }
 ]
