@@ -5106,6 +5106,66 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 2483898787,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]431%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4221985817,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]453%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2105592454,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]474%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1311682690,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]561%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1593180463,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]582%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3320232956,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]604%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3859440293,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]690%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2305881800,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]712%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1264782349,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]734%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2190891648,
+    "Name": "預──備，BANG！+",
+    "Description": "一般攻擊時，有[c][007eff]20%[-][/c]的機率對1名敵人造成攻擊力[c][007eff]820%[-][/c]的傷害(冷卻時間[c][007eff]10秒[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 2464977305,
     "Name": "下一個要吃什麼呢？",
     "Description": "恢復率增加[c][007eff]14%[-][/c]",
@@ -8283,6 +8343,66 @@
     "Key": 3765862684,
     "Name": "執念的猛擊",
     "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]564%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4089506789,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]405%[-][/c]的傷害/\n恢復治癒力的[c][007eff]42.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2496715009,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]425%[-][/c]的傷害/\n恢復治癒力的[c][007eff]44.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1900719820,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]446%[-][/c]的傷害/\n恢復治癒力的[c][007eff]46.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2692326029,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]527%[-][/c]的傷害/\n恢復治癒力的[c][007eff]55.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2760918193,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]547%[-][/c]的傷害/\n恢復治癒力的[c][007eff]57.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1152168578,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]567%[-][/c]的傷害/\n恢復治癒力的[c][007eff]59.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3454443569,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]648%[-][/c]的傷害/\n恢復治癒力的[c][007eff]68.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 67350952,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]669%[-][/c]的傷害/\n恢復治癒力的[c][007eff]70.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 129502043,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]689%[-][/c]的傷害/\n恢復治癒力的[c][007eff]72.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4226237932,
+    "Name": "執念的猛擊+",
+    "Description": "每[c][007eff]15秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]770%[-][/c]的傷害/\n恢復治癒力的[c][007eff]81.1%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
@@ -19866,6 +19986,66 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 1421723046,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]216%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]54.2%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3199884348,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]227%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]56.9%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2905113841,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]238%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]59.6%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2565228762,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]281%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]70.4%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4289289720,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]292%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]73.2%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2820380261,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]303%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]75.9%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3040093080,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]346%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]86.8%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2971790196,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]357%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]89.4%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3147042181,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]368%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]92.1%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 975531872,
+    "Name": "佩洛洛大人的一擊+",
+    "Description": "每[c][007eff]25秒[-][/c]，對3個圓形範圍內的敵人造成攻擊力[c][007eff]412%[-][/c]的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]103%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 1640412155,
     "Name": "收藏家的鬥志",
     "Description": "攻擊力增加[c][007eff]14%[-][/c]",
@@ -20163,6 +20343,66 @@
     "Key": 1563228302,
     "Name": "Throw and Knockout",
     "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]226%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]2秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2884694788,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]295%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.6秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3498454578,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]310%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.6秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 732554542,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]325%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.6秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 611764924,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]354%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.7秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 547773427,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]369%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.7秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4065883447,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]384%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.7秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3507381872,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]413%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.9秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 552295400,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]428%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.9秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4102292741,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]443%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]1.9秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3171017858,
+    "Name": "Throw and Knockout+",
+    "Description": "每[c][007eff]20秒[-][/c]，對1名敵人造成攻擊力[c][007eff]472%[-][/c]的傷害/\n並且，給予昏厥狀態([c][007eff]2秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
@@ -28627,61 +28867,61 @@
   },
   {
     "Key": 1430718530,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]9.1%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4045029242,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]9.5%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4169842285,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]10%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2393787777,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]11.8%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 831332658,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]12.3%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2100799376,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]12.7%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2206094815,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]14.5%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1014902473,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]15%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 3717081653,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]15.5%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1187034768,
-    "Name": "偵查兵的領導",
+    "Name": "先鋒的領導",
     "Description": "我方的攻擊力增加[c][007eff]17.3%[-][/c]",
     "SkillInvokeLocalize": ""
   },
@@ -32768,61 +33008,61 @@
   {
     "Key": 768098198,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1400[—][/c] /\n並且，暴擊傷害增加[c][007eff]14%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1400[-][/c] /\n並且，暴擊傷害增加[c][007eff]14%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1767428809,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1470[—][/c] /\n並且，暴擊傷害增加[c][007eff]14.7%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1470[-][/c] /\n並且，暴擊傷害增加[c][007eff]14.7%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1697351624,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1540[—][/c] /\n並且，暴擊傷害增加[c][007eff]15.4%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1540[-][/c] /\n並且，暴擊傷害增加[c][007eff]15.4%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 3794486080,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1820[—][/c] /\n並且，暴擊傷害增加[c][007eff]18.2%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1820[-][/c] /\n並且，暴擊傷害增加[c][007eff]18.2%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 209017475,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1890[—][/c] /\n並且，暴擊傷害增加[c][007eff]18.9%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1890[-][/c] /\n並且，暴擊傷害增加[c][007eff]18.9%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 363970375,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]1960[—][/c] /\n並且，暴擊傷害增加[c][007eff]19.6%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]1960[-][/c] /\n並且，暴擊傷害增加[c][007eff]19.6%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2359338544,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]2240[—][/c] /\n並且，暴擊傷害增加[c][007eff]22.4%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]2240[-][/c] /\n並且，暴擊傷害增加[c][007eff]22.4%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2857296946,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]2310[—][/c] /\n並且，暴擊傷害增加[c][007eff]23.1%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]2310[-][/c] /\n並且，暴擊傷害增加[c][007eff]23.1%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4199800827,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]2380[—][/c] /\n並且，暴擊傷害增加[c][007eff]23.8%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]2380[-][/c] /\n並且，暴擊傷害增加[c][007eff]23.8%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 3229773001,
     "Name": "訓練的成果+",
-    "Description": "攻擊速度增加[c][007eff]2660[—][/c] /\n並且，暴擊傷害增加[c][007eff]26.6%[—][/c]",
+    "Description": "攻擊速度增加[c][007eff]2660[-][/c] /\n並且，暴擊傷害增加[c][007eff]26.6%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
@@ -40806,6 +41046,4206 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 718794841,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]48.8%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3883704805,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]56.2%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 161703332,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]70.8%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3598611610,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]78.1%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1735628687,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]92.8%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3237801816,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]100%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1178350734,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]114%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3049268436,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]122%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4180260009,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]136%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 596303740,
+    "Name": "新年的御守",
+    "Description": "使自己以外的1名我方神秘特效增加[c][007eff]144%[-][/c]([c][007eff]40秒[-][/c]內)/\n給予「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 997117355,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]20.8%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2615302296,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]21.8%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 320362932,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]22.9%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 548756011,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]27%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3091425770,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]28.1%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2499708114,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]29.1%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4056972509,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]33.3%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4163233472,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]34.3%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1951173671,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]35.4%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4212055451,
+    "Name": "貓的加護",
+    "Description": "每[c][007eff]40秒[-][/c]，使自己以外的1名我方暴擊數值增加[c][007eff]39.5%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 655129483,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 434196635,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2241282126,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3313672928,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2141781747,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1498237679,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1149390385,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4280042964,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 893601350,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2750795102,
+    "Name": "增加的誤會",
+    "Description": "攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3274554510,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1000[-][/c] /\n並且，攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3993631676,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1050[-][/c] /\n並且，攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3342392197,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1100[-][/c] /\n並且，攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4145308742,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1300[-][/c] /\n並且，攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3727879257,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1350[-][/c] /\n並且，攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 289746525,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1400[-][/c] /\n並且，攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 926666539,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1600[-][/c] /\n並且，攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2990725865,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1650[-][/c] /\n並且，攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3218190901,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1700[-][/c] /\n並且，攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2378600594,
+    "Name": "增加的誤會+",
+    "Description": "增益效果持續力增加[c][007eff]1900[-][/c] /\n並且，攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1378092596,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]13.1%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]22%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2398315634,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]13.7%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]23.1%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1080084386,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]14.4%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]24.2%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2084850022,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]17%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]28.6%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1215121520,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]17.7%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]29.7%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2735427268,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]18.3%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]30.8%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3847943941,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]20.9%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]35.2%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3550254877,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]21.6%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]36.3%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 360908288,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]22.2%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]37.4%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2141679923,
+    "Name": "御守的羈絆",
+    "Description": "我方暴擊攻擊成功[c][007eff]200次[-][/c]時，自己的攻擊力增加[c][007eff]24.9%[-][/c]，持有「御守」狀態的我方神秘特效增加[c][007eff]41.8%[-][/c]([c][007eff]50秒[-][/c]內)\n之後，移除我方的所有「御守」狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1484938474,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]21.8%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]182%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1322684685,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]25.1%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]209%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4279941178,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]31.6%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]263%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3407109284,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]34.9%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]291%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2142717821,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]41.5%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]345%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2588635852,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]44.7%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]373%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3060301807,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]51.3%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]427%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2960335155,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]54.6%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]455%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 577072862,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]61.1%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]509%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 630379754,
+    "Name": "有人允許你嗎……！？",
+    "Description": "減少1名敵人[c][007eff]64.4%[-][/c]的暴擊抵抗力與暴擊傷害抵抗率([c][007eff]50秒[-][/c]內)\n並且，造成攻擊力[c][007eff]536%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1493609630,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]16.2%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1352790979,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]17%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2370013521,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]17.8%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1959614316,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]21.1%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2073951469,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]21.9%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2035066117,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]22.7%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3084164495,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]26%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3576438132,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]26.8%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2397515436,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]27.6%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1775345983,
+    "Name": "確實打招呼",
+    "Description": "每[c][007eff]30秒[-][/c]，減少1名敵人[c][007eff]30.8%[-][/c]的暴擊傷害抵抗率([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 829748711,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2642697918,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4289736022,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1805383368,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3311880357,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2424917299,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2738193728,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3357687274,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1399537947,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2995200760,
+    "Name": "不可原諒不可原諒",
+    "Description": "攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 796016803,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1000[-][/c] /\n並且，攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2902620967,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1050[-][/c] /\n並且，攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 137105662,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1100[-][/c] /\n並且，攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2667415946,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1300[-][/c] /\n並且，攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 206317497,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1350[-][/c] /\n並且，攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2638553867,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1400[-][/c] /\n並且，攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1015517266,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1600[-][/c] /\n並且，攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 293385485,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1650[-][/c] /\n並且，攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1964756332,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1700[-][/c] /\n並且，攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 329245250,
+    "Name": "不可原諒不可原諒+",
+    "Description": "減益效果持續力增加[c][007eff]1900[-][/c] /\n並且，攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3386634783,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]10.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1387163849,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1566629683,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4170874654,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]13.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1675776391,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]14.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3626335354,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]14.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2058427522,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]17%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2017275524,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]17.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 671843532,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]18.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2274978892,
+    "Name": "懷抱真誠的心",
+    "Description": "我方的COST恢復力增加[c][007eff]20.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3652248387,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]745%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3692875919,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]856%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1312243792,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1080%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 447269877,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1192%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1745232901,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1415%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2317442504,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1527%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 400293189,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1751%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4066451855,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1862%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1420695751,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]2086%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3555063156,
+    "Name": "身為粉絲",
+    "Description": "對1名敵人造成攻擊力[c][007eff]2198%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2541362591,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]27.4%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3506071299,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]28.6%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4176170093,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]29.7%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3830794354,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]32%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2804196134,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]33.3%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3329867877,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]34.5%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2199367134,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]36.2%[-][/c]([c][007eff]35秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4244717544,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]37.5%[-][/c]([c][007eff]35秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3628505250,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]38.8%[-][/c]([c][007eff]35秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 617467396,
+    "Name": "精神統一",
+    "Description": "每[c][007eff]50秒[-][/c]獲得「明鏡止水」狀態，攻擊力增加[c][007eff]39.7%[-][/c]([c][007eff]40秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1579011961,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 625724788,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1758387653,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 668095988,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3070802776,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3142313196,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2363273948,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2765069096,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3663659003,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 361407754,
+    "Name": "始終不變的熱情",
+    "Description": "暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 715278530,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]293[-][/c]\n並且，暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 250861682,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]308[-][/c]\n並且，暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1060906351,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]323[-][/c]\n並且，暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 898479127,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]381[-][/c]\n並且，暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3991165029,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]396[-][/c]\n並且，暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1991275812,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]410[-][/c]\n並且，暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 244145998,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]469[-][/c]\n並且，暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 636898918,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]484[-][/c]\n並且，暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1389157829,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]498[-][/c]\n並且，暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1439633976,
+    "Name": "始終不變的熱情+",
+    "Description": "攻擊力增加[c][007eff]557[-][/c]\n並且，暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1088278602,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]5.5%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3815779602,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]5.8%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 299492749,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]6.1%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3623478866,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]7.1%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2275861483,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]7.4%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2314897587,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]7.7%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1076168569,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]8.8%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 16524285,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]9.1%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3898089978,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]9.4%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3509324523,
+    "Name": "寧靜的餘裕",
+    "Description": "在「明鏡止水」狀態下攻擊時，造成攻擊力[c][007eff]10.4%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 62693273,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]594%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3247472986,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]683%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3661968913,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]861%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 663735500,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]950%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2131188873,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1128%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 432464029,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1217%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3305997362,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1396%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1192462939,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1485%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2856808556,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1663%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1484684259,
+    "Name": "愛麗絲，打掃！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1752%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 304708669,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]21.8%[-][/c]，攻擊力增加[c][007eff]18.3%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1734030437,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]22.9%[-][/c]，攻擊力增加[c][007eff]19.2%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 24553518,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]24%[-][/c]，攻擊力增加[c][007eff]20.1%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2154301716,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]27%[-][/c]，攻擊力增加[c][007eff]24.9%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3789884791,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]28.1%[-][/c]，攻擊力增加[c][007eff]25.8%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 193524442,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]29.2%[-][/c]，攻擊力增加[c][007eff]26.7%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2911298207,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]34.9%[-][/c]，攻擊力增加[c][007eff]29.3%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 745105203,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]36%[-][/c]，攻擊力增加[c][007eff]30.2%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2229803263,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]37%[-][/c]，攻擊力增加[c][007eff]31.1%[-][/c] ([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 484261689,
+    "Name": "細心的照料",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，神秘特效增加[c][007eff]38.1%[-][/c]，攻擊力增加[c][007eff]32%[-][/c] ([c][007eff]40秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 988982085,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3959843409,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 905036630,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3324338007,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2676789736,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3950521267,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 468803873,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3977074693,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3662395239,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2953594983,
+    "Name": "這是職業加成！",
+    "Description": "暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2379333909,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]477[-][/c]\n並且，暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1359015802,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]501[-][/c]\n並且，暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3513550479,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]525[-][/c]\n並且，暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1080473614,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]620[-][/c]\n並且，暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1796283404,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]644[-][/c]\n並且，暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2294801780,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]667[-][/c]\n並且，暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 559282397,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]763[-][/c]\n並且，暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2588017992,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]787[-][/c]\n並且，暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3969403151,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]810[-][/c]\n並且，暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1875928921,
+    "Name": "這是職業加成！+",
+    "Description": "攻擊力增加[c][007eff]906[-][/c]\n並且，暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 206587372,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]15.8%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1109517937,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]16.6%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2600989273,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]17.4%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3666152730,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]20.6%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1903804969,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]21.4%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3946203358,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]22.2%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1000197346,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]25.3%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2520399595,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]26.1%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3745550673,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]26.9%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1087493661,
+    "Name": "職業特性：女僕勇者！",
+    "Description": "一般攻擊變更為攻擊1名敵人/\n一般攻擊時，造成攻擊力[c][007eff]30.1%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1414685365,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]550%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1063727311,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]632%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 904181039,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]798%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2727861675,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]880%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3141560898,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1045%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3067304096,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1128%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 443622151,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1293%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2400364689,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1375%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3151761597,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1541%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1903540117,
+    "Name": "特殊武裝：Arm-Gear",
+    "Description": "對1名敵人造成攻擊力[c][007eff]1623%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2464876674,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]311%[-][/c]的傷害/\n並且，減少目標[c][007eff]19.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3808140512,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]326%[-][/c]的傷害/\n並且，減少目標[c][007eff]19.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 877412155,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]342%[-][/c]的傷害/\n並且，減少目標[c][007eff]19.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4166932338,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]404%[-][/c]的傷害/\n並且，減少目標[c][007eff]21.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3173012176,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]420%[-][/c]的傷害/\n並且，減少目標[c][007eff]21.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2730767885,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]435%[-][/c]的傷害/\n並且，減少目標[c][007eff]21.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 790652073,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]498%[-][/c]的傷害/\n並且，減少目標[c][007eff]23.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1432503658,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]513%[-][/c]的傷害/\n並且，減少目標[c][007eff]23.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3461155861,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]529%[-][/c]的傷害/\n並且，減少目標[c][007eff]23.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2130541335,
+    "Name": "特務的秘密道具",
+    "Description": "每[c][007eff]40秒[-][/c]對1名敵人造成攻擊力[c][007eff]591%[-][/c]的傷害/\n並且，減少目標[c][007eff]25.9%[-][/c]的爆擊傷害抵抗率([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1560425495,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3373650589,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1138074635,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3165390533,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 392673578,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 677383928,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 261878736,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 705229196,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3042611970,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2754405852,
+    "Name": "熟練的本領",
+    "Description": "攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 40170075,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1400[-][/c]/\n並且，攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 451717123,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1470[-][/c]/\n並且，攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3456779891,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1540[-][/c]/\n並且，攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2736601670,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1820[-][/c]/\n並且，攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3835257695,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1890[-][/c]/\n並且，攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1320708833,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]1960[-][/c]/\n並且，攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4048574523,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]2240[-][/c]/\n並且，攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1412345762,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]2310[-][/c]/\n並且，攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2300921703,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]2380[-][/c]/\n並且，攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 968044713,
+    "Name": "熟練的本領+",
+    "Description": "攻擊速度增加[c][007eff]2660[-][/c]/\n並且，攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2189620963,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]18.6%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2454487875,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]19.6%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 564488610,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]20.5%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2808021099,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]24.2%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1765535733,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]25.2%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1275484440,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]26.1%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2805206301,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]29.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3587188959,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]30.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3788660471,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]31.7%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4283541762,
+    "Name": "武裝的使用",
+    "Description": "使用EX技能時，爆炸特效增加[c][007eff]35.4%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 868291878,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]682%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]136%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2214447447,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]784%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]157%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 237360056,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]989%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]197%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 319199914,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1091%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]218%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 37998052,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1296%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]259%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2874414242,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1398%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]279%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 907356996,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1603%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]320%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1045790116,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1706%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]341%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2660506878,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1910%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]382%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2972512175,
+    "Name": "潛入Start！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]2013%[-][/c]的傷害，給予周圍圓環範圍相同的傷害/\n但是，重複受到的傷害只套用攻擊力[c][007eff]402%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4181044379,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]117%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1273525244,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]123%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3223345837,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]129%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2969885867,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]153%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3721009504,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]159%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2598011892,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]164%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2506629733,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]188%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 685153859,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]194%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3817143760,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]200%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1672759301,
+    "Name": "High Score Attack",
+    "Description": "每[c][007eff]30秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]223%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 499723628,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 411189251,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1708963134,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3848475990,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2611358789,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1609082808,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4041050217,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2183901186,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4231495679,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1254121925,
+    "Name": "正確的Coding",
+    "Description": "暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1239532771,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]100[-][/c]/\n並且，暴擊傷害增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2379181985,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]105[-][/c]/\n並且，暴擊傷害增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1926254144,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]110[-][/c]/\n並且，暴擊傷害增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1374597390,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]130[-][/c]/\n並且，暴擊傷害增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2018668616,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]135[-][/c]/\n並且，暴擊傷害增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3080304312,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]140[-][/c]/\n並且，暴擊傷害增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 884706386,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]160[-][/c]/\n並且，暴擊傷害增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4270273725,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]165[-][/c]/\n並且，暴擊傷害增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1160749854,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]170[-][/c]/\n並且，暴擊傷害增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1329835244,
+    "Name": "正確的Coding+",
+    "Description": "暴擊數值增加[c][007eff]190[-][/c]/\n並且，暴擊傷害增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1067597324,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]9.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2215992056,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]9.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3211915833,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]10%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 638972793,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]11.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2606439982,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]12.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3870834350,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]12.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2944277679,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1969907287,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]15%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3162128756,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]15.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1219384180,
+    "Name": "遊戲開發部的羈絆",
+    "Description": "我方的攻擊力增加[c][007eff]17.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 643080721,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]372%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 644188378,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]428%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2611801528,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]539%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2839380017,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]595%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2223727473,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]707%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 277926039,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]763%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1865824106,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]874%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2743503318,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]930%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2490399714,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]1042%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 764124764,
+    "Name": "請收下挑戰書！",
+    "Description": "對扇形範圍內的敵人造成攻擊力[c][007eff]1097%[-][/c]的傷害/\n並且，解除自身的[c][007eff]1個[-][/c]減益效果",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2790140650,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]22.7%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1108167405,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]23.8%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3821585341,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]24.9%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 52413460,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]29.5%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2360818425,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]30.6%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1435068142,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]31.7%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4143911682,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]36.3%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3844083242,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]37.4%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 531084102,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]38.6%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2132690804,
+    "Name": "勝利的姿勢！",
+    "Description": "每[c][007eff]50秒[-][/c]，持續恢復治癒力的[c][007eff]43.1%[-][/c]([c][007eff]30秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2386689705,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]11.2%[-][/c]、最大體力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 914821772,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]11.4%[-][/c]、最大體力增加[c][007eff]11.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4084909138,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]11.7%[-][/c]、最大體力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 283903283,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]12.8%[-][/c]、最大體力增加[c][007eff]12.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3267389607,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]13.1%[-][/c]、最大體力增加[c][007eff]13.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4242110101,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]13.4%[-][/c]、最大體力增加[c][007eff]13.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1027504785,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]14.5%[-][/c]、最大體力增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2568615559,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]14.8%[-][/c]、最大體力增加[c][007eff]14.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 787022324,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]15.1%[-][/c]、最大體力增加[c][007eff]15.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1165238660,
+    "Name": "一整天也沒問題！",
+    "Description": "攻擊力增加[c][007eff]16.2%[-][/c]、最大體力增加[c][007eff]16.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4190773725,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]165[-][/c]、最大體力增加[c][007eff]3485[-][/c]/\n並且，攻擊力增加[c][007eff]11.2%[-][/c]、最大體力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1877825118,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]169[-][/c]、最大體力增加[c][007eff]3572[-][/c]/\n並且，攻擊力增加[c][007eff]11.4%[-][/c]、最大體力增加[c][007eff]11.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1449637741,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]173[-][/c]、最大體力增加[c][007eff]3659[-][/c]/\n並且，攻擊力增加[c][007eff]11.7%[-][/c]、最大體力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1299876543,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]189[-][/c]、最大體力增加[c][007eff]4007[-][/c]/\n並且，攻擊力增加[c][007eff]12.8%[-][/c]、最大體力增加[c][007eff]12.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 540910395,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]193[-][/c]、最大體力增加[c][007eff]4094[-][/c]/\n並且，攻擊力增加[c][007eff]13.1%[-][/c]、最大體力增加[c][007eff]13.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4075105687,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]197[-][/c]、最大體力增加[c][007eff]4181[-][/c]/\n並且，攻擊力增加[c][007eff]13.4%[-][/c]、最大體力增加[c][007eff]13.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2692410558,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]214[-][/c]、最大體力增加[c][007eff]4530[-][/c]/\n並且，攻擊力增加[c][007eff]14.5%[-][/c]、最大體力增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3114342535,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]218[-][/c]、最大體力增加[c][007eff]4617[-][/c]/\n並且，攻擊力增加[c][007eff]14.8%[-][/c]、最大體力增加[c][007eff]14.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4271793520,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]222[-][/c]、最大體力增加[c][007eff]4704[-][/c]/\n並且，攻擊力增加[c][007eff]15.1%[-][/c]、最大體力增加[c][007eff]15.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4228999576,
+    "Name": "一整天也沒問題！+",
+    "Description": "攻擊力增加[c][007eff]239[-][/c]、最大體力增加[c][007eff]5053[-][/c]/\n並且，攻擊力增加[c][007eff]16.2%[-][/c]、最大體力增加[c][007eff]16.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1720957018,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]6%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2917111497,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]6.3%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 589641561,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]6.6%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1244193286,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]7.8%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2388147601,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]8.1%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2792911081,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]8.4%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2286857602,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]9.6%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1709009784,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]9.9%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1009197242,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]10.2%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 151247533,
+    "Name": "宇沢澪紗的存在感",
+    "Description": "使用EX技能攻擊時，減少對象[c][007eff]11.4%[-][/c]的防禦力([c][007eff]25秒[-][/c]內)\n並且，給予挑釁狀態([c][007eff]1秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2104731886,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]117%[-][/c]\n第二、第三個目標：回復治癒力的[c][007eff]82.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2916388702,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]135%[-][/c]\n第二、第三個目標：回復治癒力的[c][007eff]94.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1439786187,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]170%[-][/c]\n第二、第三個目標：回復治癒力的[c][007eff]119%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1411519585,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]187%[-][/c]\n第二、第三個目標：回復治癒力的[c][007eff]131%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1738200927,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]223%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]156%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1346269854,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]240%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]168%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3475634370,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]276%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]193%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 149450265,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]293%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]205%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4250812777,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]328%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]230%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1675651420,
+    "Name": "天下第一味！",
+    "Description": "給予自己以外的我方1人炒飯進行回復，若目標周圍有其他未受過回復的我方，則炒飯會跳向該方向進行回復(最多4次)\n第一、第四個目標：回復治癒力的[c][007eff]346%[-][/c]，解除[c][007eff]1個[-][/c]減益效果\n第二、第三個目標：回復治癒力的[c][007eff]242%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 27610246,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]226%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1674203431,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]238%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3852351447,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]249%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1544083684,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]294%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2626287238,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]306%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2136436172,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]317%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1674221168,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]362%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3417826816,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]374%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3980355593,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]385%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1403359414,
+    "Name": "拒絕奧客！",
+    "Description": "每[c][007eff]30秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]430%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 989085197,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 174046469,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 562747975,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]12.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2048017745,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4148618383,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]15.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3609140724,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]15.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2407334134,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]17.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 653137826,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]18.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2512851935,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]19%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4038978680,
+    "Name": "商會長的矜持",
+    "Description": "一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]21.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2706309667,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]889[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1257843676,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]933[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2256965985,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]978[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]12.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 249788189,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1155[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4089374197,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1200[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]15.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4051081587,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1244[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]15.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1040670578,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1422[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]17.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3427837537,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1466[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]18.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1724490606,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1511[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]19%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 850573623,
+    "Name": "商會長的矜持+",
+    "Description": "治癒力增加[c][007eff]1688[-][/c]/\n並且，一般攻擊射程增加[c][007eff]100[-][/c]，治癒力增加[c][007eff]21.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1665435103,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]1.7%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4234914994,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]1.8%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3624547581,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]1.9%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3427953721,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.2%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4186802833,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.3%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4213410279,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.4%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3618601782,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.7%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2612175300,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.8%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1379645628,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]2.9%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1544396453,
+    "Name": "留在記憶中的味道",
+    "Description": "對受到EX技能恢復的我方，持續恢復治癒力的[c][007eff]3.3%[-][/c]([c][007eff]60秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 820898386,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]312%[-][/c]的傷害/\n並且，減少目標[c][007eff]15.9%[-][/c]的攻擊力([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2898368959,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]359%[-][/c]的傷害/\n並且，減少目標[c][007eff]18.3%[-][/c]的攻擊力([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 124885141,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]453%[-][/c]的傷害/\n並且，減少目標[c][007eff]23%[-][/c]的攻擊力、迴避數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2337577658,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]499%[-][/c]的傷害/\n並且，減少目標[c][007eff]25.4%[-][/c]的攻擊力、迴避數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1316930168,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]593%[-][/c]的傷害/\n並且，減少目標[c][007eff]30.2%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4025452134,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]640%[-][/c]的傷害/\n並且，減少目標[c][007eff]32.6%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 854423147,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]734%[-][/c]的傷害/\n並且，減少目標[c][007eff]37.3%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2435503365,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]781%[-][/c]的傷害/\n並且，減少目標[c][007eff]39.7%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1044708196,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]874%[-][/c]的傷害/\n並且，減少目標[c][007eff]44.5%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 820661827,
+    "Name": "龍爭虎鬥",
+    "Description": "對1名敵人造成攻擊力[c][007eff]921%[-][/c]的傷害/\n並且，減少目標[c][007eff]46.9%[-][/c]的攻擊力、迴避數值、命中數值([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1985142670,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]222%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]445%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]668%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]891%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3183344564,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]233%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]467%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]701%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]935%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1037150932,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]245%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]490%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]735%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]980%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1408243588,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]289%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]579%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]868%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1158%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1435566234,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]300%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]601%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]902%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1203%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1032614768,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]311%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]623%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]935%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1247%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3056407204,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]356%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]712%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]1069%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1425%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1085586710,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]367%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]735%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]1102%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1470%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 760815949,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]378%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]757%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]1136%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1515%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3914128834,
+    "Name": "勢如破竹",
+    "Description": "每[c][007eff]8次[-][/c]一般攻擊，技能發動後立刻重新裝填/\n對1名敵人造成攻擊力[c][007eff]423%[-][/c]的傷害/\n依目標具有的減益數量造成追加傷害\n3個減益：造成攻擊力[c][007eff]846%[-][/c]的傷害\n4個減益：造成攻擊力[c][007eff]1269%[-][/c]的傷害\n5個以上減益：造成攻擊力[c][007eff]1693%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3146576031,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 177898048,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3358137477,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4031020212,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2595813940,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3104995093,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1308718720,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1548038442,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2098795122,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1165769782,
+    "Name": "一志不退",
+    "Description": "迴避數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2213509011,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]160[-][/c]/\n並且，迴避數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2982247540,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]168[-][/c]/\n並且，迴避數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3421300848,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]176[-][/c]/\n並且，迴避數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2212998915,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]208[-][/c]/\n並且，迴避數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 469196706,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]216[-][/c]/\n並且，迴避數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1877609561,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]224[-][/c]/\n並且，迴避數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1440376655,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]256[-][/c]/\n並且，迴避數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1918331503,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]264[-][/c]/\n並且，迴避數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1305611301,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]272[-][/c]/\n並且，迴避數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4183951879,
+    "Name": "一志不退+",
+    "Description": "命中數值增加[c][007eff]304[-][/c]/\n並且，迴避數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2981253784,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]18.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 979814880,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]19.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1499055163,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]20.7%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1818128048,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]24.5%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1348599722,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]25.4%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1439026415,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]26.4%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1268095270,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]30.2%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2837489517,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]31.1%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2415692480,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]32%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 626927249,
+    "Name": "騎虎之勢",
+    "Description": "發動EX技能時，攻擊力、迴避數值、命中數值增加[c][007eff]35.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3615741966,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]462%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1629766202,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]531%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1220591898,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]670%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1646214238,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]739%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2373105224,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]878%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3997717051,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]947%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 893957185,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1086%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3333493987,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1155%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1659246048,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1293%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 740379503,
+    "Name": "奮起吧！",
+    "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]1363%[-][/c]的傷害/\n最多可額外消耗3COST使用，每1COST增加35%的傷害/\n(COST增減技能效果以基本COST為基準計算)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2890992729,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]77.8%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 724918933,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]81.7%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1077186021,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]85.6%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2581799176,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]101%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 642099613,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]105%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2144990489,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]108%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 766103159,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]124%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2641250072,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]128%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4063606194,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]132%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1777066123,
+    "Name": "合而為一的意志",
+    "Description": "每[c][007eff]25秒[-][/c]，對圓形範圍內的敵人造成攻擊力[c][007eff]147%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2170449344,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 680537761,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1240224051,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2147478231,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 137511781,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2674705834,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 805391342,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1590028501,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3983297682,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3401960387,
+    "Name": "手牽著手",
+    "Description": "命中數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 849214695,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]363[-][/c]/\n並且，命中數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2304143735,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]381[-][/c]/\n並且，命中數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 788170116,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]399[-][/c]/\n並且，命中數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4119225712,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]472[-][/c]/\n並且，命中數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 773194836,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]490[-][/c]/\n並且，命中數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1349401712,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]508[-][/c]/\n並且，命中數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2911905302,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]580[-][/c]/\n並且，命中數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3392513582,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]598[-][/c]/\n並且，命中數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1391054000,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]617[-][/c]/\n並且，命中數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1805969776,
+    "Name": "手牽著手+",
+    "Description": "攻擊力增加[c][007eff]689[-][/c]/\n並且，命中數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1670363918,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]15.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2304102646,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]16.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 943598795,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]17.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3543420183,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]20.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3704450775,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]21.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1315039209,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]22.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1603262667,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]25.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3071589151,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]26.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2911566987,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]27%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3456870722,
+    "Name": "勞動的成果",
+    "Description": "我方的爆炸特效增加[c][007eff]30.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2754311417,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]10.7%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]256%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2569725318,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]12.3%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]295%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3039871554,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]15.5%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]372%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 693011751,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]17.1%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]410%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2165321658,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]20.3%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]487%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1999454009,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]21.9%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]526%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 6867576,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]25.1%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]603%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2635701429,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]26.7%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]641%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3533592821,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]29.9%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]718%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 391058993,
+    "Name": "啟動飛行無人機",
+    "Description": "使1名敵人的暴擊傷害抵抗率減少[c][007eff]31.5%[-][/c]([c][007eff]50秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]757%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1307273737,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]18.4%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 352404488,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]19.3%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 788961490,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]20.3%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3998536514,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]23.9%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3790852314,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]24.9%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3054348352,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]25.8%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 111373054,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]29.5%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4112225441,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]30.4%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1746266582,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]31.3%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2604850510,
+    "Name": "紫外線對策",
+    "Description": "每[c][007eff]30秒[-][/c]，迴避數值增加[c][007eff]35%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 180583511,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 364152911,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2069013748,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3489933076,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 122993742,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4076544152,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4158723333,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 48572833,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2543029397,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 448501047,
+    "Name": "堅持不懈的訓練",
+    "Description": "最大體力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2306239625,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]160[-][/c]/\n並且，最大體力增加 [c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 832999975,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]168[-][/c]/\n並且，最大體力增加 [c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1263289779,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]176[-][/c]/\n並且，最大體力增加 [c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1772634581,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]208[-][/c]/\n並且，最大體力增加 [c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3948029269,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]216[-][/c]/\n並且，最大體力增加 [c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2712169371,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]224[-][/c]/\n並且，最大體力增加 [c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2059967997,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]256[-][/c]/\n並且，最大體力增加 [c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1150977080,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]264[-][/c]/\n並且，最大體力增加 [c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1497546664,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]272[-][/c]/\n並且，最大體力增加 [c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3131753440,
+    "Name": "堅持不懈的訓練+",
+    "Description": "迴避數值增加[c][007eff]304[-][/c]/\n並且，最大體力增加 [c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1795316257,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]332[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1115491523,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]348[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1466446070,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]365[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4037064463,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]431[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 365145021,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]448[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1038396025,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]464[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2475107033,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]530[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4057759994,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]547[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3580237229,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]564[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2316713790,
+    "Name": "戰術機動",
+    "Description": "成功迴避[c][007eff]50次[-][/c]時，COST恢復力增加[c][007eff]630[-][/c]([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 523176195,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]290%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]10.9%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4143950715,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]334%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]12.6%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 388907551,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]421%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]15.9%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2879003505,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]464%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]17.5%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2923196405,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]552%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]20.8%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4076014121,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]595%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]22.5%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4221501555,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]682%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]25.7%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2840270223,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]726%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]27.4%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3207149754,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]813%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]30.7%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2491006345,
+    "Name": "信號彈，投擲！",
+    "Description": "對1名敵人造成攻擊力[c][007eff]857%[-][/c]的傷害/\n並且，使防禦力、攻擊力、暴擊抵抗力減少[c][007eff]32.3%[-][/c]([c][007eff]50秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3261528579,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]195%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]97.7%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2397516860,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]205%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]102%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1282574646,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]215%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]107%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 204722027,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]254%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]127%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1904575858,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]263%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]131%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2622241262,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]273%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]136%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3240121440,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]312%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]156%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3702070640,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]322%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]161%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3053711675,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]332%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]166%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 971660854,
+    "Name": "援護射擊",
+    "Description": "每[c][007eff]15次[-][/c]一般攻擊，對扇形範圍內的敵人造成攻擊力[c][007eff]371%[-][/c]的傷害/\n對中型敵人造成攻擊力[c][007eff]185%[-][/c]的追加傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2987609360,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2100742561,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2646359566,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2945126603,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2058671812,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3367994499,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3063586036,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 522917182,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2143717151,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2145199644,
+    "Name": "細心的整備",
+    "Description": "命中數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 459160905,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1000[-][/c]/\n並且，命中數值增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3847522850,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1050[-][/c]/\n並且，命中數值增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2937740424,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1100[-][/c]/\n並且，命中數值增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3744249303,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1300[-][/c]/\n並且，命中數值增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3366189778,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1350[-][/c]/\n並且，命中數值增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 620713638,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1400[-][/c]/\n並且，命中數值增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2477387449,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1600[-][/c]/\n並且，命中數值增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4179380504,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1650[-][/c]/\n並且，命中數值增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3631343437,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1700[-][/c]/\n並且，命中數值增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1059120749,
+    "Name": "細心的整備+",
+    "Description": "減益效果持續力增加[c][007eff]1900[-][/c]/\n並且，命中數值增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1532814996,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]16.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4255426887,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]16.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3190354017,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]17.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2947879421,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]20.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3083860198,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]21.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3938970564,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]22.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 961248821,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]25.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3163638113,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]26.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4033485370,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]27.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3305085270,
+    "Name": "同袍之情",
+    "Description": "自身和SPECIAL學生的攻擊力增加[c][007eff]30.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1266876792,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]388%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2247293855,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]446%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2238167701,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]562%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4179548021,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]621%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2408390440,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]737%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4073014204,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]795%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3876453297,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]912%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3393231922,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]970%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1012449882,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]1086%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4180688832,
+    "Name": "海鷗的襲擊",
+    "Description": "對直線範圍內的敵人造成攻擊力[c][007eff]1145%[-][/c]的必定暴擊傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 759386300,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]369%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1056135745,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]388%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3122651974,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]406%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2556417447,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]480%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 920119004,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]499%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3580991376,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]517%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2236693992,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]591%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3880421259,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]610%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 877352495,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]628%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 521466467,
+    "Name": "隱密的一擊",
+    "Description": "每[c][007eff]70秒[-][/c]，對扇形範圍內的敵人造成攻擊力[c][007eff]702%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1192625297,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2544805716,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 477092694,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2447120299,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1656447147,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1083100373,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2688316889,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1464380154,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2969078963,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2633334745,
+    "Name": "水下用複合彈藥",
+    "Description": "攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4250439356,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2000[-][/c]\n並且，攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 229895360,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2100[-][/c]\n並且，攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1933821539,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2200[-][/c]\n並且，攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3631726558,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2600[-][/c]\n並且，攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 497063268,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2700[-][/c]\n並且，攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2888022941,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]2800[-][/c]\n並且，攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1863827147,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]3200[-][/c]\n並且，攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1927482587,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]3300[-][/c]\n並且，攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1672283142,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]3400[-][/c]\n並且，攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2488398790,
+    "Name": "水下用複合彈藥+",
+    "Description": "暴擊傷害增加[c][007eff]3800[-][/c]\n並且，攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3788207384,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]9.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2595784224,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]9.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 662237134,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]10%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2985367303,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]11.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4106349405,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]12.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 828081394,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]12.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2269557921,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]14.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2651039251,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]15%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2760468654,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]15.5%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3099112283,
+    "Name": "狀況觀測報告",
+    "Description": "我方的暴擊傷害增加[c][007eff]17.3%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1856574109,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]18%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]588%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3396930934,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]20.7%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]676%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 454526088,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]26.1%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]852%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 677332495,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]28.8%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]940%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 323781734,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]34.2%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1117%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1694824542,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]36.9%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1205%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2331331837,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]42.3%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1381%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 599898953,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]45%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1470%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1143406779,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]50.5%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1646%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 221506177,
+    "Name": "是條大魚",
+    "Description": "減少1名敵人[c][007eff]53.2%[-][/c]的防禦力([c][007eff]30秒[-][/c]內)/\n並且，造成攻擊力[c][007eff]1734%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2089126907,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]11.5%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4267722240,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]12.1%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3279005772,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]12.7%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1853172787,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]15%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3034188337,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]15.5%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2134738713,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]16.1%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1425074144,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]18.4%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 599016300,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]19%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 362034857,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]19.6%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 447426979,
+    "Name": "「就是這裡」",
+    "Description": "戰鬥開始時，除了自身以外的我方暴擊數值增加[c][007eff]21.9%[-][/c]([c][007eff]60秒[-][/c]內)，技能COST減少[c][007eff]1[-][/c](可使用[c][007eff]1次[-][/c]EX技能)\n(每場戰鬥[c][007eff]1次[-][/c])",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 962989362,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2913027956,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 604417895,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1348828105,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 277833171,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1195132324,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3029309179,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3311199313,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1026153454,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3990928349,
+    "Name": "略顯興奮",
+    "Description": "攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2264204989,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]365[-][/c]/\n並且，攻擊力增加[c][007eff]14%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 100258865,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]384[-][/c]/\n並且，攻擊力增加[c][007eff]14.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3445217783,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]402[-][/c]/\n並且，攻擊力增加[c][007eff]15.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4120587152,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]475[-][/c]/\n並且，攻擊力增加[c][007eff]18.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2171893200,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]493[-][/c]/\n並且，攻擊力增加[c][007eff]18.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1839457148,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]511[-][/c]/\n並且，攻擊力增加[c][007eff]19.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3255422482,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]584[-][/c]/\n並且，攻擊力增加[c][007eff]22.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4293648171,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]602[-][/c]/\n並且，攻擊力增加[c][007eff]23.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3441016370,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]621[-][/c]/\n並且，攻擊力增加[c][007eff]23.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2659197874,
+    "Name": "略顯興奮+",
+    "Description": "攻擊力增加[c][007eff]694[-][/c]/\n並且，攻擊力增加[c][007eff]26.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1159489003,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]10.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3173379134,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]11.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3356750866,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]11.7%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2478315476,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]13.8%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3782570460,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]14.4%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2474703377,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]14.9%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3967000773,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]17%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1813296055,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]17.6%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 490372217,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]18.1%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1882052899,
+    "Name": "經過鍛鍊的肉體",
+    "Description": "我方的COST恢復力增加[c][007eff]20.2%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 0,
     "Name": "",
     "Description": "",
@@ -41112,6 +45552,30 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 3277110404,
+    "Name": "咚哐──！！(白)",
+    "Description": "投擲多枚炸彈攻擊敵人。\n一般炸彈：對圓形範圍內的敵人造成攻擊力[c][007eff]1800%～3000%[-][/c]的傷害(ATG越高，傷害越高)\n冰之炸彈：對圓形範圍內的敵人造成攻擊力[c][007eff]1000%～1800%[-][/c]的傷害(ATG越高，傷害越高)，並且減少目標[c][007eff]80%[-][/c]的移動速度、[c][007eff]40%[-][/c]的攻擊力([c][007eff]40秒[-][/c]內)\n黏性炸彈：對圓形範圍內的敵人造成攻擊力[c][007eff]700%[-][/c]的傷害，並且給予昏厥狀態([c][007eff]4秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2810308302,
+    "Name": "滾啊滾啊──！(白)",
+    "Description": "召喚炸彈，對敵人造成攻擊力[c][007eff]5000%[-][/c]的傷害\n對掩蔽物造成攻擊力[c][007eff]200%[-][/c]的傷害，若掩蔽物未被破壞，則會反彈至白的方向。\n攻擊具移動速度減少效果的敵人時，造成[c][007eff]1000000[-][/c]的追加傷害\n白自己受到攻擊時，受到的傷害量增加[c][007eff]50%[-][/c]([c][007eff]40秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1355072183,
+    "Name": "突擊！！！(黑)",
+    "Description": "對敵人造成攻擊力[c][007eff]500%[-][/c]的傷害\n ATG越高，傷害越高。\n攻擊具移動速度減少的敵人時，造成[007eff]1000000[-][/c]的追加傷害\n黑自己受到反彈攻擊時，受到的傷害量增加[c][007eff]50%[-][/c]([c][007eff]40秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 57373614,
+    "Name": "淡漠症候群(黑)",
+    "Description": "對2名敵人造成攻擊力[c][007eff]100%[-][/c]的傷害\n並且，減少目標[c][007eff]80%[-][/c]的移動速度([c][007eff]40秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 1380952609,
     "Name": "達瑪穌的邀請",
     "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]350%[-][/c]的傷害/\n目標剩餘的體力越低，傷害越高(最多[c][007eff]50%[-][/c])",
@@ -41244,6 +45708,36 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 584144632,
+    "Name": "這群惡棍！膽小鬼！",
+    "Description": "若在搭乘KAITEN FX Mk.0前，各名凱坦澤被給予群控狀態，則受到的傷害量增加[c][007eff]40%[-][/c]([c][007eff]15秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1139796394,
+    "Name": "無限迴轉．SUPER蝦機槍",
+    "Description": "右手(Pink)：對圓形範圍內的敵人造成攻擊力[c][007eff]600%[-][/c]的傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2240987094,
+    "Name": "無限迴轉・ULTRA盤子盾牌",
+    "Description": "左手(Green)：受到的傷害量減少[c][007eff]50%[-][/c]\n根據學生們的攻擊系EX技能，攻擊合計15次後立即解除。",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 4188469729,
+    "Name": "無限迴轉・FINAL鯖魚斬",
+    "Description": "解除全體敵人的護盾效果後，造成攻擊力[c][007eff]400%[-][/c]的無法迴避傷害",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3048309906,
+    "Name": "無限迴轉・MEGA蛋過度充電",
+    "Description": "腳(Yellow)：攻擊力增加[c][007eff]4000[-][/c]([c][007eff]180秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 1183906611,
     "Name": "救救我──！？",
     "Description": "假人",
@@ -41310,6 +45804,18 @@
     "SkillInvokeLocalize": ""
   },
   {
+    "Key": 1685261995,
+    "Name": "白熱眼光",
+    "Description": "對1名敵人及其周圍最近的對象發射白熱眼光，最多轉移2次\n第1個對象：攻擊力[c][007eff]100%[-][/c]的持續傷害([c][007eff]10秒[-][/c]內)，防禦力減少[c][007eff]9999[-][/c]([c][007eff]60秒[-][/c]內)\n技能結束時，若尚有防禦力減少效果，則對扇形範圍內的敵人造成攻擊力[c][007eff]250%[-][/c]的傷害\n第2個對象：攻擊力[c][007eff]20%[-][/c]的持續傷害([c][007eff]10秒[-][/c]內)\n第3個對象：攻擊力[c][007eff]10%[-][/c]的持續傷害([c][007eff]10秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 790343652,
+    "Name": "燃燒佩洛洛吉拉",
+    "Description": "佩洛洛吉拉和巨大佩洛洛小兵的神秘特效增加[c][007eff]50%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
     "Key": 2055767685,
     "Name": "Destruction Type I",
     "Description": "對圓形範圍內的敵人造成攻擊力[c][007eff]150%[-][/c]的傷害",
@@ -41331,6 +45837,12 @@
     "Key": 2189425821,
     "Name": "入侵之柱生成",
     "Description": "召喚入侵之柱。入侵之柱每[c][007eff]15秒[-][/c]會擴大侵蝕範圍。\n進入侵蝕範圍內的敵人會減少[c][007eff]350[-][/c]COST恢復力。進入侵蝕範圍內的防禦砲塔會改為攻擊我方而非霍德。",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2526345928,
+    "Name": "入侵之柱生成",
+    "Description": "召喚入侵之柱。入侵之柱每[c][007eff]15秒[-][/c]會擴大侵蝕範圍。\n進入侵蝕範圍內的敵人會減少[c][007eff]350[-][/c]COST恢復力，暴擊傷害減少[c][007eff]3000[-][/c]。\n進入侵蝕範圍內的防禦砲塔會改為攻擊我方而非霍德。",
     "SkillInvokeLocalize": ""
   },
   {
@@ -41379,6 +45891,12 @@
     "Key": 56761115,
     "Name": "榮光的背面",
     "Description": "霍德和入侵之柱不會受到群控效果影響，但會累積群控狀態的時間量(群控強化力越高，時間越長)\n霍德：[c]累積[007eff]15秒[-][/c]時，受到的傷害量增加[c][007eff]300%[-][/c]([c][007eff]30秒[-][/c]內)、暈眩值量表增加、ATG減少\n入侵之柱：累積[c][007eff]15秒[-][/c]時，受到的傷害量增加[c][007eff]300%[-][/c]([c][007eff]30秒[-][/c]內)、侵蝕範圍減少1個階段 ",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3237044473,
+    "Name": "榮光的背面",
+    "Description": "霍德和入侵之柱不受群控效果影響，但會累積群控狀態的時間量。(群控強化力越高，套用時間越長。)\n霍德：累積[c][007eff]20秒[-][/c]時，受到的傷害量增加[c][007eff]300%[-][/c]([c][007eff]30秒[-][/c]內)，暈眩值量表增加、ATG減少\n入侵之柱：累積[c][007eff]20秒[-][/c]時，受到的傷害量增加[c][007eff]300%[-][/c]([c][007eff]30秒[-][/c]內)，侵蝕範圍減少1階段 ",
     "SkillInvokeLocalize": ""
   },
   {
@@ -41613,6 +46131,78 @@
     "Key": 2129321799,
     "Name": "逃脫程式",
     "Description": "讓指定的對象逃出方舟，安全移動至地上。",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2373347322,
+    "Name": "聖者的呢喃",
+    "Description": "對全體敵人造成攻擊力[c][007eff]500%[-][/c]的必定暴擊傷害，並且減少目標[c][007eff]40%[-][/c]的攻擊力([c][007eff]120秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2682702008,
+    "Name": "嚴肅的悔悟",
+    "Description": "根據自己持有的減益效果數量，套用的效果也不同\n- 減益效果4個以下：解除我方全體的減益效果[c][007eff]1個[-][/c]\n- 減益效果5個以上：減少我方全體[c][007eff]10%[-][/c]的攻擊力([c][007eff]120秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 535653506,
+    "Name": "嚴肅的悔悟",
+    "Description": "根據自己持有的減益效果數量，套用的效果也不同\n- 減益效果5個以下：解除我方全體的減益效果[c][007eff]1個[-][/c]\n- 減益效果6個以上：減少我方全體[c][007eff]10%[-][/c]的攻擊力([c][007eff]120秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1675678518,
+    "Name": "嚴肅的悔悟",
+    "Description": "根據自己持有的減益效果數量，套用的效果也不同\n- 減益效果6個以下：解除我方全體的減益效果[c][007eff]1個[-][/c]\n- 減益效果7個以上：減少我方全體[c][007eff]10%[-][/c]的攻擊力([c][007eff]120秒[-][/c]內)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 746849898,
+    "Name": "葛利果聖歌",
+    "Description": "根據中央管風琴朝向的方向，對我方全體或是敵方全體使用技能，每次使用的技能效果都不同\n- 第1個：黑管朝向的隊伍全體受到的傷害量增加[c][007eff]50%[-][/c]([c][007eff]60秒[-][/c]內)\n- 第2個：白管朝向的隊伍全體解除減益效果[c][007eff]1個[-][/c]\n- 第3個：白管朝向的隊伍全體受到的傷害量增加[c][007eff]50%[-][/c]([c][007eff]60秒[-][/c]內)\n- 第4個：黑管朝向的隊伍全體解除減益效果[c][007eff]1個[-][/c]\n(之後，從第1個技能開始反覆使用)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 204042605,
+    "Name": "萬人的救贖",
+    "Description": "對全體敵人造成攻擊力[c][007eff]999999[-][/c]的傷害(此攻擊會解除不死身狀態)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 469611631,
+    "Name": "聖者僕人的僕人",
+    "Description": "根據葛利果持有的減益效果數量，對自己與聖歌隊套用效果\n- 安全(減益效果[c][007eff]4~5個[-][/c])：受到的傷害量增加[c][007eff]200%[-][/c]\n- 警告(減益效果[c][007eff]2~3個[-][/c]或[c][007eff]6~7個[-][/c])：受到的傷害量增加[c][007eff]100%[-][/c]/攻擊力增加[c][007eff]20%[-][/c]\n- 危險(減益效果[c][007eff]1個以下[-][/c]或[c][007eff]8個以上[-][/c])：攻擊力增加[c][007eff]40%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2910060456,
+    "Name": "聖者僕人的僕人",
+    "Description": "根據葛利果持有的減益效果數量，對自己與聖歌隊套用效果\n- 安全(減益效果[c][007eff]5~6個[-][/c])：受到的傷害量增加 [c][007eff]200%[-][/c]\n- 警告(減益效果[c][007eff]3~4個[-][/c]或[c][007eff]7~8個[-][/c])：受到的傷害量增加[c][007eff]100%[-][/c]/攻擊力增加[c][007eff]20%[-][/c]\n- 危險(減益效果[c][007eff]2個以下[-][/c]或[c][007eff]9個以上[-][/c])：攻擊力增加[c][007eff]40%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2233558267,
+    "Name": "聖者僕人的僕人",
+    "Description": "根據葛利果持有的減益效果數量，對自己與聖歌隊套用效果\n- 安全(減益效果 [c][007eff]6~7個[-][/c])：受到的傷害量增加 [c][007eff]250%[-][/c]\n- 警告(減益效果[c][007eff]4~5個[-][/c]或[c][007eff]8~9個[-][/c])：受到的傷害量增加[c][007eff]100%[-][/c]/攻擊力增加[c][007eff]20%[-][/c]\n- 危險(減益效果[c][007eff]3個以下[-][/c]或[c][007eff]10個以上[-][/c])：攻擊力增加[c][007eff]40%[-][/c]",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 3650862421,
+    "Name": "莊嚴的聖歌隊",
+    "Description": "左側及右側祭壇的聖歌隊登場合唱[c][007eff]40秒[-][/c]結束後，攻擊力增加[c][007eff]100%[-][/c]/\n若聖歌隊的體力不足1%時，則會倒下並處於不可攻擊的狀態",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 2523903484,
+    "Name": "聖哉經",
+    "Description": "若套用了變更葛利果能力值的減益效果，則會將相同的效果複製給聖歌隊。/\n聖歌隊受到的傷害[c][007eff]100%[-][/c]傳達給葛利果。/\n戰鬥開始後，葛利果與聖歌隊減少[c][007eff]30%[-][/c]的攻擊力([c][007eff]30秒[-][/c]內) /\n到演奏的後半部，所有的聖歌隊將移動至葛里果旁邊合唱。\n此時，會逐漸強化敵我雙方。\n- 所有聖歌隊每[c][007eff]10秒[-][/c]攻擊速度增加[c][007eff]10%[-][/c](此效果可重疊)/\n- 包含特殊學生在內的所有敵人，每[c][007eff]10秒[-][/c]COST恢復力增加[c][007eff]300[-][/c](此效果可重疊)",
+    "SkillInvokeLocalize": ""
+  },
+  {
+    "Key": 1789628881,
+    "Name": "苦難的風琴",
+    "Description": "中央管風琴只能用Ex技能攻擊，體力不足1%時旋轉180度。\n旋轉後，恢復全部體力，[c][007eff]30秒[-][/c]內不會受到攻擊",
     "SkillInvokeLocalize": ""
   }
 ]
