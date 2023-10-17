@@ -18881,7 +18881,7 @@
   },
   {
     "MessageGroupId": 100640040,
-    "Message": "所以訪問着姑且還是有的"
+    "Message": "所以「訪問著」姑且還是有的"
   },
   {
     "MessageGroupId": 100640050,
@@ -19222,5 +19222,181 @@
   {
     "MessageGroupId": 200250380,
     "Message": "是！！"
+  },
+  {
+    "MessageGroupId": 100650010,
+    "Message": "您好，老師"
+  },
+  {
+    "MessageGroupId": 100650020,
+    "Message": "哈，哈囉……請問是哪位？"
+  },
+  {
+    "MessageGroupId": 100650030,
+    "Message": "之前沒有私下跟您聯絡過呢"
+  },
+  {
+    "MessageGroupId": 100650040,
+    "Message": "我是百鬼夜行聯合學園的陰陽部副部長，也是在百鬼夜行觀光文化產業宣傳支援部──"
+  },
+  {
+    "MessageGroupId": 100650040,
+    "Message": "擔任戰略領袖的桑上佳穗"
+  },
+  {
+    "MessageGroupId": 100650050,
+    "Message": "雖然有些遲了，還是希望能向夏萊的老師問好"
+  },
+  {
+    "MessageGroupId": 100650060,
+    "Message": "戰略，宣傳……？"
+  },
+  {
+    "MessageGroupId": 100650060,
+    "Message": "請，請多指教……話說這麼突然有什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 100650070,
+    "Message": "是關於先前跟您聯絡過的「那件事」"
+  },
+  {
+    "MessageGroupId": 100650080,
+    "Message": "先前？那件事……？"
+  },
+  {
+    "MessageGroupId": 100650090,
+    "Message": "我想跟您討論相關事宜，請問今天是否方便呢？"
+  },
+  {
+    "MessageGroupId": 100650100,
+    "Message": "啊，嗯。今天可以唷"
+  },
+  {
+    "MessageGroupId": 100650110,
+    "Message": "非常感謝。那麼我馬上就到"
+  },
+  {
+    "MessageGroupId": 100650120,
+    "Message": "這麼快！？"
+  },
+  {
+    "MessageGroupId": 100650130,
+    "Message": "老師，前些日子造成您天大的困擾……"
+  },
+  {
+    "MessageGroupId": 100650140,
+    "Message": "真是非常抱歉"
+  },
+  {
+    "MessageGroupId": 100650150,
+    "Message": "那不算什麼麻煩，別這麼說"
+  },
+  {
+    "MessageGroupId": 100650160,
+    "Message": "承蒙您的體貼……"
+  },
+  {
+    "MessageGroupId": 100650160,
+    "Message": "作為給您添麻煩的賠罪，能請您來百鬼夜行一趟嗎？"
+  },
+  {
+    "MessageGroupId": 100650170,
+    "Message": "嗯，現在過去可以嗎？"
+  },
+  {
+    "MessageGroupId": 100650180,
+    "Message": "好的，那麼我會等待您的到來"
+  },
+  {
+    "MessageGroupId": 100650190,
+    "Message": "我馬上過去哦"
+  },
+  {
+    "MessageGroupId": 100650200,
+    "Message": "我，桑上佳穗，今天會完美地與老師伴遊"
+  },
+  {
+    "MessageGroupId": 100650210,
+    "Message": "伴遊……？"
+  },
+  {
+    "MessageGroupId": 100650220,
+    "Message": "老師，請問您今天是否有空呢？"
+  },
+  {
+    "MessageGroupId": 100650230,
+    "Message": "有時間哦，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 100650240,
+    "Message": "我想履行之前的約定……"
+  },
+  {
+    "MessageGroupId": 100650250,
+    "Message": "就是，那個……"
+  },
+  {
+    "MessageGroupId": 100650250,
+    "Message": "已經做好伴遊的準備了，所以才會聯絡您"
+  },
+  {
+    "MessageGroupId": 100650260,
+    "Message": "所以，老師。如果您願意的話……"
+  },
+  {
+    "MessageGroupId": 100650270,
+    "Message": "嗯，我知道了。現在過去可以嗎？"
+  },
+  {
+    "MessageGroupId": 100650280,
+    "Message": "好的，非常感謝"
+  },
+  {
+    "MessageGroupId": 100650280,
+    "Message": "那麼，我等待著您的到來"
+  },
+  {
+    "MessageGroupId": 100650290,
+    "Message": "呵呵呵"
+  },
+  {
+    "MessageGroupId": 100650300,
+    "Message": "發生什麼好事了嗎？"
+  },
+  {
+    "MessageGroupId": 100650310,
+    "Message": "老師，請您聽我說"
+  },
+  {
+    "MessageGroupId": 100650310,
+    "Message": "總算……終於！"
+  },
+  {
+    "MessageGroupId": 100650320,
+    "Message": "終於……！？"
+  },
+  {
+    "MessageGroupId": 100650330,
+    "Message": "陰陽部特別訂購的百鬼夜行宣傳周邊送到了！"
+  },
+  {
+    "MessageGroupId": 100650340,
+    "Message": "恭喜你！"
+  },
+  {
+    "MessageGroupId": 100650350,
+    "Message": "呵呵，老師要不要也拿一個呢？"
+  },
+  {
+    "MessageGroupId": 100650360,
+    "Message": "當然，如果您不介意的話……"
+  },
+  {
+    "MessageGroupId": 100650370,
+    "Message": "謝謝，我立刻過去！"
+  },
+  {
+    "MessageGroupId": 100650380,
+    "Message": "呵呵，我會等著您的到來"
   }
 ]
