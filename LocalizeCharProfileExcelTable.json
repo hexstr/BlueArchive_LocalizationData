@@ -171,7 +171,7 @@
     "CharacterVoice": "小林ゆう",
     "Hobby": "電影鑑賞、讀書（戀愛小說）",
     "WeaponName": "Blood & Gunpowder",
-    "WeaponDesc": "弦生所使用的二把霰彈槍。\n\n雖然各自有著「Blood」和「Gunpowder」的名字，\n然而旁人幾乎無法區分。",
+    "WeaponDesc": "弦生使用的兩把霰彈槍。\n\n雖然各自有著「Blood」和「Gunpowder」的名字，然而旁人幾乎無法區分。",
     "ProfileIntroduction": "三一綜合學園所屬，實現正義部的部長，同時也是三一的戰略兵器。\n\n生性好戰且暴力，一旦遇到不滿的事物就會先破壞再說。\n幸虧有副部長蓮實而勉強帶領著實現正義部。雖然弦生就像無法控制的狂犬，但在老師面前卻會表現出如同藏不住害羞的少女的一面。",
     "CharacterSSRNew": "來吧，到了狩獵的時間啦～！"
   },
@@ -1255,7 +1255,7 @@
   },
   {
     "CharacterId": 10017,
-    "StatusMessage": "看看我的鬍子吧！！",
+    "StatusMessage": "看看這鬍子吧！！",
     "FullName": "렌카와 체리노",
     "FamilyName": "連河",
     "FamilyNameRuby": "",
@@ -1308,7 +1308,7 @@
     "SchoolYear": "1年級",
     "CharacterAge": "16歲",
     "BirthDay": "8/12",
-    "Birthday": "08月12日",
+    "Birthday": "8月12日",
     "CharHeight": "150cm",
     "DesignerName": "YutokaMizu",
     "IllustratorName": "YutokaMizu",
@@ -1425,7 +1425,7 @@
     "CharacterVoice": "小林ゆう",
     "Hobby": "電影鑑賞、讀書（戀愛小說）",
     "WeaponName": "Blood & Gunpowder",
-    "WeaponDesc": "弦生使用的雙持霰彈槍。\n\n在水中也沒有任何問題，擁有超高火力。",
+    "WeaponDesc": "弦生使用的兩把霰彈槍。\n\n在水中也依然擁有超高火力。",
     "ProfileIntroduction": "三一綜合學園所屬，追求青春的浪漫而降臨於海邊，同時身兼實現正義部的部長及戰略兵器。\n\n想要享受難得的暑假，所以壓抑著自身的暴力氣質……但看來，夏天的海邊無法讓她如願以償。",
     "CharacterSSRNew": ""
   },
@@ -3164,7 +3164,7 @@
     "Hobby": "尋找中",
     "WeaponName": "Secret Time",
     "WeaponDesc": "季專用的突擊步槍。\n\n不只是一般任務，此武器也很適合執行隱密作戰是她的主張。這個主張將會由她親自證明。",
-    "ProfileIntroduction": "對潛入作戰當然要穿兔女郎裝深信不疑的千年科學學園所屬，秘密組織「C&C」的特務。\n\n因為平常擔任特殊職務，很少有機會能接觸潛入任務，因此心情似乎比平常更高昂。對於能夠執行與C&C的前輩們相同的任務顯得相當開心，但本人卻故作鎮定。",
+    "ProfileIntroduction": "對潛入作戰當然要穿兔女郎裝深信不疑的千年科學學園所屬，秘密組織「C&C」的特務。\n\n平常擔任特殊職務而少有機會能接觸潛入任務，因此心情似乎比平常更高昂。對於能夠執行與C&C的前輩們相同的任務顯得相當開心，但本人卻故作鎮定。",
     "CharacterSSRNew": "作戰執行準備完畢。隨時都能出發。\n 這副打扮……？有什麼問題嗎？"
   },
   {

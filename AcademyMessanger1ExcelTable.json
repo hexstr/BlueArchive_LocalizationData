@@ -1856,6 +1856,102 @@
     "Message": "明明沒事的說……"
   },
   {
+    "MessageGroupId": 100010330,
+    "Message": "老師，幫我一點忙"
+  },
+  {
+    "MessageGroupId": 100010340,
+    "Message": "在廢墟附近發現了未知的信號"
+  },
+  {
+    "MessageGroupId": 100010340,
+    "Message": "我想去比較遠的地方調查，順便執行特異現象搜查部的工作"
+  },
+  {
+    "MessageGroupId": 100010350,
+    "Message": "雖然感覺天氣會很熱……"
+  },
+  {
+    "MessageGroupId": 100010350,
+    "Message": "不過這次沒問題，交給我吧"
+  },
+  {
+    "MessageGroupId": 100010360,
+    "Message": "哦哦，感覺你這次很有自信呢"
+  },
+  {
+    "MessageGroupId": 100010360,
+    "Message": "這次有什麼對策嗎？"
+  },
+  {
+    "MessageGroupId": 100010370,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100010370,
+    "Message": "我有為這種時候做準備"
+  },
+  {
+    "MessageGroupId": 100010380,
+    "Message": "期待一下吧"
+  },
+  {
+    "MessageGroupId": 100010390,
+    "Message": "真奇怪……"
+  },
+  {
+    "MessageGroupId": 100010400,
+    "Message": "電風扇明明很涼，老師卻感覺很熱"
+  },
+  {
+    "MessageGroupId": 100010410,
+    "Message": "是功率不夠嗎？還是說，老師也是易熱體質？"
+  },
+  {
+    "MessageGroupId": 100010420,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 100010420,
+    "Message": "也許還是要再貼近一點比較好"
+  },
+  {
+    "MessageGroupId": 100010420,
+    "Message": "如果能全身貼合，結果可能會不一樣"
+  },
+  {
+    "MessageGroupId": 100010430,
+    "Message": "你怎麼看？"
+  },
+  {
+    "MessageGroupId": 100010440,
+    "Message": "我覺得應該是別的問題……"
+  },
+  {
+    "MessageGroupId": 100010440,
+    "Message": "不過即便如此，這也是個不錯的經驗"
+  },
+  {
+    "MessageGroupId": 100010450,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 100010460,
+    "Message": "那是什麼意思？"
+  },
+  {
+    "MessageGroupId": 100010470,
+    "Message": "唔嗯……"
+  },
+  {
+    "MessageGroupId": 100010470,
+    "Message": "總之，之後我會考慮其他對策的"
+  },
+  {
+    "MessageGroupId": 100010480,
+    "Message": "下次見囉，老師"
+  },
+  {
     "MessageGroupId": 100020010,
     "Message": "今天也會繼續美食的探索……本來是這麼計畫的"
   },
@@ -3146,6 +3242,42 @@
   {
     "MessageGroupId": 100090150,
     "Message": "啊咧，是嗎？"
+  },
+  {
+    "MessageGroupId": 100090160,
+    "Message": "吶，老師！"
+  },
+  {
+    "MessageGroupId": 100090170,
+    "Message": "有個東西想讓老師嚐嚐……"
+  },
+  {
+    "MessageGroupId": 100090170,
+    "Message": "不對，有個東西想讓老師看看！"
+  },
+  {
+    "MessageGroupId": 100090180,
+    "Message": "想讓我看的東西？"
+  },
+  {
+    "MessageGroupId": 100090190,
+    "Message": "嗯！"
+  },
+  {
+    "MessageGroupId": 100090190,
+    "Message": "所以老師，可以請你過來一趟嗎？"
+  },
+  {
+    "MessageGroupId": 100090200,
+    "Message": "知道了，我會去的哦"
+  },
+  {
+    "MessageGroupId": 100090210,
+    "Message": "好耶～！"
+  },
+  {
+    "MessageGroupId": 100090210,
+    "Message": "那我等你喔！"
   },
   {
     "MessageGroupId": 100100010,
