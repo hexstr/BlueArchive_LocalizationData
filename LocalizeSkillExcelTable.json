@@ -36008,61 +36008,61 @@
   {
     "Key": 4048484030,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]200[-][/c]/\n另外，治癒力增加[c][007eff]14%[-][/c]",
+    "Description": "防禦力增加[c][007eff]200[-][/c]/\n並且，治癒力增加[c][007eff]14%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2611834650,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]210[-][/c]/\n另外，治癒力增加[c][007eff]14.7%[-][/c]",
+    "Description": "防禦力增加[c][007eff]210[-][/c]/\n並且，治癒力增加[c][007eff]14.7%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1257411474,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]220[-][/c]/\n另外，治癒力增加[c][007eff]15.4%[-][/c]",
+    "Description": "防禦力增加[c][007eff]220[-][/c]/\n並且，治癒力增加[c][007eff]15.4%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4116020230,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]260[-][/c]/\n另外，治癒力增加[c][007eff]18.2%[-][/c]",
+    "Description": "防禦力增加[c][007eff]260[-][/c]/\n並且，治癒力增加[c][007eff]18.2%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1012112587,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]270[-][/c]/\n另外，治癒力增加[c][007eff]18.9%[-][/c]",
+    "Description": "防禦力增加[c][007eff]270[-][/c]/\n並且，治癒力增加[c][007eff]18.9%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1733494021,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]280[-][/c]/\n另外，治癒力增加[c][007eff]19.6%[-][/c]",
+    "Description": "防禦力增加[c][007eff]280[-][/c]/\n並且，治癒力增加[c][007eff]19.6%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2047647570,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]320[-][/c]/\n另外，治癒力增加[c][007eff]22.4%[-][/c]",
+    "Description": "防禦力增加[c][007eff]320[-][/c]/\n並且，治癒力增加[c][007eff]22.4%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4264284019,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]330[-][/c]/\n另外，治癒力增加[c][007eff]23.1%[-][/c]",
+    "Description": "防禦力增加[c][007eff]330[-][/c]/\n並且，治癒力增加[c][007eff]23.1%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 498797234,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]340[-][/c]/\n另外，治癒力增加[c][007eff]23.8%[-][/c]",
+    "Description": "防禦力增加[c][007eff]340[-][/c]/\n並且，治癒力增加[c][007eff]23.8%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 3843376995,
     "Name": "應援的決心+",
-    "Description": "防禦力增加[c][007eff]380[-][/c]/\n另外，治癒力增加[c][007eff]26.6%[-][/c]",
+    "Description": "防禦力增加[c][007eff]380[-][/c]/\n並且，治癒力增加[c][007eff]26.6%[-][/c]",
     "SkillInvokeLocalize": ""
   },
   {
@@ -45662,7 +45662,7 @@
   {
     "Key": 2096496511,
     "Name": "無限迴轉・ULTRA盤子盾牌",
-    "Description": "左手(Green)：受到的傷害量減少[c][007eff]50%[-][/c]\n根據學生們的攻擊系EX技能，攻擊合計10次後立即解除。",
+    "Description": "左手(Green)：受到的傷害量減少[c][007eff]50%[-][/c]\n可藉由學生們的攻擊系EX技能造成合計10次傷害立即解除。",
     "SkillInvokeLocalize": ""
   },
   {
@@ -45709,7 +45709,7 @@
   },
   {
     "Key": 584144632,
-    "Name": "這群惡棍！膽小鬼！",
+    "Name": "這群惡棍！真卑鄙！",
     "Description": "若在搭乘KAITEN FX Mk.0前，各名凱坦澤被給予群控狀態，則受到的傷害量增加[c][007eff]40%[-][/c]([c][007eff]15秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
@@ -45722,7 +45722,7 @@
   {
     "Key": 2240987094,
     "Name": "無限迴轉・ULTRA盤子盾牌",
-    "Description": "左手(Green)：受到的傷害量減少[c][007eff]50%[-][/c]\n根據學生們的攻擊系EX技能，攻擊合計15次後立即解除。",
+    "Description": "左手(Green)：受到的傷害量減少[c][007eff]50%[-][/c]\n可藉由學生們的攻擊系EX技能造成合計15次傷害立即解除。",
     "SkillInvokeLocalize": ""
   },
   {
@@ -45733,7 +45733,7 @@
   },
   {
     "Key": 3048309906,
-    "Name": "無限迴轉・MEGA蛋過度充電",
+    "Name": "無限迴轉・MEGA玉子超載",
     "Description": "腳(Yellow)：攻擊力增加[c][007eff]4000[-][/c]([c][007eff]180秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
