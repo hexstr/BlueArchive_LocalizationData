@@ -10821,7 +10821,7 @@
   },
   {
     "MessageGroupId": 100390040,
-    "Message": "這個周末，可以占用你一點時間嗎……"
+    "Message": "這個週末，能占用你一點時間嗎……"
   },
   {
     "MessageGroupId": 100390050,
@@ -13829,7 +13829,7 @@
   },
   {
     "MessageGroupId": 200180030,
-    "Message": "抱歉，我想請妳幫個忙，現在有空嗎？"
+    "Message": "抱歉，我想請你幫個忙，現在有空嗎？"
   },
   {
     "MessageGroupId": 200180040,
@@ -19817,7 +19817,7 @@
   },
   {
     "MessageGroupId": 260090280,
-    "Message": "最近從早到玩都在開發遊戲"
+    "Message": "最近從早到晚都在開發遊戲"
   },
   {
     "MessageGroupId": 260090290,
@@ -20146,5 +20146,657 @@
   {
     "MessageGroupId": 100680490,
     "Message": "真的，非常謝謝你"
+  },
+  {
+    "MessageGroupId": 100690010,
+    "Message": "辛苦了，老師"
+  },
+  {
+    "MessageGroupId": 100690020,
+    "Message": "那個，今天可以面談對吧？"
+  },
+  {
+    "MessageGroupId": 100690030,
+    "Message": "抱歉讓你久等了。今天可以唷"
+  },
+  {
+    "MessageGroupId": 100690040,
+    "Message": "啊哈哈"
+  },
+  {
+    "MessageGroupId": 100690040,
+    "Message": "我知道夏萊的工作很忙，這也沒辦法"
+  },
+  {
+    "MessageGroupId": 100690050,
+    "Message": "而且也是我拜託你的"
+  },
+  {
+    "MessageGroupId": 100690050,
+    "Message": "那，我下午會過去，請多指教囉"
+  },
+  {
+    "MessageGroupId": 100690060,
+    "Message": "嗯，我等你哦"
+  },
+  {
+    "MessageGroupId": 100690070,
+    "Message": "好～待會見"
+  },
+  {
+    "MessageGroupId": 100690080,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100690090,
+    "Message": "我有件事想拜託你……"
+  },
+  {
+    "MessageGroupId": 100690090,
+    "Message": "現在在忙著工作嗎？"
+  },
+  {
+    "MessageGroupId": 100690100,
+    "Message": "如果是瑠美的請求，我隨時都樂意幫忙"
+  },
+  {
+    "MessageGroupId": 100690110,
+    "Message": "……呵呵，這樣啊"
+  },
+  {
+    "MessageGroupId": 100690120,
+    "Message": "是真的吧？"
+  },
+  {
+    "MessageGroupId": 100690120,
+    "Message": "那麼……"
+  },
+  {
+    "MessageGroupId": 100690130,
+    "Message": "玄武商會，不"
+  },
+  {
+    "MessageGroupId": 100690130,
+    "Message": "準確來說，是我個人的試作品"
+  },
+  {
+    "MessageGroupId": 100690130,
+    "Message": "不介意的話可以麻煩你試吃嗎？"
+  },
+  {
+    "MessageGroupId": 100690140,
+    "Message": "瑠美的新料理！"
+  },
+  {
+    "MessageGroupId": 100690150,
+    "Message": "雖然還在試作階段就是了"
+  },
+  {
+    "MessageGroupId": 100690160,
+    "Message": "可以請老師有空的時候到玄武商會來嗎？"
+  },
+  {
+    "MessageGroupId": 100690160,
+    "Message": "我會等你的"
+  },
+  {
+    "MessageGroupId": 100690170,
+    "Message": "老師，最近過得好嗎？"
+  },
+  {
+    "MessageGroupId": 100690180,
+    "Message": "每餐都有好好吃飯吧？"
+  },
+  {
+    "MessageGroupId": 100690190,
+    "Message": "我有乖乖吃飯……"
+  },
+  {
+    "MessageGroupId": 100690200,
+    "Message": "我現在正好有事要去一趟山海經"
+  },
+  {
+    "MessageGroupId": 100690210,
+    "Message": "哦，真的嗎？"
+  },
+  {
+    "MessageGroupId": 100690210,
+    "Message": "有時間的話就來玄武商會吧"
+  },
+  {
+    "MessageGroupId": 100690210,
+    "Message": "我會特別招待你的"
+  },
+  {
+    "MessageGroupId": 100690220,
+    "Message": "老師可能不知道……"
+  },
+  {
+    "MessageGroupId": 100690230,
+    "Message": "玄武商會有所謂的「本週料理」"
+  },
+  {
+    "MessageGroupId": 100690240,
+    "Message": "本週……？"
+  },
+  {
+    "MessageGroupId": 100690250,
+    "Message": "沒錯。每週都會選出不同的料理"
+  },
+  {
+    "MessageGroupId": 100690250,
+    "Message": "並以略為便宜的價格提供給客人"
+  },
+  {
+    "MessageGroupId": 100690260,
+    "Message": "至於……"
+  },
+  {
+    "MessageGroupId": 100690260,
+    "Message": "這次的「本週料理」是餃子"
+  },
+  {
+    "MessageGroupId": 100690270,
+    "Message": "餃子……好像很好吃……"
+  },
+  {
+    "MessageGroupId": 100690280,
+    "Message": "所以我今天早上 "
+  },
+  {
+    "MessageGroupId": 100690280,
+    "Message": "恐怕都得在廚房裡蒸餃子了"
+  },
+  {
+    "MessageGroupId": 100690290,
+    "Message": "我可以去看看嗎？"
+  },
+  {
+    "MessageGroupId": 100690300,
+    "Message": "哦，你很好奇嗎？"
+  },
+  {
+    "MessageGroupId": 100690300,
+    "Message": "隨時都歡迎你來哦"
+  },
+  {
+    "MessageGroupId": 100690300,
+    "Message": "如果老師有空的話……"
+  },
+  {
+    "MessageGroupId": 100690310,
+    "Message": "我今天早上正好沒有工作"
+  },
+  {
+    "MessageGroupId": 100690320,
+    "Message": "原來是這樣啊"
+  },
+  {
+    "MessageGroupId": 100690320,
+    "Message": "我知道了"
+  },
+  {
+    "MessageGroupId": 100690320,
+    "Message": "那我在玄武商會等你哦"
+  },
+  {
+    "MessageGroupId": 100700010,
+    "Message": "這個號碼……"
+  },
+  {
+    "MessageGroupId": 100700020,
+    "Message": "是夏萊的老師對嗎？"
+  },
+  {
+    "MessageGroupId": 100700030,
+    "Message": "是，是我沒錯……"
+  },
+  {
+    "MessageGroupId": 100700040,
+    "Message": "啊啊，那就好"
+  },
+  {
+    "MessageGroupId": 100700050,
+    "Message": "我是近衛美奈"
+  },
+  {
+    "MessageGroupId": 100700050,
+    "Message": "今天夏萊的值日生是我對吧？"
+  },
+  {
+    "MessageGroupId": 100700060,
+    "Message": "嗯，我等你哦"
+  },
+  {
+    "MessageGroupId": 100700070,
+    "Message": "第一次當值日生"
+  },
+  {
+    "MessageGroupId": 100700070,
+    "Message": "抱著期待等著我吧"
+  },
+  {
+    "MessageGroupId": 100700080,
+    "Message": "我會準時抵達"
+  },
+  {
+    "MessageGroupId": 100700080,
+    "Message": "那麼，在夏萊見吧"
+  },
+  {
+    "MessageGroupId": 100700090,
+    "Message": "老師，做好心理準備了嗎？"
+  },
+  {
+    "MessageGroupId": 100700100,
+    "Message": "如果是要幫助學生，我隨時都準備萬全哦"
+  },
+  {
+    "MessageGroupId": 100700110,
+    "Message": "雖然老師爽快地接受了……"
+  },
+  {
+    "MessageGroupId": 100700110,
+    "Message": "沒想到就連山海經的治安維護都需要借助老師的力量"
+  },
+  {
+    "MessageGroupId": 100700110,
+    "Message": "身為玄龍門的幹部，真是沒出息"
+  },
+  {
+    "MessageGroupId": 100700120,
+    "Message": "這份恩情，我一定會以玄龍門之名報答的"
+  },
+  {
+    "MessageGroupId": 100700130,
+    "Message": "不用那麼在意沒關係的哦"
+  },
+  {
+    "MessageGroupId": 100700130,
+    "Message": "能幫上忙我也很開心"
+  },
+  {
+    "MessageGroupId": 100700140,
+    "Message": "這樣啊……"
+  },
+  {
+    "MessageGroupId": 100700140,
+    "Message": "那麼，就萬事拜託了"
+  },
+  {
+    "MessageGroupId": 100700150,
+    "Message": "不過，還請老師務必將自己的安全放在第一位"
+  },
+  {
+    "MessageGroupId": 100700160,
+    "Message": "要是老師有什麼三長兩短…… "
+  },
+  {
+    "MessageGroupId": 100700160,
+    "Message": "對我來說也會是個大問題的"
+  },
+  {
+    "MessageGroupId": 100700170,
+    "Message": "今天也是來山海經工作的嗎？"
+  },
+  {
+    "MessageGroupId": 100700180,
+    "Message": "嗯，應該中午左右就會結束了"
+  },
+  {
+    "MessageGroupId": 100700190,
+    "Message": "最近好像經常在山海經見到老師"
+  },
+  {
+    "MessageGroupId": 100700200,
+    "Message": "妨，妨礙到你了嗎……？"
+  },
+  {
+    "MessageGroupId": 100700210,
+    "Message": "不"
+  },
+  {
+    "MessageGroupId": 100700210,
+    "Message": "沒有那種事。反而該說正合我意"
+  },
+  {
+    "MessageGroupId": 100700210,
+    "Message": "中午啊……原來如此"
+  },
+  {
+    "MessageGroupId": 100700220,
+    "Message": "如果有什麼事的話，可以先告訴我……"
+  },
+  {
+    "MessageGroupId": 100700230,
+    "Message": "呵"
+  },
+  {
+    "MessageGroupId": 100700230,
+    "Message": "沒必要那麼擔心"
+  },
+  {
+    "MessageGroupId": 100700230,
+    "Message": "那麼下午見吧"
+  },
+  {
+    "MessageGroupId": 100700240,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100700250,
+    "Message": "聽說你感冒了，還好嗎？"
+  },
+  {
+    "MessageGroupId": 100700260,
+    "Message": "好冷……而且頭好痛……"
+  },
+  {
+    "MessageGroupId": 100700270,
+    "Message": "請好好休息……"
+  },
+  {
+    "MessageGroupId": 100700280,
+    "Message": "呵"
+  },
+  {
+    "MessageGroupId": 100700280,
+    "Message": "我倒是一點症狀也沒有"
+  },
+  {
+    "MessageGroupId": 100700290,
+    "Message": "看來那句俗諺是正確的呢……"
+  },
+  {
+    "MessageGroupId": 100700300,
+    "Message": "什麼樣的俗諺？"
+  },
+  {
+    "MessageGroupId": 100700310,
+    "Message": "那個……就是"
+  },
+  {
+    "MessageGroupId": 100700320,
+    "Message": "有些人不管怎樣都不會感冒……"
+  },
+  {
+    "MessageGroupId": 100700330,
+    "Message": "……那是什麼意思？"
+  },
+  {
+    "MessageGroupId": 100700330,
+    "Message": "……老師"
+  },
+  {
+    "MessageGroupId": 100700330,
+    "Message": "老師？"
+  },
+  {
+    "MessageGroupId": 100700340,
+    "Message": "今天本來打算請你來玄龍門的，不過可以麻煩改天再來嗎？"
+  },
+  {
+    "MessageGroupId": 100700350,
+    "Message": "這麼突然很抱歉，我必須去梅花園一趟"
+  },
+  {
+    "MessageGroupId": 100700360,
+    "Message": "這樣啊，要去梅花園……"
+  },
+  {
+    "MessageGroupId": 100700360,
+    "Message": "我也久違地去一次吧？"
+  },
+  {
+    "MessageGroupId": 100700370,
+    "Message": "我有時候會這麼想……"
+  },
+  {
+    "MessageGroupId": 100700380,
+    "Message": "夏萊的工作，是不是意外的很閒？"
+  },
+  {
+    "MessageGroupId": 100700390,
+    "Message": "……偶爾是，嗎？"
+  },
+  {
+    "MessageGroupId": 100700400,
+    "Message": "雖然可能只是我的錯覺"
+  },
+  {
+    "MessageGroupId": 100700400,
+    "Message": "感覺你說「偶爾」的次數好像有點多"
+  },
+  {
+    "MessageGroupId": 100700410,
+    "Message": "算了，這樣也好"
+  },
+  {
+    "MessageGroupId": 100700410,
+    "Message": "工作方面沒問題的話，我們就一起去吧"
+  },
+  {
+    "MessageGroupId": 100700410,
+    "Message": "我先到梅花園前面等你"
+  },
+  {
+    "MessageGroupId": 200260010,
+    "Message": "<廣告>赤冬聯邦學園工務部 /\n專業人力派遣 / 長期、短期、單日 /\n土木、建設、擴建、拆除、翻修 /\n任何事情都歡迎聯絡！ /\n若此信箱無法聯絡請使用MomoTalk"
+  },
+  {
+    "MessageGroupId": 200260020,
+    "Message": "老師，你需要工人嗎？"
+  },
+  {
+    "MessageGroupId": 200260030,
+    "Message": "為什麼突然這麼問……？"
+  },
+  {
+    "MessageGroupId": 200260040,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 200260040,
+    "Message": "最近接不到什麼委託"
+  },
+  {
+    "MessageGroupId": 200260040,
+    "Message": "工務部的手上都沒有工作了"
+  },
+  {
+    "MessageGroupId": 200260050,
+    "Message": "夏萊需要人力嗎？"
+  },
+  {
+    "MessageGroupId": 200260060,
+    "Message": "有沒有擴建辦公室"
+  },
+  {
+    "MessageGroupId": 200260060,
+    "Message": "或是建個老師紀念碑之類的計畫？"
+  },
+  {
+    "MessageGroupId": 200260070,
+    "Message": "目前還沒有這個打算……"
+  },
+  {
+    "MessageGroupId": 200260080,
+    "Message": "是嗎？真可惜"
+  },
+  {
+    "MessageGroupId": 200260080,
+    "Message": "如果需要人力的話"
+  },
+  {
+    "MessageGroupId": 200260090,
+    "Message": "就由我們赤冬聯邦學園的工務部負責吧"
+  },
+  {
+    "MessageGroupId": 200260100,
+    "Message": "不用找仲介，直接連絡我就可以了！"
+  },
+  {
+    "MessageGroupId": 200260110,
+    "Message": "嗯，謝謝你"
+  },
+  {
+    "MessageGroupId": 200260120,
+    "Message": "老師，可以打擾一下嗎？"
+  },
+  {
+    "MessageGroupId": 200260130,
+    "Message": "我打算寫一篇文章，卻不知道該如何下筆"
+  },
+  {
+    "MessageGroupId": 200260140,
+    "Message": "希望老師能給我一些意見"
+  },
+  {
+    "MessageGroupId": 200260150,
+    "Message": "寫作很不容易呢"
+  },
+  {
+    "MessageGroupId": 200260160,
+    "Message": "你想寫什麼樣的文章呢？"
+  },
+  {
+    "MessageGroupId": 200260170,
+    "Message": "唔呣"
+  },
+  {
+    "MessageGroupId": 200260180,
+    "Message": "首先要能動搖讀者的感情"
+  },
+  {
+    "MessageGroupId": 200260180,
+    "Message": "使其燃起革命的鬥志"
+  },
+  {
+    "MessageGroupId": 200260180,
+    "Message": "並且將作者的思想灌入腦中"
+  },
+  {
+    "MessageGroupId": 200260180,
+    "Message": "讓人想起身反抗那些惡毒的布爾喬亞階級的既得利益者"
+  },
+  {
+    "MessageGroupId": 200260190,
+    "Message": "的那種文章"
+  },
+  {
+    "MessageGroupId": 200260200,
+    "Message": "……真，真是激進呢"
+  },
+  {
+    "MessageGroupId": 200260210,
+    "Message": "老師，我記得明天……"
+  },
+  {
+    "MessageGroupId": 200260220,
+    "Message": "有跟你約好要來工務部參訪對吧？"
+  },
+  {
+    "MessageGroupId": 200260230,
+    "Message": "嗯，怎麼了嗎……？"
+  },
+  {
+    "MessageGroupId": 200260240,
+    "Message": "我看天氣預報說，明天好像有強烈寒流會來"
+  },
+  {
+    "MessageGroupId": 200260240,
+    "Message": "為了避免發生意外，明天的作業決定中止了"
+  },
+  {
+    "MessageGroupId": 200260240,
+    "Message": "突然更改計畫真是非常抱歉"
+  },
+  {
+    "MessageGroupId": 200260250,
+    "Message": "沒關係"
+  },
+  {
+    "MessageGroupId": 200260250,
+    "Message": "畢竟安全第一啊"
+  },
+  {
+    "MessageGroupId": 200260260,
+    "Message": "沒錯，工作現場追求的永遠是安全第一"
+  },
+  {
+    "MessageGroupId": 200260270,
+    "Message": "那麼，下次老師有空的時候再過來吧"
+  },
+  {
+    "MessageGroupId": 200260280,
+    "Message": "這麼說來，老師"
+  },
+  {
+    "MessageGroupId": 200260290,
+    "Message": "我最近看了一本很有趣的書"
+  },
+  {
+    "MessageGroupId": 200260300,
+    "Message": "書名叫做《為何奇普托斯的學生會不幸呢》"
+  },
+  {
+    "MessageGroupId": 200260310,
+    "Message": "書裡寫了什麼呢？"
+  },
+  {
+    "MessageGroupId": 200260320,
+    "Message": "作者似乎是一名曾任職於聯邦學生會財務室的學生"
+  },
+  {
+    "MessageGroupId": 200260320,
+    "Message": "在調查了奇普托斯流通的布丁等等奢侈品的供需情形後……"
+  },
+  {
+    "MessageGroupId": 200260320,
+    "Message": "他發現如果能公平分給所有學生的話，數量是十分足夠的"
+  },
+  {
+    "MessageGroupId": 200260320,
+    "Message": "然而由於部分的學生吃了兩個以上的布丁，導致均衡遭到了破壞"
+  },
+  {
+    "MessageGroupId": 200260330,
+    "Message": "真是個有趣的統計呢"
+  },
+  {
+    "MessageGroupId": 200260340,
+    "Message": "但是，那些能夠吃超過兩個布丁的學生，自然是不會顧慮其他人的"
+  },
+  {
+    "MessageGroupId": 200260340,
+    "Message": "因此才會造成近半數的學生由於吃不到布丁而陷入不幸"
+  },
+  {
+    "MessageGroupId": 200260350,
+    "Message": "布丁應該不代表一切吧……"
+  },
+  {
+    "MessageGroupId": 200260360,
+    "Message": "你在說什麼？布丁就是幸福的根源吧"
+  },
+  {
+    "MessageGroupId": 200260370,
+    "Message": "總之，除非從布爾喬亞階級手中奪走布丁，否則不幸就會永遠持續下去"
+  },
+  {
+    "MessageGroupId": 200260370,
+    "Message": "但我們光是進行學園鬥爭就分身乏術了……"
+  },
+  {
+    "MessageGroupId": 200260370,
+    "Message": "所以我想過從根本上解決這個問題的方法"
+  },
+  {
+    "MessageGroupId": 200260380,
+    "Message": "你覺得將學生人數減少一半怎麼樣……？"
+  },
+  {
+    "MessageGroupId": 200260390,
+    "Message": "思考方式可以不要跟某個最終BOSS一樣嗎……"
   }
 ]
