@@ -9693,7 +9693,7 @@
   },
   {
     "MessageGroupId": 100350070,
-    "Message": "保險起見……"
+    "Message": "保險起見還是說明一下……"
   },
   {
     "MessageGroupId": 100350080,
@@ -20798,5 +20798,665 @@
   {
     "MessageGroupId": 200260390,
     "Message": "思考方式可以不要跟某個最終BOSS一樣嗎……"
+  },
+  {
+    "MessageGroupId": 100710010,
+    "Message": "老師，能占用你一些時間嗎？"
+  },
+  {
+    "MessageGroupId": 100710020,
+    "Message": "夏天就快到了，天氣越來越熱"
+  },
+  {
+    "MessageGroupId": 100710020,
+    "Message": "為了不影響SRT的作戰，我準備了一些與季節相符的裝備……"
+  },
+  {
+    "MessageGroupId": 100710030,
+    "Message": "不過有些部分我難以判斷，所以希望能跟老師商量"
+  },
+  {
+    "MessageGroupId": 100710040,
+    "Message": "如果是都子找我商量，我隨時都會聽哦"
+  },
+  {
+    "MessageGroupId": 100710050,
+    "Message": "謝謝老師爽快的答應"
+  },
+  {
+    "MessageGroupId": 100710060,
+    "Message": "我會將座標傳送給你，麻煩你走一趟了"
+  },
+  {
+    "MessageGroupId": 100710060,
+    "Message": "那麼，我會在會面地點待命"
+  },
+  {
+    "MessageGroupId": 100710070,
+    "Message": "在執行這次作戰時，我感覺到……"
+  },
+  {
+    "MessageGroupId": 100710080,
+    "Message": "由於SRT的訓練多以陸上作戰為前提"
+  },
+  {
+    "MessageGroupId": 100710080,
+    "Message": "因此應對海上作戰的能力似乎不夠充分"
+  },
+  {
+    "MessageGroupId": 100710090,
+    "Message": "都子已經非常努力了唷"
+  },
+  {
+    "MessageGroupId": 100710100,
+    "Message": "……謝謝你"
+  },
+  {
+    "MessageGroupId": 100710110,
+    "Message": "不過，我也有自己能力不足的自覺"
+  },
+  {
+    "MessageGroupId": 100710120,
+    "Message": "所以雖然有點突然……"
+  },
+  {
+    "MessageGroupId": 100710130,
+    "Message": "我想進行模擬在海上營救人質的訓練"
+  },
+  {
+    "MessageGroupId": 100710130,
+    "Message": "可以請老師協助嗎？"
+  },
+  {
+    "MessageGroupId": 100710140,
+    "Message": "嗯，當然可以"
+  },
+  {
+    "MessageGroupId": 100710150,
+    "Message": "非常感謝"
+  },
+  {
+    "MessageGroupId": 100710150,
+    "Message": "那麼，我在村子東邊的碼頭等你"
+  },
+  {
+    "MessageGroupId": 100710160,
+    "Message": "老師，你聽說了嗎？"
+  },
+  {
+    "MessageGroupId": 100710170,
+    "Message": "似乎有個可以從村子的西海岸徒步抵達的離島"
+  },
+  {
+    "MessageGroupId": 100710180,
+    "Message": "從海上……？"
+  },
+  {
+    "MessageGroupId": 100710190,
+    "Message": "是的。因為西側海岸的水深較淺"
+  },
+  {
+    "MessageGroupId": 100710190,
+    "Message": "所以聽說在退潮的時候，與離島連接的道路就會出現"
+  },
+  {
+    "MessageGroupId": 100710200,
+    "Message": "好像很有趣呢"
+  },
+  {
+    "MessageGroupId": 100710210,
+    "Message": "我也這麼覺得。而且由於那座島的風景非常棒，居民們似乎也時常會在假日去島上玩"
+  },
+  {
+    "MessageGroupId": 100710220,
+    "Message": "如果老師願意的話"
+  },
+  {
+    "MessageGroupId": 100710220,
+    "Message": "能請老師陪我一起去嗎？"
+  },
+  {
+    "MessageGroupId": 100710230,
+    "Message": "當然，我很樂意"
+  },
+  {
+    "MessageGroupId": 100710240,
+    "Message": "謝謝你，老師"
+  },
+  {
+    "MessageGroupId": 100710240,
+    "Message": "那麼明天，我們就在退潮時在碼頭碰面吧"
+  },
+  {
+    "MessageGroupId": 100710250,
+    "Message": "這裡是RABBIT1。報告目前狀況"
+  },
+  {
+    "MessageGroupId": 100710260,
+    "Message": "現在時間0600。\n負傷人數為0，請繼續──"
+  },
+  {
+    "MessageGroupId": 100710270,
+    "Message": "啊……"
+  },
+  {
+    "MessageGroupId": 100710270,
+    "Message": "不好意思，在這種時間打擾老師"
+  },
+  {
+    "MessageGroupId": 100710280,
+    "Message": "我弄錯了傳送的對象……"
+  },
+  {
+    "MessageGroupId": 100710290,
+    "Message": "沒關係的，別在意"
+  },
+  {
+    "MessageGroupId": 100710300,
+    "Message": "話說回來，你這麼早就起床了啊"
+  },
+  {
+    "MessageGroupId": 100710310,
+    "Message": "是的。畢竟保持規律的生活是特殊部隊的基本"
+  },
+  {
+    "MessageGroupId": 100710320,
+    "Message": "除了執行夜間作戰或身體狀態特別差的時候之外，我每天都會在這個時間整理日誌……"
+  },
+  {
+    "MessageGroupId": 100710320,
+    "Message": "接著再去進行晨跑或是做些輕鬆的體操伸展身體"
+  },
+  {
+    "MessageGroupId": 100710330,
+    "Message": "都子真厲害……"
+  },
+  {
+    "MessageGroupId": 100710340,
+    "Message": "呵呵。一開始可能會覺得麻煩，不過養成習慣之後就不算什麼了"
+  },
+  {
+    "MessageGroupId": 100710340,
+    "Message": "現在如果早上沒運動的話，我反而還會覺得身體僵硬呢"
+  },
+  {
+    "MessageGroupId": 100720010,
+    "Message": "老師，你現在在做什麼？"
+  },
+  {
+    "MessageGroupId": 100720020,
+    "Message": "在休息哦"
+  },
+  {
+    "MessageGroupId": 100720020,
+    "Message": "呼吸，吧……"
+  },
+  {
+    "MessageGroupId": 100720030,
+    "Message": "？"
+  },
+  {
+    "MessageGroupId": 100720030,
+    "Message": "什麼嘛"
+  },
+  {
+    "MessageGroupId": 100720030,
+    "Message": "意思是你什麼事都沒在做嗎？"
+  },
+  {
+    "MessageGroupId": 100720040,
+    "Message": "難得都到海邊來了"
+  },
+  {
+    "MessageGroupId": 100720050,
+    "Message": "不做些只有在海邊才能做的事就太浪費了"
+  },
+  {
+    "MessageGroupId": 100720060,
+    "Message": "只有在海邊才能做的事……"
+  },
+  {
+    "MessageGroupId": 100720070,
+    "Message": "游泳之類的？"
+  },
+  {
+    "MessageGroupId": 100720080,
+    "Message": "只是要游泳的話，去泳池就行了吧？"
+  },
+  {
+    "MessageGroupId": 100720090,
+    "Message": "所以說……"
+  },
+  {
+    "MessageGroupId": 100720090,
+    "Message": "要去抓海產！"
+  },
+  {
+    "MessageGroupId": 100720100,
+    "Message": "老師，現在有空嗎？"
+  },
+  {
+    "MessageGroupId": 100720110,
+    "Message": "我剛才找到了一個有趣的東西"
+  },
+  {
+    "MessageGroupId": 100720110,
+    "Message": "只要有這個，這次一定能抓魚給老師！"
+  },
+  {
+    "MessageGroupId": 100720120,
+    "Message": "是在倉庫裡找到漁網了嗎？"
+  },
+  {
+    "MessageGroupId": 100720130,
+    "Message": "哼哼"
+  },
+  {
+    "MessageGroupId": 100720140,
+    "Message": "以為只是單純的漁網就大錯特錯了"
+  },
+  {
+    "MessageGroupId": 100720150,
+    "Message": "這個還是直接給你看看比較好"
+  },
+  {
+    "MessageGroupId": 100720150,
+    "Message": "來之前那個碼頭一趟吧"
+  },
+  {
+    "MessageGroupId": 100720160,
+    "Message": "這次絕對要讓老師吃到最高級的生魚片！"
+  },
+  {
+    "MessageGroupId": 100720170,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100720180,
+    "Message": "後來，我又去看了看碼頭的情況"
+  },
+  {
+    "MessageGroupId": 100720190,
+    "Message": "發現水面上漂著幾隻小魚"
+  },
+  {
+    "MessageGroupId": 100720190,
+    "Message": "恐怕是被爆炸的衝擊震暈了吧"
+  },
+  {
+    "MessageGroupId": 100720200,
+    "Message": "我聽說體型小的魚意外的怕衝擊"
+  },
+  {
+    "MessageGroupId": 100720210,
+    "Message": "也就是說……"
+  },
+  {
+    "MessageGroupId": 100720210,
+    "Message": "只要接入高壓電流，就能一口氣……"
+  },
+  {
+    "MessageGroupId": 100720220,
+    "Message": "那個絕對不行！"
+  },
+  {
+    "MessageGroupId": 100720230,
+    "Message": "老師，村子西邊好像有一片泥灘哦"
+  },
+  {
+    "MessageGroupId": 100720240,
+    "Message": "聽居民說，一天會退潮兩次"
+  },
+  {
+    "MessageGroupId": 100720240,
+    "Message": "然後那片泥灘就會出現"
+  },
+  {
+    "MessageGroupId": 100720250,
+    "Message": "真是不可思議的現象呢"
+  },
+  {
+    "MessageGroupId": 100720260,
+    "Message": "聽說退潮的時候，可以很輕鬆地撿到貝類或魚"
+  },
+  {
+    "MessageGroupId": 100720270,
+    "Message": "……其實，在取得採集海產的許可時"
+  },
+  {
+    "MessageGroupId": 100720270,
+    "Message": "他們也告訴我可以到泥灘去"
+  },
+  {
+    "MessageGroupId": 100720280,
+    "Message": "所以，有空的話要不要一起去？"
+  },
+  {
+    "MessageGroupId": 100720280,
+    "Message": "雖然讓你看到了在水中的失態，不過這次只是在泥灘上撿撿魚而已。不會再犯跟上次同樣的錯誤……"
+  },
+  {
+    "MessageGroupId": 100720290,
+    "Message": "這次絕對要讓老師吃到最高級的海產！"
+  },
+  {
+    "MessageGroupId": 100720300,
+    "Message": "到頭來，讓老師吃到好吃海產的作戰還是失敗了啊"
+  },
+  {
+    "MessageGroupId": 100720310,
+    "Message": "本來還打算抓隻高級的魚作為平時的謝禮的說……"
+  },
+  {
+    "MessageGroupId": 100720320,
+    "Message": "我已經吃很多了唷？"
+  },
+  {
+    "MessageGroupId": 100720330,
+    "Message": "例如海藻湯……"
+  },
+  {
+    "MessageGroupId": 100720330,
+    "Message": "或是海腸之類的……"
+  },
+  {
+    "MessageGroupId": 100720340,
+    "Message": "雖然是很好吃沒錯……"
+  },
+  {
+    "MessageGroupId": 100720350,
+    "Message": "不過那些都是市場就能買到的食材……"
+  },
+  {
+    "MessageGroupId": 100720350,
+    "Message": "明明讓老師陪了我這麼久……"
+  },
+  {
+    "MessageGroupId": 100720360,
+    "Message": "和咲希一起吃的飯是最美味的唷"
+  },
+  {
+    "MessageGroupId": 100720370,
+    "Message": "……！"
+  },
+  {
+    "MessageGroupId": 100720370,
+    "Message": "搞不清楚你是在捉弄我還是認真的，拜託饒了我吧……"
+  },
+  {
+    "MessageGroupId": 260100010,
+    "Message": "就像森林裡的野生動物用保護色來隱藏自己一樣"
+  },
+  {
+    "MessageGroupId": 260100020,
+    "Message": "狙擊手也會穿著吉利服來消除存在感"
+  },
+  {
+    "MessageGroupId": 260100020,
+    "Message": "在野外經常會用樹葉和樹枝來偽裝……"
+  },
+  {
+    "MessageGroupId": 260100030,
+    "Message": "但在人來人往的街道上，穿著普通的服裝更不顯眼"
+  },
+  {
+    "MessageGroupId": 260100030,
+    "Message": "所以……大部分的狙擊手都會攜帶一套能在街上偽裝的衣服"
+  },
+  {
+    "MessageGroupId": 260100040,
+    "Message": "原來如此，是這樣啊"
+  },
+  {
+    "MessageGroupId": 260100050,
+    "Message": "美優也有嗎？"
+  },
+  {
+    "MessageGroupId": 260100060,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 260100070,
+    "Message": "其實"
+  },
+  {
+    "MessageGroupId": 260100070,
+    "Message": "我就算沒有偽裝，也不太會被人發現……"
+  },
+  {
+    "MessageGroupId": 260100080,
+    "Message": "所以除了制服以外幾乎沒有其他……"
+  },
+  {
+    "MessageGroupId": 260100090,
+    "Message": "不過……這次的作戰，是在幾乎沒有學生的漁村進行"
+  },
+  {
+    "MessageGroupId": 260100090,
+    "Message": "趁著這個機會，我也想試著挑戰偽裝"
+  },
+  {
+    "MessageGroupId": 260100100,
+    "Message": "老師，謝謝你幫了我這麼多忙……"
+  },
+  {
+    "MessageGroupId": 260100110,
+    "Message": "結果反而受到其他釣客的注意了……"
+  },
+  {
+    "MessageGroupId": 260100120,
+    "Message": "這樣說不定也算是潛伏失敗……"
+  },
+  {
+    "MessageGroupId": 260100130,
+    "Message": "畢竟美優釣到的那條魚真的很大"
+  },
+  {
+    "MessageGroupId": 260100140,
+    "Message": "是，釣到大魚雖然很開心……"
+  },
+  {
+    "MessageGroupId": 260100150,
+    "Message": "不過沒想到會因為存在感低而受到關注……"
+  },
+  {
+    "MessageGroupId": 260100150,
+    "Message": "果然無法事事如意呢……"
+  },
+  {
+    "MessageGroupId": 260100160,
+    "Message": "果然，一到海邊來"
+  },
+  {
+    "MessageGroupId": 260100170,
+    "Message": "就體驗到了許多和平時不同的特別經驗"
+  },
+  {
+    "MessageGroupId": 260100170,
+    "Message": "不僅有了預料之外的相會"
+  },
+  {
+    "MessageGroupId": 260100180,
+    "Message": "還能在意外的地方見到熟悉的身影……"
+  },
+  {
+    "MessageGroupId": 260100190,
+    "Message": "……美優？"
+  },
+  {
+    "MessageGroupId": 260100190,
+    "Message": "發生什麼事了……？"
+  },
+  {
+    "MessageGroupId": 260100200,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 260100210,
+    "Message": "不好意思，這樣說有點難懂對吧"
+  },
+  {
+    "MessageGroupId": 260100220,
+    "Message": "我指的是找小石頭"
+  },
+  {
+    "MessageGroupId": 260100230,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 260100240,
+    "Message": "對不起……"
+  },
+  {
+    "MessageGroupId": 260100250,
+    "Message": "剛才一起收集的石頭，我全都放回原位了"
+  },
+  {
+    "MessageGroupId": 260100250,
+    "Message": "明明老師那麼努力幫我……真的，很抱歉……"
+  },
+  {
+    "MessageGroupId": 260100260,
+    "Message": "沒關係的，不用在意"
+  },
+  {
+    "MessageGroupId": 260100270,
+    "Message": "不過，為什麼把所有石頭都……？"
+  },
+  {
+    "MessageGroupId": 260100280,
+    "Message": "跟老師分開後，我仔細想了想……"
+  },
+  {
+    "MessageGroupId": 260100280,
+    "Message": "那些小石頭們，都在默默地完成自己的使命……"
+  },
+  {
+    "MessageGroupId": 260100290,
+    "Message": "所以雖然覺得很棒，但如果把它們帶走……"
+  },
+  {
+    "MessageGroupId": 260100290,
+    "Message": "那些小石頭們……感覺會很難過……"
+  },
+  {
+    "MessageGroupId": 260100300,
+    "Message": "但是，作為代替……"
+  },
+  {
+    "MessageGroupId": 260100310,
+    "Message": ""
+  },
+  {
+    "MessageGroupId": 260100320,
+    "Message": "你把它們照起來了啊"
+  },
+  {
+    "MessageGroupId": 260100320,
+    "Message": "這樣啊，也不錯呢"
+  },
+  {
+    "MessageGroupId": 260100330,
+    "Message": "是的"
+  },
+  {
+    "MessageGroupId": 260100330,
+    "Message": "將今天的回憶，以這樣的形式變為寶物"
+  },
+  {
+    "MessageGroupId": 260100340,
+    "Message": "能和老師一起度過……真的很開心"
+  },
+  {
+    "MessageGroupId": 260100340,
+    "Message": "非常感謝"
+  },
+  {
+    "MessageGroupId": 260100350,
+    "Message": "因為任務有時會被天氣影響"
+  },
+  {
+    "MessageGroupId": 260100360,
+    "Message": "在進行狙擊任務時，我經常會仰望天空"
+  },
+  {
+    "MessageGroupId": 260100370,
+    "Message": "和即使盯著也不會有什麼變化的地面不同……"
+  },
+  {
+    "MessageGroupId": 260100370,
+    "Message": "天空景色的變化相當快"
+  },
+  {
+    "MessageGroupId": 260100380,
+    "Message": "所以……無論看多久，似乎都不會看膩"
+  },
+  {
+    "MessageGroupId": 260100390,
+    "Message": "可是，在海邊眺望的天空……"
+  },
+  {
+    "MessageGroupId": 260100390,
+    "Message": "……好像有點不太一樣"
+  },
+  {
+    "MessageGroupId": 260100400,
+    "Message": "怎麼說呢？"
+  },
+  {
+    "MessageGroupId": 260100410,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 260100420,
+    "Message": "嗚……"
+  },
+  {
+    "MessageGroupId": 260100430,
+    "Message": "對不起"
+  },
+  {
+    "MessageGroupId": 260100440,
+    "Message": "我不太……會形容"
+  },
+  {
+    "MessageGroupId": 260100450,
+    "Message": "前幾天，我讀了一本被丟掉的時尚雜誌……"
+  },
+  {
+    "MessageGroupId": 260100460,
+    "Message": "書上寫……可以藉由改變服裝來吸引別人的注意"
+  },
+  {
+    "MessageGroupId": 260100470,
+    "Message": "刻意選擇與環境不搭的服裝，也能吸引到別人的目光……"
+  },
+  {
+    "MessageGroupId": 260100480,
+    "Message": "所以今天，我打算穿著最近買來的衣服"
+  },
+  {
+    "MessageGroupId": 260100480,
+    "Message": "試著到街上走走"
+  },
+  {
+    "MessageGroupId": 260100490,
+    "Message": "雖然我覺得是個不錯的想法……"
+  },
+  {
+    "MessageGroupId": 260100500,
+    "Message": "不過你說的，應該不是泳裝吧……？"
+  },
+  {
+    "MessageGroupId": 260100510,
+    "Message": "那，那麼……我要出發了"
+  },
+  {
+    "MessageGroupId": 260100520,
+    "Message": "……美優？"
+  },
+  {
+    "MessageGroupId": 260100530,
+    "Message": "…………美優同學？"
   }
 ]
