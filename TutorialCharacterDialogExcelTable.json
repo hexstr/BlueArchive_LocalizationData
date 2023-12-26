@@ -1,0 +1,1658 @@
+[
+  {
+    "TalkId": 1,
+    "AnimationName": "01",
+    "Localize": "首先為您說明[c][007eff]技能卡系統[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_1_01"
+  },
+  {
+    "TalkId": 1,
+    "AnimationName": "02",
+    "Localize": "參加戰鬥的學生們各持有一張[c][007eff]EX技能卡[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_1_02"
+  },
+  {
+    "TalkId": 1,
+    "AnimationName": "01",
+    "Localize": "其中3張技能卡會隨機被抽取。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_1_03"
+  },
+  {
+    "TalkId": 1,
+    "AnimationName": "01",
+    "Localize": "點擊喜歡的卡片即可使用技能。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_1_04"
+  },
+  {
+    "TalkId": 2,
+    "AnimationName": "02",
+    "Localize": "使用技能時需要相應的[c][007eff]COST[-][/c]，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_2_01"
+  },
+  {
+    "TalkId": 2,
+    "AnimationName": "01",
+    "Localize": "COST會[c][007eff]自動補充[-][/c]，並且以量表的形式顯示。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_2_02"
+  },
+  {
+    "TalkId": 3,
+    "AnimationName": "01",
+    "Localize": "如果學生發現[c][007eff]掩蔽物[-][/c]就會[c][007eff]自動進行掩蔽[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_3_01"
+  },
+  {
+    "TalkId": 3,
+    "AnimationName": "02",
+    "Localize": "在進行掩蔽的期間，可以大幅阻擋敵人的攻擊。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_3_02"
+  },
+  {
+    "TalkId": 3,
+    "AnimationName": "99",
+    "Localize": "因此有效地活用掩蔽是戰鬥的要點。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_3_03"
+  },
+  {
+    "TalkId": 3,
+    "AnimationName": "20",
+    "Localize": "但是，也有無法進行掩蔽的學生，並且掩蔽物可能會被敵人的攻擊破壞，請務必記得。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_3_04"
+  },
+  {
+    "TalkId": 4,
+    "AnimationName": "01",
+    "Localize": "能看到一群敵人聚集在前方呢。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_4_01"
+  },
+  {
+    "TalkId": 4,
+    "AnimationName": "13",
+    "Localize": "[c][007eff]鈴美[-][/c]同學的技能對[c][007eff]聚在一起的敵人[-][/c]使用特別有效，請使用看看吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_4_02"
+  },
+  {
+    "TalkId": 4,
+    "AnimationName": "02",
+    "Localize": "點擊技能卡後，請選擇聚在一起的敵人。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_4_03"
+  },
+  {
+    "TalkId": 5,
+    "AnimationName": "01",
+    "Localize": "那麼，來用用看優香同學的技能吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_5_01"
+  },
+  {
+    "TalkId": 5,
+    "AnimationName": "03",
+    "Localize": "[c][007eff]優香[-][/c]同學的技能屬於[c][007eff]強化自身[-][/c]的類型，因此點擊技能卡後請觸碰優香。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_5_02"
+  },
+  {
+    "TalkId": 6,
+    "AnimationName": "42",
+    "Localize": "必須對付十字軍戰車！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_6_01"
+  },
+  {
+    "TalkId": 6,
+    "AnimationName": "37",
+    "Localize": "十字軍戰車屬於[c][007eff]重裝甲防禦類型[-][/c]的敵人，因此[c][007eff]貫穿型技能[-][/c]可以造成追加傷害。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_6_02"
+  },
+  {
+    "TalkId": 6,
+    "AnimationName": "99",
+    "Localize": "[c][007eff]蓮實[-][/c]同學的技能屬於[c][007eff]貫穿型[-][/c]，供您作參考。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_6_03"
+  },
+  {
+    "TalkId": 7,
+    "AnimationName": "12",
+    "Localize": "從現在起，老師的工作即將開始！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_7_01"
+  },
+  {
+    "TalkId": 7,
+    "AnimationName": "22",
+    "Localize": "但是……因為社團才剛開始，\n學生的數量有點少呢……",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_7_02"
+  },
+  {
+    "TalkId": 7,
+    "AnimationName": "01",
+    "Localize": "為了讓工作能順利執行，多招募一些願意加入夏萊的學生比較好！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_7_03"
+  },
+  {
+    "TalkId": 8,
+    "AnimationName": "12",
+    "Localize": "新的學生加入了呢！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_8_01"
+  },
+  {
+    "TalkId": 8,
+    "AnimationName": "01",
+    "Localize": "那麼，開始執行聯邦學生會交辦的工作吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_8_02"
+  },
+  {
+    "TalkId": 9,
+    "AnimationName": "22",
+    "Localize": "接下來必須對付擾亂奇普托斯和平的壞蛋們！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9_01"
+  },
+  {
+    "TalkId": 10,
+    "AnimationName": "01",
+    "Localize": "這裡是戰略地圖。是將學生們以部隊為單位進行配置和命令，以更高的觀點進行作戰的地方。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_10_01"
+  },
+  {
+    "TalkId": 10,
+    "AnimationName": "01",
+    "Localize": "請按下「Start」方格，投入我方部隊！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_10_02"
+  },
+  {
+    "TalkId": 11,
+    "AnimationName": "01",
+    "Localize": "將剛才加入的學生編入部隊吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_11_01"
+  },
+  {
+    "TalkId": 12,
+    "AnimationName": "02",
+    "Localize": "部隊由直接在戰場上\n戰鬥的前鋒部隊，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_12_01"
+  },
+  {
+    "TalkId": 13,
+    "AnimationName": "03",
+    "Localize": "以及在後方支援的\n特殊部隊所構成。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_13_01"
+  },
+  {
+    "TalkId": 14,
+    "AnimationName": "31",
+    "Localize": "編輯已完成，試著出擊吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_14_01"
+  },
+  {
+    "TalkId": 15,
+    "AnimationName": "02",
+    "Localize": "請按下「任務開始」按鈕開始執行任務！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_15_01"
+  },
+  {
+    "TalkId": 16,
+    "AnimationName": "01",
+    "Localize": "點擊想前往的鄰近方格後，部隊便會移動到該處。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_16_01"
+  },
+  {
+    "TalkId": 16,
+    "AnimationName": "01",
+    "Localize": "接下來就移動到敵人所在的方格，開始戰鬥吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_16_02"
+  },
+  {
+    "TalkId": 17,
+    "AnimationName": "10",
+    "Localize": "移動過的我方部隊在\n這回合無法再進行移動。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_17_01"
+  },
+  {
+    "TalkId": 17,
+    "AnimationName": "01",
+    "Localize": "按下「PHASE結束」按鈕後，我們的回合就結束了。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_17_02"
+  },
+  {
+    "TalkId": 18,
+    "AnimationName": "01",
+    "Localize": "又輪到了我們的回合！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_18_01"
+  },
+  {
+    "TalkId": 18,
+    "AnimationName": "22",
+    "Localize": "剩下的敵人只有此處的頭目了！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_18_02"
+  },
+  {
+    "TalkId": 19,
+    "AnimationName": "02",
+    "Localize": "執行任務時，在何種地形上戰鬥非常重要。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_19_01"
+  },
+  {
+    "TalkId": 20,
+    "AnimationName": "01",
+    "Localize": "可在此確認目前戰場的地形類型。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_20_01"
+  },
+  {
+    "TalkId": 20,
+    "AnimationName": "03",
+    "Localize": "學生之中有能夠在特定地形發揮更強大力量的類型，請納入參考！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_20_02"
+  },
+  {
+    "TalkId": 21,
+    "AnimationName": "32",
+    "Localize": "那麼，這樣一來基本的戰鬥方法已經全數說明完畢。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_21_01"
+  },
+  {
+    "TalkId": 21,
+    "AnimationName": "31",
+    "Localize": "接下來，想再次請老師解決奇普托斯的各種事件！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_21_02"
+  },
+  {
+    "TalkId": 21,
+    "AnimationName": "01",
+    "Localize": "那麼先返回大廳吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_21_03"
+  },
+  {
+    "TalkId": 22,
+    "AnimationName": "02",
+    "Localize": "編入的學生越多，使用技能所需的COST恢復得越快。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_22_01"
+  },
+  {
+    "TalkId": 22,
+    "AnimationName": "01",
+    "Localize": "藉由在前鋒部隊和特殊部隊分別編入人員，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_22_02"
+  },
+  {
+    "TalkId": 22,
+    "AnimationName": "03",
+    "Localize": "COST恢復速度將會增加，請盡量編入學生吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_22_03"
+  },
+  {
+    "TalkId": 23,
+    "AnimationName": "01",
+    "Localize": "辛苦了，老師。再次向你介紹，這裡就是夏萊的大廳。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_23_01"
+  },
+  {
+    "TalkId": 23,
+    "AnimationName": "03",
+    "Localize": "是今後老師進行各種任務的據點。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_23_02"
+  },
+  {
+    "TalkId": 23,
+    "AnimationName": "03",
+    "Localize": "……咦？有人傳來聯絡了呢？",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_23_03"
+  },
+  {
+    "TalkId": 24,
+    "AnimationName": "01",
+    "Localize": "「MomoTalk」是奇普托斯非常普及的通訊軟體。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_24_01"
+  },
+  {
+    "TalkId": 24,
+    "AnimationName": "01",
+    "Localize": "以後老師可以透過MomoTalk和學生對話，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_24_02"
+  },
+  {
+    "TalkId": 24,
+    "AnimationName": "01",
+    "Localize": "以及確認與學生羈絆的相關情報。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_24_03"
+  },
+  {
+    "TalkId": 25,
+    "AnimationName": "01",
+    "Localize": "新收到的訊息將會顯示在左側。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_25_01"
+  },
+  {
+    "TalkId": 26,
+    "AnimationName": "03",
+    "Localize": "請點擊圖示確認訊息吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_26_01"
+  },
+  {
+    "TalkId": 27,
+    "AnimationName": "20",
+    "Localize": "啊，是優香同學傳來的呢！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_27_01"
+  },
+  {
+    "TalkId": 27,
+    "AnimationName": "25",
+    "Localize": "至於內容就請老師親自確認了……！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_27_02"
+  },
+  {
+    "TalkId": 28,
+    "AnimationName": "01",
+    "Localize": "說不定能得到意外的禮物……！？",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_28_01"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "01",
+    "Localize": "可以在這裡確認劇情。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_01"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "02",
+    "Localize": "包含解決奇普托斯發生的各種事件的主線劇情，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_02"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "31",
+    "Localize": "以及能窺見學生們日常的支線劇情。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_03"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "32",
+    "Localize": "此外還能在這裡看到各種故事章節，請記得確認喔！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_04"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "25",
+    "Localize": "這裡是老師可以決定課程表的地方！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_05"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "02",
+    "Localize": "可以和各位學生們一起選擇並執行各種課程表。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_06"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "01",
+    "Localize": "那麼，先移動到夏萊辦公室吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_07"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "02",
+    "Localize": "只要選擇準備好的課程，參加此課程表的學生的羈絆點數就會增加！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_08"
+  },
+  {
+    "TalkId": 9999,
+    "AnimationName": "25",
+    "Localize": "由於課程表的執行次數有限，請認真思考再做決定哦！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_9999_09"
+  },
+  {
+    "TalkId": 35,
+    "AnimationName": "25",
+    "Localize": "困難任務開放了！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_35_01"
+  },
+  {
+    "TalkId": 35,
+    "AnimationName": "25",
+    "Localize": "這是重要的任務，我們一起去確認吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_35_02"
+  },
+  {
+    "TalkId": 36,
+    "AnimationName": "22",
+    "Localize": "由於困難任務難度更高，所以能獲得更好的獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_36_01"
+  },
+  {
+    "TalkId": 36,
+    "AnimationName": "22",
+    "Localize": "但是請記得一天能挑戰的次數有限。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_36_02"
+  },
+  {
+    "TalkId": 37,
+    "AnimationName": "25",
+    "Localize": "那麼請進入任務吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_37_01"
+  },
+  {
+    "TalkId": 38,
+    "AnimationName": "02",
+    "Localize": "困難任務基本上是難以確保視野的困難戰鬥。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_38_01"
+  },
+  {
+    "TalkId": 39,
+    "AnimationName": "05",
+    "Localize": "敵人可能會躲在看不到的地方，也可能擺放著重要的道具，在確認之前都是未知數。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_39_01"
+  },
+  {
+    "TalkId": 39,
+    "AnimationName": "05",
+    "Localize": "因此戰略性的判斷比平時更重要！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_39_02"
+  },
+  {
+    "TalkId": 39,
+    "AnimationName": "25",
+    "Localize": "那麼就開始吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_39_03"
+  },
+  {
+    "TalkId": 40,
+    "AnimationName": "01",
+    "Localize": "在特殊任務中，可以選擇老師想進行的任務來進行。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_40_01"
+  },
+  {
+    "TalkId": 40,
+    "AnimationName": "02",
+    "Localize": "由於每項任務都需要不同的戰略和組合，找出適合各項任務的攻略法是重點所在！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_40_02"
+  },
+  {
+    "TalkId": 41,
+    "AnimationName": "31",
+    "Localize": "這次選擇「據點防禦」任務吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_41_01"
+  },
+  {
+    "TalkId": 42,
+    "AnimationName": "01",
+    "Localize": "任務的資訊可以在這裡確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_42_01"
+  },
+  {
+    "TalkId": 43,
+    "AnimationName": "02",
+    "Localize": "確認戰場的地形類型是很重要的。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_43_01"
+  },
+  {
+    "TalkId": 43,
+    "AnimationName": "31",
+    "Localize": "學生之中有能夠在特定地形發揮更強大力量的類型，配合這一點來編輯部隊將較為有利。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_43_02"
+  },
+  {
+    "TalkId": 44,
+    "AnimationName": "32",
+    "Localize": "那麼進入特殊任務吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_44_01"
+  },
+  {
+    "TalkId": 45,
+    "AnimationName": "25",
+    "Localize": "在「據點防禦」中會有大量的敵人蜂擁而上，因此範圍攻擊技能特別有效。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_45_01"
+  },
+  {
+    "TalkId": 45,
+    "AnimationName": "25",
+    "Localize": "請將戰鬥概念和地形納入考量，編輯學生們吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_45_02"
+  },
+  {
+    "TalkId": 49,
+    "AnimationName": "05",
+    "Localize": "在總力戰中，能夠和非常強力的頭目進行戰鬥。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_49_01"
+  },
+  {
+    "TalkId": 49,
+    "AnimationName": "05",
+    "Localize": "此外，由於一天能戰鬥的次數有限，必須謹慎應戰才行！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_49_02"
+  },
+  {
+    "TalkId": 50,
+    "AnimationName": "02",
+    "Localize": "總力戰分成各種難度，難度越高就能獲得越好的獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_50_01"
+  },
+  {
+    "TalkId": 51,
+    "AnimationName": "32",
+    "Localize": "那麼我的說明暫時到此為止！期待看到老師的活躍表現哦！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_51_01"
+  },
+  {
+    "TalkId": 52,
+    "AnimationName": "01",
+    "Localize": "戰術大賽是透過與其他學生戰鬥來爭奪名次的競賽。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_52_01"
+  },
+  {
+    "TalkId": 52,
+    "AnimationName": "02",
+    "Localize": "在這裡可以查看參加大賽的隊伍清單。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_52_02"
+  },
+  {
+    "TalkId": 53,
+    "AnimationName": "31",
+    "Localize": "首先為了進行防禦編制，請點擊這個按鈕。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_53_01"
+  },
+  {
+    "TalkId": 54,
+    "AnimationName": "01",
+    "Localize": "編制防禦隊伍時的要點在於考量「地形」！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_54_01"
+  },
+  {
+    "TalkId": 54,
+    "AnimationName": "02",
+    "Localize": "請將對學生們有利的地形和各自的技能納入考慮，編組防禦隊伍吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_54_02"
+  },
+  {
+    "TalkId": 55,
+    "AnimationName": "32",
+    "Localize": "期待老師在戰術大賽的亮眼活躍！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_55_01"
+  },
+  {
+    "TalkId": 56,
+    "AnimationName": "01",
+    "Localize": "這次將對讓學生成長的方法進行說明。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_56_01"
+  },
+  {
+    "TalkId": 56,
+    "AnimationName": "02",
+    "Localize": "首先，選擇想使其成長的學生吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_56_02"
+  },
+  {
+    "TalkId": 57,
+    "AnimationName": "01",
+    "Localize": "可以在這裡確認學生們基本的能力值情報。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_57_01"
+  },
+  {
+    "TalkId": 57,
+    "AnimationName": "31",
+    "Localize": "首先，這裡備有可以確認學生們裝備的裝備欄位，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_57_02"
+  },
+  {
+    "TalkId": 58,
+    "AnimationName": "02",
+    "Localize": "以及「升級」、「神秘解放」、「技能成長」等等，能讓學生們成長的，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_58_01"
+  },
+  {
+    "TalkId": 58,
+    "AnimationName": "31",
+    "Localize": "各式各樣的方法。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_58_02"
+  },
+  {
+    "TalkId": 59,
+    "AnimationName": "25",
+    "Localize": "首先，試試看最基本的「升級」吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_59_01"
+  },
+  {
+    "TalkId": 60,
+    "AnimationName": "02",
+    "Localize": "可以在這裡確認學生們升級時上升的能力值情報。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_60_01"
+  },
+  {
+    "TalkId": 61,
+    "AnimationName": "02",
+    "Localize": "升級時需要「活動報告」， ",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_61_01"
+  },
+  {
+    "TalkId": 62,
+    "AnimationName": "01",
+    "Localize": "而「活動報告」可以透過執行各式任務取得。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_62_01"
+  },
+  {
+    "TalkId": 62,
+    "AnimationName": "32",
+    "Localize": "根據老師的等級，學生們的等級上限也能相應的提升。因此，當老師等級提升時，請別忘了讓學生成長喔！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_62_02"
+  },
+  {
+    "TalkId": 63,
+    "AnimationName": "01",
+    "Localize": "接著來看看學生的裝備吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_63_01"
+  },
+  {
+    "TalkId": 63,
+    "AnimationName": "01",
+    "Localize": "首先請選擇學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_63_02"
+  },
+  {
+    "TalkId": 64,
+    "AnimationName": "01",
+    "Localize": "學生的裝備可以在下方的裝備欄位進行確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_64_01"
+  },
+  {
+    "TalkId": 65,
+    "AnimationName": "01",
+    "Localize": "可依開放的欄位數穿戴裝備，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_65_01"
+  },
+  {
+    "TalkId": 65,
+    "AnimationName": "01",
+    "Localize": "仍被鎖定的欄位將隨著學生等級提升依次開放。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_65_02"
+  },
+  {
+    "TalkId": 65,
+    "AnimationName": "01",
+    "Localize": "裝備可以透過這個按鈕進行強化。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_65_03"
+  },
+  {
+    "TalkId": 66,
+    "AnimationName": "25",
+    "Localize": "穿上優秀裝備的話，不只是學生們的能力，就連幹勁也會提升吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_66_01"
+  },
+  {
+    "TalkId": 66,
+    "AnimationName": "03",
+    "Localize": "請用更好的裝備讓學生們成長吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_66_02"
+  },
+  {
+    "TalkId": 67,
+    "AnimationName": "01",
+    "Localize": "歡迎光臨，老師。這裡是夏萊附設的咖啡廳。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_67_01"
+  },
+  {
+    "TalkId": 67,
+    "AnimationName": "03",
+    "Localize": "可以在這裡和來訪的學生打招呼，或者取得咖啡廳的收益。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_67_02"
+  },
+  {
+    "TalkId": 67,
+    "AnimationName": "01",
+    "Localize": "造訪咖啡廳的學生可以透過點擊進行交流。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_67_03"
+  },
+  {
+    "TalkId": 68,
+    "AnimationName": "01",
+    "Localize": "接下來將說明在咖啡廳可以做哪些事。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_68_01"
+  },
+  {
+    "TalkId": 69,
+    "AnimationName": "13",
+    "Localize": "首先可以用時髦的家具來裝飾咖啡廳，以及送禮物給來訪的學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_69_02"
+  },
+  {
+    "TalkId": 69,
+    "AnimationName": "01",
+    "Localize": "另外可以在此處確認咖啡廳現在的狀況。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_69_03"
+  },
+  {
+    "TalkId": 70,
+    "AnimationName": "01",
+    "Localize": "咖啡廳的舒適度會隨著咖啡廳配置的家具改變。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_70_01"
+  },
+  {
+    "TalkId": 70,
+    "AnimationName": "25",
+    "Localize": "此外依據舒適度的改變，咖啡廳的收益也將有所變動！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_70_02"
+  },
+  {
+    "TalkId": 71,
+    "AnimationName": "22",
+    "Localize": "可在此確認咖啡廳的收益。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_71_01"
+  },
+  {
+    "TalkId": 72,
+    "AnimationName": "01",
+    "Localize": "收益存在保存上限，到達上限後超過的收益將會消失，還請注意！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_72_01"
+  },
+  {
+    "TalkId": 73,
+    "AnimationName": "01",
+    "Localize": "接著來確認學生們的技能，以及使其成長的方法吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_73_01"
+  },
+  {
+    "TalkId": 73,
+    "AnimationName": "03",
+    "Localize": "首先請選擇學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_73_02"
+  },
+  {
+    "TalkId": 74,
+    "AnimationName": "01",
+    "Localize": "學生持有的技能可以在這裡確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_74_01"
+  },
+  {
+    "TalkId": 75,
+    "AnimationName": "01",
+    "Localize": "再確認得詳細一點吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_75_01"
+  },
+  {
+    "TalkId": 76,
+    "AnimationName": "01",
+    "Localize": "點擊各個技能即可查看該技能的詳細說明。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_76_01"
+  },
+  {
+    "TalkId": 76,
+    "AnimationName": "01",
+    "Localize": "那麼接下來，該如何讓技能成長……",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_76_02"
+  },
+  {
+    "TalkId": 77,
+    "AnimationName": "01",
+    "Localize": "在這裡可以讓喜歡的技能成長。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_77_01"
+  },
+  {
+    "TalkId": 78,
+    "AnimationName": "01",
+    "Localize": "下一等級的技能情報可以事前進行確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_78_01"
+  },
+  {
+    "TalkId": 79,
+    "AnimationName": "01",
+    "Localize": "成長所需的材料則可以在此確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_79_01"
+  },
+  {
+    "TalkId": 80,
+    "AnimationName": "11",
+    "Localize": "請收集材料讓學生的技能成長吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_80_01"
+  },
+  {
+    "TalkId": 140001,
+    "AnimationName": "25",
+    "Localize": "獲得「紀念大廳」了呢！ ",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140001_01"
+  },
+  {
+    "TalkId": 140001,
+    "AnimationName": "12",
+    "Localize": "在那之中保存著與學生們的特別回憶。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140001_02"
+  },
+  {
+    "TalkId": 140001,
+    "AnimationName": "13",
+    "Localize": "機會難得，要不要再看一次呢？",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140001_03"
+  },
+  {
+    "TalkId": 140002,
+    "AnimationName": "01",
+    "Localize": "首先可在此決定協助老師執行任務的值日生學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140002_01"
+  },
+  {
+    "TalkId": 140002,
+    "AnimationName": "01",
+    "Localize": "被指定為值日生的學生會在夏萊大廳待命。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140002_02"
+  },
+  {
+    "TalkId": 140002,
+    "AnimationName": "01",
+    "Localize": "接著，紀念大廳可以在此確認。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140002_03"
+  },
+  {
+    "TalkId": 140003,
+    "AnimationName": "01",
+    "Localize": "像這樣把擁有與老師紀念大廳的學生設定為值日生之後……",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140003_01"
+  },
+  {
+    "TalkId": 140004,
+    "AnimationName": "01",
+    "Localize": "在這裡就會出現長這樣的「紀念大廳轉換按鈕」。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140004_01"
+  },
+  {
+    "TalkId": 140005,
+    "AnimationName": "01",
+    "Localize": "系統設定中也有紀念大廳的相關選項能夠調整，稍後請去確認看看吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_140005_01"
+  },
+  {
+    "TalkId": 150001,
+    "AnimationName": "01",
+    "Localize": "可以利用倍速按鈕調整戰鬥的速度。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_150001_01"
+  },
+  {
+    "TalkId": 150001,
+    "AnimationName": "01",
+    "Localize": "請用喜歡的速度指揮戰鬥吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_150001_02"
+  },
+  {
+    "TalkId": 160001,
+    "AnimationName": "01",
+    "Localize": "這裡是工藝室。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160001_01"
+  },
+  {
+    "TalkId": 160001,
+    "AnimationName": "01",
+    "Localize": "可以在這裡投入各種材料獲得各式的道具。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160001_02"
+  },
+  {
+    "TalkId": 160001,
+    "AnimationName": "01",
+    "Localize": "按下開始製造鈕後，工藝室就會啟動。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160001_03"
+  },
+  {
+    "TalkId": 160001,
+    "AnimationName": "03",
+    "Localize": "按下開始製造鈕試試看吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160001_04"
+  },
+  {
+    "TalkId": 160002,
+    "AnimationName": "01",
+    "Localize": "要讓工藝室開始製造就需要啟動石。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160002_01"
+  },
+  {
+    "TalkId": 160003,
+    "AnimationName": "01",
+    "Localize": "投入啟動石之後，點擊開放按鈕即可製造。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160003_01"
+  },
+  {
+    "TalkId": 160004,
+    "AnimationName": "01",
+    "Localize": "進行製造時，可透過選擇節點調整最終的結果。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160004_01"
+  },
+  {
+    "TalkId": 160004,
+    "AnimationName": "01",
+    "Localize": "選擇節點之後，等待一段時間即可完成製造。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160004_02"
+  },
+  {
+    "TalkId": 160005,
+    "AnimationName": "25",
+    "Localize": "請在工藝室試著製造各式道具吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_160005_01"
+  },
+  {
+    "TalkId": 170001,
+    "AnimationName": "01",
+    "Localize": "在這裡，老師可以決定課程表。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170001_01"
+  },
+  {
+    "TalkId": 170001,
+    "AnimationName": "01",
+    "Localize": "可以選擇各式各樣的課程，和學生們共度時間唷。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170001_02"
+  },
+  {
+    "TalkId": 170001,
+    "AnimationName": "01",
+    "Localize": "首先前往夏萊辦公室吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170001_03"
+  },
+  {
+    "TalkId": 170002,
+    "AnimationName": "01",
+    "Localize": "執行課程表後，參加此課程表的學生的羈絆點數就會增加！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170002_01"
+  },
+  {
+    "TalkId": 170002,
+    "AnimationName": "05",
+    "Localize": "由於課程表的執行次數有限，注意這點並做出決定吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170002_02"
+  },
+  {
+    "TalkId": 170003,
+    "AnimationName": "01",
+    "Localize": "雖然最初課程表的執行次數相對有限，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170003_01"
+  },
+  {
+    "TalkId": 170003,
+    "AnimationName": "01",
+    "Localize": "但是隨著地區等級的提升，就能進行更多次、更多種類的課程表！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170003_02"
+  },
+  {
+    "TalkId": 170003,
+    "AnimationName": "01",
+    "Localize": "那麼，來確認現在可以執行的課程表吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170003_03"
+  },
+  {
+    "TalkId": 170004,
+    "AnimationName": "01",
+    "Localize": "可以在這裡確認所有課程表！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170004_01"
+  },
+  {
+    "TalkId": 170004,
+    "AnimationName": "03",
+    "Localize": "順利執行課程表，獲得各式獎勵與羈絆點數吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_170004_02"
+  },
+  {
+    "TalkId": 180001,
+    "AnimationName": "01",
+    "Localize": "收集到尚未招募的學生的神名文字了呢。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180001_01"
+  },
+  {
+    "TalkId": 180001,
+    "AnimationName": "03",
+    "Localize": "這次就用這些神名文字來招募學生吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180001_02"
+  },
+  {
+    "TalkId": 180002,
+    "AnimationName": "01",
+    "Localize": "請選擇收集到神名文字的學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180002_01"
+  },
+  {
+    "TalkId": 180003,
+    "AnimationName": "01",
+    "Localize": "將學生的神名文字收集到一定數量之後，即可點擊「神名文字兌換」按鈕，以神名文字作為交換來招募學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180003_01"
+  },
+  {
+    "TalkId": 180003,
+    "AnimationName": "01",
+    "Localize": "或者不立刻使用，以「招募」獲得該學生後再將神名文字用於「神秘解放」也是一種作法。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180003_01_1"
+  },
+  {
+    "TalkId": 180004,
+    "AnimationName": "25",
+    "Localize": "那麼我暫時告辭。今後也請加油哦，老師！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180003_02"
+  },
+  {
+    "TalkId": 190001,
+    "AnimationName": "01",
+    "Localize": "可以在這裡觀看奇普托斯發生的各種故事。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190001_01"
+  },
+  {
+    "TalkId": 190001,
+    "AnimationName": "01",
+    "Localize": "首先是主線劇情。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190001_02"
+  },
+  {
+    "TalkId": 190002,
+    "AnimationName": "01",
+    "Localize": "在主線劇情中，可以觀看在奇普托斯各處發生的故事。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190002_01"
+  },
+  {
+    "TalkId": 190002,
+    "AnimationName": "25",
+    "Localize": "接下來是支線劇情！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190002_03"
+  },
+  {
+    "TalkId": 190003,
+    "AnimationName": "01",
+    "Localize": "在支線劇情中，可以觀看各個學園的社團和委員會的小故事。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190003_01"
+  },
+  {
+    "TalkId": 190003,
+    "AnimationName": "01",
+    "Localize": "最後，除了這兩者之外，在任務中看到的劇情等等故事可在「重播」裡重新觀看。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190003_02"
+  },
+  {
+    "TalkId": 190004,
+    "AnimationName": "03",
+    "Localize": "那麼老師，請繼續加油喔！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_190004_01"
+  },
+  {
+    "TalkId": 200001,
+    "AnimationName": "01",
+    "Localize": "可以進行「特殊任務」了。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200001_01"
+  },
+  {
+    "TalkId": 200001,
+    "AnimationName": "03",
+    "Localize": "要不要一起去詳細看看？",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200001_02"
+  },
+  {
+    "TalkId": 200001,
+    "AnimationName": "01",
+    "Localize": "首先是「據點防禦」。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200001_03"
+  },
+  {
+    "TalkId": 200002,
+    "AnimationName": "01",
+    "Localize": "「據點防禦」是抵擋大量來襲敵人的任務。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200002_01"
+  },
+  {
+    "TalkId": 200002,
+    "AnimationName": "01",
+    "Localize": "可獲得「活動報告」作為獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200002_02"
+  },
+  {
+    "TalkId": 200002,
+    "AnimationName": "01",
+    "Localize": "接著是「信用貨幣回收」。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200002_03"
+  },
+  {
+    "TalkId": 200003,
+    "AnimationName": "01",
+    "Localize": "「信用貨幣回收」是必須在限制時間內快速打倒敵人的任務。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200003_01"
+  },
+  {
+    "TalkId": 200003,
+    "AnimationName": "01",
+    "Localize": "可獲得「信用貨幣」作為獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200003_02"
+  },
+  {
+    "TalkId": 200003,
+    "AnimationName": "25",
+    "Localize": "特殊任務沒有入場次數限制，可以盡情執行！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_200003_03"
+  },
+  {
+    "TalkId": 210001,
+    "AnimationName": "01",
+    "Localize": "可以進行「懸賞通緝」了。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210001_01"
+  },
+  {
+    "TalkId": 210002,
+    "AnimationName": "22",
+    "Localize": "「懸賞通緝」是追擊逃跑壞蛋的任務。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210002_01"
+  },
+  {
+    "TalkId": 210002,
+    "AnimationName": "22",
+    "Localize": "順利達成的話，可獲得「技能成長材料」作為獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210002_02"
+  },
+  {
+    "TalkId": 210002,
+    "AnimationName": "01",
+    "Localize": "此外，進行懸賞通緝時需要入場票券。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210002_03"
+  },
+  {
+    "TalkId": 210003,
+    "AnimationName": "03",
+    "Localize": "票券會在每天固定的時間回復，請放心！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210003_01"
+  },
+  {
+    "TalkId": 210003,
+    "AnimationName": "01",
+    "Localize": "啊，還有一點，我來說明非常重要的「學園增益效果」。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210003_02"
+  },
+  {
+    "TalkId": 210004,
+    "AnimationName": "01",
+    "Localize": "根據懸賞通緝任務種類的不同，部分學園可獲得增益效果。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210004_01"
+  },
+  {
+    "TalkId": 210005,
+    "AnimationName": "01",
+    "Localize": "編入部隊中的該學園學生數越多，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210005_01"
+  },
+  {
+    "TalkId": 210005,
+    "AnimationName": "01",
+    "Localize": "執行任務時就越會輕鬆。這可不能錯過呢！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210005_02"
+  },
+  {
+    "TalkId": 210005,
+    "AnimationName": "03",
+    "Localize": "那麼就繼續拜託你囉！ ",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_210005_03"
+  },
+  {
+    "TalkId": 220001,
+    "AnimationName": "01",
+    "Localize": "接下來將對綁定帳號進行說明。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_01"
+  },
+  {
+    "TalkId": 220001,
+    "AnimationName": "02",
+    "Localize": "現在就去看看吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_02"
+  },
+  {
+    "TalkId": 220002,
+    "AnimationName": "01",
+    "Localize": "在這裡可以把老師的帳號與其他各種帳號進行綁定。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220002_01"
+  },
+  {
+    "TalkId": 220003,
+    "AnimationName": "02",
+    "Localize": "綁定帳號後，在使用其他設備登入或重新下載遊戲時， ",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_01"
+  },
+  {
+    "TalkId": 220003,
+    "AnimationName": "01",
+    "Localize": "各種情況下都會更為方便，推薦老師務必進行綁定。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_02"
+  },
+  {
+    "TalkId": 220003,
+    "AnimationName": "03",
+    "Localize": "那就拜託了，老師！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_03"
+  },
+  {
+    "TalkId": 101130101,
+    "AnimationName": "01",
+    "Localize": "為了老師日後要執行的任務，我準備了一點訓練。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130101_01_1"
+  },
+  {
+    "TalkId": 101130101,
+    "AnimationName": "03",
+    "Localize": "那麼就趕快開始吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130101_01_2"
+  },
+  {
+    "TalkId": 101130101,
+    "AnimationName": "01",
+    "Localize": "首先是關於執行戰鬥的地點「地形」的訓練。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130101_01_3"
+  },
+  {
+    "TalkId": 101130101,
+    "AnimationName": "01",
+    "Localize": "每個學生能順利執行作戰的[c][007eff]地形[-][/c]各不相同。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130101_01"
+  },
+  {
+    "TalkId": 101130102,
+    "AnimationName": "01",
+    "Localize": "有擅長特定地形的學生，也有對特定地形不拿手的學生。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130102_01"
+  },
+  {
+    "TalkId": 101130103,
+    "AnimationName": "01",
+    "Localize": "在編輯部隊時確認此情報，將對執行任務有很大的幫助！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130103_01"
+  },
+  {
+    "TalkId": 101130104,
+    "AnimationName": "25",
+    "Localize": "是[c][007eff]掩蔽物[-][/c]！[c][007eff]掩蔽物[-][/c]可在敵人的攻擊下保護自己。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130104_01"
+  },
+  {
+    "TalkId": 101130105,
+    "AnimationName": "01",
+    "Localize": "大部分的學生看到掩蔽物都會[c][00f0ff]躲起來[-][/c]保護自己。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130104_02"
+  },
+  {
+    "TalkId": 101130106,
+    "AnimationName": "01",
+    "Localize": "但是也有不會進行掩蔽的學生，這點需要注意。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130104_03"
+  },
+  {
+    "TalkId": 101130201,
+    "AnimationName": "01",
+    "Localize": "學生在作戰中有自己的[c][007eff]定位[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130201_01"
+  },
+  {
+    "TalkId": 101130202,
+    "AnimationName": "01",
+    "Localize": "依照可使用的技能分為[c][00f0ff]坦克、打手、輔助、治癒師、戰術支援(T.S)[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130201_02"
+  },
+  {
+    "TalkId": 101130203,
+    "AnimationName": "01",
+    "Localize": "會根據自己的[c][007eff]定位[-][/c]，自行移動到[c][007eff]便於執行作戰的位置[-][/c]進行戰鬥。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130201_03"
+  },
+  {
+    "TalkId": 101130203,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]輔助[-][/c]的學生是利用各種方法協助其他學生[c][007eff]進行戰鬥。[-][/c]",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130201_04"
+  },
+  {
+    "TalkId": 101130203,
+    "AnimationName": "03",
+    "Localize": "[c][007eff]小玉[-][/c]同學的技能具有[c][007eff]提升我方攻擊力[-][/c]的效果。\n使用技能來輔助其他學生吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130201_05"
+  },
+  {
+    "TalkId": 101130204,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]打手[-][/c]可利用強烈的攻擊[c][007eff]對敵人造成大量傷害。[-][/c]\n但由於體力較低，通常在後方戰鬥。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130202_01"
+  },
+  {
+    "TalkId": 101130204,
+    "AnimationName": "22",
+    "Localize": "在這之中[c][007eff]無月[-][/c]同學屬於[c][007eff]打手[-][/c]！請點擊技能卡選擇敵人！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130202_02"
+  },
+  {
+    "TalkId": 101130205,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]坦克[-][/c]的學生會在前方[c][007eff]抵擋敵人的攻擊。[-][/c]",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130203_01"
+  },
+  {
+    "TalkId": 101130205,
+    "AnimationName": "01",
+    "Localize": "在這之中[c][007eff]優香[-][/c]同學屬於[c][007eff]坦克[-][/c]。請使用技能試著強化遭受攻擊的優香同學吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130203_02"
+  },
+  {
+    "TalkId": 101130206,
+    "AnimationName": "28",
+    "Localize": "由於敵人的攻擊，學生們的體力正在減少！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130204_01"
+  },
+  {
+    "TalkId": 101130206,
+    "AnimationName": "22",
+    "Localize": "[c][007eff]治癒師[-][/c][c][007eff]花繪[-][/c]同學上場的時候到了！\n請快幫學生[c][007eff]治療！[-][/c]",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_101130204_02"
+  },
+  {
+    "TalkId": 102130301,
+    "AnimationName": "01",
+    "Localize": "敵我雙方都具有各自的[c][007eff]攻擊類型[-][/c]和[c][007eff]防禦類型[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130301_01"
+  },
+  {
+    "TalkId": 102130302,
+    "AnimationName": "25",
+    "Localize": "若以適合對付敵人[c][00f0ff]防禦類型[-][/c]的[c][00f0ff]有利類型[-][/c]角色進行攻擊，將可造成更[c][00f0ff]大量的傷害[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130302_01"
+  },
+  {
+    "TalkId": 102130303,
+    "AnimationName": "01",
+    "Localize": "敵人的[c][00f0ff]HP計量條顏色[-][/c]代表敵人的[c][00f0ff]類型[-][/c]，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130303_01"
+  },
+  {
+    "TalkId": 102130304,
+    "AnimationName": "01",
+    "Localize": "[c][00f0ff]技能卡的顏色[-][/c]代表學生的[c][00f0ff]攻擊類型[-][/c]，請作為參考。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130304_01"
+  },
+  {
+    "TalkId": 102130305,
+    "AnimationName": "14",
+    "Localize": "出現了[c][007eff]輕裝甲類型[-][/c]的敵人！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130305_01"
+  },
+  {
+    "TalkId": 102130305,
+    "AnimationName": "01",
+    "Localize": "成功發動[c][007eff]爆炸類型[-][/c]的攻擊將可造成[c][007eff]大量的傷害[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130305_02"
+  },
+  {
+    "TalkId": 102130305,
+    "AnimationName": "22",
+    "Localize": "[c][007eff]亞瑠[-][/c]同學的技能屬於[c][007eff]爆炸類型[-][/c]，試著使用亞瑠的技能吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130305_03"
+  },
+  {
+    "TalkId": 102130306,
+    "AnimationName": "01",
+    "Localize": "這次出現的是[c][007eff]重裝甲類型[-][/c]的敵人呢。\n[c][007eff]貫穿類型[-][/c]的技能會很有效！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130306_01"
+  },
+  {
+    "TalkId": 102130306,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]淳子[-][/c]同學的技能屬於[c][007eff]貫穿類型[-][/c]。試著使用淳子的技能攻擊敵人吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130306_02"
+  },
+  {
+    "TalkId": 102130307,
+    "AnimationName": "05",
+    "Localize": "那個是[c][007eff]特殊裝甲類型[-][/c]的敵人！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130307_01"
+  },
+  {
+    "TalkId": 102130307,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]神秘類型[-][/c]的攻擊對[c][007eff]特殊裝甲類型[-][/c]的敵人很有效。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130307_02"
+  },
+  {
+    "TalkId": 102130307,
+    "AnimationName": "22",
+    "Localize": "[c][007eff]知世[-][/c]同學的技能屬於[c][007eff]神秘類型[-][/c]，請按壓技能卡並拖曳，在敵人附近放開手指吧！技能可透過點擊或是拖曳來發動！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130307_03"
+  },
+  {
+    "TalkId": 102130401,
+    "AnimationName": "01",
+    "Localize": "透過學生的[c][007eff]技能[-][/c]，\n老師能夠[c][007eff]親自介入戰鬥[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130401_01"
+  },
+  {
+    "TalkId": 102130401,
+    "AnimationName": "01",
+    "Localize": "老師實際介入戰鬥時，技能的[c][007eff]使用時機[-][/c]與[c][007eff]使用位置[-][/c]非常重要。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130401_02"
+  },
+  {
+    "TalkId": 102130401,
+    "AnimationName": "03",
+    "Localize": "那麼請老師下指示，使用[c][007eff]能引誘敵人的技能[-][/c]吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130401_03"
+  },
+  {
+    "TalkId": 102130402,
+    "AnimationName": "01",
+    "Localize": "[c][007eff]茱莉[-][/c]同學的技能可以[c][007eff]引誘敵人[-][/c]並接著造成[c][007eff]傷害[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130402_01"
+  },
+  {
+    "TalkId": 102130402,
+    "AnimationName": "25",
+    "Localize": "聚集越多敵人，範圍攻擊的效率就會變得更好！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130402_02"
+  },
+  {
+    "TalkId": 102130402,
+    "AnimationName": "01",
+    "Localize": "請點擊茱莉的技能卡並拖曳到想發動的位置，在喜歡的位置放開手指吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130402_03"
+  },
+  {
+    "TalkId": 102130402,
+    "AnimationName": "05",
+    "Localize": "如果位置離敵人太遠，可能會引誘失敗，這點請老師注意！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130402_04"
+  },
+  {
+    "TalkId": 103130501,
+    "AnimationName": "01",
+    "Localize": "部分學生可以自行[c][007eff]設置掩蔽物[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130501_01"
+  },
+  {
+    "TalkId": 103130501,
+    "AnimationName": "01",
+    "Localize": "請使用[c][007eff]志美子[-][/c]同學的技能幫助白子同學和旬同學吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130501_02"
+  },
+  {
+    "TalkId": 103130501,
+    "AnimationName": "25",
+    "Localize": "在兩人的前方設置掩蔽物，抵擋敵人的攻擊吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130501_03"
+  },
+  {
+    "TalkId": 103130601,
+    "AnimationName": "01",
+    "Localize": "有些學生具有聽從老師指示[c][007eff]進行移動的技能[-][/c]。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130501_04"
+  },
+  {
+    "TalkId": 103130601,
+    "AnimationName": "22",
+    "Localize": "而且如果能善用這些學生的技能，便可依照老師的指示[c][007eff]躲開敵人的攻擊[-][/c]！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130501_05"
+  },
+  {
+    "TalkId": 103130602,
+    "AnimationName": "05",
+    "Localize": "敵人盯上明日奈了。\n感覺馬上就會使出強力的攻擊！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130602_01"
+  },
+  {
+    "TalkId": 103130602,
+    "AnimationName": "05",
+    "Localize": "用[c][007eff]明日奈[-][/c]同學的技能來躲避吧！請指示明日奈到攻擊範圍之外進行迴避！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130602_02"
+  },
+  {
+    "TalkId": 103130602,
+    "AnimationName": "22",
+    "Localize": "躲開攻擊之後就用[c][007eff]花凛的技能進行反擊[-][/c]吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_103130602_03"
+  },
+  {
+    "TalkId": 230001,
+    "AnimationName": "01",
+    "Localize": "有能夠裝備固有武器的學生呢。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230001_01"
+  },
+  {
+    "TalkId": 230001,
+    "AnimationName": "02",
+    "Localize": "固有武器是只有神秘解放至★5的學生能裝備的特別武器。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230001_02"
+  },
+  {
+    "TalkId": 230002,
+    "AnimationName": "03",
+    "Localize": "那麼首先就試著裝備這位學生的固有武器吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230002_01"
+  },
+  {
+    "TalkId": 230002,
+    "AnimationName": "02",
+    "Localize": "請點擊固有武器的欄位。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230002_02"
+  },
+  {
+    "TalkId": 230003,
+    "AnimationName": "20",
+    "Localize": "在這裡可對固有武器進行裝備和管理。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230003_01"
+  },
+  {
+    "TalkId": 230003,
+    "AnimationName": "01",
+    "Localize": "固有武器可以提升學生的能力值，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230003_02"
+  },
+  {
+    "TalkId": 230004,
+    "AnimationName": "02",
+    "Localize": "或是強化學生的技能和各種地形的戰鬥力。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230004_01"
+  },
+  {
+    "TalkId": 230005,
+    "AnimationName": "02",
+    "Localize": "固有武器可透過這個按鈕進行裝備。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230005_01"
+  },
+  {
+    "TalkId": 230006,
+    "AnimationName": "01",
+    "Localize": "強化固有武器後，除了能力值將大幅增加，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230006_01"
+  },
+  {
+    "TalkId": 230006,
+    "AnimationName": "12",
+    "Localize": "同時也會影響技能的強化，非常推薦進行強化哦！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230006_02"
+  },
+  {
+    "TalkId": 230006,
+    "AnimationName": "22",
+    "Localize": "那麼，今後也繼續加油吧！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230006_03"
+  },
+  {
+    "TalkId": 240001,
+    "AnimationName": "31",
+    "Localize": "老師，歡迎來到「綜合戰術考試」的會場！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240001_01"
+  },
+  {
+    "TalkId": 240001,
+    "AnimationName": "01",
+    "Localize": "學生們將會在這裡以各式各樣的形式接受考試，並依照結果獲得獎勵。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240001_02"
+  },
+  {
+    "TalkId": 240001,
+    "AnimationName": "02",
+    "Localize": "各考場皆存在著「特殊規則」。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240001_03"
+  },
+  {
+    "TalkId": 240001,
+    "AnimationName": "20",
+    "Localize": "越能依照規則快速的解決問題，得到的分數就會越高。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240001_04"
+  },
+  {
+    "TalkId": 240002,
+    "AnimationName": "02",
+    "Localize": "考試期間內，按下「入場」按鈕即可開始進行考試。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240002_01"
+  },
+  {
+    "TalkId": 240002,
+    "AnimationName": "01",
+    "Localize": "按下「資訊」按鈕即可確認下次考試的資訊！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240002_02"
+  },
+  {
+    "TalkId": 240002,
+    "AnimationName": "32",
+    "Localize": "請在仔細確認特殊規則後，與學生們一起思考相應的戰略。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240002_03"
+  },
+  {
+    "TalkId": 240002,
+    "AnimationName": "25",
+    "Localize": "那麼老師，我會支持你獲得好結果的。請加油哦！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_240002_04"
+  },
+  {
+    "TalkId": 250001,
+    "AnimationName": "05",
+    "Localize": "老師！可以參加大決戰了！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250001_01"
+  },
+  {
+    "TalkId": 250001,
+    "AnimationName": "01",
+    "Localize": "在總力戰中遇過的頭目會以各種防禦類型出現。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250001_02"
+  },
+  {
+    "TalkId": 250002,
+    "AnimationName": "02",
+    "Localize": "每個頭目出現的時間是固定的！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250002_01"
+  },
+  {
+    "TalkId": 250003,
+    "AnimationName": "01",
+    "Localize": "出現的頭目根據防禦類型的不同，需要的入場券也不同，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250003_01"
+  },
+  {
+    "TalkId": 250003,
+    "AnimationName": "03",
+    "Localize": "每天登入時，都會獲得所有防禦類型的票券各1張。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250003_02"
+  },
+  {
+    "TalkId": 250003,
+    "AnimationName": "01",
+    "Localize": "曾打倒過的頭目可以按防禦類型和難易度進行掃蕩，",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250003_03"
+  },
+  {
+    "TalkId": 250003,
+    "AnimationName": "02",
+    "Localize": "但如果賽季變更了，就必須重新打倒頭目才能再進行掃蕩！請注意！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250003_04"
+  },
+  {
+    "TalkId": 250003,
+    "AnimationName": "22",
+    "Localize": "根據每個頭目的防禦類型合計最高得分，記錄排名。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250003_05"
+  },
+  {
+    "TalkId": 250004,
+    "AnimationName": "25",
+    "Localize": "我認為這不是能輕鬆完成的任務，但彩奈會竭盡全力支持你的！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_250004_01"
+  }
+]
