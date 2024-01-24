@@ -1,1872 +1,1872 @@
 [
   {
     "Key": 3205063001,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "搜尋不到該幫手。"
   },
   {
     "Key": 3080068811,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "收到無法處理的請求。"
   },
   {
     "Key": 1451459100,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "收到無法處理的請求。"
   },
   {
     "Key": 593817179,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "數據包的協議錯誤或不存在的協議。"
   },
   {
     "Key": 2920904025,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "session無效。"
   },
   {
     "Key": 3347437062,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "用戶端版本不符。"
   },
   {
     "Key": 3047249769,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 430044536,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "DB請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 2095745906,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "財貨不足。"
   },
   {
     "Key": 2367643443,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已達最大神秘解放。"
   },
   {
     "Key": 3762581793,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已達持有上限，無法再領取。"
   },
   {
     "Key": 2711028080,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "在DB中搜尋不到帳號資訊。"
   },
   {
     "Key": 950826558,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "不存在的帳號名稱。(建立帳號中)"
   },
   {
     "Key": 1838154309,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "該帳號已存在。"
   },
   {
     "Key": 296527733,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "尚未輸入開發用ID名稱"
   },
   {
     "Key": 2525474471,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "具有該名稱的帳號不存在。"
   },
   {
     "Key": 503931658,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "此帳號沒有連線權限。"
   },
   {
     "Key": 3296768386,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "暱稱中包含空格。\n暱稱不能使用空格。"
   },
   {
     "Key": 3501394912,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "新暱稱與原暱稱相同。"
   },
   {
     "Key": 3421421223,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "有無法使用的文字。請重新編輯。"
   },
   {
     "Key": 3283850040,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "暱稱長度過短或過長。"
   },
   {
     "Key": 1228209340,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "認證伺服器無法處理的請求。"
   },
   {
     "Key": 787750543,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "與認證伺服器通訊時發生問題。"
   },
   {
     "Key": 2136129359,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "處理認證伺服器請求的途中發生問題。"
   },
   {
     "Key": 1234200571,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法建立帳號"
   },
   {
     "Key": 2238395843,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器執行cheat command失敗。"
   },
   {
     "Key": 928524933,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "帳號與認證碼綁定失敗。"
   },
   {
     "Key": 1004710492,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法登錄開發者帳號。"
   },
   {
     "Key": 491727203,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "該認證ID已被使用。\n帳號建立失敗。"
   },
   {
     "Key": 4020319994,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法更新帳號狀態"
   },
   {
     "Key": 230738428,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有對象學生。"
   },
   {
     "Key": 269379813,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "鎖定中的學生。"
   },
   {
     "Key": 2445884324,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "重複的學生。"
   },
   {
     "Key": 2707122617,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已編入部隊的學生。"
   },
   {
     "Key": 3808631556,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "偵測到嘗試減少羈絆等級。\n將取消更新羈絆等級。"
   },
   {
     "Key": 4060733599,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已達最大羈絆等級。"
   },
   {
     "Key": 2302161878,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "神秘解放或等級不足，無法進行升級。"
   },
   {
     "Key": 3518848085,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "沒有裝備。"
   },
   {
     "Key": 1030865580,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法裝到欄位上的裝備。"
   },
   {
     "Key": 2186670411,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法販售或使用裝備。"
   },
   {
     "Key": 3926485639,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "穿戴中的裝備。"
   },
   {
     "Key": 271875608,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已超出裝備升級所需的數量。"
   },
   {
     "Key": 3899674665,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未穿戴的裝備。"
   },
   {
     "Key": 3199174171,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "道具不存在。"
   },
   {
     "Key": 2028977636,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法販售或使用道具。"
   },
   {
     "Key": 2153358435,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "建立道具請求中遺漏數量資訊。"
   },
   {
     "Key": 4227111820,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "預期達到道具持有上限。"
   },
   {
     "Key": 436810703,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "道具使用方式與定義不符。"
   },
   {
     "Key": 1666241848,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "神秘解放所需道具不足。"
   },
   {
     "Key": 2402602733,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "道具持有量低於要求量。"
   },
   {
     "Key": 2874832470,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "經驗值上升道具使用請求中遺漏數量資訊。"
   },
   {
     "Key": 1734057918,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未指定隊長。"
   },
   {
     "Key": 1323800997,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "搜尋不到部隊。"
   },
   {
     "Key": 2152463179,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未配置到戰略地圖的部隊。"
   },
   {
     "Key": 2875328899,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "部隊欄位不足。"
   },
   {
     "Key": 606737380,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已編入其他部隊的學生。"
   },
   {
     "Key": 3085378534,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未指定部隊類型。"
   },
   {
     "Key": 2234067980,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "不允許空部隊。"
   },
   {
     "Key": 2422016245,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "由於未滿足解禁條件，還無法進行。"
   },
   {
     "Key": 688651309,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "每日進行次數已全數耗盡。"
   },
   {
     "Key": 957588825,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "關卡進入失敗。"
   },
   {
     "Key": 3910671251,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "此為無效的關卡進行資訊。"
   },
   {
     "Key": 213352577,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "還沒輪到玩家回合。"
   },
   {
     "Key": 2136130675,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "關卡不存在。"
   },
   {
     "Key": 138788887,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "章節不存在。"
   },
   {
     "Key": 614311547,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "我方或敵方部隊不存在。"
   },
   {
     "Key": 272639916,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法再配置。"
   },
   {
     "Key": 2432466270,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未指定普通/困難模式的請求。"
   },
   {
     "Key": 2402851462,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已領取的獎勵請求。"
   },
   {
     "Key": 404034177,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "勝負判定失敗。"
   },
   {
     "Key": 1012603495,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已耗盡所有行動次數。"
   },
   {
     "Key": 260795101,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法緊急恢復。"
   },
   {
     "Key": 347228547,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "緊急恢復每日使用次數已全數耗盡。"
   },
   {
     "Key": 1157920399,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "我方與敵方部隊的位置不同。"
   },
   {
     "Key": 2583699762,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "有尚未行動的敵軍部隊。"
   },
   {
     "Key": 3261228687,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "冒險戰鬥結果處理失敗。"
   },
   {
     "Key": 2942809624,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "沒有可領取的郵件資訊。"
   },
   {
     "Key": 4228418186,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "此為尚未滿足達成條件的任務獎勵。"
   },
   {
     "Key": 415352066,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "簽到簿資訊有誤。"
   },
   {
     "Key": 1758812781,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到商店請求的資訊。"
   },
   {
     "Key": 2041378334,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "商店編號與物品編號與資料表值不符。"
   },
   {
     "Key": 1749329065,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "商品編號不存在於商店資料表中。"
   },
   {
     "Key": 2660807240,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超出可購買的最大次數。"
   },
   {
     "Key": 2950738644,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法再更新"
   },
   {
     "Key": 4237895473,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到商店請求的資訊。"
   },
   {
     "Key": 1269606458,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "沒有組合式資訊。"
   },
   {
     "Key": 1458733722,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "組合式需要的材料不足。 "
   },
   {
     "Key": 3621762549,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "組合式數據有問題。 "
   },
   {
     "Key": 613903562,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "對象特別大廳不存在。"
   },
   {
     "Key": 3205256468,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法變更大廳模式。 "
   },
   {
     "Key": 1877159664,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "獎勵資訊無效。"
   },
   {
     "Key": 216432509,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已領取的獎勵請求。"
   },
   {
     "Key": 1783313464,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "連線時間不足。"
   },
   {
     "Key": 1192440065,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "由於未滿足解禁條件，還無法進行。"
   },
   {
     "Key": 49321440,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未建立咖啡廳。"
   },
   {
     "Key": 463622482,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "家具配置失敗。"
   },
   {
     "Key": 1865613949,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "家具位置變更失敗。"
   },
   {
     "Key": 2188088798,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "對學生設定的互動數據不存在。"
   },
   {
     "Key": 1510279504,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到家具資訊。"
   },
   {
     "Key": 696726334,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有可獲得的資產。"
   },
   {
     "Key": 454910838,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": ""
   },
   {
     "Key": 2000402903,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已完成的劇情。"
   },
   {
     "Key": 3716096871,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未完成指定的劇情。"
   },
   {
     "Key": 449070089,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "等級不足。"
   },
   {
     "Key": 4267934794,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未完成指定的任務關卡。"
   },
   {
     "Key": 1026052528,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "登錄的學生數不足。"
   },
   {
     "Key": 1243134087,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "DB處理失敗。"
   },
   {
     "Key": 4163649284,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已看過的劇情。"
   },
   {
     "Key": 2194821661,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "DB處理失敗。"
   },
   {
     "Key": 973547158,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到製造資訊。"
   },
   {
     "Key": 2970299365,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "錯誤的節點生成請求。"
   },
   {
     "Key": 140003667,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "節點升級所需經驗值不足。"
   },
   {
     "Key": 722323811,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法開始。"
   },
   {
     "Key": 2339702451,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "並非基礎節點。"
   },
   {
     "Key": 1332955216,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已開始製造。"
   },
   {
     "Key": 1254199814,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "製造開始前或已完成的製造。"
   },
   {
     "Key": 2597660730,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "製造進行中。"
   },
   {
     "Key": 4087551590,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到資訊。"
   },
   {
     "Key": 2615324660,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "非賽季期間。"
   },
   {
     "Key": 2947026275,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超過限制時間，戰鬥結束。"
   },
   {
     "Key": 1934835945,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到戰鬥資訊。"
   },
   {
     "Key": 4149047221,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "戰鬥資訊儲存失敗。"
   },
   {
     "Key": 3058666136,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "沒有可領取的獎勵。"
   },
   {
     "Key": 3573385991,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "建立的房間已存在。"
   },
   {
     "Key": 986999103,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "AP不足。"
   },
   {
     "Key": 4098579131,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "票券不足。"
   },
   {
     "Key": 1465803275,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法參加。"
   },
   {
     "Key": 767163894,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超出可參加的人數。"
   },
   {
     "Key": 2838772495,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲得獎勵資訊。"
   },
   {
     "Key": 2540639998,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到獎勵資訊。"
   },
   {
     "Key": 2750737239,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已領取獎勵，或者沒有相關資訊。"
   },
   {
     "Key": 3793271115,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": " 點數資訊更新有誤。"
   },
   {
     "Key": 2658092416,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "獎勵資訊更新有誤。"
   },
   {
     "Key": 2650496749,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲得獎勵。"
   },
   {
     "Key": 317783289,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到房間。"
   },
   {
     "Key": 4088362999,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "房間不存在。"
   },
   {
     "Key": 3260873820,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未更新獎勵領取事實。"
   },
   {
     "Key": 1449130769,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "玩家參加資訊不存在。"
   },
   {
     "Key": 1595339990,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "包含已出戰的學生。"
   },
   {
     "Key": 2172607841,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未儲存完成資訊。"
   },
   {
     "Key": 279935345,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已結束的戰鬥。"
   },
   {
     "Key": 2862945212,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到資料。"
   },
   {
     "Key": 2350037431,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "當天無法入場。"
   },
   {
     "Key": 4154804449,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "獲勝者資料有誤。"
   },
   {
     "Key": 2435225822,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "儲存資料有誤。"
   },
   {
     "Key": 3693538322,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到獎勵資訊。"
   },
   {
     "Key": 1900014796,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "獎勵Seed未更新。"
   },
   {
     "Key": 1867831835,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "擊退的敵人數量超過最大值。"
   },
   {
     "Key": 2084469709,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "目前沒有開放中的賽季"
   },
   {
     "Key": 516360769,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到群組相關資訊。"
   },
   {
     "Key": 2486217945,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到歷代名次資訊。"
   },
   {
     "Key": 2972986328,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "名次資訊有誤。"
   },
   {
     "Key": 2131067520,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "戰鬥資訊設定失敗。"
   },
   {
     "Key": 697494425,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "今天已領取獎勵"
   },
   {
     "Key": 2703780086,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "目前沒有開放中的賽季"
   },
   {
     "Key": 2481436170,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "還無法再次攻擊。\n請稍後再試。"
   },
   {
     "Key": 2528585070,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "對方已在進行戰鬥\n請更新清單"
   },
   {
     "Key": 2742406503,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "不是可挑戰的名次。"
   },
   {
     "Key": 1443720116,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "請先設定防禦組。"
   },
   {
     "Key": 4160425110,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有對戰記錄。"
   },
   {
     "Key": 2745951414,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未取得學園資訊。"
   },
   {
     "Key": 892044620,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到課程表數據。"
   },
   {
     "Key": 3165059078,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未取得Operation數據。"
   },
   {
     "Key": 928979900,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已執行的課程表。"
   },
   {
     "Key": 1627145907,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已執行的羈絆課程表。"
   },
   {
     "Key": 3703636363,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到學生。"
   },
   {
     "Key": 2211462200,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到儲存資料。"
   },
   {
     "Key": 1749817446,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "帳號已被禁止使用"
   },
   {
     "Key": 600902130,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "認證伺服器拒絕請求。\n將返回主畫面。 "
   },
   {
     "Key": 4245772995,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "認證伺服器拒絕請求。\n將返回主畫面。 "
   },
   {
     "Key": 2441522708,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "錯誤的連線。\n將返回主畫面。 "
   },
   {
     "Key": 281872164,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "存在進行中的session資訊。請稍後再重試。"
   },
   {
     "Key": 3833806126,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "Live伺服器請求開發使用的功能(強制變更為等待狀態)。"
   },
   {
     "Key": 2788887398,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "Live伺服器請求開發使用的功能(強制無視Yostar認證功能)。"
   },
   {
     "Key": 329825449,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "進入伺服器途中發生問題。\n將返回主畫面。  "
   },
   {
     "Key": 1764176572,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "進入伺服器途中發生問題。\n將返回主畫面。  "
   },
   {
     "Key": 846737899,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "進入伺服器途中發生問題。\n將返回主畫面。  "
   },
   {
     "Key": 263335428,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已使用的票券。 "
   },
   {
     "Key": 1473721350,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "由於未滿足解禁條件，還無法進行。"
   },
   {
     "Key": 4199568983,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "邀請失敗。請重試。"
   },
   {
     "Key": 854479611,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "登入失敗。"
   },
   {
     "Key": 1667401147,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "請重試。"
   },
   {
     "Key": 3373019765,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "伺服器維護中。\n將結束應用程式。"
   },
   {
     "Key": 1967620704,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器維護開始，以限制使用該內容。"
   },
   {
     "Key": 1387597489,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法連接伺服器。"
   },
   {
     "Key": 874234115,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "目前伺服器為擁擠狀態。\n正在等待連線以進行登入\n請稍候片刻。"
   },
   {
     "Key": 4131409760,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "版本不符，必須更新遊戲。"
   },
   {
     "Key": 2025471191,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未輸入優惠券號碼。"
   },
   {
     "Key": 715519178,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "錯誤的優惠券號碼。"
   },
   {
     "Key": 1128341386,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "搜尋不到優惠券資訊。"
   },
   {
     "Key": 3770265341,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已使用的優惠券。"
   },
   {
     "Key": 1897255150,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未登錄的優惠券。"
   },
   {
     "Key": 3600060356,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已刪除的優惠券。"
   },
   {
     "Key": 3406003919,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未許可的優惠券。"
   },
   {
     "Key": 2697096147,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已到期的優惠券。"
   },
   {
     "Key": 1560950739,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法使用的優惠券。"
   },
   {
     "Key": 2570594034,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "與使用期限不符的優惠券。"
   },
   {
     "Key": 3143884977,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "日期已變更，\n將移往標題。"
   },
   {
     "Key": 1099459407,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "道具使用期限已過。"
   },
   {
     "Key": 823781795,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到ID。"
   },
   {
     "Key": 1134830357,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法購買的商品。"
   },
   {
     "Key": 572639595,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到玩家資訊。"
   },
   {
     "Key": 2305226512,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "玩家等級不符。"
   },
   {
     "Key": 2702264133,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超出最大購買次數。"
   },
   {
     "Key": 1476039225,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "購買記錄儲存失敗。"
   },
   {
     "Key": 1710124296,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "每月商品可購買期間未到。"
   },
   {
     "Key": 3023464381,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲取訂單資訊。"
   },
   {
     "Key": 1892580245,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲取現金商品訂單資訊。"
   },
   {
     "Key": 364570626,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲取商品訂單資訊。"
   },
   {
     "Key": 2915218317,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲取每月商品訂單資訊。"
   },
   {
     "Key": 1834139508,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無效的發送請求。"
   },
   {
     "Key": 2408040378,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "DB更新失敗。"
   },
   {
     "Key": 1400807002,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "郵件傳送失敗。"
   },
   {
     "Key": 2091119962,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無效的帳號資訊。"
   },
   {
     "Key": 2010887118,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法獲取購買記錄。"
   },
   {
     "Key": 1183429982,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "每月商品更新失敗。"
   },
   {
     "Key": 2955685875,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "搜尋不到認證資料。\n將返回主畫面。"
   },
   {
     "Key": 844584816,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器處理認證資料途中發生錯誤。\n將返回主畫面。"
   },
   {
     "Key": 2966739105,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "偵測到無效的認證資料。\n將返回主畫面。"
   },
   {
     "Key": 2899564018,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "認證資料不正確。\n將返回主畫面。"
   },
   {
     "Key": 1556015914,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "偵測到重複登入。\n將返回主畫面。"
   },
   {
     "Key": 1988324695,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "認證資料的有效期限已過。\n將返回主畫面。"
   },
   {
     "Key": 257404051,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "在舊版本伺服器編輯的認證資料。\n將返回主畫面。"
   },
   {
     "Key": 2016178701,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "日期已變更。\n將返回主畫面。"
   },
   {
     "Key": 681178497,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "未獲得該章節的所有星星。"
   },
   {
     "Key": 2129400885,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "設定稱呼後，\n24小時內無法變更。"
   },
   {
     "Key": 3045956905,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未設定稱呼。"
   },
   {
     "Key": 4069281913,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "稱呼中包含無法使用的文字。"
   },
   {
     "Key": 469714755,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "社團不存在。"
   },
   {
     "Key": 3604544587,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "找不到您所搜尋的條件的社團。"
   },
   {
     "Key": 199871244,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未輸入搜尋字串。"
   },
   {
     "Key": 967534405,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已加入社團。"
   },
   {
     "Key": 1998286387,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已退出社團。"
   },
   {
     "Key": 2148321055,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法創設社團。"
   },
   {
     "Key": 1143382744,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "該社團已額滿。"
   },
   {
     "Key": 3299212715,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有修改社團資訊的權限。"
   },
   {
     "Key": 2071833767,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有同意加入社團請求的權限。"
   },
   {
     "Key": 1350002648,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "搜尋不到社團成員。"
   },
   {
     "Key": 250137538,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法驅逐社團成員。"
   },
   {
     "Key": 1199549907,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "社團中還有成員時無法解散社團。"
   },
   {
     "Key": 269254824,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法退出社團。"
   },
   {
     "Key": 278111411,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "退出社團經過24小時即可創設或加入社團。"
   },
   {
     "Key": 569861543,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "成員等級變更失敗。請重試。"
   },
   {
     "Key": 2894419798,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "社團已解散。"
   },
   {
     "Key": 3629172404,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "有申請加入社團的玩家。\n必須在沒有等待許可的玩家的狀態下才可變更加入條件。"
   },
   {
     "Key": 2640579740,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "能擁有該權限的成員數已滿。"
   },
   {
     "Key": 2226866488,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "請求失敗，\n請重試。"
   },
   {
     "Key": 3994088247,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "請求失敗，\n請重試。"
   },
   {
     "Key": 4070949931,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "目前為無法使用的狀態。"
   },
   {
     "Key": 989987378,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "因網路狀態有問題，必須重試。\n將移往大廳。"
   },
   {
     "Key": 1231811525,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "邀請失敗。請重試。"
   },
   {
     "Key": 2262420626,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "因超出AP持有上限，無法補充。"
   },
   {
     "Key": 367774391,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "網路狀態不順暢，暫時無法使用聊天。"
   },
   {
     "Key": 602787320,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "付費青輝石的數量為負數時無法進行遊戲。"
   },
   {
     "Key": 3004047387,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "免費青輝石的數量為負數時無法進行遊戲。"
   },
   {
     "Key": 976342321,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超出可輸入的字數上限。"
   },
   {
     "Key": 1879314961,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已達持有上限，無法再領取。"
   },
   {
     "Key": 354888554,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器設定值有問題，無法進行購買。"
   },
   {
     "Key": 3386131571,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已超過清單更新時間。"
   },
   {
     "Key": 3044066361,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已超過可編輯的時間。"
   },
   {
     "Key": 2895313259,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已更新通訊環境。\n將返回主畫面。"
   },
   {
     "Key": 3536494282,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "通訊狀態不順暢。\n將返回主畫面。"
   },
   {
     "Key": 880662068,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器沒有回應。\n將返回主畫面。"
   },
   {
     "Key": 2143241516,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "記憶體不足。\n將返回主畫面。"
   },
   {
     "Key": 2519875832,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "不正常的用戶端。\n將返回主畫面。"
   },
   {
     "Key": 261121768,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "排名伺服器沒有回應。\n將返回主畫面。"
   },
   {
     "Key": 3668978765,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "有更新資訊，將返回主畫面。"
   },
   {
     "Key": 2905977845,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 2393967944,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 551069908,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 240259365,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "用戶端在指定時間內傳送過多請求。\n將返回主畫面。"
   },
   {
     "Key": 740556531,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "現在無法領取戰術大賽獎勵。"
   },
   {
     "Key": 124599116,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "可領取的戰術大賽獎勵不存在。"
   },
   {
     "Key": 2418221952,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器請求處理失敗。\n將返回主畫面。"
   },
   {
     "Key": 2135655308,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "排名不夠高，無法指定能用來防禦的地圖。"
   },
   {
     "Key": 2856326245,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "非有效對象，請重新進入該畫面進行更新。"
   },
   {
     "Key": 569241788,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "角色等級已達最大值。"
   },
   {
     "Key": 1076112629,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "關卡數據無效。"
   },
   {
     "Key": 2592514515,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法執行掃蕩。"
   },
   {
     "Key": 3430710823,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法加入製造的材料。"
   },
   {
     "Key": 2490705469,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "製造執行途中發生問題。"
   },
   {
     "Key": 364169284,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "製造數據中含有不正確的數值。"
   },
   {
     "Key": 507009660,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "裝備升級失敗。 "
   },
   {
     "Key": 1625540169,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "進行裝備升級時必須新增材料。"
   },
   {
     "Key": 190083373,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "裝備級數上升失敗。"
   },
   {
     "Key": 569149920,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "商品有問題。"
   },
   {
     "Key": 2847927515,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "費用不足。"
   },
   {
     "Key": 2798337214,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "紀念日更新失敗。"
   },
   {
     "Key": 1426481190,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "費用消耗失敗。"
   },
   {
     "Key": 3922891619,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "購買失敗。"
   },
   {
     "Key": 3981288380,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "伺服器沒有回應。"
   },
   {
     "Key": 2980092194,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法在指定時間內處理函數。"
   },
   {
     "Key": 884407970,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "帳號資訊同步中發生錯誤。\n將返回標題。"
   },
   {
     "Key": 3944054940,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "貨幣資訊同步過程中發生問題\n將返回主畫面。"
   },
   {
     "Key": 1854458240,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "劇情更新處理途中發生問題。\n將返回標題。"
   },
   {
     "Key": 1788564632,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "社團名稱中包含空白。\n社團名稱中不能有空白。"
   },
   {
     "Key": 1606628276,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "社團名稱長度太短或太長。"
   },
   {
     "Key": 2770189623,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "互動同步中發生錯誤，\n將返回大廳。"
   },
   {
     "Key": 1503209846,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "對方的名次變更。\n將回到戰術對抗戰大廳。"
   },
   {
     "Key": 3670806320,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法領取獎勵。"
   },
   {
     "Key": 2153223226,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "偵測到客戶端變更，\n將回到主畫面。"
   },
   {
     "Key": 1443275327,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "安全模組重置失敗。需要重新啟動應用程式。"
   },
   {
     "Key": 3336944289,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "固有武器已達最高等級。"
   },
   {
     "Key": 1792965332,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "可透過解放極限擴增最高等級。"
   },
   {
     "Key": 3940889778,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超過限制時間，戰鬥已結束。"
   },
   {
     "Key": 3486881575,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "該角色的神名文字持有個數\n已達最大值。"
   },
   {
     "Key": 3208729024,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "重置失敗"
   },
   {
     "Key": 1542776967,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未通過總力戰，無法獲得排名獎勵。"
   },
   {
     "Key": 1705407544,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已超出固有武器升級所需的數量。"
   },
   {
     "Key": 3931378640,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "包含咖啡廳預設登錄的家具，無法當作製造原料使用。"
   },
   {
     "Key": 658573648,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已購買成功，但存在尚未進行招募的項目，\n請於下述時間內進行招募。"
   },
   {
     "Key": 489405395,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "有尚未進行的招募。\n請於剩餘時間內進行招募。"
   },
   {
     "Key": 1345230216,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "剩餘時間：還剩{0}"
   },
   {
     "Key": 1144307747,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "剩餘時間 : 剩餘{0}"
   },
   {
     "Key": 3226801384,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "有更新的資訊，需進行同步。將回到大廳。"
   },
   {
     "Key": 1637928881,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "數據同步時發生錯誤。"
   },
   {
     "Key": 3369731642,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "考試時間結束，無法進入。"
   },
   {
     "Key": 3994530367,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "限制時間結束或日期改變而無法進入。"
   },
   {
     "Key": 1529682812,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法再播放。"
   },
   {
     "Key": 1709993532,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "尚未領取獎勵，無法生成。"
   },
   {
     "Key": 2845889380,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已經完成領取獎勵。"
   },
   {
     "Key": 3017282168,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "房間不存在。"
   },
   {
     "Key": 2964710758,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "數據要求錯誤。"
   },
   {
     "Key": 2513956776,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "數據發生錯誤。"
   },
   {
     "Key": 1864642385,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "付費處理已正常完成。招募本身尚未完成，請重新進入招募畫面進行。(並不會再次進行付費。)"
   },
   {
     "Key": 2047558969,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "投入的材料已超過所需量。"
   },
   {
     "Key": 1920124898,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "投入的材料已超過所需量。"
   },
   {
     "Key": 3507390375,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "投入的材料已超過所需量。"
   },
   {
     "Key": 3490397281,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "請輸入正確的文字。"
   },
   {
     "Key": 1747331783,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "必須購買最少一個以上的商品才可更新。"
   },
   {
     "Key": 3861829530,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "沒有持有紀念大廳的角色。"
   },
   {
     "Key": 2744957643,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "因需要進行更新，重新進行連線。"
   },
   {
     "Key": 697699156,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "在包含編輯禁止學生的狀態下，無法出擊。"
   },
   {
     "Key": 2785402308,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "好友數量已達上限，無法進行好友申請。"
   },
   {
     "Key": 126229189,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "好友數量已達上限，無法同意好友申請。"
   },
   {
     "Key": 2367091035,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "送出的好友申請數已達上限，無法再送出好友申請。"
   },
   {
     "Key": 1264542676,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "對方的好友數量已達上限，無法進行好友申請。"
   },
   {
     "Key": 3076130328,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "對方的好友數量已達上限，無法進行好友申請。"
   },
   {
     "Key": 3202852766,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "對方並非好友。"
   },
   {
     "Key": 3863520183,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已為好友。"
   },
   {
     "Key": 3400388344,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "ID卡填寫失敗。"
   },
   {
     "Key": 337993265,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "查無所輸入好友代碼的玩家。"
   },
   {
     "Key": 2267537515,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "該玩家無法接受好友申請。"
   },
   {
     "Key": 3587383162,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "邀請失敗。請重試。"
   },
   {
     "Key": 1186923194,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法向老師自己送出好友申請。"
   },
   {
     "Key": 3964055362,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "為老師自己的好友代碼。"
   },
   {
     "Key": 936218380,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "尚有未使用的選擇券。\n請在下列期間內使用選擇選擇券。"
   },
   {
     "Key": 2100477460,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無★3學生選擇券。\n購買選擇券後即可選擇學生。"
   },
   {
     "Key": 1703914045,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "該商品每個帳號僅限購買1次。"
   },
   {
     "Key": 2193719013,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已通關的頭目。"
   },
   {
     "Key": 2070149033,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "目前無法挑戰的頭目。"
   },
   {
     "Key": 1682605423,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "目前無法挑戰的頭目。"
   },
   {
     "Key": 614842256,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "目前無法挑戰的頭目。"
   },
   {
     "Key": 866734449,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "目前非可領取的期間。"
   },
   {
     "Key": 2984740428,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "超出可輸入的字數上限。"
   },
   {
     "Key": 3694147787,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "剩餘時間：還剩{0}"
   },
   {
     "Key": 4050948436,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法重複使用相同種類的優惠券。"
   },
   {
     "Key": 1044115767,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "已使用的優惠券。"
   },
   {
     "Key": 229924161,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "已用盡每日可編輯幫手次數。"
   },
   {
     "Key": 4219183675,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "因期限到期，無法使用。"
   },
   {
     "Key": 402604514,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "有尚未使用的選擇券。\n請於以下期間內使用選擇券。"
   },
   {
     "Key": 3672319039,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "剩餘時間：剩餘{0}"
   },
   {
     "Key": 3412485615,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "使用者驗證失敗，將回到主畫面。"
   },
   {
     "Key": 2896478356,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "無法變更已編輯的部隊。"
   },
   {
     "Key": 74584359,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "包含無法編輯的學生。"
   },
   {
     "Key": 2426984458,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "未持有的背景圖片。"
   },
   {
     "Key": 4156782493,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法只以幫手進入戰鬥。"
   },
   {
     "Key": 2239305032,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "沒有鄰接我方領域，因此無法進行。"
   },
   {
     "Key": 3597640989,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法只以幫手進入戰鬥。"
   },
   {
     "Key": 635909163,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "無法只以幫手進入戰鬥。"
   },
   {
     "Key": 336268343,
-    "ErrorLevel": "507637721",
+    "ErrorLevel": 1,
     "Value": "是比現在的等級更高的難易度。\n要挑戰嗎？"
   },
   {
     "Key": 4220524733,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "還在準備中的難易度。"
   },
   {
     "Key": 2306684251,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": "有更新的資訊，需進行同步。將回到大廳。"
   },
   {
     "Key": 3127965367,
-    "ErrorLevel": "507637722",
+    "ErrorLevel": 2,
     "Value": ""
   }
 ]
