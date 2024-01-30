@@ -407,7 +407,7 @@
   {
     "CharacterName": 664677038,
     "Name": "若藻",
-    "Nickname": "???"
+    "Nickname": ""
   },
   {
     "CharacterName": 3353674757,
@@ -440,6 +440,11 @@
     "Nickname": "工務部"
   },
   {
+    "CharacterName": 3624719104,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 816327754,
     "Name": "瑪麗娜",
     "Nickname": "赤冬事務局"
@@ -456,6 +461,11 @@
   },
   {
     "CharacterName": 2469041162,
+    "Name": "紅葉",
+    "Nickname": "知識解放戰線"
+  },
+  {
+    "CharacterName": 3634005048,
     "Name": "紅葉",
     "Nickname": "知識解放戰線"
   },
@@ -1548,6 +1558,51 @@
     "CharacterName": 1466868354,
     "Name": "萌",
     "Nickname": "RABBIT小隊"
+  },
+  {
+    "CharacterName": 1871351479,
+    "Name": "憂",
+    "Nickname": "圖書委員會"
+  },
+  {
+    "CharacterName": 3235961943,
+    "Name": "憂",
+    "Nickname": "圖書委員會"
+  },
+  {
+    "CharacterName": 1449794728,
+    "Name": "日向",
+    "Nickname": "修女會"
+  },
+  {
+    "CharacterName": 103004059,
+    "Name": "花子",
+    "Nickname": "補課部"
+  },
+  {
+    "CharacterName": 986816205,
+    "Name": "小春",
+    "Nickname": "補課部"
+  },
+  {
+    "CharacterName": 1082722017,
+    "Name": "八雲",
+    "Nickname": "出版部"
+  },
+  {
+    "CharacterName": 901123296,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2790180731,
+    "Name": "貴音",
+    "Nickname": "出版部"
+  },
+  {
+    "CharacterName": 1553375257,
+    "Name": "？？？",
+    "Nickname": ""
   },
   {
     "CharacterName": 3261875659,
@@ -6013,5 +6068,300 @@
     "CharacterName": 3532067760,
     "Name": "船員D",
     "Nickname": "Red Hook Express"
+  },
+  {
+    "CharacterName": 3182082872,
+    "Name": "包包修理店的店長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3512617790,
+    "Name": "修行部成員",
+    "Nickname": "修行部"
+  },
+  {
+    "CharacterName": 3484529539,
+    "Name": "家政教室管理者",
+    "Nickname": "百鬼夜行"
+  },
+  {
+    "CharacterName": 1893933314,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2682839049,
+    "Name": "解說員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3471318752,
+    "Name": "大量採購的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3826137863,
+    "Name": "小販",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2952235615,
+    "Name": "裁判學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3198362660,
+    "Name": "迷路的學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1354325678,
+    "Name": "技術人員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1162188452,
+    "Name": "救護組學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 280796037,
+    "Name": "救護組學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3525959940,
+    "Name": "肚子痛的選手",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 284129377,
+    "Name": "口渴的選手",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2048497356,
+    "Name": "頭暈的選手",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1560127819,
+    "Name": "赤冬學生C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2031753128,
+    "Name": "赤冬學生D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3767087333,
+    "Name": "路過的行人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4177777325,
+    "Name": "路過的行人B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1275293074,
+    "Name": "路過的行人C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1259677449,
+    "Name": "平凡的千年學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2585842110,
+    "Name": "等待的客人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3875678305,
+    "Name": "等待的客人B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3609367061,
+    "Name": "親衛隊A",
+    "Nickname": "赤冬事務局"
+  },
+  {
+    "CharacterName": 557235269,
+    "Name": "親衛隊B",
+    "Nickname": "赤冬事務局"
+  },
+  {
+    "CharacterName": 1666421021,
+    "Name": "親衛隊C",
+    "Nickname": "赤冬事務局"
+  },
+  {
+    "CharacterName": 3683204866,
+    "Name": "工務部全體成員",
+    "Nickname": "工務部"
+  },
+  {
+    "CharacterName": 3937113620,
+    "Name": "千年的選手",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2935450294,
+    "Name": "組織成員A",
+    "Nickname": "黑市"
+  },
+  {
+    "CharacterName": 2154389683,
+    "Name": "組織成員B",
+    "Nickname": "黑市"
+  },
+  {
+    "CharacterName": 438449286,
+    "Name": "組織成員C",
+    "Nickname": "黑市"
+  },
+  {
+    "CharacterName": 756424799,
+    "Name": "乘客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2257190197,
+    "Name": "乘客B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2993910316,
+    "Name": "乘客C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2123180676,
+    "Name": "列車乘務員學生們",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2920865609,
+    "Name": "列車乘務員學生A",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2116725684,
+    "Name": "列車乘務員學生B",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 1463484426,
+    "Name": "列車乘務員學生C",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 1943311360,
+    "Name": "列車乘務員學生A",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 1653394045,
+    "Name": "列車乘務員學生B",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 901603131,
+    "Name": "列車乘務員學生C",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 3393092539,
+    "Name": "列車維修員學生A",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 1332261618,
+    "Name": "列車維修員學生B",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2797624626,
+    "Name": "列車維修員學生C",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2743063250,
+    "Name": "通知廣播",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 456675076,
+    "Name": "太妹",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3680062749,
+    "Name": "風紀委員會成員C",
+    "Nickname": "風紀委員會"
+  },
+  {
+    "CharacterName": 1148047153,
+    "Name": "示威隊A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1444188410,
+    "Name": "示威隊B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3256398129,
+    "Name": "格黑娜舍監",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3698584434,
+    "Name": "三一舍監",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3809938140,
+    "Name": "千年舍監",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 474630384,
+    "Name": "汽油桶",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1787690370,
+    "Name": "洗澡機器人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1273147064,
+    "Name": "澡堂老闆",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 792644744,
+    "Name": "經理",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2326539309,
+    "Name": "泡湯客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4005249279,
+    "Name": "泡湯客B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3510411635,
+    "Name": "？？？",
+    "Nickname": ""
   }
 ]

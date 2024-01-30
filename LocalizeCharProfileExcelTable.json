@@ -2,7 +2,7 @@
   {
     "CharacterId": 16004,
     "StatusMessage": "HAJIMEMASITE！",
-    "FullName": "아사히나 피나",
+    "FullName": "朝比奈菲娜",
     "FamilyName": "朝比奈",
     "FamilyNameRuby": "",
     "PersonalName": "菲娜",
@@ -24,7 +24,7 @@
   {
     "CharacterId": 13009,
     "StatusMessage": "好睏……",
-    "FullName": "카스가 츠바키",
+    "FullName": "春日椿",
     "FamilyName": "春日",
     "FamilyNameRuby": "",
     "PersonalName": "椿",
@@ -68,7 +68,7 @@
   {
     "CharacterId": 16003,
     "StatusMessage": "希望今天也是平安的一天",
-    "FullName": "모리즈키 스즈미",
+    "FullName": "守月鈴美",
     "FamilyName": "守月",
     "FamilyNameRuby": "",
     "PersonalName": "鈴美",
@@ -90,7 +90,7 @@
   {
     "CharacterId": 13003,
     "StatusMessage": "減肥中……",
-    "FullName": "하네카와 하스미",
+    "FullName": "羽川蓮實",
     "FamilyName": "羽川",
     "FamilyNameRuby": "",
     "PersonalName": "蓮實",
@@ -134,7 +134,7 @@
   {
     "CharacterId": 10003,
     "StatusMessage": "有人要一起去佩洛洛慶典嗎？",
-    "FullName": "아지타니 히후미",
+    "FullName": "阿慈谷日步美",
     "FamilyName": "阿慈谷",
     "FamilyNameRuby": "",
     "PersonalName": "日步美",
@@ -156,7 +156,7 @@
   {
     "CharacterId": 10013,
     "StatusMessage": "……",
-    "FullName": "켄자키 츠루기",
+    "FullName": "劍先弦生",
     "FamilyName": "劍先",
     "FamilyNameRuby": "",
     "PersonalName": "弦生",
@@ -222,7 +222,7 @@
   {
     "CharacterId": 13006,
     "StatusMessage": "沒有什麼有趣的事嗎～",
-    "FullName": "아사기 무츠키",
+    "FullName": "淺黃無月",
     "FamilyName": "淺黃",
     "FamilyNameRuby": "",
     "PersonalName": "無月",
@@ -244,7 +244,7 @@
   {
     "CharacterId": 13005,
     "StatusMessage": "不常用MomoTalk",
-    "FullName": "오니카타 카요코",
+    "FullName": "鬼方佳世子",
     "FamilyName": "鬼方",
     "FamilyNameRuby": "",
     "PersonalName": "佳世子",
@@ -266,7 +266,7 @@
   {
     "CharacterId": 10000,
     "StatusMessage": "什麼都能解決哦！",
-    "FullName": "리쿠하치마 아루",
+    "FullName": "陸八魔亞瑠",
     "FamilyName": "陸八魔",
     "FamilyNameRuby": "",
     "PersonalName": "亞瑠",
@@ -288,7 +288,7 @@
   {
     "CharacterId": 16000,
     "StatusMessage": "請多多指教",
-    "FullName": "이구사 하루카",
+    "FullName": "伊草遙香",
     "FamilyName": "伊草",
     "FamilyNameRuby": "",
     "PersonalName": "遙香",
@@ -310,7 +310,7 @@
   {
     "CharacterId": 13004,
     "StatusMessage": "希望會是快樂的一天",
-    "FullName": "이자요이 노노미",
+    "FullName": "十六夜野乃美",
     "FamilyName": "十六夜",
     "FamilyNameRuby": "",
     "PersonalName": "野乃美",
@@ -332,7 +332,7 @@
   {
     "CharacterId": 13007,
     "StatusMessage": "謝絕騷擾(╬☉益☉)",
-    "FullName": "아카시 준코",
+    "FullName": "赤司淳子",
     "FamilyName": "赤司",
     "FamilyNameRuby": "",
     "PersonalName": "淳子",
@@ -354,7 +354,7 @@
   {
     "CharacterId": 10004,
     "StatusMessage": "",
-    "FullName": "소라사키 히나",
+    "FullName": "空崎陽奈",
     "FamilyName": "空崎",
     "FamilyNameRuby": "",
     "PersonalName": "陽奈",
@@ -376,7 +376,7 @@
   {
     "CharacterId": 10010,
     "StatusMessage": "自行車夥伴招募中……(1/5)",
-    "FullName": "스나오오카미 시로코",
+    "FullName": "砂狼白子",
     "FamilyName": "砂狼",
     "FamilyNameRuby": "",
     "PersonalName": "白子",
@@ -398,7 +398,7 @@
   {
     "CharacterId": 13008,
     "StatusMessage": "對策委員會黑見茜香",
-    "FullName": "쿠로미 세리카",
+    "FullName": "黑見茜香",
     "FamilyName": "黑見",
     "FamilyNameRuby": "",
     "PersonalName": "茜香",
@@ -420,7 +420,7 @@
   {
     "CharacterId": 10009,
     "StatusMessage": "肚子餓了～",
-    "FullName": "시시도우 이즈미",
+    "FullName": "獅子堂泉",
     "FamilyName": "獅子堂",
     "FamilyNameRuby": "",
     "PersonalName": "泉",
@@ -442,7 +442,7 @@
   {
     "CharacterId": 10005,
     "StatusMessage": "午睡中\u3000別吵醒我",
-    "FullName": "타카나시 호시노",
+    "FullName": "小鳥遊星野",
     "FamilyName": "小鳥遊",
     "FamilyNameRuby": "",
     "PersonalName": "星野",
@@ -464,7 +464,7 @@
   {
     "CharacterId": 16001,
     "StatusMessage": "為主人提供最好的服務！",
-    "FullName": "이치노세 아스나",
+    "FullName": "一之瀬明日奈",
     "FamilyName": "一之瀬",
     "FamilyNameRuby": "",
     "PersonalName": "明日奈",
@@ -486,7 +486,7 @@
   {
     "CharacterId": 13010,
     "StatusMessage": "如我所算",
-    "FullName": "하야세 유우카",
+    "FullName": "早瀬優香",
     "FamilyName": "早瀬",
     "FamilyNameRuby": "",
     "PersonalName": "優香",
@@ -508,7 +508,7 @@
   {
     "CharacterId": 13000,
     "StatusMessage": "一杯熱紅茶的餘裕",
-    "FullName": "무로카사 아카네",
+    "FullName": "室笠朱音",
     "FamilyName": "室笠",
     "FamilyNameRuby": "",
     "PersonalName": "朱音",
@@ -530,7 +530,7 @@
   {
     "CharacterId": 10001,
     "StatusMessage": "在此輸入狀態訊息",
-    "FullName": "이즈미모토 에이미",
+    "FullName": "和泉元英美",
     "FamilyName": "和泉元",
     "FamilyNameRuby": "",
     "PersonalName": "英美",
@@ -552,7 +552,7 @@
   {
     "CharacterId": 10008,
     "StatusMessage": "啊啊！？",
-    "FullName": "미카모 네루",
+    "FullName": "美甘寧瑠",
     "FamilyName": "美甘",
     "FamilyNameRuby": "",
     "PersonalName": "寧瑠",
@@ -574,7 +574,7 @@
   {
     "CharacterId": 13011,
     "StatusMessage": "致力於遊戲！",
-    "FullName": "사이바 모모이",
+    "FullName": "才羽桃井",
     "FamilyName": "才羽",
     "FamilyNameRuby": "",
     "PersonalName": "桃井",
@@ -596,7 +596,7 @@
   {
     "CharacterId": 10016,
     "StatusMessage": "請告訴我推薦的遊戲",
-    "FullName": "사이바 미도리",
+    "FullName": "才羽綠",
     "FamilyName": "才羽",
     "FamilyNameRuby": "",
     "PersonalName": "綠",
@@ -618,7 +618,7 @@
   {
     "CharacterId": 10015,
     "StatusMessage": "千年遊戲開發部的愛麗絲",
-    "FullName": "텐도 아리스",
+    "FullName": "天童愛麗絲",
     "FamilyName": "天童",
     "FamilyNameRuby": "",
     "PersonalName": "愛麗絲",
@@ -662,7 +662,7 @@
   {
     "CharacterId": 23002,
     "StatusMessage": "發生什麼事的話，不管是誰都請到救護騎士團來！",
-    "FullName": "아사가오 하나에",
+    "FullName": "朝顏花繪",
     "FamilyName": "朝顏",
     "FamilyNameRuby": "",
     "PersonalName": "花繪",
@@ -706,7 +706,7 @@
   {
     "CharacterId": 20003,
     "StatusMessage": "聚沙成塔",
-    "FullName": "시즈야마 마시로",
+    "FullName": "靜山麻白",
     "FamilyName": "靜山",
     "FamilyNameRuby": "",
     "PersonalName": "麻白",
@@ -728,7 +728,7 @@
   {
     "CharacterId": 26000,
     "StatusMessage": "喪失的前方",
-    "FullName": "히노미야 치나츠",
+    "FullName": "火宮千夏",
     "FamilyName": "火宮",
     "FamilyNameRuby": "",
     "PersonalName": "千夏",
@@ -750,7 +750,7 @@
   {
     "CharacterId": 23001,
     "StatusMessage": "希望至少能過平靜的一天 (T_T)",
-    "FullName": "아이키요 후우카",
+    "FullName": "愛清風華",
     "FamilyName": "愛清",
     "FamilyNameRuby": "",
     "PersonalName": "風華",
@@ -772,7 +772,7 @@
   {
     "CharacterId": 26002,
     "StatusMessage": "今天也要全力以赴進行料理的練習！",
-    "FullName": "우시마키 주리",
+    "FullName": "牛牧茱莉",
     "FamilyName": "牛牧",
     "FamilyNameRuby": "",
     "PersonalName": "茱莉",
@@ -794,7 +794,7 @@
   {
     "CharacterId": 23003,
     "StatusMessage": "有急事請DM",
-    "FullName": "오마가리 하레",
+    "FullName": "小鈎晴",
     "FamilyName": "小鈎",
     "FamilyNameRuby": "",
     "PersonalName": "晴",
@@ -816,7 +816,7 @@
   {
     "CharacterId": 26001,
     "StatusMessage": "我一直守望著你",
-    "FullName": "오토세 코타마",
+    "FullName": "音瀬小玉",
     "FamilyName": "音瀬",
     "FamilyNameRuby": "",
     "PersonalName": "小玉",
@@ -838,7 +838,7 @@
   {
     "CharacterId": 20001,
     "StatusMessage": "絕不讓目標逃跑",
-    "FullName": "카쿠다테 카린",
+    "FullName": "角楯花凛",
     "FamilyName": "角楯",
     "FamilyNameRuby": "",
     "PersonalName": "花凛",
@@ -860,7 +860,7 @@
   {
     "CharacterId": 20002,
     "StatusMessage": "讚揚我吧！",
-    "FullName": "야쿠시 사야",
+    "FullName": "藥子沙耶",
     "FamilyName": "藥子",
     "FamilyNameRuby": "",
     "PersonalName": "沙耶",
@@ -882,7 +882,7 @@
   {
     "CharacterId": 26004,
     "StatusMessage": "請在借閱期間內還書",
-    "FullName": "엔도우 시미코",
+    "FullName": "円堂志美子",
     "FamilyName": "円堂",
     "FamilyNameRuby": "",
     "PersonalName": "志美子",
@@ -904,7 +904,7 @@
   {
     "CharacterId": 26003,
     "StatusMessage": "身體不舒服的人請隨時聯絡我",
-    "FullName": "스미 세리나",
+    "FullName": "鷲見芹奈",
     "FamilyName": "鷲見",
     "FamilyNameRuby": "",
     "PersonalName": "芹奈",
@@ -926,7 +926,7 @@
   {
     "CharacterId": 23000,
     "StatusMessage": "薄荷巧克力最棒了！",
-    "FullName": "쿠리무라 아이리",
+    "FullName": "栗村愛莉",
     "FamilyName": "栗村",
     "FamilyNameRuby": "",
     "PersonalName": "愛莉",
@@ -948,7 +948,7 @@
   {
     "CharacterId": 26005,
     "StatusMessage": "#還在成長期",
-    "FullName": "이바라기 요시미",
+    "FullName": "伊原木喜美",
     "FamilyName": "伊原木",
     "FamilyNameRuby": "",
     "PersonalName": "喜美",
@@ -970,7 +970,7 @@
   {
     "CharacterId": 10006,
     "StatusMessage": "看到可疑的人請立刻聯絡",
-    "FullName": "시로미 이오리",
+    "FullName": "銀鏡伊織",
     "FamilyName": "銀鏡",
     "FamilyNameRuby": "",
     "PersonalName": "伊織",
@@ -992,7 +992,7 @@
   {
     "CharacterId": 13002,
     "StatusMessage": "請推薦吃到飽餐廳",
-    "FullName": "와니부치 아카리",
+    "FullName": "鰐渕亞伽里",
     "FamilyName": "鰐渕",
     "FamilyNameRuby": "",
     "PersonalName": "亞伽里",
@@ -1014,7 +1014,7 @@
   {
     "CharacterId": 10002,
     "StatusMessage": "EAT OR DIE",
-    "FullName": "쿠로다테 하루나",
+    "FullName": "黑舘羽留奈",
     "FamilyName": "黑舘",
     "FamilyNameRuby": "",
     "PersonalName": "羽留奈",
@@ -1036,7 +1036,7 @@
   {
     "CharacterId": 10012,
     "StatusMessage": "健全的精神寓於健康的身體",
-    "FullName": "오토하나 스미레",
+    "FullName": "乙花堇",
     "FamilyName": "乙花",
     "FamilyNameRuby": "",
     "PersonalName": "堇",
@@ -1058,7 +1058,7 @@
   {
     "CharacterId": 10007,
     "StatusMessage": "最愛街頭塗鴉！",
-    "FullName": "코누리 마키",
+    "FullName": "小塗真紀",
     "FamilyName": "小塗",
     "FamilyNameRuby": "",
     "PersonalName": "真紀",
@@ -1080,7 +1080,7 @@
   {
     "CharacterId": 20000,
     "StatusMessage": "坐而言不如起而行",
-    "FullName": "네코즈카 히비키",
+    "FullName": "猫塚響",
     "FamilyName": "猫塚",
     "FamilyNameRuby": "",
     "PersonalName": "響",
@@ -1102,7 +1102,7 @@
   {
     "CharacterId": 23004,
     "StatusMessage": "隨時接受改造、維修的委託",
-    "FullName": "시라이시 우타하",
+    "FullName": "白石詠葉",
     "FamilyName": "白石",
     "FamilyNameRuby": "",
     "PersonalName": "詠葉",
@@ -1124,7 +1124,7 @@
   {
     "CharacterId": 16002,
     "StatusMessage": "讚嘆微波吧！",
-    "FullName": "토요미 코토리",
+    "FullName": "豊見亞都梨",
     "FamilyName": "豊見",
     "FamilyNameRuby": "",
     "PersonalName": "亞都梨",
@@ -1146,7 +1146,7 @@
   {
     "CharacterId": 13001,
     "StatusMessage": "找到雲的話告訴我",
-    "FullName": "와라쿠 치세",
+    "FullName": "和樂知世",
     "FamilyName": "和樂",
     "FamilyNameRuby": "",
     "PersonalName": "知世",
@@ -1168,7 +1168,7 @@
   {
     "CharacterId": 10011,
     "StatusMessage": "和天使們一起",
-    "FullName": "스노하라 슌",
+    "FullName": "春原旬",
     "FamilyName": "春原",
     "FamilyNameRuby": "",
     "PersonalName": "旬",
@@ -1190,7 +1190,7 @@
   {
     "CharacterId": 23005,
     "StatusMessage": "珍惜常識的對策委員會",
-    "FullName": "오쿠소라 아야네 ",
+    "FullName": "奥空綾音",
     "FamilyName": "奥空",
     "FamilyNameRuby": "",
     "PersonalName": "綾音",
@@ -1212,7 +1212,7 @@
   {
     "CharacterId": 10014,
     "StatusMessage": "伊樹菜會加油的！忍忍！",
-    "FullName": "",
+    "FullName": "久田伊樹菜",
     "FamilyName": "久田",
     "FamilyNameRuby": "",
     "PersonalName": "伊樹菜",
@@ -1234,7 +1234,7 @@
   {
     "CharacterId": 23006,
     "StatusMessage": "百夜堂，今天也絕讚營業中！",
-    "FullName": "",
+    "FullName": "河和靜子",
     "FamilyName": "河和",
     "FamilyNameRuby": "",
     "PersonalName": "靜子",
@@ -1256,7 +1256,7 @@
   {
     "CharacterId": 10017,
     "StatusMessage": "看看這鬍子吧！！",
-    "FullName": "렌카와 체리노",
+    "FullName": "連河潔莉諾",
     "FamilyName": "連河",
     "FamilyNameRuby": "",
     "PersonalName": "潔莉諾",
@@ -1278,7 +1278,7 @@
   {
     "CharacterId": 26006,
     "StatusMessage": "一起去看星星吧！★彡",
-    "FullName": "아마미 노도카",
+    "FullName": "天見和香",
     "FamilyName": "天見",
     "FamilyNameRuby": "",
     "PersonalName": "和香",
@@ -1300,7 +1300,7 @@
   {
     "CharacterId": 10018,
     "StatusMessage": "404 Not Found",
-    "FullName": "하나오카 유즈",
+    "FullName": "花岡柚子",
     "FamilyName": "花岡",
     "FamilyNameRuby": "",
     "PersonalName": "柚子",
@@ -1322,7 +1322,7 @@
   {
     "CharacterId": 10019,
     "StatusMessage": "et omnia vanitas",
-    "FullName": "",
+    "FullName": "白洲梓",
     "FamilyName": "白洲",
     "FamilyNameRuby": "",
     "PersonalName": "梓",
@@ -1344,7 +1344,7 @@
   {
     "CharacterId": 10020,
     "StatusMessage": "色色的東西不行就是不行！",
-    "FullName": "",
+    "FullName": "下江小春",
     "FamilyName": "下江",
     "FamilyNameRuby": "",
     "PersonalName": "小春",
@@ -1366,7 +1366,7 @@
   {
     "CharacterId": 23007,
     "StatusMessage": "喜歡形形「色色」的類型♪",
-    "FullName": "",
+    "FullName": "浦和花子",
     "FamilyName": "浦和",
     "FamilyNameRuby": "",
     "PersonalName": "花子",
@@ -1388,7 +1388,7 @@
   {
     "CharacterId": 10021,
     "StatusMessage": "A brevis paradisum",
-    "FullName": "",
+    "FullName": "白洲梓",
     "FamilyName": "白洲",
     "FamilyNameRuby": "",
     "PersonalName": "梓",
@@ -1410,7 +1410,7 @@
   {
     "CharacterId": 16005,
     "StatusMessage": "夏天、大海、青春",
-    "FullName": "",
+    "FullName": "劍先弦生",
     "FamilyName": "劍先",
     "FamilyNameRuby": "",
     "PersonalName": "弦生",
@@ -1432,7 +1432,7 @@
   {
     "CharacterId": 20004,
     "StatusMessage": "井底之蛙 不知大海",
-    "FullName": "",
+    "FullName": "靜山麻白",
     "FamilyName": "靜山",
     "FamilyNameRuby": "",
     "PersonalName": "麻白",
@@ -1454,7 +1454,7 @@
   {
     "CharacterId": 20005,
     "StatusMessage": "請看新的佩洛洛大人泳圈！",
-    "FullName": "",
+    "FullName": "阿慈谷日步美",
     "FamilyName": "阿慈谷",
     "FamilyNameRuby": "",
     "PersonalName": "日步美",
@@ -1476,7 +1476,7 @@
   {
     "CharacterId": 10022,
     "StatusMessage": "",
-    "FullName": "",
+    "FullName": "空崎陽奈",
     "FamilyName": "空崎",
     "FamilyNameRuby": "",
     "PersonalName": "陽奈",
@@ -1498,7 +1498,7 @@
   {
     "CharacterId": 10023,
     "StatusMessage": "夏季合宿訓練中",
-    "FullName": "",
+    "FullName": "銀鏡伊織",
     "FamilyName": "銀鏡",
     "FamilyNameRuby": "",
     "PersonalName": "伊織",
@@ -1520,7 +1520,7 @@
   {
     "CharacterId": 16006,
     "StatusMessage": "前往尋找夏天美食之旅！",
-    "FullName": "",
+    "FullName": "獅子堂泉",
     "FamilyName": "獅子堂",
     "FamilyNameRuby": "",
     "PersonalName": "泉",
@@ -1542,7 +1542,7 @@
   {
     "CharacterId": 10024,
     "StatusMessage": "正在縱貫奇普托斯中",
-    "FullName": "",
+    "FullName": "砂狼白子",
     "FamilyName": "砂狼",
     "FamilyNameRuby": "",
     "PersonalName": "白子",
@@ -1564,7 +1564,7 @@
   {
     "CharacterId": 10025,
     "StatusMessage": "想吃糖葫蘆的心情！",
-    "FullName": "",
+    "FullName": "春原旬",
     "FamilyName": "春原",
     "FamilyNameRuby": "",
     "PersonalName": "旬",
@@ -1586,7 +1586,7 @@
   {
     "CharacterId": 13012,
     "StatusMessage": "女武神警察學園，轉學生募集中！",
-    "FullName": "",
+    "FullName": "中務桐乃",
     "FamilyName": "中務",
     "FamilyNameRuby": "",
     "PersonalName": "桐乃",
@@ -1608,7 +1608,7 @@
   {
     "CharacterId": 20006,
     "StatusMessage": "我什麼都知道！",
-    "FullName": "",
+    "FullName": "藥子沙耶",
     "FamilyName": "藥子",
     "FamilyNameRuby": "",
     "PersonalName": "沙耶",
@@ -1630,7 +1630,7 @@
   {
     "CharacterId": 10026,
     "StatusMessage": "看什麼看",
-    "FullName": "",
+    "FullName": "美甘寧瑠",
     "FamilyName": "美甘",
     "FamilyNameRuby": "",
     "PersonalName": "寧瑠",
@@ -1652,7 +1652,7 @@
   {
     "CharacterId": 10027,
     "StatusMessage": "任務中",
-    "FullName": "",
+    "FullName": "角楯花凛",
     "FamilyName": "角楯",
     "FamilyNameRuby": "",
     "PersonalName": "花凛",
@@ -1674,7 +1674,7 @@
   {
     "CharacterId": 10028,
     "StatusMessage": "帶給主人最棒的快樂！",
-    "FullName": "",
+    "FullName": "一之瀬明日奈",
     "FamilyName": "一之瀬",
     "FamilyNameRuby": "",
     "PersonalName": "明日奈",
@@ -1696,7 +1696,7 @@
   {
     "CharacterId": 10029,
     "StatusMessage": "人生是巧克力蝴蝶餅",
-    "FullName": "",
+    "FullName": "柚鳥夏",
     "FamilyName": "柚鳥",
     "FamilyNameRuby": "",
     "PersonalName": "夏",
@@ -1718,7 +1718,7 @@
   {
     "CharacterId": 23008,
     "StatusMessage": "願大家的心得到安寧",
-    "FullName": "",
+    "FullName": "伊落瑪麗",
     "FamilyName": "伊落",
     "FamilyNameRuby": "",
     "PersonalName": "瑪麗",
@@ -1740,7 +1740,7 @@
   {
     "CharacterId": 20007,
     "StatusMessage": "演唱會，敬請期待哦！",
-    "FullName": "",
+    "FullName": "初音未來",
     "FamilyName": "初音",
     "FamilyNameRuby": "",
     "PersonalName": "未來",
@@ -1762,7 +1762,7 @@
   {
     "CharacterId": 20008,
     "StatusMessage": "謝絕業務以外的聯絡",
-    "FullName": "",
+    "FullName": "天雨亞子",
     "FamilyName": "天雨",
     "FamilyNameRuby": "",
     "PersonalName": "亞子",
@@ -1784,7 +1784,7 @@
   {
     "CharacterId": 20009,
     "StatusMessage": "世界上沒有不好的鬍子！",
-    "FullName": "렌카와 체리노",
+    "FullName": "連河潔莉諾",
     "FamilyName": "連河",
     "FamilyNameRuby": "",
     "PersonalName": "潔莉諾",
@@ -1806,7 +1806,7 @@
   {
     "CharacterId": 10030,
     "StatusMessage": "尋求未知的視野",
-    "FullName": "히노미야 치나츠",
+    "FullName": "火宮千夏",
     "FamilyName": "火宮",
     "FamilyNameRuby": "",
     "PersonalName": "千夏",
@@ -1828,7 +1828,7 @@
   {
     "CharacterId": 16007,
     "StatusMessage": "想了解潔莉諾會長的豐功偉業嗎？",
-    "FullName": "사시로 토모에",
+    "FullName": "佐城智惠",
     "FamilyName": "佐城",
     "FamilyNameRuby": "",
     "PersonalName": "智惠",
@@ -1850,7 +1850,7 @@
   {
     "CharacterId": 20010,
     "StatusMessage": "227號溫泉浴場，正接受住宿預約！",
-    "FullName": "아마미 노도카",
+    "FullName": "天見和香",
     "FamilyName": "天見",
     "FamilyNameRuby": "",
     "PersonalName": "和香",
@@ -1872,7 +1872,7 @@
   {
     "CharacterId": 10031,
     "StatusMessage": "今年也請多多指教",
-    "FullName": "리쿠하치마 아루",
+    "FullName": "陸八魔亞瑠",
     "FamilyName": "陸八魔",
     "FamilyNameRuby": "",
     "PersonalName": "亞瑠",
@@ -1894,7 +1894,7 @@
   {
     "CharacterId": 10032,
     "StatusMessage": "讓今年變成快樂的一年吧♪",
-    "FullName": "아사기 무츠키",
+    "FullName": "淺黃無月",
     "FamilyName": "淺黃",
     "FamilyNameRuby": "",
     "PersonalName": "無月",
@@ -1916,7 +1916,7 @@
   {
     "CharacterId": 20011,
     "StatusMessage": "新年快樂",
-    "FullName": "쿠로미 세리카",
+    "FullName": "黑見茜香",
     "FamilyName": "黑見",
     "FamilyNameRuby": "",
     "PersonalName": "茜香",
@@ -1938,7 +1938,7 @@
   {
     "CharacterId": 10033,
     "StatusMessage": "我會永遠陪伴在閣下的身旁……♡",
-    "FullName": "",
+    "FullName": "狐坂若藻",
     "FamilyName": "狐坂",
     "FamilyNameRuby": "こさか",
     "PersonalName": "若藻",
@@ -1960,7 +1960,7 @@
   {
     "CharacterId": 20012,
     "StatusMessage": "請把我設為緊急聯絡人",
-    "FullName": "",
+    "FullName": "氷室瀬奈",
     "FamilyName": "氷室",
     "FamilyNameRuby": "ひむろ",
     "PersonalName": "瀬奈",
@@ -1982,7 +1982,7 @@
   {
     "CharacterId": 20013,
     "StatusMessage": "安全性檢查從日常做起",
-    "FullName": "",
+    "FullName": "各務千尋",
     "FamilyName": "各務",
     "FamilyNameRuby": "かがみ",
     "PersonalName": "千尋",
@@ -2004,7 +2004,7 @@
   {
     "CharacterId": 16008,
     "StatusMessage": "咖啡要配甜甜圈！",
-    "FullName": "",
+    "FullName": "合歡垣吹雪",
     "FamilyName": "合歡垣",
     "FamilyNameRuby": "ねむがき",
     "PersonalName": "吹雪",
@@ -2026,7 +2026,7 @@
   {
     "CharacterId": 10034,
     "StatusMessage": "每天踏實，一步一步",
-    "FullName": "",
+    "FullName": "水羽三森",
     "FamilyName": "水羽",
     "FamilyNameRuby": "みずは",
     "PersonalName": "三森",
@@ -2048,7 +2048,7 @@
   {
     "CharacterId": 10035,
     "StatusMessage": "正在辦其他事",
-    "FullName": "",
+    "FullName": "古関憂",
     "FamilyName": "古関",
     "FamilyNameRuby": "こぜき",
     "PersonalName": "憂",
@@ -2070,7 +2070,7 @@
   {
     "CharacterId": 10036,
     "StatusMessage": "有困難時，請隨時聯絡我！",
-    "FullName": "",
+    "FullName": "若葉日向",
     "FamilyName": "若葉",
     "FamilyNameRuby": "わかば",
     "PersonalName": "日向",
@@ -2092,7 +2092,7 @@
   {
     "CharacterId": 10037,
     "StatusMessage": "叛逆者通通肅清！",
-    "FullName": "",
+    "FullName": "池倉瑪麗娜",
     "FamilyName": "池倉",
     "FamilyNameRuby": "いけくら",
     "PersonalName": "瑪麗娜",
@@ -2114,7 +2114,7 @@
   {
     "CharacterId": 10038,
     "StatusMessage": "為了奇普托斯的和平",
-    "FullName": "",
+    "FullName": "月雪都子",
     "FamilyName": "月雪",
     "FamilyNameRuby": "",
     "PersonalName": "都子",
@@ -2136,7 +2136,7 @@
   {
     "CharacterId": 20014,
     "StatusMessage": "與其張嘴不如行動",
-    "FullName": "",
+    "FullName": "空井咲希",
     "FamilyName": "空井",
     "FamilyNameRuby": "",
     "PersonalName": "咲希",
@@ -2158,7 +2158,7 @@
   {
     "CharacterId": 10039,
     "StatusMessage": "眼前一片黑……",
-    "FullName": "",
+    "FullName": "霞沢美優",
     "FamilyName": "霞沢",
     "FamilyNameRuby": "",
     "PersonalName": "美優",
@@ -2180,7 +2180,7 @@
   {
     "CharacterId": 20015,
     "StatusMessage": "今天要玩什麼呢！？",
-    "FullName": "",
+    "FullName": "勇美楓",
     "FamilyName": "勇美",
     "FamilyNameRuby": "",
     "PersonalName": "楓",
@@ -2202,7 +2202,7 @@
   {
     "CharacterId": 20016,
     "StatusMessage": "讀書時除了緊急狀況請不要聯絡我",
-    "FullName": "",
+    "FullName": "棗伊呂波",
     "FamilyName": "棗",
     "FamilyNameRuby": "",
     "PersonalName": "伊呂波",
@@ -2224,7 +2224,7 @@
   {
     "CharacterId": 16009,
     "StatusMessage": "請訂閱「少女忍法帖 小小三千留」頻道！",
-    "FullName": "",
+    "FullName": "千鳥三千留",
     "FamilyName": "千鳥",
     "FamilyNameRuby": "",
     "PersonalName": "三千留",
@@ -2246,7 +2246,7 @@
   {
     "CharacterId": 10040,
     "StatusMessage": "未來要成為，獨當一面的忍者……",
-    "FullName": "",
+    "FullName": "大野月夜",
     "FamilyName": "大野",
     "FamilyNameRuby": "",
     "PersonalName": "月夜",
@@ -2268,7 +2268,7 @@
   {
     "CharacterId": 10041,
     "StatusMessage": "希望可以下點雨……",
-    "FullName": "",
+    "FullName": "戒野美咲",
     "FamilyName": "戒野",
     "FamilyNameRuby": "",
     "PersonalName": "美咲",
@@ -2290,7 +2290,7 @@
   {
     "CharacterId": 20017,
     "StatusMessage": "人生是痛苦的連續……",
-    "FullName": "",
+    "FullName": "槌永日和",
     "FamilyName": "槌永",
     "FamilyNameRuby": "",
     "PersonalName": "日和",
@@ -2312,7 +2312,7 @@
   {
     "CharacterId": 10042,
     "StatusMessage": "最近正在學習花語",
-    "FullName": "",
+    "FullName": "秤敦子",
     "FamilyName": "秤",
     "FamilyNameRuby": "",
     "PersonalName": "敦子",
@@ -2334,7 +2334,7 @@
   {
     "CharacterId": 10043,
     "StatusMessage": "比夏日還熱情的心意♡",
-    "FullName": "狐坂",
+    "FullName": "狐坂若藻",
     "FamilyName": "狐坂",
     "FamilyNameRuby": "",
     "PersonalName": "若藻",
@@ -2356,7 +2356,7 @@
   {
     "CharacterId": 10044,
     "StatusMessage": "是海耶，大海～！",
-    "FullName": "十六夜",
+    "FullName": "十六夜野乃美",
     "FamilyName": "十六夜",
     "FamilyNameRuby": "",
     "PersonalName": "野乃美",
@@ -2378,7 +2378,7 @@
   {
     "CharacterId": 26007,
     "StatusMessage": "玩的時候就要認真玩！",
-    "FullName": "奥空",
+    "FullName": "奥空綾音",
     "FamilyName": "奥空",
     "FamilyNameRuby": "",
     "PersonalName": "綾音",
@@ -2400,7 +2400,7 @@
   {
     "CharacterId": 10045,
     "StatusMessage": "午睡中～歡迎同道中人",
-    "FullName": "小鳥遊",
+    "FullName": "小鳥遊星野",
     "FamilyName": "小鳥遊",
     "FamilyNameRuby": "",
     "PersonalName": "星野",
@@ -2422,7 +2422,7 @@
   {
     "CharacterId": 26008,
     "StatusMessage": "百夜堂連鎖店熱烈營業中！",
-    "FullName": "河和",
+    "FullName": "河和靜子",
     "FamilyName": "河和",
     "FamilyNameRuby": "",
     "PersonalName": "靜子",
@@ -2444,7 +2444,7 @@
   {
     "CharacterId": 10046,
     "StatusMessage": "這次要在海邊修行囉！忍忍！",
-    "FullName": "久田",
+    "FullName": "久田伊樹菜",
     "FamilyName": "久田",
     "FamilyNameRuby": "",
     "PersonalName": "伊樹菜",
@@ -2466,7 +2466,7 @@
   {
     "CharacterId": 10047,
     "StatusMessage": "閃亮～會在哪裡呢？",
-    "FullName": "和 楽",
+    "FullName": "和樂知世",
     "FamilyName": "和樂",
     "FamilyNameRuby": "",
     "PersonalName": "知世",
@@ -2488,7 +2488,7 @@
   {
     "CharacterId": 10048,
     "StatusMessage": "努力再努力",
-    "FullName": "錠前",
+    "FullName": "錠前沙織",
     "FamilyName": "錠前",
     "FamilyNameRuby": "",
     "PersonalName": "沙織",
@@ -2510,7 +2510,7 @@
   {
     "CharacterId": 20018,
     "StatusMessage": "正在積極收購沒在用的導彈、砲彈！",
-    "FullName": "風倉",
+    "FullName": "風倉萌",
     "FamilyName": "風倉",
     "FamilyNameRuby": "",
     "PersonalName": "萌",
@@ -2532,7 +2532,7 @@
   {
     "CharacterId": 10049,
     "StatusMessage": "放學後的甜點部成員",
-    "FullName": "杏山",
+    "FullName": "杏山千紗",
     "FamilyName": "杏山",
     "FamilyNameRuby": "",
     "PersonalName": "千紗",
@@ -2554,7 +2554,7 @@
   {
     "CharacterId": 10050,
     "StatusMessage": "我是山海經的教官！",
-    "FullName": "春原",
+    "FullName": "春原心菜",
     "FamilyName": "春原",
     "FamilyNameRuby": "",
     "PersonalName": "心菜",
@@ -2576,7 +2576,7 @@
   {
     "CharacterId": 10051,
     "StatusMessage": "應援委託受理中！",
-    "FullName": "",
+    "FullName": "白石詠葉",
     "FamilyName": "白石",
     "FamilyNameRuby": "",
     "PersonalName": "詠葉",
@@ -2592,13 +2592,13 @@
     "Hobby": "發明、修理",
     "WeaponName": "Meister Zero",
     "WeaponDesc": "詠葉持有的簡約設計衝鋒槍。\n\n為了不妨礙應援，收納在雷醬的內部。",
-    "ProfileIntroduction": "千年科學學園所屬，為了迎接大運動會，打扮成應援團的工程師部部長。\n\n儘管是突然被賦予了應援的任務，她仍不失巨匠的風範，只要接下委託就會全力以赴。她的熱情比任何應援團都還要強烈。但有時候為因為熱情過頭了，反而忘了原本的目的……",
+    "ProfileIntroduction": "千年科學學園所屬，為了迎接大運動會，打扮成應援團的工程師部部長。\n\n儘管是突然被賦予了應援的任務，她仍不失巨匠的風範，只要接下委託就會全力以赴。她的熱情比任何應援團都還要強烈。但有時候會因為熱情過頭了，反而忘了原本的目的……",
     "CharacterSSRNew": "注入熊熊燃燒的熱情！"
   },
   {
     "CharacterId": 10052,
     "StatusMessage": "奇普托斯的憂鬱",
-    "FullName": "",
+    "FullName": "生塩乃愛",
     "FamilyName": "生塩",
     "FamilyNameRuby": "",
     "PersonalName": "乃愛",
@@ -2620,7 +2620,7 @@
   {
     "CharacterId": 16010,
     "StatusMessage": "如果有更多時間練習的話……",
-    "FullName": "",
+    "FullName": "猫塚響",
     "FamilyName": "猫塚",
     "FamilyNameRuby": "",
     "PersonalName": "響",
@@ -2642,7 +2642,7 @@
   {
     "CharacterId": 20019,
     "StatusMessage": "和有點新鮮的日常生活一起",
-    "FullName": "",
+    "FullName": "室笠朱音",
     "FamilyName": "室笠",
     "FamilyNameRuby": "",
     "PersonalName": "朱音",
@@ -2664,7 +2664,7 @@
   {
     "CharacterId": 10053,
     "StatusMessage": "晄輪大祭現正舉辦中！",
-    "FullName": "",
+    "FullName": "早瀬優香",
     "FamilyName": "早瀬",
     "FamilyNameRuby": "",
     "PersonalName": "優香",
@@ -2686,7 +2686,7 @@
   {
     "CharacterId": 10054,
     "StatusMessage": "希望會是一場和平的慶典",
-    "FullName": "",
+    "FullName": "伊落瑪麗",
     "FamilyName": "伊落",
     "FamilyNameRuby": "",
     "PersonalName": "瑪麗",
@@ -2708,7 +2708,7 @@
   {
     "CharacterId": 16011,
     "StatusMessage": "大會營運相關諮詢請洽實行委員會",
-    "FullName": "",
+    "FullName": "羽川蓮實",
     "FamilyName": "羽川",
     "FamilyNameRuby": "",
     "PersonalName": "蓮實",
@@ -2730,7 +2730,7 @@
   {
     "CharacterId": 20020,
     "StatusMessage": "千年頂尖的超天才清楚系病弱美少女",
-    "FullName": "",
+    "FullName": "明星陽葵",
     "FamilyName": "明星",
     "FamilyNameRuby": "",
     "PersonalName": "陽葵",
@@ -2752,7 +2752,7 @@
   {
     "CharacterId": 10055,
     "StatusMessage": "是時候調配一杯飲料，改變人生了",
-    "FullName": "",
+    "FullName": "間宵時雨",
     "FamilyName": "間宵",
     "FamilyNameRuby": "",
     "PersonalName": "時雨",
@@ -2774,7 +2774,7 @@
   {
     "CharacterId": 10056,
     "StatusMessage": "願幸福降臨在神聖的夜晚",
-    "FullName": "",
+    "FullName": "鷲見芹奈",
     "FamilyName": "鷲見",
     "FamilyNameRuby": "",
     "PersonalName": "芹奈",
@@ -2796,7 +2796,7 @@
   {
     "CharacterId": 20021,
     "StatusMessage": "正在等待聖誕老人！",
-    "FullName": "",
+    "FullName": "朝顏花繪",
     "FamilyName": "朝顏",
     "FamilyNameRuby": "",
     "PersonalName": "花繪",
@@ -2818,7 +2818,7 @@
   {
     "CharacterId": 10057,
     "StatusMessage": "今年也要探索終極的美食",
-    "FullName": "",
+    "FullName": "黑舘羽留奈",
     "FamilyName": "黑舘",
     "FamilyNameRuby": "",
     "PersonalName": "羽留奈",
@@ -2840,7 +2840,7 @@
   {
     "CharacterId": 16012,
     "StatusMessage": "吃東西的時候別妨礙我！",
-    "FullName": "",
+    "FullName": "赤司淳子",
     "FamilyName": "赤司",
     "FamilyNameRuby": "",
     "PersonalName": "淳子",
@@ -2862,7 +2862,7 @@
   {
     "CharacterId": 20022,
     "StatusMessage": "平安無事、祈願中",
-    "FullName": "",
+    "FullName": "愛清風華",
     "FamilyName": "愛清",
     "FamilyNameRuby": "",
     "PersonalName": "風華",
@@ -2884,7 +2884,7 @@
   {
     "CharacterId": 10058,
     "StatusMessage": "我隨時準備就緒",
-    "FullName": "",
+    "FullName": "蒼森美禰",
     "FamilyName": "蒼森",
     "FamilyNameRuby": "",
     "PersonalName": "美禰",
@@ -2906,7 +2906,7 @@
   {
     "CharacterId": 10059,
     "StatusMessage": "正在招募一起聊天的對象！",
-    "FullName": "",
+    "FullName": "聖園彌香",
     "FamilyName": "聖園",
     "FamilyNameRuby": "",
     "PersonalName": "彌香",
@@ -2928,7 +2928,7 @@
   {
     "CharacterId": 10060,
     "StatusMessage": "隨時歡迎溫泉開發的同志！",
-    "FullName": "",
+    "FullName": "下倉惠",
     "FamilyName": "下倉",
     "FamilyNameRuby": "",
     "PersonalName": "惠",
@@ -2950,7 +2950,7 @@
   {
     "CharacterId": 20023,
     "StatusMessage": "建立安全的奇普托斯，請交給女武神",
-    "FullName": "",
+    "FullName": "尾刃環奈",
     "FamilyName": "尾刃",
     "FamilyNameRuby": "",
     "PersonalName": "環奈",
@@ -2972,7 +2972,7 @@
   {
     "CharacterId": 10061,
     "StatusMessage": "一直關注著你",
-    "FullName": "",
+    "FullName": "歌住櫻子",
     "FamilyName": "歌住",
     "FamilyNameRuby": "",
     "PersonalName": "櫻子",
@@ -2994,7 +2994,7 @@
   {
     "CharacterId": 10062,
     "StatusMessage": "隨時待命中",
-    "FullName": "",
+    "FullName": "飛鳥馬季",
     "FamilyName": "飛鳥馬",
     "FamilyNameRuby": "",
     "PersonalName": "季",
@@ -3016,7 +3016,7 @@
   {
     "CharacterId": 20024,
     "StatusMessage": "隨時都要留有餘裕，保持優雅",
-    "FullName": "",
+    "FullName": "桐藤渚",
     "FamilyName": "桐藤",
     "FamilyNameRuby": "",
     "PersonalName": "渚",
@@ -3038,7 +3038,7 @@
   {
     "CharacterId": 10063,
     "StatusMessage": "不對，這是我的錯嗎……？",
-    "FullName": "",
+    "FullName": "黑崎小雪",
     "FamilyName": "黑崎",
     "FamilyNameRuby": "",
     "PersonalName": "小雪",
@@ -3364,5 +3364,269 @@
     "WeaponDesc": "即使是在海邊，依舊深受白子喜愛的突擊步槍。\n\n由於進行了比平時更妥善的保養，即使面對海水也能正常使用。",
     "ProfileIntroduction": "抵達盛夏無人島渡假村的阿拜多斯對策委員會的突擊隊長。\n\n率先進行著渡假勝地的重建和糧食的採集。似乎對野外生存感到興高采烈，即使換上了泳裝，其我行我素的特點依然沒有改變。",
     "CharacterSSRNew": "……我沒有興奮。\n只是在做該做的事"
+  },
+  {
+    "CharacterId": 10073,
+    "StatusMessage": "出差中",
+    "FullName": "古関憂",
+    "FamilyName": "古関",
+    "FamilyNameRuby": "",
+    "PersonalName": "憂",
+    "PersonalNameRuby": "",
+    "SchoolYear": "3年級",
+    "CharacterAge": "17歲",
+    "BirthDay": "4/23",
+    "Birthday": "4月23日",
+    "CharHeight": "165cm",
+    "DesignerName": "CHILD",
+    "IllustratorName": "CHILD",
+    "CharacterVoice": "後藤沙緒里",
+    "Hobby": "讀書、管理書、古書研究",
+    "WeaponName": "消音器",
+    "WeaponDesc": "久違外出時也一起陪同的憂的狙擊步槍。\n\n明明是在安靜的無人島，卻莫名地經常用上。",
+    "ProfileIntroduction": "在與修女會的交易下，前來調查遺跡的三一綜合學園所屬，圖書委員會的委員長。\n\n雖然不喜歡在戶外活動身體，但出於對古書、遺跡和遺物的喜好，對調查工作似乎相當認真。",
+    "CharacterSSRNew": "哈啊，哈啊……好熱……\n糟透了……"
+  },
+  {
+    "CharacterId": 20028,
+    "StatusMessage": "出差中，如果有事麻煩請傳訊息！",
+    "FullName": "若葉日向",
+    "FamilyName": "若葉",
+    "FamilyNameRuby": "",
+    "PersonalName": "日向",
+    "PersonalNameRuby": "",
+    "SchoolYear": "3年級",
+    "CharacterAge": "17歲",
+    "BirthDay": "5/17",
+    "Birthday": "5月17日",
+    "CharHeight": "166cm",
+    "DesignerName": "kokosando",
+    "IllustratorName": "kokosando",
+    "CharacterVoice": "日高里菜",
+    "Hobby": "祈禱、整理整頓",
+    "WeaponName": "Blessing",
+    "WeaponDesc": "即使是夏天也從不離身的日向的手槍。\n\n主要用於摘取高處的水果這類戰鬥外的用途。",
+    "ProfileIntroduction": "為了協助調查遺跡而一同前往島上的三一綜合學園所屬，修女會的少女。\n\n即使地點與情況有所改變，照顧他人的天性仍一如既往。儘管並非本意，但慵懶島嶼的氣氛似乎使他略顯興奮。",
+    "CharacterSSRNew": "不介意的話，\n要不要幫您拿行李呢？"
+  },
+  {
+    "CharacterId": 16013,
+    "StatusMessage": "泳裝又沒有色色！",
+    "FullName": "下江小春",
+    "FamilyName": "下江",
+    "FamilyNameRuby": "",
+    "PersonalName": "小春",
+    "PersonalNameRuby": "",
+    "SchoolYear": "1年級",
+    "CharacterAge": "15歲",
+    "BirthDay": "4/16",
+    "Birthday": "4月16日",
+    "CharHeight": "148cm",
+    "DesignerName": "DoReMi",
+    "IllustratorName": "DoReMi",
+    "CharacterVoice": "赤尾ひかる",
+    "Hobby": "幻想、妄想、收集色情雜誌",
+    "WeaponName": "Justice Black",
+    "WeaponDesc": "為了調查島嶼而重新整備過的小春的狙擊步槍。\n\n針對濕氣和海風的應對意外的完善。",
+    "ProfileIntroduction": "認為有必要監視老師而來到島上的三一綜合學園所屬，補課部的一員。\n\n儘管宣稱自己背負著「身為實現正義部的一員，不能允許有人擾亂風紀！」的使命感，卻似乎認為在島上的度假也還不賴。",
+    "CharacterSSRNew": ""
+  },
+  {
+    "CharacterId": 10074,
+    "StatusMessage": "可以像裸露出來的皮膚一樣，坦誠以對嗎？",
+    "FullName": "浦和花子",
+    "FamilyName": "浦和",
+    "FamilyNameRuby": "",
+    "PersonalName": "花子",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "1/3",
+    "Birthday": "1月3日",
+    "CharHeight": "161cm",
+    "DesignerName": "Mx2J",
+    "IllustratorName": "Mx2J",
+    "CharacterVoice": "豊田萌絵",
+    "Hobby": "散步",
+    "WeaponName": "Honest Wish",
+    "WeaponDesc": "與花子一同來到海邊的突擊步槍。\n\n儘管依舊沒有說出名字的意義，但現在好像稍微能夠明白了。",
+    "ProfileIntroduction": "為了迎接夏天而來到島上的三一綜合學園所屬，補課部的女孩。\n\n也許是和親近的人來到無拘無束的地方，因此服裝多少有些大膽，不過平時試探般的言行有所收斂，似乎正坦率地展現自己內心的面貌。",
+    "CharacterSSRNew": "哎呀……\n居然變得這麼濕……♡"
+  },
+  {
+    "CharacterId": 20029,
+    "StatusMessage": "總覺得，好像會有好事發生",
+    "FullName": "水羽三森",
+    "FamilyName": "水羽",
+    "FamilyNameRuby": "",
+    "PersonalName": "三森",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "3/15",
+    "Birthday": "3月15日",
+    "CharHeight": "156cm",
+    "DesignerName": "tokki",
+    "IllustratorName": "tokki",
+    "CharacterVoice": "田中理恵",
+    "Hobby": "少女漫畫、所有家事",
+    "WeaponName": "柔軟的決心",
+    "WeaponDesc": "三森的自動式手槍。\n\n大和撫子的修行無論在哪不會結束。就算是夏天的大海也一樣。",
+    "ProfileIntroduction": "趁著夏天為了配合大海而換上泳裝的百鬼夜行聯合學園所屬，修行部的副部長。\n\n總是保持溫和的微笑和善良的態度而受大家喜愛的女孩。儘管平時相當沉穩，但在換上泳裝的的現在，似乎顯得略為興奮。",
+    "CharacterSSRNew": "這段時間，能這麼持續下去就好了……"
+  },
+  {
+    "CharacterId": 10075,
+    "StatusMessage": "畫畫之所以累人，是因為必須常常胡言亂語",
+    "FullName": "姬木愛瑠",
+    "FamilyName": "姬木",
+    "FamilyNameRuby": "",
+    "PersonalName": "愛瑠",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "12/21",
+    "Birthday": "12月21日",
+    "CharHeight": "137cm",
+    "DesignerName": "ぶくろて",
+    "IllustratorName": "ぶくろて",
+    "CharacterVoice": "新井里美",
+    "Hobby": "畫漫畫、妄想",
+    "WeaponName": "創作的……痛苦！",
+    "WeaponDesc": "愛瑠專用的特製手槍。\n\n雖然名字相當老套生硬，但因為實在沒有更好的想法，只好取這個名字……",
+    "ProfileIntroduction": "赤冬聯邦學園所屬，圖書委員會「知識解放戰線」的一員。\n\n和同屬知識解放戰線的紅葉不同，不僅是喜歡二創作品，還親自投入創作活動。筆名為「Meruri」。主要從看起來感情很好，或反向從看起來感情不好的學生身上獲取靈感。身為宿敵的三一和格黑娜學生自然也成為愛瑠的創作對象，使愛瑠在學園外也一樣惡名昭彰。",
+    "CharacterSSRNew": "起來……\n得畫原稿……才行……"
+  },
+  {
+    "CharacterId": 13013,
+    "StatusMessage": "知識就是力量，我會遵守這個原則！",
+    "FullName": "秋泉紅葉",
+    "FamilyName": "秋泉",
+    "FamilyNameRuby": "",
+    "PersonalName": "紅葉",
+    "PersonalNameRuby": "",
+    "SchoolYear": "1年級",
+    "CharacterAge": "15歲",
+    "BirthDay": "8/7",
+    "Birthday": "8月7日",
+    "CharHeight": "135cm",
+    "DesignerName": "キキ",
+    "IllustratorName": "キキ",
+    "CharacterVoice": "大亀あすか",
+    "Hobby": "收集漫畫",
+    "WeaponName": "圖書館使用規定第7號",
+    "WeaponDesc": "紅葉使用的攜帶型RPG。\n\n只要乖乖遵守規範，應該就不會觸發這項「規定」才對……",
+    "ProfileIntroduction": "赤冬聯邦學園所屬，「知識解放戰線」的文學少女。\n\n和時常為了麵包和點心而戰的赤冬其他學生不同，他是為了讓圖書館引進更多藏書而戰。其實是個重度御宅族，向事務局申請購入的書籍也大多都是出於私人的理由，因此申請常常被駁回，但紅葉依舊會鍥而不捨地申請下去。",
+    "CharacterSSRNew": ""
+  },
+  {
+    "CharacterId": 10076,
+    "StatusMessage": "健全的知識寄宿於健全的肉體！",
+    "FullName": "豊見亞都梨",
+    "FamilyName": "豊見",
+    "FamilyNameRuby": "",
+    "PersonalName": "亞都梨",
+    "PersonalNameRuby": "",
+    "SchoolYear": "1年級",
+    "CharacterAge": "15歲",
+    "BirthDay": "12/31",
+    "Birthday": "12月31日",
+    "CharHeight": "151cm",
+    "DesignerName": "MISOM150",
+    "IllustratorName": "MISOM150",
+    "CharacterVoice": "篠原なるみ",
+    "Hobby": "聊天",
+    "WeaponName": "Professor K",
+    "WeaponDesc": "也被稱為「EX-Plain」的亞都梨的機關槍。\n\n為了迎接大運動會，進行了細微又恰到好處（？）的改造。",
+    "ProfileIntroduction": "為了在大運動會替大家應援而換上啦啦隊服的千年科學學園所屬，工程師部的部員。\n\n在用元氣滿滿的開朗聲音應援的期間，平時的說明跟解釋也沒有缺席。",
+    "CharacterSSRNew": "就算地點不同，知識的價值也不會改變！"
+  },
+  {
+    "CharacterId": 20030,
+    "StatusMessage": "來尋找運動和美食的關聯性吧",
+    "FullName": "黑舘羽留奈",
+    "FamilyName": "黑舘",
+    "FamilyNameRuby": "",
+    "PersonalName": "羽留奈",
+    "PersonalNameRuby": "",
+    "SchoolYear": "3年級",
+    "CharacterAge": "17歲",
+    "BirthDay": "3/1",
+    "Birthday": "3月1日",
+    "CharHeight": "163cm",
+    "DesignerName": "whoisshe",
+    "IllustratorName": "whoisshe",
+    "CharacterVoice": "田所あずさ",
+    "Hobby": "尋找美食",
+    "WeaponName": "Ideal",
+    "WeaponDesc": "羽留奈的狙擊步槍。\n\n即便是在運動中，銳利的目光依舊尋找著美食之路。",
+    "ProfileIntroduction": "格黑娜學園所屬，為了參加晄輪大祭而換上體育服的美食研究會會長。\n\n無論何時何地，對美食的探求都不曾停止。正為了尋找只有在晄輪大祭這奇普托斯最盛大的大運動會才能品嚐到的美食而四處徘徊。也許是受到現場熱烈氣氛的影響，似乎顯得比平常更為興奮與親切。",
+    "CharacterSSRNew": "動得越多，肚子就會越餓。\n來，一同踏上美食之旅吧。"
+  },
+  {
+    "CharacterId": 10077,
+    "StatusMessage": "始終親切的實現正義部！",
+    "FullName": "仲正一花",
+    "FamilyName": "仲正",
+    "FamilyNameRuby": "",
+    "PersonalName": "一花",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "11/11",
+    "Birthday": "11月11日",
+    "CharHeight": "163cm",
+    "DesignerName": "7peach",
+    "IllustratorName": "7peach",
+    "CharacterVoice": "鷲見友美ジェナ",
+    "Hobby": "幫助他人，正嘗試各種挑戰",
+    "WeaponName": "Red Dragon",
+    "WeaponDesc": "一路與一花共患難的突擊步槍。\n\n外表打理得樸素端莊，內在卻整備得能足以輕鬆應對任何情況。",
+    "ProfileIntroduction": "總是一臉從容的三一綜合學園所屬，實現正義部的一員。\n\n在有各種學生的實現正義部主要負責仲裁與協調。和其他學園的關係相對較佳。雖然以柔和的表情和親切著稱，但那並非與生俱來的天性而是不斷努力的成果。",
+    "CharacterSSRNew": "咦？約好的時間還沒到吧？\n讓你久等了嗎？"
+  },
+  {
+    "CharacterId": 10078,
+    "StatusMessage": "萬物皆出於溫泉，且終將歸於溫泉",
+    "FullName": "鬼怒佳澄",
+    "FamilyName": "鬼怒川",
+    "FamilyNameRuby": "",
+    "PersonalName": "佳澄",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "5/24",
+    "Birthday": "5月24日",
+    "CharHeight": "148cm",
+    "DesignerName": "Mx2J",
+    "IllustratorName": "Mx2J",
+    "CharacterVoice": "上坂すみれ ",
+    "Hobby": "爆破，溫泉開發",
+    "WeaponName": "Red Rector",
+    "WeaponDesc": "佳澄總是隨身攜帶的手槍。\n\n雖然大部分的情況是為了炒熱氣氛而對空開火，但與其嬌小可愛的外觀不同，實際威力非常強猛。",
+    "ProfileIntroduction": "格黑娜學園所屬，溫泉開發部的部長。\n\n主張源泉流經之地都該開發成溫泉，無論指定的位置上有任何東西都會將其炸毀。雖然獲得了部員的全面支持，不過實際上是名被正式通緝的犯罪者。",
+    "CharacterSSRNew": "溫泉開發的定義，我有告訴過你嗎？"
+  },
+  {
+    "CharacterId": 20031,
+    "StatusMessage": "若連思念都能一飲而盡",
+    "FullName": "間宵時雨",
+    "FamilyName": "間宵",
+    "FamilyNameRuby": "",
+    "PersonalName": "時雨",
+    "PersonalNameRuby": "",
+    "SchoolYear": "2年級",
+    "CharacterAge": "16歲",
+    "BirthDay": "1/22",
+    "Birthday": "1月22日",
+    "CharHeight": "156cm",
+    "DesignerName": "ミミトケ",
+    "IllustratorName": "ミミトケ",
+    "CharacterVoice": "河瀨茉希",
+    "Hobby": "製造自製飲料",
+    "WeaponName": "Spring Punch",
+    "WeaponDesc": "時雨總是帶在身邊的連發式榴彈發射器。\n\n時雨如搖動雪克杯一般帥氣地裝填榴彈的身影是227號溫泉浴場的看頭之一，很受顧客好評。",
+    "ProfileIntroduction": "和特別班的學生一起經營227號溫泉浴場的赤冬聯邦學園所屬，227號特別班的停學生。\n\n舊校舍突然湧出溫泉，於是便與和香一起經營起大規模的溫泉浴場。雖然看似與和香不同，對使溫泉浴場繁盛起來沒有太大的興趣，但能盡情製作各種飲料與點心的環境似乎讓他很滿意。",
+    "CharacterSSRNew": "熱水滋潤皮膚之後，接著就該滋潤體內了。"
   }
 ]

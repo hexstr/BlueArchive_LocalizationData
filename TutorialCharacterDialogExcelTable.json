@@ -126,6 +126,54 @@
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_7_03"
   },
   {
+    "TalkId": 30001,
+    "AnimationName": "02",
+    "Localize": "在確定招募結果前，先向大家介紹甄選招募！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30001_01"
+  },
+  {
+    "TalkId": 30001,
+    "AnimationName": "01",
+    "Localize": "可依照畫面上顯示的剩餘次數進行額外的甄選招募。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30001_02"
+  },
+  {
+    "TalkId": 30002,
+    "AnimationName": "03",
+    "Localize": "若想保存現在招募的結果，請按下「保存結果」按鈕！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30002_01"
+  },
+  {
+    "TalkId": 30003,
+    "AnimationName": "01",
+    "Localize": "可在此確認保存的招募結果。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30003_01"
+  },
+  {
+    "TalkId": 30004,
+    "AnimationName": "02",
+    "Localize": "請注意，只能保存1個結果！之後保存結果時，會覆蓋原先的招募結果！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30004_01"
+  },
+  {
+    "TalkId": 30004,
+    "AnimationName": "01",
+    "Localize": "可透過按下「重新進行」按鈕重新進行甄選招募。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30004_02"
+  },
+  {
+    "TalkId": 30005,
+    "AnimationName": "11",
+    "Localize": "最後，可按下「選擇結果」按鈕來確定招募結果！",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30005_01"
+  },
+  {
+    "TalkId": 30006,
+    "AnimationName": "13",
+    "Localize": "說明結束了，馬上去見新學生吧。",
+    "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_30006_01"
+  },
+  {
     "TalkId": 8,
     "AnimationName": "12",
     "Localize": "新的學生加入了呢！",

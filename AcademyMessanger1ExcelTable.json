@@ -1093,11 +1093,11 @@
   },
   {
     "MessageGroupId": 130080161,
-    "Message": "哇啊啊啊啊啊啊？！為什麼會拍到這個！？"
+    "Message": "哇啊啊啊啊啊啊！？為什麼會拍到這個！？"
   },
   {
     "MessageGroupId": 130080161,
-    "Message": "別，別看！別看啊！"
+    "Message": "別，別看！不准看！"
   },
   {
     "MessageGroupId": 130080161,
@@ -1109,7 +1109,7 @@
   },
   {
     "MessageGroupId": 130080161,
-    "Message": "我待會兒會確認有沒有好好刪除掉！！！"
+    "Message": "我之後會檢查有沒有刪掉哦！！！"
   },
   {
     "MessageGroupId": 130080170,
@@ -1198,6 +1198,50 @@
   {
     "MessageGroupId": 130080290,
     "Message": "OK，我會做好覺悟的"
+  },
+  {
+    "MessageGroupId": 130080300,
+    "Message": "聽說你今天要來阿拜多斯自治區是嗎，老師"
+  },
+  {
+    "MessageGroupId": 130080310,
+    "Message": "嗯，沒錯哦"
+  },
+  {
+    "MessageGroupId": 130080320,
+    "Message": "為了保護老師的安全，我打算去接你"
+  },
+  {
+    "MessageGroupId": 130080320,
+    "Message": "可以吧？"
+  },
+  {
+    "MessageGroupId": 130080330,
+    "Message": "啊，如果你說「沒關係」我會當成「來也沒關係」的哦"
+  },
+  {
+    "MessageGroupId": 130080340,
+    "Message": "我沒有拒絕的權利嗎……"
+  },
+  {
+    "MessageGroupId": 130080340,
+    "Message": "不過你能這麼說我很高興。謝謝你"
+  },
+  {
+    "MessageGroupId": 130080350,
+    "Message": "不，這也是安全上的問題"
+  },
+  {
+    "MessageGroupId": 130080350,
+    "Message": "最近我們自治區……來了一些煩人的傢伙\u00A0\u00A0"
+  },
+  {
+    "MessageGroupId": 130080360,
+    "Message": "總之這次還是小心為妙"
+  },
+  {
+    "MessageGroupId": 130080360,
+    "Message": "覺得不對勁就躲到我身後吧"
   },
   {
     "MessageGroupId": 100130010,
@@ -5677,11 +5721,11 @@
   },
   {
     "MessageGroupId": 160020260,
-    "Message": "早上好！如果有任何問題，請隨時告訴我唷！"
+    "Message": "如果有任何問題，請隨時告訴我唷！"
   },
   {
     "MessageGroupId": 160020270,
-    "Message": "如果你有任何疑問或問題，請隨時找亞都梨！"
+    "Message": "讓亞都梨陪你解決各種疑惑！"
   },
   {
     "MessageGroupId": 160020280,
@@ -5737,39 +5781,39 @@
   },
   {
     "MessageGroupId": 160020340,
-    "Message": "真的是那個，還是說措手不及呢……"
+    "Message": "我實在沒想過會是那種問題……"
   },
   {
     "MessageGroupId": 160020340,
-    "Message": "對不起，之前好像也有發生過這種事……"
+    "Message": "之前好像也發生過類似的事……"
   },
   {
     "MessageGroupId": 160020350,
-    "Message": "……"
+    "Message": "唔嗯……"
   },
   {
     "MessageGroupId": 160020350,
-    "Message": "那個"
+    "Message": "那個……"
   },
   {
     "MessageGroupId": 160020350,
-    "Message": "下次如果可以的話"
+    "Message": "如果"
   },
   {
     "MessageGroupId": 160020360,
-    "Message": "不，我還沒準備好，不是馬上"
+    "Message": "如果可以的話，等我做好準備之後"
   },
   {
     "MessageGroupId": 160020360,
-    "Message": "到那個時候，可以嗎？"
+    "Message": "再麻煩老師了……"
   },
   {
     "MessageGroupId": 160020370,
-    "Message": "會好好地"
+    "Message": "到時候"
   },
   {
     "MessageGroupId": 160020370,
-    "Message": "好好地給出答案"
+    "Message": "我一定會好好回答的……"
   },
   {
     "MessageGroupId": 200000010,
@@ -7085,7 +7129,7 @@
   },
   {
     "MessageGroupId": 230040280,
-    "Message": "我寧願站在詠葉旁邊看著妳修理"
+    "Message": "我寧願站在詠葉旁邊看你修理"
   },
   {
     "MessageGroupId": 230040290,
