@@ -3549,7 +3549,7 @@
   },
   {
     "MessageGroupId": 10021550,
-    "Message": "如果這個秘密洩露出去，犯人肯定是老師"
+    "Message": "如果這個祕密洩露出去，犯人肯定是老師"
   },
   {
     "MessageGroupId": 10021560,
@@ -5321,11 +5321,11 @@
   },
   {
     "MessageGroupId": 100250230,
-    "Message": "啊啊，一定是秘密基地吧"
+    "Message": "啊啊，一定是祕密基地吧"
   },
   {
     "MessageGroupId": 100250240,
-    "Message": "秘密基地？"
+    "Message": "祕密基地？"
   },
   {
     "MessageGroupId": 100250250,
@@ -5333,7 +5333,7 @@
   },
   {
     "MessageGroupId": 100250250,
-    "Message": "所以偶爾會趁我們不注意，做出那樣的秘密空間"
+    "Message": "所以偶爾會趁我們不注意，做出那樣的祕密空間"
   },
   {
     "MessageGroupId": 100250260,
@@ -5345,7 +5345,7 @@
   },
   {
     "MessageGroupId": 100250270,
-    "Message": "這麼說來，最後一次去那個秘密基地已經是很久以前的事了……"
+    "Message": "這麼說來，最後一次去那個祕密基地已經是很久以前的事了……"
   },
   {
     "MessageGroupId": 100250280,
@@ -5353,7 +5353,7 @@
   },
   {
     "MessageGroupId": 100250280,
-    "Message": "……如果你想知道我的秘密的話♡"
+    "Message": "……如果你想知道我的祕密的話♡"
   },
   {
     "MessageGroupId": 100250290,
@@ -12233,7 +12233,7 @@
   },
   {
     "MessageGroupId": 200170240,
-    "Message": "你買給我的雜誌，我會當成自己的秘密的……"
+    "Message": "你買給我的雜誌，我會當成自己的祕密的……"
   },
   {
     "MessageGroupId": 200170250,
@@ -12241,7 +12241,7 @@
   },
   {
     "MessageGroupId": 200170260,
-    "Message": "「學校絕對不會教的秘密知識10大精選」"
+    "Message": "「學校絕對不會教的祕密知識10大精選」"
   },
   {
     "MessageGroupId": 200170260,
@@ -12253,7 +12253,7 @@
   },
   {
     "MessageGroupId": 200170280,
-    "Message": "學校絕對不會教的秘密知識……"
+    "Message": "學校絕對不會教的祕密知識……"
   },
   {
     "MessageGroupId": 200170280,
@@ -14725,7 +14725,7 @@
   },
   {
     "MessageGroupId": 100510100,
-    "Message": "如果只是製作應援機器人的話，是不難……"
+    "Message": "如果只是製作應援機器人倒是不難……"
   },
   {
     "MessageGroupId": 100510100,
@@ -14741,7 +14741,7 @@
   },
   {
     "MessageGroupId": 100510130,
-    "Message": "身為工程師部，就要開發新的發明！"
+    "Message": "既然是工程師部的一員，就要開發新的發明！"
   },
   {
     "MessageGroupId": 100510130,
@@ -14929,11 +14929,11 @@
   },
   {
     "MessageGroupId": 100520090,
-    "Message": "老師，昨天值班的時候……"
+    "Message": "老師，請問你昨天值班的時候……"
   },
   {
     "MessageGroupId": 100520100,
-    "Message": "是穿了新鞋嗎？"
+    "Message": "是不是穿了新鞋？"
   },
   {
     "MessageGroupId": 100520110,
@@ -14977,7 +14977,7 @@
   },
   {
     "MessageGroupId": 100520190,
-    "Message": "每次看到千年學生的發明，往往會大吃一驚"
+    "Message": "當我看到千年學生的發明時，常常會感到驚訝"
   },
   {
     "MessageGroupId": 100520200,
@@ -15005,7 +15005,7 @@
   },
   {
     "MessageGroupId": 100520250,
-    "Message": "……可能只有默背製作機械時需要的藍圖……就這樣而已吧"
+    "Message": "……可能也只有完整記住製作機械時需要的藍圖……這種事而已吧"
   },
   {
     "MessageGroupId": 100520260,
@@ -15021,7 +15021,7 @@
   },
   {
     "MessageGroupId": 100520280,
-    "Message": "很遺憾，因為聯邦學生會反對，被駁回了"
+    "Message": "很遺憾，由於聯邦學生會的反對而被駁回了"
   },
   {
     "MessageGroupId": 100520290,
@@ -15033,19 +15033,19 @@
   },
   {
     "MessageGroupId": 100520300,
-    "Message": "但是，只要變更目的，就能重新申請專利"
+    "Message": "但是專利這種東西，只要變更目的就能重新申請"
   },
   {
     "MessageGroupId": 100520310,
-    "Message": "如果我不斷變更樣式，不斷申請專利……"
+    "Message": "只要不斷變更樣式，反覆進行申請……"
   },
   {
     "MessageGroupId": 100520310,
-    "Message": "總有一天能註冊的吧……！"
+    "Message": "或許總有一天會成功也說不定……？"
   },
   {
     "MessageGroupId": 100520320,
-    "Message": "拜託你別鬧了……！"
+    "Message": "拜託不要……！"
   },
   {
     "MessageGroupId": 100520330,
@@ -15053,15 +15053,15 @@
   },
   {
     "MessageGroupId": 100520340,
-    "Message": "因為在維護單軌列車時，突然下起雷陣雨，部分的軌道好像受損了"
+    "Message": "因為在維護單軌列車時突然下起雷陣雨的關係，似乎造成了部分軌道的受損"
   },
   {
     "MessageGroupId": 100520350,
-    "Message": "部分的成員也因此被困在學園裡"
+    "Message": "有些成員也因此被困在學園裡"
   },
   {
     "MessageGroupId": 100520350,
-    "Message": "擔心讓老師白跑一趟，所以提前與您聯繫"
+    "Message": "為了避免老師白跑一趟，在此先通知老師"
   },
   {
     "MessageGroupId": 160100010,
@@ -15437,15 +15437,15 @@
   },
   {
     "MessageGroupId": 100530040,
-    "Message": "啊，找到了"
+    "Message": "哎呀……是我漏看了"
   },
   {
     "MessageGroupId": 100530040,
-    "Message": "最近總是手忙腳亂的……我失禮了"
+    "Message": "最近總是手忙腳亂的……真不好意思"
   },
   {
     "MessageGroupId": 100530050,
-    "Message": "妳最近好像特別忙呢"
+    "Message": "最近是不是太忙了？"
   },
   {
     "MessageGroupId": 100530060,
@@ -15461,7 +15461,7 @@
   },
   {
     "MessageGroupId": 100530080,
-    "Message": "辛苦妳了，優香"
+    "Message": "辛苦你了，優香"
   },
   {
     "MessageGroupId": 100530080,
@@ -15717,11 +15717,11 @@
   },
   {
     "MessageGroupId": 100540240,
-    "Message": "多虧了老師，我在晄輪大祭裡成長了許多"
+    "Message": "託老師的福，我在晄輪大祭裡成長了許多"
   },
   {
     "MessageGroupId": 100540250,
-    "Message": "所以想……報答老師，但不知道該怎麼做比較好……"
+    "Message": "所以……我想報答老師，卻不知道該怎麼做比較好……"
   },
   {
     "MessageGroupId": 100540260,
@@ -15853,7 +15853,7 @@
   },
   {
     "MessageGroupId": 160110120,
-    "Message": "其實不用這麼在意的，謝謝妳"
+    "Message": "其實不用這麼在意的，謝謝你"
   },
   {
     "MessageGroupId": 160110120,
@@ -16021,7 +16021,7 @@
   },
   {
     "MessageGroupId": 160110410,
-    "Message": "是，"
+    "Message": "是"
   },
   {
     "MessageGroupId": 160110410,
@@ -16057,7 +16057,7 @@
   },
   {
     "MessageGroupId": 200200050,
-    "Message": "不好意思，妳是哪位？"
+    "Message": "不好意思，請問是哪位？"
   },
   {
     "MessageGroupId": 200200060,
@@ -23225,7 +23225,7 @@
   },
   {
     "MessageGroupId": 100760130,
-    "Message": "要不是有亞都梨，我可能會因為嫌煩而放棄吧"
+    "Message": "要不是有亞都梨，我可能會因為嫌麻煩而偷懶吧"
   },
   {
     "MessageGroupId": 100760140,
@@ -23369,7 +23369,7 @@
   },
   {
     "MessageGroupId": 100760360,
-    "Message": "唉呀，我得去看看情況才行"
+    "Message": "哎呀，我得去看看情況才行"
   },
   {
     "MessageGroupId": 100760370,
@@ -23577,7 +23577,7 @@
   },
   {
     "MessageGroupId": 200300160,
-    "Message": "讓人感到些許失望，又充滿期待的回答呢"
+    "Message": "讓人感到些許失望，\n卻又充滿期待的回答呢"
   },
   {
     "MessageGroupId": 200300170,
@@ -23593,7 +23593,7 @@
   },
   {
     "MessageGroupId": 200300190,
-    "Message": "不知會在何時何地和老師相見……"
+    "Message": "不知會在何時何地與老師相見……"
   },
   {
     "MessageGroupId": 200300200,
@@ -24209,7 +24209,7 @@
   },
   {
     "MessageGroupId": 100780430,
-    "Message": "這個秘密，還請一定要守住哦？"
+    "Message": "這個祕密，還請一定要守住哦？"
   },
   {
     "MessageGroupId": 100780440,

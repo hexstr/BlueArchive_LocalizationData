@@ -1,0 +1,515 @@
+[
+  {
+    "SeasonId": 1,
+    "SeasonDisplay": 0,
+    "SeasonStartData": "2021-10-14 12:30:00",
+    "SeasonEndData": "2021-11-03 23:59:59",
+    "SettlementEndDate": "2021-11-04 23:59:59",
+    "RankingRewardGroupId": 100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 2,
+    "SeasonDisplay": 0,
+    "SeasonStartData": "2021-11-16 12:30:00",
+    "SeasonEndData": "2021-11-22 23:59:59",
+    "SettlementEndDate": "2021-11-23 23:59:59",
+    "RankingRewardGroupId": 100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 3,
+    "SeasonDisplay": 1,
+    "SeasonStartData": "2021-11-29 12:30:00",
+    "SeasonEndData": "2021-12-06 23:59:59",
+    "SettlementEndDate": "2021-12-07 23:59:59",
+    "RankingRewardGroupId": 300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 4,
+    "SeasonDisplay": 2,
+    "SeasonStartData": "2021-12-14 12:30:00",
+    "SeasonEndData": "2021-12-20 23:59:59",
+    "SettlementEndDate": "2021-12-21 23:59:59",
+    "RankingRewardGroupId": 500,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 5,
+    "SeasonDisplay": 3,
+    "SeasonStartData": "2021-12-28 12:30:00",
+    "SeasonEndData": "2022-01-03 23:59:59",
+    "SettlementEndDate": "2022-01-04 23:59:59",
+    "RankingRewardGroupId": 600,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 6,
+    "SeasonDisplay": 4,
+    "SeasonStartData": "2022-01-11 12:30:00",
+    "SeasonEndData": "2022-01-17 23:59:59",
+    "SettlementEndDate": "2022-01-18 23:59:59",
+    "RankingRewardGroupId": 500,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 7,
+    "SeasonDisplay": 5,
+    "SeasonStartData": "2022-01-25 12:30:00",
+    "SeasonEndData": "2022-01-31 23:59:59",
+    "SettlementEndDate": "2022-02-01 23:59:59",
+    "RankingRewardGroupId": 700,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 8,
+    "SeasonDisplay": 6,
+    "SeasonStartData": "2022-02-08 12:30:00",
+    "SeasonEndData": "2022-02-14 23:59:59",
+    "SettlementEndDate": "2022-02-15 23:59:59",
+    "RankingRewardGroupId": 100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 9,
+    "SeasonDisplay": 7,
+    "SeasonStartData": "2022-02-22 12:30:00",
+    "SeasonEndData": "2022-02-28 23:59:59",
+    "SettlementEndDate": "2022-03-01 23:59:59",
+    "RankingRewardGroupId": 600,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 10,
+    "SeasonDisplay": 8,
+    "SeasonStartData": "2022-03-08 12:30:00",
+    "SeasonEndData": "2022-03-14 23:59:59",
+    "SettlementEndDate": "2022-03-15 23:59:59",
+    "RankingRewardGroupId": 200,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 11,
+    "SeasonDisplay": 9,
+    "SeasonStartData": "2022-03-22 12:30:00",
+    "SeasonEndData": "2022-03-28 23:59:59",
+    "SettlementEndDate": "2022-03-29 23:59:59",
+    "RankingRewardGroupId": 800,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 12,
+    "SeasonDisplay": 10,
+    "SeasonStartData": "2022-04-05 12:30:00",
+    "SeasonEndData": "2022-04-11 23:59:59",
+    "SettlementEndDate": "2022-04-12 23:59:59",
+    "RankingRewardGroupId": 300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 13,
+    "SeasonDisplay": 11,
+    "SeasonStartData": "2022-04-19 12:30:00",
+    "SeasonEndData": "2022-04-25 23:59:59",
+    "SettlementEndDate": "2022-04-26 23:59:59",
+    "RankingRewardGroupId": 900,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 14,
+    "SeasonDisplay": 12,
+    "SeasonStartData": "2022-05-03 12:30:00",
+    "SeasonEndData": "2022-05-09 23:59:59",
+    "SettlementEndDate": "2022-05-10 23:59:59",
+    "RankingRewardGroupId": 800,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 15,
+    "SeasonDisplay": 13,
+    "SeasonStartData": "2022-05-17 12:30:00",
+    "SeasonEndData": "2022-05-23 23:59:59",
+    "SettlementEndDate": "2022-05-24 23:59:59",
+    "RankingRewardGroupId": 400,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 16,
+    "SeasonDisplay": 14,
+    "SeasonStartData": "2022-05-31 12:30:00",
+    "SeasonEndData": "2022-06-06 23:59:59",
+    "SettlementEndDate": "2022-06-07 23:59:59",
+    "RankingRewardGroupId": 1000,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 17,
+    "SeasonDisplay": 15,
+    "SeasonStartData": "2022-06-14 12:30:00",
+    "SeasonEndData": "2022-06-20 23:59:59",
+    "SettlementEndDate": "2022-06-21 23:59:59",
+    "RankingRewardGroupId": 1100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 18,
+    "SeasonDisplay": 16,
+    "SeasonStartData": "2022-06-28 12:30:00",
+    "SeasonEndData": "2022-07-04 23:59:59",
+    "SettlementEndDate": "2022-07-05 23:59:59",
+    "RankingRewardGroupId": 100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 19,
+    "SeasonDisplay": 17,
+    "SeasonStartData": "2022-07-12 12:30:00",
+    "SeasonEndData": "2022-07-18 23:59:59",
+    "SettlementEndDate": "2022-07-19 23:59:59",
+    "RankingRewardGroupId": 1000,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 20,
+    "SeasonDisplay": 18,
+    "SeasonStartData": "2022-07-26 12:30:00",
+    "SeasonEndData": "2022-08-01 23:59:59",
+    "SettlementEndDate": "2022-08-02 23:59:59",
+    "RankingRewardGroupId": 700,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 21,
+    "SeasonDisplay": 19,
+    "SeasonStartData": "2022-08-09 12:30:00",
+    "SeasonEndData": "2022-08-15 23:59:59",
+    "SettlementEndDate": "2022-08-16 23:59:59",
+    "RankingRewardGroupId": 500,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 22,
+    "SeasonDisplay": 20,
+    "SeasonStartData": "2022-08-23 12:30:00",
+    "SeasonEndData": "2022-08-29 23:59:59",
+    "SettlementEndDate": "2022-08-30 23:59:59",
+    "RankingRewardGroupId": 1200,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 23,
+    "SeasonDisplay": 21,
+    "SeasonStartData": "2022-09-13 11:00:00",
+    "SeasonEndData": "2022-09-20 03:59:59",
+    "SettlementEndDate": "2022-09-20 23:59:59",
+    "RankingRewardGroupId": 1300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 24,
+    "SeasonDisplay": 22,
+    "SeasonStartData": "2022-09-27 11:00:00",
+    "SeasonEndData": "2022-10-04 03:59:59",
+    "SettlementEndDate": "2022-10-04 23:59:59",
+    "RankingRewardGroupId": 300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 25,
+    "SeasonDisplay": 23,
+    "SeasonStartData": "2022-10-11 11:00:00",
+    "SeasonEndData": "2022-10-18 03:59:59",
+    "SettlementEndDate": "2022-10-18 23:59:59",
+    "RankingRewardGroupId": 800,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 26,
+    "SeasonDisplay": 24,
+    "SeasonStartData": "2022-10-25 11:00:00",
+    "SeasonEndData": "2022-11-01 03:59:59",
+    "SettlementEndDate": "2022-11-01 23:59:59",
+    "RankingRewardGroupId": 400,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 27,
+    "SeasonDisplay": 25,
+    "SeasonStartData": "2022-11-08 11:00:00",
+    "SeasonEndData": "2022-11-15 03:59:59",
+    "SettlementEndDate": "2022-11-15 23:59:59",
+    "RankingRewardGroupId": 1300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 28,
+    "SeasonDisplay": 26,
+    "SeasonStartData": "2022-11-22 11:00:00",
+    "SeasonEndData": "2022-11-29 03:59:59",
+    "SettlementEndDate": "2022-11-29 23:59:59",
+    "RankingRewardGroupId": 200,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 29,
+    "SeasonDisplay": 27,
+    "SeasonStartData": "2022-12-06 11:00:00",
+    "SeasonEndData": "2022-12-13 03:59:59",
+    "SettlementEndDate": "2022-12-13 23:59:59",
+    "RankingRewardGroupId": 1000,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 30,
+    "SeasonDisplay": 28,
+    "SeasonStartData": "2022-12-20 11:00:00",
+    "SeasonEndData": "2022-12-27 03:59:59",
+    "SettlementEndDate": "2022-12-27 23:59:59",
+    "RankingRewardGroupId": 1100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 31,
+    "SeasonDisplay": 29,
+    "SeasonStartData": "2023-01-03 11:00:00",
+    "SeasonEndData": "2023-01-10 03:59:59",
+    "SettlementEndDate": "2023-01-10 23:59:59",
+    "RankingRewardGroupId": 700,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 32,
+    "SeasonDisplay": 30,
+    "SeasonStartData": "2023-01-17 11:00:00",
+    "SeasonEndData": "2023-01-24 03:59:59",
+    "SettlementEndDate": "2023-01-24 23:59:59",
+    "RankingRewardGroupId": 100,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 33,
+    "SeasonDisplay": 31,
+    "SeasonStartData": "2023-01-31 11:00:00",
+    "SeasonEndData": "2023-02-07 03:59:59",
+    "SettlementEndDate": "2023-02-07 23:59:59",
+    "RankingRewardGroupId": 500,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 34,
+    "SeasonDisplay": 32,
+    "SeasonStartData": "2023-02-14 11:00:00",
+    "SeasonEndData": "2023-02-21 03:59:59",
+    "SettlementEndDate": "2023-02-21 23:59:59",
+    "RankingRewardGroupId": 600,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 35,
+    "SeasonDisplay": 33,
+    "SeasonStartData": "2023-02-28 11:00:00",
+    "SeasonEndData": "2023-03-07 03:59:59",
+    "SettlementEndDate": "2023-03-07 23:59:59",
+    "RankingRewardGroupId": 1300,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 36,
+    "SeasonDisplay": 34,
+    "SeasonStartData": "2023-03-14 11:00:00",
+    "SeasonEndData": "2023-03-21 03:59:59",
+    "SettlementEndDate": "2023-03-21 23:59:59",
+    "RankingRewardGroupId": 900,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 37,
+    "SeasonDisplay": 35,
+    "SeasonStartData": "2023-03-28 11:00:00",
+    "SeasonEndData": "2023-04-04 03:59:59",
+    "SettlementEndDate": "2023-04-04 23:59:59",
+    "RankingRewardGroupId": 800,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 38,
+    "SeasonDisplay": 36,
+    "SeasonStartData": "2023-04-11 11:00:00",
+    "SeasonEndData": "2023-04-18 03:59:59",
+    "SettlementEndDate": "2023-04-18 23:59:59",
+    "RankingRewardGroupId": 1200,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 39,
+    "SeasonDisplay": 37,
+    "SeasonStartData": "2023-04-25 11:00:00",
+    "SeasonEndData": "2023-05-02 03:59:59",
+    "SettlementEndDate": "2023-05-02 23:59:59",
+    "RankingRewardGroupId": 1410,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 40,
+    "SeasonDisplay": 38,
+    "SeasonStartData": "2023-05-09 11:00:00",
+    "SeasonEndData": "2023-05-16 03:59:59",
+    "SettlementEndDate": "2023-05-16 23:59:59",
+    "RankingRewardGroupId": 310,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 41,
+    "SeasonDisplay": 39,
+    "SeasonStartData": "2023-05-23 11:00:00",
+    "SeasonEndData": "2023-05-30 03:59:59",
+    "SettlementEndDate": "2023-05-30 23:59:59",
+    "RankingRewardGroupId": 410,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 42,
+    "SeasonDisplay": 40,
+    "SeasonStartData": "2023-06-06 11:00:00",
+    "SeasonEndData": "2023-06-13 03:59:59",
+    "SettlementEndDate": "2023-06-13 23:59:59",
+    "RankingRewardGroupId": 210,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 43,
+    "SeasonDisplay": 41,
+    "SeasonStartData": "2023-06-20 11:00:00",
+    "SeasonEndData": "2023-06-27 03:59:59",
+    "SettlementEndDate": "2023-06-27 23:59:59",
+    "RankingRewardGroupId": 1010,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 44,
+    "SeasonDisplay": 42,
+    "SeasonStartData": "2023-07-04 11:00:00",
+    "SeasonEndData": "2023-07-11 03:59:59",
+    "SettlementEndDate": "2023-07-11 23:59:59",
+    "RankingRewardGroupId": 710,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 45,
+    "SeasonDisplay": 43,
+    "SeasonStartData": "2023-07-18 11:00:00",
+    "SeasonEndData": "2023-07-25 03:59:59",
+    "SettlementEndDate": "2023-07-25 23:59:59",
+    "RankingRewardGroupId": 610,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 46,
+    "SeasonDisplay": 44,
+    "SeasonStartData": "2023-08-29 11:00:00",
+    "SeasonEndData": "2023-09-05 03:59:59",
+    "SettlementEndDate": "2023-09-05 23:59:59",
+    "RankingRewardGroupId": 920,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 47,
+    "SeasonDisplay": 45,
+    "SeasonStartData": "2023-09-19 11:00:00",
+    "SeasonEndData": "2023-09-26 03:59:59",
+    "SettlementEndDate": "2023-09-26 23:59:59",
+    "RankingRewardGroupId": 120,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 48,
+    "SeasonDisplay": 46,
+    "SeasonStartData": "2023-10-03 11:00:00",
+    "SeasonEndData": "2023-10-10 03:59:59",
+    "SettlementEndDate": "2023-10-10 23:59:59",
+    "RankingRewardGroupId": 1420,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 49,
+    "SeasonDisplay": 47,
+    "SeasonStartData": "2023-10-17 11:00:00",
+    "SeasonEndData": "2023-10-24 03:59:59",
+    "SettlementEndDate": "2023-10-24 23:59:59",
+    "RankingRewardGroupId": 220,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 50,
+    "SeasonDisplay": 48,
+    "SeasonStartData": "2023-10-31 11:00:00",
+    "SeasonEndData": "2023-11-07 03:59:59",
+    "SettlementEndDate": "2023-11-07 23:59:59",
+    "RankingRewardGroupId": 320,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 51,
+    "SeasonDisplay": 49,
+    "SeasonStartData": "2023-11-14 11:00:00",
+    "SeasonEndData": "2023-11-21 03:59:59",
+    "SettlementEndDate": "2023-11-21 23:59:59",
+    "RankingRewardGroupId": 820,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 52,
+    "SeasonDisplay": 50,
+    "SeasonStartData": "2023-11-28 11:00:00",
+    "SeasonEndData": "2023-12-05 03:59:59",
+    "SettlementEndDate": "2023-12-05 23:59:59",
+    "RankingRewardGroupId": 1220,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 53,
+    "SeasonDisplay": 51,
+    "SeasonStartData": "2023-12-12 11:00:00",
+    "SeasonEndData": "2023-12-19 03:59:59",
+    "SettlementEndDate": "2023-12-19 23:59:59",
+    "RankingRewardGroupId": 1520,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 54,
+    "SeasonDisplay": 52,
+    "SeasonStartData": "2024-01-02 11:00:00",
+    "SeasonEndData": "2024-01-09 03:59:59",
+    "SettlementEndDate": "2024-01-09 23:59:59",
+    "RankingRewardGroupId": 1620,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 55,
+    "SeasonDisplay": 53,
+    "SeasonStartData": "2024-02-06 11:00:00",
+    "SeasonEndData": "2024-02-13 03:59:59",
+    "SettlementEndDate": "2024-02-13 23:59:59",
+    "RankingRewardGroupId": 1730,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 56,
+    "SeasonDisplay": 54,
+    "SeasonStartData": "2024-03-05 11:00:00",
+    "SeasonEndData": "2024-03-12 03:59:59",
+    "SettlementEndDate": "2024-03-12 23:59:59",
+    "RankingRewardGroupId": 1830,
+    "MaxSeasonRewardGauage": 0
+  },
+  {
+    "SeasonId": 57,
+    "SeasonDisplay": 55,
+    "SeasonStartData": "2024-04-09 11:00:00",
+    "SeasonEndData": "2024-04-16 03:59:59",
+    "SettlementEndDate": "2024-04-16 23:59:59",
+    "RankingRewardGroupId": 430,
+    "MaxSeasonRewardGauage": 0
+  }
+]

@@ -638,7 +638,7 @@
   {
     "TalkId": 58,
     "AnimationName": "02",
-    "Localize": "以及「升級」、「神秘解放」、「技能成長」等等，能讓學生們成長的，",
+    "Localize": "以及「升級」、「神祕解放」、「技能成長」等等，能讓學生們成長的，",
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_58_01"
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "TalkId": 180003,
     "AnimationName": "01",
-    "Localize": "或者不立刻使用，以「招募」獲得該學生後再將神名文字用於「神秘解放」也是一種作法。",
+    "Localize": "或者不立刻使用，以「招募」獲得該學生後再將神名文字用於「神祕解放」也是一種作法。",
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_180003_01_1"
   },
   {
@@ -1436,13 +1436,13 @@
   {
     "TalkId": 102130307,
     "AnimationName": "01",
-    "Localize": "[c][007eff]神秘類型[-][/c]的攻擊對[c][007eff]特殊裝甲類型[-][/c]的敵人很有效。",
+    "Localize": "[c][007eff]神祕類型[-][/c]的攻擊對[c][007eff]特殊裝甲類型[-][/c]的敵人很有效。",
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130307_02"
   },
   {
     "TalkId": 102130307,
     "AnimationName": "22",
-    "Localize": "[c][007eff]知世[-][/c]同學的技能屬於[c][007eff]神秘類型[-][/c]，請按壓技能卡並拖曳，在敵人附近放開手指吧！技能可透過點擊或是拖曳來發動！",
+    "Localize": "[c][007eff]知世[-][/c]同學的技能屬於[c][007eff]神祕類型[-][/c]，請按壓技能卡並拖曳，在敵人附近放開手指吧！技能可透過點擊或是拖曳來發動！",
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_102130307_03"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "TalkId": 230001,
     "AnimationName": "02",
-    "Localize": "固有武器是只有神秘解放至★5的學生能裝備的特別武器。",
+    "Localize": "固有武器是只有神祕解放至★5的學生能裝備的特別武器。",
     "SoundPath": "Audio/VOC_JP/JP_Tutorial/Tutorial_230001_02"
   },
   {
