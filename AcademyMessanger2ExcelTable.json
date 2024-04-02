@@ -7201,11 +7201,11 @@
   },
   {
     "MessageGroupId": 200080040,
-    "Message": "稍後將發給您詳細的日期與地點，很抱歉在百忙之中打擾，望能占用您一點點時間"
+    "Message": "稍後將發給您詳細的日期與地點，很抱歉在百忙之中打擾，希望能占用您的一些時間"
   },
   {
     "MessageGroupId": 200080040,
-    "Message": "望您多加指教"
+    "Message": "還請您多加指教"
   },
   {
     "MessageGroupId": 200080050,
@@ -7217,7 +7217,7 @@
   },
   {
     "MessageGroupId": 200080060,
-    "Message": "雖然和今天要做的事情無關，但總算經確認後發現，昨晚貌似是由於配電相關的工程，而導致的暫時停電"
+    "Message": "雖然和今天提及的事無關，但在確認後發現，昨晚似乎是由於配電相關的工程所導致的暫時停電"
   },
   {
     "MessageGroupId": 200080070,
@@ -7229,7 +7229,7 @@
   },
   {
     "MessageGroupId": 200080090,
-    "Message": "……哈啊"
+    "Message": "……唉"
   },
   {
     "MessageGroupId": 200080100,
@@ -7237,7 +7237,7 @@
   },
   {
     "MessageGroupId": 200080110,
-    "Message": "真的是做不下去啊……"
+    "Message": "真的是做不下去了……"
   },
   {
     "MessageGroupId": 200080120,
@@ -7257,11 +7257,11 @@
   },
   {
     "MessageGroupId": 200080150,
-    "Message": "也是件急事，能請你馬上過來嗎？"
+    "Message": "而且是件急事，能請您馬上過來嗎？"
   },
   {
     "MessageGroupId": 200080150,
-    "Message": "你不會棄我不顧吧？"
+    "Message": "您不會棄我不顧吧？"
   },
   {
     "MessageGroupId": 200080160,
@@ -7277,11 +7277,11 @@
   },
   {
     "MessageGroupId": 200080170,
-    "Message": "那麼，之後也拜託你了唷"
+    "Message": "那麼之後也拜託您了唷"
   },
   {
     "MessageGroupId": 200080180,
-    "Message": "已經確定之後還會有了呢……"
+    "Message": "已經確定還有下一次了啊……"
   },
   {
     "MessageGroupId": 200080190,
@@ -7289,15 +7289,15 @@
   },
   {
     "MessageGroupId": 200080200,
-    "Message": "其實啊"
+    "Message": "今天找您不為別的……"
   },
   {
     "MessageGroupId": 200080210,
-    "Message": "……"
+    "Message": "今天很忙"
   },
   {
     "MessageGroupId": 200080220,
-    "Message": "喂喂"
+    "Message": "咦？"
   },
   {
     "MessageGroupId": 200080220,
@@ -7305,15 +7305,15 @@
   },
   {
     "MessageGroupId": 200080230,
-    "Message": "我不買唷"
+    "Message": "先說我不買哦"
   },
   {
     "MessageGroupId": 200080240,
-    "Message": "被當做是強行推銷的人了……！"
+    "Message": "被當成強迫推銷的人了……！"
   },
   {
     "MessageGroupId": 200080240,
-    "Message": "什麼呀，真是的！"
+    "Message": "什麼嘛，真是的！"
   },
   {
     "MessageGroupId": 200080250,
@@ -7333,15 +7333,15 @@
   },
   {
     "MessageGroupId": 200080270,
-    "Message": "嘛"
+    "Message": "唉……"
   },
   {
     "MessageGroupId": 200080270,
-    "Message": "是，是啊"
+    "Message": "這麼說也沒錯"
   },
   {
     "MessageGroupId": 200080280,
-    "Message": "也不是什麼大事"
+    "Message": "雖然也不是什麼大事"
   },
   {
     "MessageGroupId": 200080290,
@@ -23677,7 +23677,7 @@
   },
   {
     "MessageGroupId": 100770030,
-    "Message": "不知道什麼原因"
+    "Message": "不知道為什麼"
   },
   {
     "MessageGroupId": 100770030,
@@ -23749,7 +23749,7 @@
   },
   {
     "MessageGroupId": 100770130,
-    "Message": "遊戲或……興趣吧？怎麼了嗎？"
+    "Message": "玩遊戲……或是做有興趣的事吧？怎麼了嗎？"
   },
   {
     "MessageGroupId": 100770140,
@@ -23789,7 +23789,7 @@
   },
   {
     "MessageGroupId": 100770210,
-    "Message": "不……"
+    "Message": "……"
   },
   {
     "MessageGroupId": 100770210,
@@ -23813,7 +23813,7 @@
   },
   {
     "MessageGroupId": 100770250,
-    "Message": "馬馬虎虎？有什麼事嗎？"
+    "Message": "馬馬虎虎吧？有什麼事嗎？"
   },
   {
     "MessageGroupId": 100770250,
@@ -23881,7 +23881,7 @@
   },
   {
     "MessageGroupId": 100770370,
-    "Message": "今天多虧有老師，真的很開心"
+    "Message": "今天多虧了老師，真的玩得很開心"
   },
   {
     "MessageGroupId": 100770380,
@@ -23981,11 +23981,11 @@
   },
   {
     "MessageGroupId": 100780080,
-    "Message": "風紀委員會怎麼偏偏那個時間點在那裡巡邏呢？"
+    "Message": "風紀委員會那時候怎麼會偏偏挑那裡巡邏呢？"
   },
   {
     "MessageGroupId": 100780090,
-    "Message": "大約有一半人被逮捕，另一半成功逃走了"
+    "Message": "大約有一半的人被逮捕，另一半成功逃走了"
   },
   {
     "MessageGroupId": 100780100,
@@ -24029,7 +24029,7 @@
   },
   {
     "MessageGroupId": 100780160,
-    "Message": "我想到了一個非常棒的想法"
+    "Message": "我想到了一個非常棒的點子"
   },
   {
     "MessageGroupId": 100780170,
@@ -24085,7 +24085,7 @@
   },
   {
     "MessageGroupId": 100780250,
-    "Message": "哎呀哎呀，好不容易才把老師請來，結果我卻先睡著了"
+    "Message": "哎呀哎呀，明明是我把老師請來，結果卻先睡著了"
   },
   {
     "MessageGroupId": 100780250,
@@ -24113,7 +24113,7 @@
   },
   {
     "MessageGroupId": 100780290,
-    "Message": "那麼，之後就要忙起來了，下次見囉！"
+    "Message": "那我就先去忙了，下次見囉！"
   },
   {
     "MessageGroupId": 100780300,
@@ -24189,7 +24189,7 @@
   },
   {
     "MessageGroupId": 100780410,
-    "Message": "嘛"
+    "Message": "也對"
   },
   {
     "MessageGroupId": 100780410,
@@ -24233,7 +24233,7 @@
   },
   {
     "MessageGroupId": 100780480,
-    "Message": "啊啊"
+    "Message": "是啊"
   },
   {
     "MessageGroupId": 100780480,
@@ -24245,7 +24245,7 @@
   },
   {
     "MessageGroupId": 100780500,
-    "Message": "還有可能有點扭傷，所以走不太動"
+    "Message": "而且可能有點扭傷，所以走不太動"
   },
   {
     "MessageGroupId": 100780510,

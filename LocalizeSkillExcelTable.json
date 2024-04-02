@@ -48308,61 +48308,61 @@
   {
     "Key": 188281120,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]32.9%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]32.9%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 854398619,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]34.6%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]34.6%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2006497837,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]36.2%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]36.2%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 19237046,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]42.8%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]42.8%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 4115360582,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]44.5%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]44.5%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2012251383,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]46.1%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]46.1%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2168545793,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]52.7%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]52.7%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 1307245523,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]54.3%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]54.3%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2702286817,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]56%[-][/c]([c][007eff]20秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]56%[-][/c]([c][007eff]20秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
     "Key": 2425055375,
     "Name": "實現正義部的聯絡網",
-    "Description": "每[c][007eff]30秒[-][/c]，震動特效增加[c][007eff]63.1%[-][/c]([c][007eff]25秒[-][/c]內)",
+    "Description": "每[c][007eff]30秒[-][/c]，振動特效增加[c][007eff]63.1%[-][/c]([c][007eff]25秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {
@@ -49802,7 +49802,7 @@
   {
     "Key": 3185740544,
     "Name": "在名譽的陰影之下",
-    "Description": "霍德和入侵之柱的暴擊抵抗數值增加[c][007eff]400%[-][/c]。\n無法給予入侵之柱集中砲火狀態。",
+    "Description": "霍德和入侵之柱的暴擊抵抗數值增加[c][007eff]400[-][/c]。\n無法給予入侵之柱集中砲火狀態。",
     "SkillInvokeLocalize": ""
   },
   {
