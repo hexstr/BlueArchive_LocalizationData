@@ -49610,7 +49610,7 @@
   {
     "Key": 584144632,
     "Name": "這群惡棍！真卑鄙！",
-    "Description": "若在搭乘KAITEN FX Mk.0前，各名凱坦澤被給予群控狀態，則受到的傷害量增加[c][007eff]40%[-][/c]([c][007eff]15秒[-][/c]內)",
+    "Description": "在搭乘KAITEN FX Mk.0前，當各名凱坦澤陷入群控狀態時，受到的傷害量增加[c][007eff]40%[-][/c]([c][007eff]15秒[-][/c]內)",
     "SkillInvokeLocalize": ""
   },
   {

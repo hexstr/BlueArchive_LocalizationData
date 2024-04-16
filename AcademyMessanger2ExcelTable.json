@@ -7433,11 +7433,11 @@
   },
   {
     "MessageGroupId": 200090060,
-    "Message": "平時的午睡只不過是應急措施，根本性的疲勞可是會不斷累積的啊"
+    "Message": "平時的午睡只不過是應急措施，根本性的疲勞可是會不斷累積的"
   },
   {
     "MessageGroupId": 200090070,
-    "Message": "所以為了好好享受休假，這次可是包下了溫泉啊！"
+    "Message": "所以為了好好享受休假，咱這次可是包下了溫泉！"
   },
   {
     "MessageGroupId": 200090070,
@@ -7477,11 +7477,11 @@
   },
   {
     "MessageGroupId": 200090130,
-    "Message": "同志，吃過「溫泉蛋」嗎？"
+    "Message": "同志，你吃過「溫泉蛋」嗎？"
   },
   {
     "MessageGroupId": 200090140,
-    "Message": "聽說光用普通的雞蛋和溫泉水就能創造出美味……"
+    "Message": "聽說是用普通的雞蛋和溫泉水就能創造出的美味……"
   },
   {
     "MessageGroupId": 200090140,
@@ -7517,15 +7517,15 @@
   },
   {
     "MessageGroupId": 200090190,
-    "Message": "現在馬上去做溫泉蛋！"
+    "Message": "馬上去做溫泉蛋！"
   },
   {
     "MessageGroupId": 200090200,
-    "Message": "同志，你聽過這樣的話嗎？"
+    "Message": "同志，你聽過這件事嗎？"
   },
   {
     "MessageGroupId": 200090210,
-    "Message": "優雅游泳的天鵝為了不沉入水中，也拼了命地拍打著腳……"
+    "Message": "優雅游泳的天鵝為了不沉入水中，必須拚命地拍打雙腳……"
   },
   {
     "MessageGroupId": 200090210,
@@ -7533,7 +7533,7 @@
   },
   {
     "MessageGroupId": 200090220,
-    "Message": "希望學園的學生們也抱持這樣的心態，休息日也工作就好了"
+    "Message": "要是學園的學生們也抱持這樣的心態，在休息日也努力工作就好了"
   },
   {
     "MessageGroupId": 200090230,
@@ -7541,11 +7541,11 @@
   },
   {
     "MessageGroupId": 200090240,
-    "Message": "嗯？怎麼了，同志，有什麼想說的嗎？"
+    "Message": "嗯？怎麼了同志，有什麼想說的嗎？"
   },
   {
     "MessageGroupId": 200090250,
-    "Message": "前陣子才得知，天鵝之所以不會沉入水中"
+    "Message": "我前陣子才知道，天鵝之所以不會沉入水中"
   },
   {
     "MessageGroupId": 200090260,
@@ -7581,7 +7581,7 @@
   },
   {
     "MessageGroupId": 200090330,
-    "Message": "智惠說那個油滲得太深，最好是買新的"
+    "Message": "智惠說油滲得太深，最好還是買新的"
   },
   {
     "MessageGroupId": 200090330,
@@ -7605,11 +7605,11 @@
   },
   {
     "MessageGroupId": 200090360,
-    "Message": "洗完澡就買水果牛奶給妳"
+    "Message": "洗完澡就買水果牛奶給你"
   },
   {
     "MessageGroupId": 200090370,
-    "Message": "好，馬上過去，同志"
+    "Message": "咱馬上過去，同志"
   },
   {
     "MessageGroupId": 200090380,
@@ -7665,23 +7665,23 @@
   },
   {
     "MessageGroupId": 100300020,
-    "Message": "昨天值班結束回家的時候，夏萊的燈還亮著……"
+    "Message": "昨天值班結束回家的時候，我發現夏萊的燈還亮著……"
   },
   {
     "MessageGroupId": 100300030,
-    "Message": "聽說上週末也加班到很晚……"
+    "Message": "聽說您上週末也加班到很晚……"
   },
   {
     "MessageGroupId": 100300030,
-    "Message": "您有好好休息嗎？"
+    "Message": "最近有好好休息嗎？"
   },
   {
     "MessageGroupId": 100300040,
-    "Message": "最近沒什麼……"
+    "Message": "工作實在太多了……"
   },
   {
     "MessageGroupId": 100300050,
-    "Message": "這可不好唷，休息也是正式任務的一部份"
+    "Message": "這可不行唷，休息也是正式任務的一部份"
   },
   {
     "MessageGroupId": 100300050,
@@ -7689,7 +7689,7 @@
   },
   {
     "MessageGroupId": 100300050,
-    "Message": "最近，身體有什麼不舒服的地方嗎？"
+    "Message": "最近身體有什麼不舒服的地方嗎？"
   },
   {
     "MessageGroupId": 100300060,
@@ -7709,7 +7709,7 @@
   },
   {
     "MessageGroupId": 100300080,
-    "Message": "有空的時候，去泡一下格黑娜的溫泉如何？"
+    "Message": "有空的時候，不妨來泡一下格黑娜的溫泉哦？"
   },
   {
     "MessageGroupId": 100300090,
@@ -7733,15 +7733,15 @@
   },
   {
     "MessageGroupId": 100300120,
-    "Message": "老師，辛苦了"
+    "Message": "老師，您辛苦了"
   },
   {
     "MessageGroupId": 100300130,
-    "Message": "泡了溫泉，有感到什麼不適的地方嗎？"
+    "Message": "在享受溫泉時有遇到什麼不方便嗎？"
   },
   {
     "MessageGroupId": 100300140,
-    "Message": "嗯，沒問題"
+    "Message": "沒問題"
   },
   {
     "MessageGroupId": 100300140,
@@ -7765,11 +7765,11 @@
   },
   {
     "MessageGroupId": 100300170,
-    "Message": "那個……如何？"
+    "Message": "那個……您覺得如何？"
   },
   {
     "MessageGroupId": 100300180,
-    "Message": "當然。謝謝，我等著唷"
+    "Message": "謝謝，我等你唷"
   },
   {
     "MessageGroupId": 100300190,
@@ -7829,7 +7829,7 @@
   },
   {
     "MessageGroupId": 100300280,
-    "Message": "而且，還收到了禮物……"
+    "Message": "而且還收到了禮物……"
   },
   {
     "MessageGroupId": 100300290,
@@ -8073,7 +8073,7 @@
   },
   {
     "MessageGroupId": 200100040,
-    "Message": "只是關心而已，不覺得太過份了嗎！？"
+    "Message": "只是關心一下而已，這麼說不會太過份了嗎！？"
   },
   {
     "MessageGroupId": 200100050,
@@ -8109,19 +8109,19 @@
   },
   {
     "MessageGroupId": 200100090,
-    "Message": "也就是說，修行！"
+    "Message": "也就是……修行！"
   },
   {
     "MessageGroupId": 200100100,
-    "Message": "之前的學習完全失敗了"
+    "Message": "之前的修行完全失敗了"
   },
   {
     "MessageGroupId": 200100110,
-    "Message": "沒想到會席料理這種東西，竟然是那麼厲害的東西……"
+    "Message": "沒想到會席料理竟然是那麼厲害的東西……"
   },
   {
     "MessageGroupId": 200100110,
-    "Message": "對於幾乎每天只吃配給品的我來說，是個太過於未知的世界……"
+    "Message": "對於每天幾乎只吃配給品的我來說，是個過於未知的世界……"
   },
   {
     "MessageGroupId": 200100120,
@@ -8185,7 +8185,7 @@
   },
   {
     "MessageGroupId": 200100220,
-    "Message": "也就是說，學習禮儀！"
+    "Message": "也就是……學習禮儀！"
   },
   {
     "MessageGroupId": 200100230,
@@ -8221,7 +8221,7 @@
   },
   {
     "MessageGroupId": 200100280,
-    "Message": "要學禮儀的話還有點難啊……"
+    "Message": "學習禮儀還真不容易啊……"
   },
   {
     "MessageGroupId": 200100290,
@@ -8229,7 +8229,7 @@
   },
   {
     "MessageGroupId": 200100300,
-    "Message": "我送你過去，這個週末如何？"
+    "Message": "我送你過去，這個週末有空嗎？"
   },
   {
     "MessageGroupId": 200100310,
@@ -10069,11 +10069,11 @@
   },
   {
     "MessageGroupId": 100360010,
-    "Message": "願各位依然有個和平安寧的一天！"
+    "Message": "願各位能度過和平安寧的一天！"
   },
   {
     "MessageGroupId": 100360020,
-    "Message": "如果有事要來三一的教堂，任何事都可以告訴我，我都願意幫忙"
+    "Message": "如果來到三一的教堂，有任何事都可以請我幫忙"
   },
   {
     "MessageGroupId": 100360030,
@@ -10089,11 +10089,11 @@
   },
   {
     "MessageGroupId": 100360040,
-    "Message": "不過那也要"
+    "Message": "那個"
   },
   {
     "MessageGroupId": 100360040,
-    "Message": "在我能力所及的範圍內……"
+    "Message": "還是要在我能力所及的範圍內……"
   },
   {
     "MessageGroupId": 100360050,
@@ -10101,7 +10101,7 @@
   },
   {
     "MessageGroupId": 100360060,
-    "Message": "除此之外，都請別客氣！"
+    "Message": "除此之外，都請儘管說！"
   },
   {
     "MessageGroupId": 100360070,
@@ -10129,11 +10129,11 @@
   },
   {
     "MessageGroupId": 100360110,
-    "Message": "是否因為我這個人不可靠呢？"
+    "Message": "是不是因為我這個人很不可靠呢？"
   },
   {
     "MessageGroupId": 100360120,
-    "Message": "可能是你太勉強自己了呀"
+    "Message": "會不會是你太勉強自己了？"
   },
   {
     "MessageGroupId": 100360130,
@@ -10141,7 +10141,7 @@
   },
   {
     "MessageGroupId": 100360140,
-    "Message": "可是我應該沒有勉強自己啊……"
+    "Message": "可是我應該沒有勉強自己才對……"
   },
   {
     "MessageGroupId": 100360140,
@@ -10165,7 +10165,7 @@
   },
   {
     "MessageGroupId": 100360170,
-    "Message": "今天光是聽了老師那麼說"
+    "Message": "今天光是聽老師那麼說……"
   },
   {
     "MessageGroupId": 100360170,
@@ -10173,7 +10173,7 @@
   },
   {
     "MessageGroupId": 100360180,
-    "Message": "有受到很大的救贖"
+    "Message": "心裡相當欣慰"
   },
   {
     "MessageGroupId": 100360190,
@@ -10201,19 +10201,19 @@
   },
   {
     "MessageGroupId": 100360230,
-    "Message": "這都是多虧了老師"
+    "Message": "這都多虧了老師"
   },
   {
     "MessageGroupId": 100360240,
-    "Message": "沒什麼大不了的，之後有空再去找你"
+    "Message": "這沒什麼，之後有空再去找你"
   },
   {
     "MessageGroupId": 100360250,
-    "Message": "或是既然都聯絡了，我也去公園玩一下吧？"
+    "Message": "難得有機會，我也去公園玩一下吧？"
   },
   {
     "MessageGroupId": 100360260,
-    "Message": "當然可以，很歡迎老師來賞臉！"
+    "Message": "當然可以，非常歡迎老師！"
   },
   {
     "MessageGroupId": 100360260,
@@ -10257,7 +10257,7 @@
   },
   {
     "MessageGroupId": 100360310,
-    "Message": "但我實在沒有頭緒，她們到底是指什麼……"
+    "Message": "他們所謂的「什麼」，指的究竟是……"
   },
   {
     "MessageGroupId": 100360320,
@@ -10305,7 +10305,7 @@
   },
   {
     "MessageGroupId": 100360390,
-    "Message": "若您方便的話，請問能借我一點時間嗎……？"
+    "Message": "若您方便的話，能占用您一些時間嗎……？"
   },
   {
     "MessageGroupId": 100360400,
@@ -24369,7 +24369,7 @@
   },
   {
     "MessageGroupId": 200310100,
-    "Message": "能解饞的零食，之類的吧？"
+    "Message": "像是是能解饞的零食，之類的吧？"
   },
   {
     "MessageGroupId": 200310110,
@@ -24449,7 +24449,7 @@
   },
   {
     "MessageGroupId": 200310250,
-    "Message": "是沒錯啦……"
+    "Message": "這倒是真的……"
   },
   {
     "MessageGroupId": 200310250,
@@ -24525,7 +24525,7 @@
   },
   {
     "MessageGroupId": 200310370,
-    "Message": "……可別依賴酒哦"
+    "Message": "……還有別依賴酒精"
   },
   {
     "MessageGroupId": 200310380,
