@@ -4112,6 +4112,46 @@
     "Message": "那就到時候見！"
   },
   {
+    "MessageGroupId": 100120260,
+    "Message": "指導員，你有去過夏萊附近的新公園嗎？"
+  },
+  {
+    "MessageGroupId": 100120270,
+    "Message": "還沒去過"
+  },
+  {
+    "MessageGroupId": 100120280,
+    "Message": "這樣啊"
+  },
+  {
+    "MessageGroupId": 100120280,
+    "Message": "上次值日結束後，我在回去的路上稍微逛了一下"
+  },
+  {
+    "MessageGroupId": 100120290,
+    "Message": "步道維護得很乾淨，看起來很適合晨跑"
+  },
+  {
+    "MessageGroupId": 100120300,
+    "Message": "可以的話"
+  },
+  {
+    "MessageGroupId": 100120300,
+    "Message": "明天早上要不要去那個公園輕鬆慢跑一下？"
+  },
+  {
+    "MessageGroupId": 100120310,
+    "Message": "如果只是輕鬆慢跑的話……"
+  },
+  {
+    "MessageGroupId": 100120320,
+    "Message": "謝謝你，指導員"
+  },
+  {
+    "MessageGroupId": 100120330,
+    "Message": "那麼，明早見！"
+  },
+  {
     "MessageGroupId": 130010010,
     "Message": "老師"
   },
