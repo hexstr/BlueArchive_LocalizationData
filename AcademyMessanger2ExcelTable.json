@@ -12257,7 +12257,7 @@
   },
   {
     "MessageGroupId": 200170010,
-    "Message": "老師，你好。欸嘿嘿……"
+    "Message": "老師，你好。耶嘿嘿……"
   },
   {
     "MessageGroupId": 200170020,
@@ -12269,7 +12269,7 @@
   },
   {
     "MessageGroupId": 200170040,
-    "Message": "欸嘿嘿……是的。那個，我找到了免"
+    "Message": "耶嘿嘿……是的。那個，我找到了免"
   },
   {
     "MessageGroupId": 200170040,
@@ -12285,7 +12285,7 @@
   },
   {
     "MessageGroupId": 200170060,
-    "Message": "費的wifi……欸嘿嘿"
+    "Message": "費的Wi-Fi……耶嘿嘿"
   },
   {
     "MessageGroupId": 200170060,
@@ -12301,11 +12301,11 @@
   },
   {
     "MessageGroupId": 200170070,
-    "Message": "啊咧，為什麼沒有回覆呢？"
+    "Message": "老師？為什麼沒有回覆？"
   },
   {
     "MessageGroupId": 200170070,
-    "Message": "……終於，我也被老師拋棄了嗎"
+    "Message": "……我終於被老師拋棄了嗎？"
   },
   {
     "MessageGroupId": 200170080,
@@ -12313,11 +12313,11 @@
   },
   {
     "MessageGroupId": 200170090,
-    "Message": "日和妳冷靜點，確認一下通訊狀態吧"
+    "Message": "日和你冷靜點，先確認一下通訊狀態吧"
   },
   {
     "MessageGroupId": 200170090,
-    "Message": "如果是免費wifi的話，要收到訊息可能要花點時間"
+    "Message": "如果是免費Wi-Fi的話，要收到訊息可能要花點時間"
   },
   {
     "MessageGroupId": 200170100,
@@ -12333,7 +12333,7 @@
   },
   {
     "MessageGroupId": 200170120,
-    "Message": "老師……欸嘿嘿，你好"
+    "Message": "老師……耶嘿嘿，你好"
   },
   {
     "MessageGroupId": 200170130,
@@ -12365,7 +12365,7 @@
   },
   {
     "MessageGroupId": 200170180,
-    "Message": "圖片沒有在傳送……？啊咧，為什麼？"
+    "Message": "圖片傳不出去？怎麼會？為什麼？"
   },
   {
     "MessageGroupId": 200170190,
@@ -12377,7 +12377,7 @@
   },
   {
     "MessageGroupId": 200170200,
-    "Message": "……等等，見面再聊吧"
+    "Message": "……等等見面再聊吧"
   },
   {
     "MessageGroupId": 200170210,
@@ -14085,7 +14085,7 @@
   },
   {
     "MessageGroupId": 100480080,
-    "Message": "我知道這樣很厚臉皮。但是"
+    "Message": "我知道這樣很厚臉皮。但……"
   },
   {
     "MessageGroupId": 100480090,
@@ -14101,47 +14101,47 @@
   },
   {
     "MessageGroupId": 100480120,
-    "Message": "……今天，天氣真好啊"
+    "Message": "那個……老師，今天天氣真好啊"
   },
   {
     "MessageGroupId": 100480130,
-    "Message": "！？"
+    "Message": "咦……！？"
   },
   {
     "MessageGroupId": 100480140,
-    "Message": "怎麼了，老師"
+    "Message": "……怎麼了嗎，老師？"
   },
   {
     "MessageGroupId": 100480150,
-    "Message": "沙織居然聊天氣……"
+    "Message": "沒有，只是沙織居然會聊天氣……"
   },
   {
     "MessageGroupId": 100480150,
-    "Message": "嚇了一跳！"
+    "Message": "嚇了我一跳！"
   },
   {
     "MessageGroupId": 100480160,
-    "Message": "……就算是我，也有想閒聊的時候"
+    "Message": "……就算是我，也會有想閒聊的時候"
   },
   {
     "MessageGroupId": 100480170,
-    "Message": "前幾天，多虧了你，我才能順利開設帳戶"
+    "Message": "前幾天多虧了老師，我才能順利開設帳戶"
   },
   {
     "MessageGroupId": 100480170,
-    "Message": "也開始收到了各種委託，所以只是想轉達一下近況"
+    "Message": "近期也開始收到各種委託，所以想傳達一下近況"
   },
   {
     "MessageGroupId": 100480180,
-    "Message": "如果冒犯了你，之後會避免這樣做"
+    "Message": "如果不需要的話，之後我會避免"
   },
   {
     "MessageGroupId": 100480190,
-    "Message": "沒有那樣的事，我想知道沙織的近況！最近有發生什麼事嗎！？"
+    "Message": "不不不，我也想知道沙織的近況！最近有發生什麼事嗎！？"
   },
   {
     "MessageGroupId": 100480200,
-    "Message": "太浮誇了……最近，在處理黑市介紹的委託"
+    "Message": "太浮誇了……我最近在處理黑市介紹的委託"
   },
   {
     "MessageGroupId": 100480210,
@@ -14153,7 +14153,7 @@
   },
   {
     "MessageGroupId": 100480230,
-    "Message": "嘛，也是呢。算是好事吧"
+    "Message": "嗯，應該算是好事吧"
   },
   {
     "MessageGroupId": 100480230,
@@ -14165,35 +14165,35 @@
   },
   {
     "MessageGroupId": 100480250,
-    "Message": "反省了前幾天的事情"
+    "Message": "老師，有鑑於上次的失敗"
   },
   {
     "MessageGroupId": 100480260,
-    "Message": "關於這次的委託"
+    "Message": "這次黑市的委託"
   },
   {
     "MessageGroupId": 100480260,
-    "Message": "有寫好合約了"
+    "Message": "我有確實寫好合約"
   },
   {
     "MessageGroupId": 100480270,
-    "Message": "那真是太好了！"
+    "Message": "是嗎？那真是太好了！"
   },
   {
     "MessageGroupId": 100480280,
-    "Message": "那麼，這次是什麼委託？"
+    "Message": "話說這次是什麼委託呢？"
   },
   {
     "MessageGroupId": 100480290,
-    "Message": "比想像中還簡單的任務"
+    "Message": "是個挺簡單的任務"
   },
   {
     "MessageGroupId": 100480300,
-    "Message": "只需要結束黑市的紛爭罷了"
+    "Message": "只需要結束黑市的紛爭而已"
   },
   {
     "MessageGroupId": 100480310,
-    "Message": "！？"
+    "Message": "沙，沙，沙織！？"
   },
   {
     "MessageGroupId": 200180010,
@@ -25554,5 +25554,169 @@
   {
     "MessageGroupId": 100800340,
     "Message": "？？？？？？"
+  },
+  {
+    "MessageGroupId": 100810010,
+    "Message": "您好！老師！"
+  },
+  {
+    "MessageGroupId": 100810020,
+    "Message": "你好呀，紫。今天也一樣充滿活力呢"
+  },
+  {
+    "MessageGroupId": 100810030,
+    "Message": "是！隨時充滿活力是我勘解由小路紫無數的優點之一！"
+  },
+  {
+    "MessageGroupId": 100810030,
+    "Message": "不過……最近也只有在老師面前才會展現出這一面"
+  },
+  {
+    "MessageGroupId": 100810040,
+    "Message": "發生什麼事了？"
+  },
+  {
+    "MessageGroupId": 100810050,
+    "Message": "那個……最近家裡好像變得特別嚴格……"
+  },
+  {
+    "MessageGroupId": 100810050,
+    "Message": "說是時候精進勘解由小路家應有的素養，所以要學的東西也變多了……"
+  },
+  {
+    "MessageGroupId": 100810060,
+    "Message": "要是每天都這樣埋頭苦學…… "
+  },
+  {
+    "MessageGroupId": 100810060,
+    "Message": "我將來一定會變成左手打算盤、右手按計算機的學習之鬼的！"
+  },
+  {
+    "MessageGroupId": 100810070,
+    "Message": "雖然很好奇哪裡會有這種鬼……！"
+  },
+  {
+    "MessageGroupId": 100810080,
+    "Message": "不過我認為偶爾也需要喘口氣"
+  },
+  {
+    "MessageGroupId": 100810090,
+    "Message": "喘口氣？"
+  },
+  {
+    "MessageGroupId": 100810090,
+    "Message": "喘口氣……喘口氣……是嗎，唔唔"
+  },
+  {
+    "MessageGroupId": 100810100,
+    "Message": "紫明白了！"
+  },
+  {
+    "MessageGroupId": 100810100,
+    "Message": "那麼我就接受老師的建議……現在馬上去拜訪老師！"
+  },
+  {
+    "MessageGroupId": 100810110,
+    "Message": "嗯？現在馬上……？"
+  },
+  {
+    "MessageGroupId": 100810120,
+    "Message": "是！"
+  },
+  {
+    "MessageGroupId": 100810130,
+    "Message": "小女子最近在吃飯後點心的時候……"
+  },
+  {
+    "MessageGroupId": 100810140,
+    "Message": "想到了一個驚人的好～主意"
+  },
+  {
+    "MessageGroupId": 100810150,
+    "Message": "雖然有點突然，不過是什麼好主意？"
+  },
+  {
+    "MessageGroupId": 100810160,
+    "Message": "像和菓子、蒙～布朗，還有布～丁等等……"
+  },
+  {
+    "MessageGroupId": 100810160,
+    "Message": "世界上有很多甜的點心！"
+  },
+  {
+    "MessageGroupId": 100810170,
+    "Message": "但是經過深思熟慮後……"
+  },
+  {
+    "MessageGroupId": 100810170,
+    "Message": "得出了鹹食也很適合當點心的結論！"
+  },
+  {
+    "MessageGroupId": 100810180,
+    "Message": "如果能開發出鹹的點心，小女子就可以盡情享受甜鹹交錯的滋味而不容易膩了……！"
+  },
+  {
+    "MessageGroupId": 100810190,
+    "Message": "鹹的點心不是很多嗎……？"
+  },
+  {
+    "MessageGroupId": 100810200,
+    "Message": "……什麼？"
+  },
+  {
+    "MessageGroupId": 100810210,
+    "Message": "老師，雖然多少有些厚顏無恥……"
+  },
+  {
+    "MessageGroupId": 100810220,
+    "Message": "但繼上次之後……！"
+  },
+  {
+    "MessageGroupId": 100810220,
+    "Message": "今天我勘解由小路紫，也想向老師學習各種事物！"
+  },
+  {
+    "MessageGroupId": 100810230,
+    "Message": "嗯，那我會在夏萊等你"
+  },
+  {
+    "MessageGroupId": 100810240,
+    "Message": "是！我立刻過去！"
+  },
+  {
+    "MessageGroupId": 100810250,
+    "Message": "老師，有個大～新聞！"
+  },
+  {
+    "MessageGroupId": 100810260,
+    "Message": "聽說今天百鬼夜行第七商店街會舉辦叫做「抽獎儀式」的特別活動！"
+  },
+  {
+    "MessageGroupId": 100810270,
+    "Message": "啊，是商店街常辦的活動啊"
+  },
+  {
+    "MessageGroupId": 100810280,
+    "Message": "聽說商品之中，好像還有奧德賽海洋高級中學渡假勝地的招待券"
+  },
+  {
+    "MessageGroupId": 100810290,
+    "Message": "獎品還真豪華呢"
+  },
+  {
+    "MessageGroupId": 100810300,
+    "Message": "沒錯，那麼無須多言……"
+  },
+  {
+    "MessageGroupId": 100810300,
+    "Message": "老師！"
+  },
+  {
+    "MessageGroupId": 100810310,
+    "Message": "嗯，走吧"
+  },
+  {
+    "MessageGroupId": 100810320,
+    "Message": "是！我會在平時的地方等候著您！"
   }
 ]
