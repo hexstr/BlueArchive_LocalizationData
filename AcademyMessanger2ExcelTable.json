@@ -16225,7 +16225,7 @@
   },
   {
     "MessageGroupId": 200200060,
-    "Message": "什麼？該不會，沒有把我加入聯絡人……？"
+    "Message": "咦？難道老師您沒有把我加入聯絡人……？"
   },
   {
     "MessageGroupId": 200200070,
@@ -16269,7 +16269,7 @@
   },
   {
     "MessageGroupId": 200200140,
-    "Message": "說出駭入了唷……"
+    "Message": "你把駭入說出來了……"
   },
   {
     "MessageGroupId": 200200140,
@@ -16297,15 +16297,15 @@
   },
   {
     "MessageGroupId": 200200190,
-    "Message": "嗯，對唷"
+    "Message": "嗯，是這樣沒錯"
   },
   {
     "MessageGroupId": 200200200,
-    "Message": "那麼，辦完事情之後……嗯，下午3點左右如何呢？"
+    "Message": "那麼可以麻煩您在辦完事情之後……大約下午3點過來一趟嗎？"
   },
   {
     "MessageGroupId": 200200200,
-    "Message": "……有件事想拜託老師"
+    "Message": "我有件事想請您幫忙……"
   },
   {
     "MessageGroupId": 200200210,
@@ -16317,7 +16317,7 @@
   },
   {
     "MessageGroupId": 200200230,
-    "Message": "老師，事情有點嚴重"
+    "Message": "老師，事情似乎變得有點嚴重"
   },
   {
     "MessageGroupId": 200200240,
@@ -26218,5 +26218,213 @@
   {
     "MessageGroupId": 100830370,
     "Message": "嗯，那我現在過去"
+  },
+  {
+    "MessageGroupId": 200320010,
+    "Message": "大人對穿著都挺講究的吧？"
+  },
+  {
+    "MessageGroupId": 200320020,
+    "Message": "算是吧"
+  },
+  {
+    "MessageGroupId": 200320020,
+    "Message": "我都穿的很隨興……"
+  },
+  {
+    "MessageGroupId": 200320030,
+    "Message": "現在正好有空，我想趁這個機會去買點東西"
+  },
+  {
+    "MessageGroupId": 200320030,
+    "Message": "但我不太瞭解時尚，所以想和老師一起訓練"
+  },
+  {
+    "MessageGroupId": 200320040,
+    "Message": "我會把需要的東西帶去"
+  },
+  {
+    "MessageGroupId": 200320050,
+    "Message": "？？？"
+  },
+  {
+    "MessageGroupId": 200320060,
+    "Message": "老師，今天謝謝你陪我"
+  },
+  {
+    "MessageGroupId": 200320070,
+    "Message": "我會再聯絡你"
+  },
+  {
+    "MessageGroupId": 200320080,
+    "Message": "老師，那天到了"
+  },
+  {
+    "MessageGroupId": 200320090,
+    "Message": "哪天？"
+  },
+  {
+    "MessageGroupId": 200320100,
+    "Message": "上次不是說好要幫我挑衣服嗎？"
+  },
+  {
+    "MessageGroupId": 200320100,
+    "Message": "今天就是那個日子"
+  },
+  {
+    "MessageGroupId": 200320110,
+    "Message": "快到我傳給你的地點來"
+  },
+  {
+    "MessageGroupId": 200320120,
+    "Message": "好強的魄力……！"
+  },
+  {
+    "MessageGroupId": 200320130,
+    "Message": "今天真的很謝謝你，老師"
+  },
+  {
+    "MessageGroupId": 200320140,
+    "Message": "不但幫我挑衣服還送我禮物……"
+  },
+  {
+    "MessageGroupId": 200320150,
+    "Message": "不用客氣"
+  },
+  {
+    "MessageGroupId": 200320160,
+    "Message": "去冰海的時候不能只穿泳裝，那件衣服也一定要穿著哦！"
+  },
+  {
+    "MessageGroupId": 200320170,
+    "Message": "嗯，我真的很喜歡這件衣服"
+  },
+  {
+    "MessageGroupId": 200320170,
+    "Message": "我會盡可能每天都穿的"
+  },
+  {
+    "MessageGroupId": 200320180,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 200320190,
+    "Message": "我想在特異現象搜查部跟你討論下一次的作戰，你有空嗎？"
+  },
+  {
+    "MessageGroupId": 200320200,
+    "Message": "嗯……今天很忙，可能有點困難……"
+  },
+  {
+    "MessageGroupId": 200320210,
+    "Message": "是嗎？那就沒辦法了"
+  },
+  {
+    "MessageGroupId": 200320210,
+    "Message": "我會再聯絡你"
+  },
+  {
+    "MessageGroupId": 200320220,
+    "Message": "老師，身體狀況有好一點嗎？"
+  },
+  {
+    "MessageGroupId": 200320230,
+    "Message": "嗯，我穿暖一點之後就好多了"
+  },
+  {
+    "MessageGroupId": 200320240,
+    "Message": "那就好"
+  },
+  {
+    "MessageGroupId": 200320240,
+    "Message": "今天也謝謝你，老師"
+  },
+  {
+    "MessageGroupId": 200320240,
+    "Message": "沒想到這件衣服還有那種含義"
+  },
+  {
+    "MessageGroupId": 200320250,
+    "Message": "看來用泳裝代替內衣好像也不錯"
+  },
+  {
+    "MessageGroupId": 200320250,
+    "Message": "就算夾克裡出了很多汗，反正是泳裝，濕了也沒關係"
+  },
+  {
+    "MessageGroupId": 200320260,
+    "Message": "該怎麼形容？機能美？"
+  },
+  {
+    "MessageGroupId": 200320270,
+    "Message": "啊，嗯……你說的對"
+  },
+  {
+    "MessageGroupId": 200320280,
+    "Message": "不愧是老師"
+  },
+  {
+    "MessageGroupId": 200320280,
+    "Message": "原來時尚要考慮這麼多因素啊"
+  },
+  {
+    "MessageGroupId": 200320290,
+    "Message": "之後請再多教我一些"
+  },
+  {
+    "MessageGroupId": 200320300,
+    "Message": "老師，這裡可能是個樂園"
+  },
+  {
+    "MessageGroupId": 200320310,
+    "Message": "樂園？"
+  },
+  {
+    "MessageGroupId": 200320320,
+    "Message": "嗯……我找到了一個好地方"
+  },
+  {
+    "MessageGroupId": 200320320,
+    "Message": "老師也要來嗎？"
+  },
+  {
+    "MessageGroupId": 200320330,
+    "Message": "發現溫泉了嗎？"
+  },
+  {
+    "MessageGroupId": 200320340,
+    "Message": "嗯……類似吧……"
+  },
+  {
+    "MessageGroupId": 200320350,
+    "Message": "我決定放棄冷水浴了"
+  },
+  {
+    "MessageGroupId": 200320360,
+    "Message": "多麼明智的決定"
+  },
+  {
+    "MessageGroupId": 200320370,
+    "Message": "不過你本來不是還挺興奮的嗎？"
+  },
+  {
+    "MessageGroupId": 200320380,
+    "Message": "嗯……那種溫度確實挺舒服的沒錯……"
+  },
+  {
+    "MessageGroupId": 200320390,
+    "Message": "但老師又不是每次都能幫我泡茶……"
+  },
+  {
+    "MessageGroupId": 200320400,
+    "Message": "而且萬一感冒會讓老師擔心"
+  },
+  {
+    "MessageGroupId": 200320400,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200320410,
+    "Message": "謝謝你一直這麼關心我，老師"
   }
 ]
