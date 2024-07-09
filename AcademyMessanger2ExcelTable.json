@@ -12145,7 +12145,7 @@
   },
   {
     "MessageGroupId": 100410010,
-    "Message": "……你是，誰？"
+    "Message": "……你是哪位？"
   },
   {
     "MessageGroupId": 100410020,
@@ -12169,7 +12169,7 @@
   },
   {
     "MessageGroupId": 100410050,
-    "Message": "那麼，不好意思打擾了"
+    "Message": "抱歉打擾了"
   },
   {
     "MessageGroupId": 100410060,
@@ -12193,7 +12193,7 @@
   },
   {
     "MessageGroupId": 100410100,
-    "Message": "……嗯？我發生了什麼，的意思？"
+    "Message": "……嗯？告訴你發生了什麼？"
   },
   {
     "MessageGroupId": 100410100,
@@ -12217,7 +12217,7 @@
   },
   {
     "MessageGroupId": 100410150,
-    "Message": "地點，之後傳給你……"
+    "Message": "地點之後傳給你……"
   },
   {
     "MessageGroupId": 100410160,
@@ -12253,7 +12253,7 @@
   },
   {
     "MessageGroupId": 100410220,
-    "Message": "那麼，再見"
+    "Message": "下次見"
   },
   {
     "MessageGroupId": 200170010,
