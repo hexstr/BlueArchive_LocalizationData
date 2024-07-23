@@ -1745,6 +1745,111 @@
     "Nickname": "貝里塔斯"
   },
   {
+    "CharacterName": 3528693056,
+    "Name": "陽奈",
+    "Nickname": "風紀委員會"
+  },
+  {
+    "CharacterName": 3729270568,
+    "Name": "亞子",
+    "Nickname": "風紀委員會"
+  },
+  {
+    "CharacterName": 1974581720,
+    "Name": "真琴",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 958803939,
+    "Name": "伊吹",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 4149007208,
+    "Name": "千秋",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 2357886682,
+    "Name": "夢",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 76005906,
+    "Name": "亞瑠",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 3290278185,
+    "Name": "亞瑠",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 4081329921,
+    "Name": "亞瑠",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 3077964741,
+    "Name": "無月",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 3475181665,
+    "Name": "無月",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 4135105618,
+    "Name": "遙香",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 641401187,
+    "Name": "遙香",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 402649036,
+    "Name": "佳世子",
+    "Nickname": "便利屋68"
+  },
+  {
+    "CharacterName": 1063657242,
+    "Name": "沙織",
+    "Nickname": "奧利斯小隊"
+  },
+  {
+    "CharacterName": 715569250,
+    "Name": "椿",
+    "Nickname": "修行部"
+  },
+  {
+    "CharacterName": 3626563476,
+    "Name": "楓",
+    "Nickname": "修行部"
+  },
+  {
+    "CharacterName": 1242341257,
+    "Name": "菲娜",
+    "Nickname": "節慶營運管理部"
+  },
+  {
+    "CharacterName": 2071905505,
+    "Name": "蘇芳",
+    "Nickname": "高地人鐵道監理室"
+  },
+  {
+    "CharacterName": 2132488154,
+    "Name": "希望",
+    "Nickname": "CCC"
+  },
+  {
+    "CharacterName": 4254046605,
+    "Name": "光",
+    "Nickname": "CCC"
+  },
+  {
     "CharacterName": 3261875659,
     "Name": "梓",
     "Nickname": "補課部"
@@ -2370,6 +2475,11 @@
     "Nickname": ""
   },
   {
+    "CharacterName": 2510930354,
+    "Name": "紫",
+    "Nickname": "百花繚亂紛爭調停委員會"
+  },
+  {
     "CharacterName": 2461178121,
     "Name": "名草",
     "Nickname": "百花繚亂紛爭調停委員會"
@@ -2383,6 +2493,46 @@
     "CharacterName": 1851462517,
     "Name": "陽葵",
     "Nickname": "特異現象搜查部"
+  },
+  {
+    "CharacterName": 2902151151,
+    "Name": "陽奈",
+    "Nickname": "風紀委員會"
+  },
+  {
+    "CharacterName": 2657451831,
+    "Name": "星野",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 3007219296,
+    "Name": "星野",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 4059581467,
+    "Name": "夢",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 1475683272,
+    "Name": "沙織",
+    "Nickname": "奧利斯小隊"
+  },
+  {
+    "CharacterName": 3999311743,
+    "Name": "星野",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 3521918127,
+    "Name": "星野",
+    "Nickname": "阿拜多斯學生會"
+  },
+  {
+    "CharacterName": 411980060,
+    "Name": "野乃美",
+    "Nickname": "私立奈芙蒂斯中學"
   },
   {
     "CharacterName": 1800434827,
@@ -2588,6 +2738,16 @@
     "CharacterName": 1956739099,
     "Name": "？？？",
     "Nickname": ""
+  },
+  {
+    "CharacterName": 265318311,
+    "Name": "地下生活者",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1048227713,
+    "Name": "地下生活者",
+    "Nickname": "蓋瑪特利亞"
   },
   {
     "CharacterName": 3627168694,
@@ -4656,7 +4816,7 @@
   },
   {
     "CharacterName": 124895964,
-    "Name": "TVC廣告",
+    "Name": "廣告",
     "Nickname": ""
   },
   {
@@ -6897,6 +7057,286 @@
   {
     "CharacterName": 3123625585,
     "Name": "非常兇猛的熊",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2477922566,
+    "Name": "萬魔殿成員 A",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 3306438530,
+    "Name": "萬魔殿成員 B",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 2006479283,
+    "Name": "萬魔殿成員 C",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 2190153660,
+    "Name": "格黑娜學生 C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 499554769,
+    "Name": "格黑娜學生們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1896312968,
+    "Name": "小流氓C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1686092852,
+    "Name": "戰車長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 665724056,
+    "Name": "廚師學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2631910848,
+    "Name": "老舊的日誌",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1619526623,
+    "Name": "貓",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1919511702,
+    "Name": "萬魔殿資深成員",
+    "Nickname": "萬魔殿"
+  },
+  {
+    "CharacterName": 3180674293,
+    "Name": "施工現場負責人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3714583232,
+    "Name": "仲介業者",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2419716428,
+    "Name": "印刷所職員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 962879099,
+    "Name": "禮服店店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 459095685,
+    "Name": "公園警衛",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 246301526,
+    "Name": "禮服店店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 451446234,
+    "Name": "裁縫店老闆",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 152807650,
+    "Name": "商店街居民",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1368644478,
+    "Name": "唐．阿蘭奇諾",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 2420267461,
+    "Name": "情報員 A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 27560089,
+    "Name": "情報員 B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2021822400,
+    "Name": "聯絡人",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 810353067,
+    "Name": "幫派成員",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 3499747991,
+    "Name": "幫派成員 A",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 1356739060,
+    "Name": "幫派成員 B",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 3911932593,
+    "Name": "幫派成員 C",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 1743410264,
+    "Name": "幫派成員 A",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 2199267344,
+    "Name": "幫派成員 B",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 470642335,
+    "Name": "幫派成員 C",
+    "Nickname": "阿蘭奇諾家族"
+  },
+  {
+    "CharacterName": 3201255710,
+    "Name": "身分不明的殺手 A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3070711825,
+    "Name": "大會執行委員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 296133630,
+    "Name": "體驗館工作人員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2181944830,
+    "Name": "山海經學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 284954573,
+    "Name": "老闆",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4095167268,
+    "Name": "新聞快報",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 57812608,
+    "Name": "攤販",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2768202890,
+    "Name": "陶瓷器匠人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 330118802,
+    "Name": "格黑娜學生 D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 617812583,
+    "Name": "格黑娜學生 E",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1389808306,
+    "Name": "人力車學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2209672421,
+    "Name": "妖怪劇團 C",
+    "Nickname": "妖怪劇團．街頭流派"
+  },
+  {
+    "CharacterName": 983442591,
+    "Name": "路過的學生 A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 316081590,
+    "Name": "路過的學生 B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1310015341,
+    "Name": "路過的學生 C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3328588401,
+    "Name": "路過的學生 D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 356164448,
+    "Name": "奈芙蒂斯幹部",
+    "Nickname": "聖奈芙蒂斯"
+  },
+  {
+    "CharacterName": 1033576123,
+    "Name": "當舖聯盟長",
+    "Nickname": "私募股權基金"
+  },
+  {
+    "CharacterName": 3844430200,
+    "Name": "高利貸勞動會長",
+    "Nickname": "私募股權基金"
+  },
+  {
+    "CharacterName": 1039460587,
+    "Name": "債權團代表",
+    "Nickname": "私募股權基金"
+  },
+  {
+    "CharacterName": 3500497902,
+    "Name": "高地人鐵道學生A",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2936607353,
+    "Name": "高地人鐵道學生B",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2945605158,
+    "Name": "事務官",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2977314474,
+    "Name": "裝扮的學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2366186686,
+    "Name": "騙子A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1579793369,
+    "Name": "騙子B",
     "Nickname": ""
   }
 ]
