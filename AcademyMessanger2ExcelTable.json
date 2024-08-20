@@ -27770,5 +27770,397 @@
   {
     "MessageGroupId": 100860210,
     "Message": "那我明天在派對大廳等你"
+  },
+  {
+    "MessageGroupId": 100880010,
+    "Message": "該怎麼說呢"
+  },
+  {
+    "MessageGroupId": 100880020,
+    "Message": "雖然有所預期，但人多的地方還真是讓人感到疲憊"
+  },
+  {
+    "MessageGroupId": 100880020,
+    "Message": "該做的事姑且都做完了……"
+  },
+  {
+    "MessageGroupId": 100880030,
+    "Message": "我想先休息一下"
+  },
+  {
+    "MessageGroupId": 100880040,
+    "Message": "佳世子？你要休息？"
+  },
+  {
+    "MessageGroupId": 100880040,
+    "Message": "有什麼適合的地方嗎？"
+  },
+  {
+    "MessageGroupId": 100880050,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100880050,
+    "Message": "看來老師也累了呢"
+  },
+  {
+    "MessageGroupId": 100880060,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100880060,
+    "Message": "那正好"
+  },
+  {
+    "MessageGroupId": 100880070,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100880080,
+    "Message": "還是跟你說一聲"
+  },
+  {
+    "MessageGroupId": 100880090,
+    "Message": "如果需要的話再跟我說"
+  },
+  {
+    "MessageGroupId": 100880090,
+    "Message": "我沒打算告訴其他人，不用擔心"
+  },
+  {
+    "MessageGroupId": 100880100,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100880100,
+    "Message": "謝謝"
+  },
+  {
+    "MessageGroupId": 100880110,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100880120,
+    "Message": "聽說你有事要來事務所一趟"
+  },
+  {
+    "MessageGroupId": 100880130,
+    "Message": "嗯，有什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 100880140,
+    "Message": "不"
+  },
+  {
+    "MessageGroupId": 100880140,
+    "Message": "只是因為那段時間，事務所可能沒什麼人"
+  },
+  {
+    "MessageGroupId": 100880150,
+    "Message": "應該會由我來接待"
+  },
+  {
+    "MessageGroupId": 100880150,
+    "Message": "那就到時候見吧，老師"
+  },
+  {
+    "MessageGroupId": 100880160,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100880170,
+    "Message": "之後有空嗎？"
+  },
+  {
+    "MessageGroupId": 100880180,
+    "Message": "佳世子？"
+  },
+  {
+    "MessageGroupId": 100880180,
+    "Message": "嗯，怎麼了？"
+  },
+  {
+    "MessageGroupId": 100880190,
+    "Message": "不"
+  },
+  {
+    "MessageGroupId": 100880190,
+    "Message": "其實也沒什麼特別的"
+  },
+  {
+    "MessageGroupId": 100880200,
+    "Message": "只是想為之前的事做點回禮"
+  },
+  {
+    "MessageGroupId": 100880210,
+    "Message": "總之要是有方便的時間，隨時可以告訴我"
+  },
+  {
+    "MessageGroupId": 100880210,
+    "Message": "其他部分我會配合"
+  },
+  {
+    "MessageGroupId": 100880220,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100880230,
+    "Message": "有件事我忘了說"
+  },
+  {
+    "MessageGroupId": 100880240,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100880250,
+    "Message": "……佳世子？"
+  },
+  {
+    "MessageGroupId": 100880250,
+    "Message": "什麼事忘了說？"
+  },
+  {
+    "MessageGroupId": 100880260,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 100880270,
+    "Message": "果然"
+  },
+  {
+    "MessageGroupId": 100880270,
+    "Message": "現在還是算了"
+  },
+  {
+    "MessageGroupId": 100880280,
+    "Message": "等以後"
+  },
+  {
+    "MessageGroupId": 100880280,
+    "Message": "有機會的話再說吧"
+  },
+  {
+    "MessageGroupId": 100880290,
+    "Message": "那麼"
+  },
+  {
+    "MessageGroupId": 100880290,
+    "Message": "下次見，老師"
+  },
+  {
+    "MessageGroupId": 100890010,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 100890020,
+    "Message": "真煩惱……"
+  },
+  {
+    "MessageGroupId": 100890020,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100890030,
+    "Message": "不，沒什麼事"
+  },
+  {
+    "MessageGroupId": 100890040,
+    "Message": "……發生什麼事了？"
+  },
+  {
+    "MessageGroupId": 100890040,
+    "Message": "放輕鬆告訴我沒關係"
+  },
+  {
+    "MessageGroupId": 100890050,
+    "Message": "那個……"
+  },
+  {
+    "MessageGroupId": 100890050,
+    "Message": "嗯……"
+  },
+  {
+    "MessageGroupId": 100890060,
+    "Message": "不，果然還是不行"
+  },
+  {
+    "MessageGroupId": 100890070,
+    "Message": "之後有機會再告訴你"
+  },
+  {
+    "MessageGroupId": 100890080,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100890080,
+    "Message": "雖然很突然，但我臨時接到了委託"
+  },
+  {
+    "MessageGroupId": 100890090,
+    "Message": "詳細情況下次再告訴你"
+  },
+  {
+    "MessageGroupId": 100890100,
+    "Message": "就跟老師說的一樣，幸好沒把禮服賣掉呢"
+  },
+  {
+    "MessageGroupId": 100890100,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100890110,
+    "Message": "下次見囉，老師"
+  },
+  {
+    "MessageGroupId": 100890120,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100890130,
+    "Message": "上次老師所說的話"
+  },
+  {
+    "MessageGroupId": 100890130,
+    "Message": "我終於懂了"
+  },
+  {
+    "MessageGroupId": 100890140,
+    "Message": "我之前說過的話？"
+  },
+  {
+    "MessageGroupId": 100890140,
+    "Message": "是指禮服的事嗎？"
+  },
+  {
+    "MessageGroupId": 100890150,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100890150,
+    "Message": "如果可以的話，要不要見個面呢？"
+  },
+  {
+    "MessageGroupId": 100890160,
+    "Message": "至於時間跟地點，之後會再告訴你"
+  },
+  {
+    "MessageGroupId": 100890170,
+    "Message": "到時候見囉，老師"
+  },
+  {
+    "MessageGroupId": 100890180,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100890180,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 100890190,
+    "Message": "抱歉"
+  },
+  {
+    "MessageGroupId": 100890200,
+    "Message": "好像不小心說太多話了"
+  },
+  {
+    "MessageGroupId": 100890210,
+    "Message": "沒關係，這樣很正常"
+  },
+  {
+    "MessageGroupId": 100890210,
+    "Message": "是場非常出色的「慶功宴」哦"
+  },
+  {
+    "MessageGroupId": 100890220,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100890220,
+    "Message": "老師果然會這麼說"
+  },
+  {
+    "MessageGroupId": 100890230,
+    "Message": "包含這件事在內，我很感謝你哦，老師"
+  },
+  {
+    "MessageGroupId": 100890240,
+    "Message": "另外……"
+  },
+  {
+    "MessageGroupId": 100890240,
+    "Message": "慶功宴真的很棒"
+  },
+  {
+    "MessageGroupId": 100890250,
+    "Message": "之後有機會的話，我會再邀請你的"
+  },
+  {
+    "MessageGroupId": 100890260,
+    "Message": "老師，你現在有空嗎？"
+  },
+  {
+    "MessageGroupId": 100890270,
+    "Message": "關於最近接到的委託，我有事想跟你商量……"
+  },
+  {
+    "MessageGroupId": 100890280,
+    "Message": "當然"
+  },
+  {
+    "MessageGroupId": 100890280,
+    "Message": "隨時都OK～"
+  },
+  {
+    "MessageGroupId": 100890290,
+    "Message": "呵呵。能見面──"
+  },
+  {
+    "MessageGroupId": 100890290,
+    "Message": "不"
+  },
+  {
+    "MessageGroupId": 100890300,
+    "Message": "能跟老師商量還真令人期待呢"
+  },
+  {
+    "MessageGroupId": 100890310,
+    "Message": "我會再把地點和時間告訴你"
+  },
+  {
+    "MessageGroupId": 100890320,
+    "Message": "這樣就結束了！"
+  },
+  {
+    "MessageGroupId": 100890330,
+    "Message": "今天的事真的很謝謝你，老師"
+  },
+  {
+    "MessageGroupId": 100890340,
+    "Message": "這麼說來，關於那件禮服……"
+  },
+  {
+    "MessageGroupId": 100890340,
+    "Message": "為什麼突然需要修補呢？"
+  },
+  {
+    "MessageGroupId": 100890350,
+    "Message": "嗯？"
+  },
+  {
+    "MessageGroupId": 100890360,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100890360,
+    "Message": "那，那個……"
+  },
+  {
+    "MessageGroupId": 100890370,
+    "Message": "呃"
+  },
+  {
+    "MessageGroupId": 100890370,
+    "Message": "不知道就算了。下次再見吧，老師"
   }
 ]
