@@ -28286,5 +28286,301 @@
   {
     "MessageGroupId": 200340200,
     "Message": "我想老師聽完之後，應該也會有興趣的哦？"
+  },
+  {
+    "MessageGroupId": 100900010,
+    "Message": "老師！有慶典唷！"
+  },
+  {
+    "MessageGroupId": 100900020,
+    "Message": "哦……這麼突然？"
+  },
+  {
+    "MessageGroupId": 100900030,
+    "Message": "啊，對了，老師可能還不知道"
+  },
+  {
+    "MessageGroupId": 100900040,
+    "Message": "老師說過今天有事要來百鬼夜行對吧？"
+  },
+  {
+    "MessageGroupId": 100900050,
+    "Message": "正好今天傍晚會舉辦慶典……"
+  },
+  {
+    "MessageGroupId": 100900050,
+    "Message": "如果方便的話，希望老師可以過來！"
+  },
+  {
+    "MessageGroupId": 100900060,
+    "Message": "可以是可以，但是我不太了解慶典……"
+  },
+  {
+    "MessageGroupId": 100900070,
+    "Message": "沒關係！"
+  },
+  {
+    "MessageGroupId": 100900070,
+    "Message": "我會為你說明一切，請相信我吧！"
+  },
+  {
+    "MessageGroupId": 100900080,
+    "Message": "那我就當老師傍晚會過來囉？"
+  },
+  {
+    "MessageGroupId": 100900080,
+    "Message": "我會等著你的！"
+  },
+  {
+    "MessageGroupId": 100900090,
+    "Message": "你好，老師"
+  },
+  {
+    "MessageGroupId": 100900100,
+    "Message": "可以請教你今天的行程嗎？"
+  },
+  {
+    "MessageGroupId": 100900110,
+    "Message": "雖然沒有什麼大事"
+  },
+  {
+    "MessageGroupId": 100900110,
+    "Message": "但不知為何，我突然想去一趟百夜堂"
+  },
+  {
+    "MessageGroupId": 100900120,
+    "Message": "真的嗎！？"
+  },
+  {
+    "MessageGroupId": 100900130,
+    "Message": "那麼……剛好我也要去百夜堂工作"
+  },
+  {
+    "MessageGroupId": 100900130,
+    "Message": "如果老師願意告訴我什麼時候會過來的話……"
+  },
+  {
+    "MessageGroupId": 100900140,
+    "Message": "要不要在下午見面？"
+  },
+  {
+    "MessageGroupId": 100900150,
+    "Message": "咦？"
+  },
+  {
+    "MessageGroupId": 100900160,
+    "Message": "啊，好！"
+  },
+  {
+    "MessageGroupId": 100900160,
+    "Message": "就算已經交接，我也會配合那個時間的！"
+  },
+  {
+    "MessageGroupId": 100900170,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100900180,
+    "Message": "那，那個，如果老師方便的話，就是……"
+  },
+  {
+    "MessageGroupId": 100900190,
+    "Message": "到百夜堂就行了嗎？"
+  },
+  {
+    "MessageGroupId": 100900200,
+    "Message": "耶嘿嘿"
+  },
+  {
+    "MessageGroupId": 100900210,
+    "Message": "沒錯"
+  },
+  {
+    "MessageGroupId": 100900220,
+    "Message": "我會等你的！"
+  },
+  {
+    "MessageGroupId": 100900230,
+    "Message": "先前真是太失禮了……"
+  },
+  {
+    "MessageGroupId": 100900240,
+    "Message": "海花已經沒事了嗎？"
+  },
+  {
+    "MessageGroupId": 100900250,
+    "Message": "是，託老師的福……"
+  },
+  {
+    "MessageGroupId": 100900260,
+    "Message": "那個，老師"
+  },
+  {
+    "MessageGroupId": 100900260,
+    "Message": "那件事或多或少也跟這有點關係……"
+  },
+  {
+    "MessageGroupId": 100900270,
+    "Message": "今天如果可以的話"
+  },
+  {
+    "MessageGroupId": 100900270,
+    "Message": "希望你能來百夜堂一趟……？"
+  },
+  {
+    "MessageGroupId": 100900280,
+    "Message": "今天終於可以了啊！"
+  },
+  {
+    "MessageGroupId": 100900290,
+    "Message": "沒，沒錯，今天……！"
+  },
+  {
+    "MessageGroupId": 100900300,
+    "Message": "不對"
+  },
+  {
+    "MessageGroupId": 100900310,
+    "Message": "如果老師今天不來的話，那個，雖然只有一點"
+  },
+  {
+    "MessageGroupId": 100900310,
+    "Message": "但我可能會有一點為難，所以……"
+  },
+  {
+    "MessageGroupId": 100900320,
+    "Message": "嗯，在百夜堂見吧"
+  },
+  {
+    "MessageGroupId": 200350010,
+    "Message": "你好，老師"
+  },
+  {
+    "MessageGroupId": 200350020,
+    "Message": "哦，是椿呀"
+  },
+  {
+    "MessageGroupId": 200350020,
+    "Message": "今天也在修行嗎？"
+  },
+  {
+    "MessageGroupId": 200350030,
+    "Message": "沒錯"
+  },
+  {
+    "MessageGroupId": 200350040,
+    "Message": "這次我特別"
+  },
+  {
+    "MessageGroupId": 200350050,
+    "Message": "為了讓修行……更加煥然一新"
+  },
+  {
+    "MessageGroupId": 200350050,
+    "Message": "連衣服都換了"
+  },
+  {
+    "MessageGroupId": 200350060,
+    "Message": "換了衣服？"
+  },
+  {
+    "MessageGroupId": 200350070,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 200350080,
+    "Message": "如果老師要來百鬼夜行"
+  },
+  {
+    "MessageGroupId": 200350080,
+    "Message": "就給你看看吧？"
+  },
+  {
+    "MessageGroupId": 200350090,
+    "Message": "那個，老師"
+  },
+  {
+    "MessageGroupId": 200350100,
+    "Message": "我現在打算去夏萊，可以嗎？"
+  },
+  {
+    "MessageGroupId": 200350110,
+    "Message": "當然可以"
+  },
+  {
+    "MessageGroupId": 200350110,
+    "Message": "椿居然願意到這裡來，真少見"
+  },
+  {
+    "MessageGroupId": 200350120,
+    "Message": "這是當然的"
+  },
+  {
+    "MessageGroupId": 200350120,
+    "Message": "因為現在的我，可是睡眠導覽員春日椿"
+  },
+  {
+    "MessageGroupId": 200350130,
+    "Message": "之前沒能好好為老師進行睡眠導覽……"
+  },
+  {
+    "MessageGroupId": 200350130,
+    "Message": "今天會連同那次的份，一起徹底為你導覽哦"
+  },
+  {
+    "MessageGroupId": 200350140,
+    "Message": "所以就是要在夏萊睡覺的意思啊……"
+  },
+  {
+    "MessageGroupId": 200350150,
+    "Message": "不完全是這樣"
+  },
+  {
+    "MessageGroupId": 200350150,
+    "Message": "因為老師也要一起睡覺"
+  },
+  {
+    "MessageGroupId": 200350160,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 200350170,
+    "Message": "聽說你會來百鬼夜行工作，是嗎？"
+  },
+  {
+    "MessageGroupId": 200350180,
+    "Message": "嗯，是啊"
+  },
+  {
+    "MessageGroupId": 200350190,
+    "Message": "這樣啊"
+  },
+  {
+    "MessageGroupId": 200350190,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 200350200,
+    "Message": "那麼"
+  },
+  {
+    "MessageGroupId": 200350200,
+    "Message": "工作結束之後……可以聯絡我嗎？"
+  },
+  {
+    "MessageGroupId": 200350210,
+    "Message": "嗯，我會的"
+  },
+  {
+    "MessageGroupId": 200350220,
+    "Message": "以前沒能為你做的睡眠嚮導"
+  },
+  {
+    "MessageGroupId": 200350220,
+    "Message": "這次我想徹底地進行"
+  },
+  {
+    "MessageGroupId": 200350230,
+    "Message": "看來你還挺介意這件事的呢……"
   }
 ]
