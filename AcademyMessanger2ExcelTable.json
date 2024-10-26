@@ -11344,6 +11344,62 @@
     "Message": "我會試試看的"
   },
   {
+    "MessageGroupId": 100390400,
+    "Message": "老師，明天去市區的時候"
+  },
+  {
+    "MessageGroupId": 100390410,
+    "Message": "可以帶我一起去嗎……？"
+  },
+  {
+    "MessageGroupId": 100390420,
+    "Message": "當然！"
+  },
+  {
+    "MessageGroupId": 100390430,
+    "Message": "不過突然說想去市區，發生了什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 100390440,
+    "Message": "是這樣的……"
+  },
+  {
+    "MessageGroupId": 100390440,
+    "Message": "因為SRT任務的關係，有事要去市區一趟……"
+  },
+  {
+    "MessageGroupId": 100390450,
+    "Message": "該不會是要在市區戰鬥吧！？"
+  },
+  {
+    "MessageGroupId": 100390460,
+    "Message": "不，不是那麼誇張的任務！"
+  },
+  {
+    "MessageGroupId": 100390470,
+    "Message": "其實……"
+  },
+  {
+    "MessageGroupId": 100390470,
+    "Message": "是偶爾會帶剩下的蔬菜給我們的居民們"
+  },
+  {
+    "MessageGroupId": 100390470,
+    "Message": "拜託我驅逐野獸……"
+  },
+  {
+    "MessageGroupId": 100390480,
+    "Message": "如果是那種事的話，我也跟你一起去"
+  },
+  {
+    "MessageGroupId": 100390490,
+    "Message": "真的可以嗎？"
+  },
+  {
+    "MessageGroupId": 100390490,
+    "Message": "可能會花不少時間哦……"
+  },
+  {
     "MessageGroupId": 200150010,
     "Message": "老師～！又來了～！！"
   },
@@ -11606,6 +11662,142 @@
   {
     "MessageGroupId": 200150500,
     "Message": "我會在公園等你！"
+  },
+  {
+    "MessageGroupId": 200150510,
+    "Message": "老師老師老師！"
+  },
+  {
+    "MessageGroupId": 200150520,
+    "Message": "終於，終於出現了！"
+  },
+  {
+    "MessageGroupId": 200150520,
+    "Message": "我們一起去吧！"
+  },
+  {
+    "MessageGroupId": 200150530,
+    "Message": "怎麼了嗎，楓？什麼東西出現了？"
+  },
+  {
+    "MessageGroupId": 200150540,
+    "Message": "喔……嗯……？"
+  },
+  {
+    "MessageGroupId": 200150550,
+    "Message": "啊，原來如此！老師應該不知道！"
+  },
+  {
+    "MessageGroupId": 200150550,
+    "Message": "我指的是甲蟲皇后快閃店要開幕了！"
+  },
+  {
+    "MessageGroupId": 200150560,
+    "Message": "啊，原來是甲蟲皇后啊"
+  },
+  {
+    "MessageGroupId": 200150570,
+    "Message": "老師的反應怎麼好像突然變冷淡了！？"
+  },
+  {
+    "MessageGroupId": 200150580,
+    "Message": "哼哼哼……不過聽到這個消息之後"
+  },
+  {
+    "MessageGroupId": 200150580,
+    "Message": "老師也會熱血起來吧！？"
+  },
+  {
+    "MessageGroupId": 200150590,
+    "Message": "聽說這次那家快閃店……"
+  },
+  {
+    "MessageGroupId": 200150590,
+    "Message": "會賣甲蟲皇后的限定版卡片保護套！"
+  },
+  {
+    "MessageGroupId": 200150600,
+    "Message": "嗯？是，是嗎……？"
+  },
+  {
+    "MessageGroupId": 200150610,
+    "Message": "看來太過驚嚇果然是做不出反應的呢！"
+  },
+  {
+    "MessageGroupId": 200150610,
+    "Message": "別擔心，我會想辦法幫忙的！"
+  },
+  {
+    "MessageGroupId": 200150620,
+    "Message": "那麼老師！我們購物中心見囉！"
+  },
+  {
+    "MessageGroupId": 200150620,
+    "Message": "我會把位置傳給你！"
+  },
+  {
+    "MessageGroupId": 200150630,
+    "Message": "老師？"
+  },
+  {
+    "MessageGroupId": 200150630,
+    "Message": "平安到家了嗎？"
+  },
+  {
+    "MessageGroupId": 200150640,
+    "Message": "平安到家囉，楓呢？"
+  },
+  {
+    "MessageGroupId": 200150650,
+    "Message": "嗯！我也是！"
+  },
+  {
+    "MessageGroupId": 200150650,
+    "Message": "啊啊，居然能順利買到這個保護套……！"
+  },
+  {
+    "MessageGroupId": 200150660,
+    "Message": "之後就可以用那個保護套"
+  },
+  {
+    "MessageGroupId": 200150670,
+    "Message": "保護楓的卡片了呢"
+  },
+  {
+    "MessageGroupId": 200150680,
+    "Message": "嗯？為什麼這麼說呢？老師"
+  },
+  {
+    "MessageGroupId": 200150690,
+    "Message": "保護套本身也是消耗品"
+  },
+  {
+    "MessageGroupId": 200150690,
+    "Message": "用久了自然會老舊損壞"
+  },
+  {
+    "MessageGroupId": 200150700,
+    "Message": "所以要在外面再套一層透明保護套"
+  },
+  {
+    "MessageGroupId": 200150700,
+    "Message": "進行遊戲時，連保護套都要好好保護！"
+  },
+  {
+    "MessageGroupId": 200150710,
+    "Message": "在保護套外面……再套一層保護套……！？"
+  },
+  {
+    "MessageGroupId": 200150720,
+    "Message": "嗯！這是常識吧？"
+  },
+  {
+    "MessageGroupId": 200150730,
+    "Message": "戰士的世界……好深奧……"
+  },
+  {
+    "MessageGroupId": 200150740,
+    "Message": "會嗎……？"
   },
   {
     "MessageGroupId": 200160010,
@@ -19950,6 +20142,42 @@
   {
     "MessageGroupId": 100650380,
     "Message": "呵呵，我會等著您的到來"
+  },
+  {
+    "MessageGroupId": 100650390,
+    "Message": "老師您好。我是佳穗"
+  },
+  {
+    "MessageGroupId": 100650400,
+    "Message": "聽說您明天會到陰陽部辦公"
+  },
+  {
+    "MessageGroupId": 100650410,
+    "Message": "嗯，是這樣沒錯哦"
+  },
+  {
+    "MessageGroupId": 100650420,
+    "Message": "呵呵，很高興又能見到老師"
+  },
+  {
+    "MessageGroupId": 100650420,
+    "Message": "工作結束之後，要不要到休息室喝杯茶再走？"
+  },
+  {
+    "MessageGroupId": 100650430,
+    "Message": "在整潔的氣氛中休息，也可以提高工作效率"
+  },
+  {
+    "MessageGroupId": 100650440,
+    "Message": "當然好，我很樂意"
+  },
+  {
+    "MessageGroupId": 100650450,
+    "Message": "非常感謝"
+  },
+  {
+    "MessageGroupId": 100650450,
+    "Message": "那麼，我會等候您的到來"
   },
   {
     "MessageGroupId": 100660010,
@@ -28582,5 +28810,897 @@
   {
     "MessageGroupId": 200350230,
     "Message": "看來你還挺介意這件事的呢……"
+  },
+  {
+    "MessageGroupId": 100910010,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100910020,
+    "Message": "事情怎麼會變成這樣……"
+  },
+  {
+    "MessageGroupId": 100910020,
+    "Message": "哪有什麼我命中注定要當主唱啊"
+  },
+  {
+    "MessageGroupId": 100910030,
+    "Message": "既然自己選擇了主唱"
+  },
+  {
+    "MessageGroupId": 100910030,
+    "Message": "就拿出魄力和熱情吧"
+  },
+  {
+    "MessageGroupId": 100910040,
+    "Message": "那又不是我想要的"
+  },
+  {
+    "MessageGroupId": 100910050,
+    "Message": "？"
+  },
+  {
+    "MessageGroupId": 100910050,
+    "Message": "不，等等"
+  },
+  {
+    "MessageGroupId": 100910050,
+    "Message": "仔細想想，這都是老師造成的吧"
+  },
+  {
+    "MessageGroupId": 100910060,
+    "Message": "……什麼？"
+  },
+  {
+    "MessageGroupId": 100910060,
+    "Message": "這是我的錯嗎？"
+  },
+  {
+    "MessageGroupId": 100910070,
+    "Message": "你現在在哪"
+  },
+  {
+    "MessageGroupId": 100910070,
+    "Message": "得讓你負責才行"
+  },
+  {
+    "MessageGroupId": 100910080,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100910080,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 100910090,
+    "Message": "抱歉"
+  },
+  {
+    "MessageGroupId": 100910090,
+    "Message": "現在想想，好像幾乎都是我一個人在唱"
+  },
+  {
+    "MessageGroupId": 100910100,
+    "Message": "我很喜歡哦？"
+  },
+  {
+    "MessageGroupId": 100910100,
+    "Message": "下次再叫我吧。我隨時奉陪"
+  },
+  {
+    "MessageGroupId": 100910110,
+    "Message": "？"
+  },
+  {
+    "MessageGroupId": 100910110,
+    "Message": "真的嗎？"
+  },
+  {
+    "MessageGroupId": 100910120,
+    "Message": "那"
+  },
+  {
+    "MessageGroupId": 100910120,
+    "Message": "這句話我截圖起來了"
+  },
+  {
+    "MessageGroupId": 100910120,
+    "Message": "之後可別想耍賴哦，老師"
+  },
+  {
+    "MessageGroupId": 100910130,
+    "Message": "呃啊……"
+  },
+  {
+    "MessageGroupId": 100910140,
+    "Message": "已經這麼晚了"
+  },
+  {
+    "MessageGroupId": 100910150,
+    "Message": "什麼工作這麼多？"
+  },
+  {
+    "MessageGroupId": 100910150,
+    "Message": "忙到這麼晚？在上課嗎？"
+  },
+  {
+    "MessageGroupId": 100910160,
+    "Message": "不是"
+  },
+  {
+    "MessageGroupId": 100910160,
+    "Message": "只是練習時間延長了一點"
+  },
+  {
+    "MessageGroupId": 100910170,
+    "Message": "現在累到有點難直接回家"
+  },
+  {
+    "MessageGroupId": 100910180,
+    "Message": "嗯……"
+  },
+  {
+    "MessageGroupId": 100910190,
+    "Message": "好，就這麼決定"
+  },
+  {
+    "MessageGroupId": 100910190,
+    "Message": "我現在就進攻"
+  },
+  {
+    "MessageGroupId": 100910200,
+    "Message": "……？"
+  },
+  {
+    "MessageGroupId": 100910200,
+    "Message": "進攻哪裡？"
+  },
+  {
+    "MessageGroupId": 100910210,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100910210,
+    "Message": "剛才有點手忙腳亂的，沒來得及告訴你"
+  },
+  {
+    "MessageGroupId": 100910220,
+    "Message": "對不起"
+  },
+  {
+    "MessageGroupId": 100910230,
+    "Message": "不需要為了這種事道歉哦"
+  },
+  {
+    "MessageGroupId": 100910230,
+    "Message": "蛋糕很好吃"
+  },
+  {
+    "MessageGroupId": 100910240,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100910250,
+    "Message": "話說都這麼晚了，你有平安到家嗎？"
+  },
+  {
+    "MessageGroupId": 100910250,
+    "Message": "應該有馬上回家吧？我莫名有點擔心"
+  },
+  {
+    "MessageGroupId": 100910260,
+    "Message": ""
+  },
+  {
+    "MessageGroupId": 100910270,
+    "Message": "真愛操心"
+  },
+  {
+    "MessageGroupId": 100910270,
+    "Message": "這樣有回答到你吧？"
+  },
+  {
+    "MessageGroupId": 100910280,
+    "Message": "這麼晚了，老師也早點睡吧"
+  },
+  {
+    "MessageGroupId": 100910280,
+    "Message": "晚安"
+  },
+  {
+    "MessageGroupId": 100910290,
+    "Message": "對了，老師"
+  },
+  {
+    "MessageGroupId": 100910300,
+    "Message": "你等一下有空嗎？"
+  },
+  {
+    "MessageGroupId": 100910310,
+    "Message": "有是有，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 100910310,
+    "Message": "怎麼了？要請客嗎？"
+  },
+  {
+    "MessageGroupId": 100910320,
+    "Message": "其實也沒什麼大不了的"
+  },
+  {
+    "MessageGroupId": 100910330,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 100910340,
+    "Message": "因為感謝的心情越積越多，實在想報答你一下"
+  },
+  {
+    "MessageGroupId": 100910350,
+    "Message": "有空的時候跟我說一聲"
+  },
+  {
+    "MessageGroupId": 100910350,
+    "Message": "到時候就在平常那個平交道見吧"
+  },
+  {
+    "MessageGroupId": 100910360,
+    "Message": "不用客氣"
+  },
+  {
+    "MessageGroupId": 100910370,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100910370,
+    "Message": "啊啊啊啊啊啊啊啊啊啊"
+  },
+  {
+    "MessageGroupId": 100910370,
+    "Message": "■■"
+  },
+  {
+    "MessageGroupId": 100910370,
+    "Message": "#$uy%JE^*34%*&%@#&4#"
+  },
+  {
+    "MessageGroupId": 100910380,
+    "Message": "你，你先冷靜"
+  },
+  {
+    "MessageGroupId": 100910380,
+    "Message": "有話好說"
+  },
+  {
+    "MessageGroupId": 100910390,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100910390,
+    "Message": "啊啊"
+  },
+  {
+    "MessageGroupId": 100910390,
+    "Message": "$#^$42CC5&&#%Y"
+  },
+  {
+    "MessageGroupId": 100910400,
+    "Message": "我肯定是瘋了"
+  },
+  {
+    "MessageGroupId": 100910400,
+    "Message": "要是你敢說出去就死"
+  },
+  {
+    "MessageGroupId": 100910410,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100910410,
+    "Message": "沒有"
+  },
+  {
+    "MessageGroupId": 100910420,
+    "Message": "不對不對"
+  },
+  {
+    "MessageGroupId": 100910420,
+    "Message": "我到底在說什麼啊……"
+  },
+  {
+    "MessageGroupId": 100910430,
+    "Message": "真的很抱歉"
+  },
+  {
+    "MessageGroupId": 100910440,
+    "Message": "我反而覺得很新鮮很有趣哦"
+  },
+  {
+    "MessageGroupId": 100910440,
+    "Message": "真的沒事，別放在心上"
+  },
+  {
+    "MessageGroupId": 100910450,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 100910460,
+    "Message": "好吧"
+  },
+  {
+    "MessageGroupId": 100920010,
+    "Message": "對了，老師"
+  },
+  {
+    "MessageGroupId": 100920020,
+    "Message": "我們也需要準備樂團的服裝"
+  },
+  {
+    "MessageGroupId": 100920020,
+    "Message": "衣服和設計都是我負責的"
+  },
+  {
+    "MessageGroupId": 100920030,
+    "Message": "那服裝也由我來挑選就行了吧？"
+  },
+  {
+    "MessageGroupId": 100920040,
+    "Message": "應該是吧？"
+  },
+  {
+    "MessageGroupId": 100920040,
+    "Message": "有什麼擔心的事嗎？"
+  },
+  {
+    "MessageGroupId": 100920050,
+    "Message": "嗯……"
+  },
+  {
+    "MessageGroupId": 100920050,
+    "Message": "一個人去果然還是有點壓力"
+  },
+  {
+    "MessageGroupId": 100920060,
+    "Message": "畢竟是老師叫我做的"
+  },
+  {
+    "MessageGroupId": 100920060,
+    "Message": "所以老師也該一起來吧"
+  },
+  {
+    "MessageGroupId": 100920070,
+    "Message": "突然邀請約會？"
+  },
+  {
+    "MessageGroupId": 100920070,
+    "Message": "嗯……還算是挺自然的吧"
+  },
+  {
+    "MessageGroupId": 100920080,
+    "Message": "？"
+  },
+  {
+    "MessageGroupId": 100920080,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100920090,
+    "Message": "ㅡ ㅡ;;;"
+  },
+  {
+    "MessageGroupId": 100920090,
+    "Message": "別鬧了啦，真是的"
+  },
+  {
+    "MessageGroupId": 100920100,
+    "Message": "我會把地點拍給你，就在那裡見吧"
+  },
+  {
+    "MessageGroupId": 100920110,
+    "Message": "總覺得"
+  },
+  {
+    "MessageGroupId": 100920120,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 100920120,
+    "Message": "好像欠了很大的人情"
+  },
+  {
+    "MessageGroupId": 100920120,
+    "Message": "本來沒打算這樣的"
+  },
+  {
+    "MessageGroupId": 100920130,
+    "Message": "別在意，我是喜歡才那麼做的"
+  },
+  {
+    "MessageGroupId": 100920130,
+    "Message": "反正也看到了可愛的模樣，就當作是回報吧"
+  },
+  {
+    "MessageGroupId": 100920140,
+    "Message": "ㅡ\"ㅡ;"
+  },
+  {
+    "MessageGroupId": 100920140,
+    "Message": "突然變得那麼紳士會讓我有點困擾"
+  },
+  {
+    "MessageGroupId": 100920150,
+    "Message": "總之"
+  },
+  {
+    "MessageGroupId": 100920150,
+    "Message": "該感謝的就是該感謝"
+  },
+  {
+    "MessageGroupId": 100920160,
+    "Message": "謝謝你，老師。以後一定會報答你的！"
+  },
+  {
+    "MessageGroupId": 100920170,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100920180,
+    "Message": "雖然不太確定，但感覺好像不錯"
+  },
+  {
+    "MessageGroupId": 100920190,
+    "Message": "……？"
+  },
+  {
+    "MessageGroupId": 100920190,
+    "Message": "你指的是什麼？"
+  },
+  {
+    "MessageGroupId": 100920200,
+    "Message": "就是"
+  },
+  {
+    "MessageGroupId": 100920200,
+    "Message": "我隨意試畫了一下，但是不太順利"
+  },
+  {
+    "MessageGroupId": 100920210,
+    "Message": "畫畫？"
+  },
+  {
+    "MessageGroupId": 100920210,
+    "Message": "是樂團的設計嗎？"
+  },
+  {
+    "MessageGroupId": 100920220,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100920220,
+    "Message": "可以來幫我看一下嗎？"
+  },
+  {
+    "MessageGroupId": 100920230,
+    "Message": "到底是怎樣"
+  },
+  {
+    "MessageGroupId": 100920240,
+    "Message": "你有病嗎？"
+  },
+  {
+    "MessageGroupId": 100920240,
+    "Message": "連一天都熬不過了？"
+  },
+  {
+    "MessageGroupId": 100920240,
+    "Message": "放著不管就會死掉的那種？"
+  },
+  {
+    "MessageGroupId": 100920250,
+    "Message": "呵呵，真是方便的藉口"
+  },
+  {
+    "MessageGroupId": 100920250,
+    "Message": "之後就當作是那樣吧～！"
+  },
+  {
+    "MessageGroupId": 100920260,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100920260,
+    "Message": "呵呵呵呵"
+  },
+  {
+    "MessageGroupId": 100920270,
+    "Message": "真是氣死人了"
+  },
+  {
+    "MessageGroupId": 100920270,
+    "Message": "呵呵呵呵呵呵呵呵呵呵呵呵"
+  },
+  {
+    "MessageGroupId": 100920280,
+    "Message": "去死啦╰_╯"
+  },
+  {
+    "MessageGroupId": 100920290,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100920300,
+    "Message": "我有重要的事"
+  },
+  {
+    "MessageGroupId": 100920310,
+    "Message": "現在有時間嗎？"
+  },
+  {
+    "MessageGroupId": 100920320,
+    "Message": "重要的事？"
+  },
+  {
+    "MessageGroupId": 100920320,
+    "Message": "感覺氣氛很嚴肅呢"
+  },
+  {
+    "MessageGroupId": 100920330,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100920330,
+    "Message": "嗯，沒錯"
+  },
+  {
+    "MessageGroupId": 100920340,
+    "Message": "所以可以的話，希望你能來"
+  },
+  {
+    "MessageGroupId": 100920340,
+    "Message": "我會另外把地點傳給你"
+  },
+  {
+    "MessageGroupId": 100920350,
+    "Message": "一定要來哦"
+  },
+  {
+    "MessageGroupId": 100920360,
+    "Message": "呼"
+  },
+  {
+    "MessageGroupId": 100920370,
+    "Message": "感覺快死掉了"
+  },
+  {
+    "MessageGroupId": 100920370,
+    "Message": "結果竟然全部彈了一遍"
+  },
+  {
+    "MessageGroupId": 100920380,
+    "Message": "真的很棒哦，這不是客套話"
+  },
+  {
+    "MessageGroupId": 100920380,
+    "Message": "真厲害，要常彈給我聽哦"
+  },
+  {
+    "MessageGroupId": 100920390,
+    "Message": "什麼嘛"
+  },
+  {
+    "MessageGroupId": 100920390,
+    "Message": "你明明也可以好好說話的嘛"
+  },
+  {
+    "MessageGroupId": 100920400,
+    "Message": "嘻嘻"
+  },
+  {
+    "MessageGroupId": 100920400,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100920410,
+    "Message": "謝謝你認真聽我的演奏"
+  },
+  {
+    "MessageGroupId": 100920420,
+    "Message": "啊，對了，話說剛才的第一首曲子XD"
+  },
+  {
+    "MessageGroupId": 100920420,
+    "Message": "我好像可以找出是什麼歌哦XD"
+  },
+  {
+    "MessageGroupId": 100920430,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100920430,
+    "Message": "ㅡ ㅡ;"
+  },
+  {
+    "MessageGroupId": 100920430,
+    "Message": "真是煩死了"
+  },
+  {
+    "MessageGroupId": 100920440,
+    "Message": "有夠討厭"
+  },
+  {
+    "MessageGroupId": 160150010,
+    "Message": "老師！請問這週末有空嗎？"
+  },
+  {
+    "MessageGroupId": 160150020,
+    "Message": "我是愛莉！！"
+  },
+  {
+    "MessageGroupId": 160150030,
+    "Message": "嗨，愛莉"
+  },
+  {
+    "MessageGroupId": 160150030,
+    "Message": "當然，有什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 160150040,
+    "Message": "是！老師好呀！"
+  },
+  {
+    "MessageGroupId": 160150050,
+    "Message": "啊，太好了！"
+  },
+  {
+    "MessageGroupId": 160150060,
+    "Message": "如果老師方便的話……"
+  },
+  {
+    "MessageGroupId": 160150070,
+    "Message": "週末有空嗎？只要一下下就好了！！"
+  },
+  {
+    "MessageGroupId": 160150080,
+    "Message": "……？"
+  },
+  {
+    "MessageGroupId": 160150090,
+    "Message": "嘿嘿o(^▽^)o"
+  },
+  {
+    "MessageGroupId": 160150090,
+    "Message": "一定要來哦！！"
+  },
+  {
+    "MessageGroupId": 160150100,
+    "Message": "老師！平安到家了嗎！"
+  },
+  {
+    "MessageGroupId": 160150110,
+    "Message": "不知道今天吃的合不合你的胃口"
+  },
+  {
+    "MessageGroupId": 160150120,
+    "Message": "等待果然是值得的！各方面都是！"
+  },
+  {
+    "MessageGroupId": 160150120,
+    "Message": "很高興能了解更多愛莉的事"
+  },
+  {
+    "MessageGroupId": 160150130,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150140,
+    "Message": "嘿嘿"
+  },
+  {
+    "MessageGroupId": 160150140,
+    "Message": "那真是太好了！"
+  },
+  {
+    "MessageGroupId": 160150150,
+    "Message": "下次再聯絡哦！！"
+  },
+  {
+    "MessageGroupId": 160150160,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 160150170,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 160150170,
+    "Message": "我正在一個人練習"
+  },
+  {
+    "MessageGroupId": 160150180,
+    "Message": "可以的話，能請老師幫我看一下嗎？"
+  },
+  {
+    "MessageGroupId": 160150190,
+    "Message": "因為有些部分做的不是很好><"
+  },
+  {
+    "MessageGroupId": 160150200,
+    "Message": "當然，我馬上過去"
+  },
+  {
+    "MessageGroupId": 160150200,
+    "Message": "愛莉真認真呢"
+  },
+  {
+    "MessageGroupId": 160150210,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150210,
+    "Message": "是！"
+  },
+  {
+    "MessageGroupId": 160150220,
+    "Message": "謝謝你，老師！！(((o(≧∇≦)o)))"
+  },
+  {
+    "MessageGroupId": 160150230,
+    "Message": "對不起"
+  },
+  {
+    "MessageGroupId": 160150240,
+    "Message": "老師，真的很抱歉"
+  },
+  {
+    "MessageGroupId": 160150250,
+    "Message": "不必道歉，沒關係的"
+  },
+  {
+    "MessageGroupId": 160150250,
+    "Message": "而且我也沒受傷，這點程度不算什麼！"
+  },
+  {
+    "MessageGroupId": 160150260,
+    "Message": "可"
+  },
+  {
+    "MessageGroupId": 160150260,
+    "Message": "可是"
+  },
+  {
+    "MessageGroupId": 160150260,
+    "Message": "我想像的情景明明很帥的"
+  },
+  {
+    "MessageGroupId": 160150270,
+    "Message": "結果居然會這麼慘不忍睹……"
+  },
+  {
+    "MessageGroupId": 160150280,
+    "Message": "怎麼會呢，我覺得很成功呀？"
+  },
+  {
+    "MessageGroupId": 160150280,
+    "Message": "不覺得挺棒的嗎？"
+  },
+  {
+    "MessageGroupId": 160150290,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150290,
+    "Message": "是"
+  },
+  {
+    "MessageGroupId": 160150290,
+    "Message": "是嗎？"
+  },
+  {
+    "MessageGroupId": 160150300,
+    "Message": "如果是的話……"
+  },
+  {
+    "MessageGroupId": 160150310,
+    "Message": "那就太好了！！(((o(≧∇≦)o)))"
+  },
+  {
+    "MessageGroupId": 160150320,
+    "Message": "差不多"
+  },
+  {
+    "MessageGroupId": 160150330,
+    "Message": "快結束了呢"
+  },
+  {
+    "MessageGroupId": 160150330,
+    "Message": "有點……該怎麼說呢……"
+  },
+  {
+    "MessageGroupId": 160150340,
+    "Message": "╯︿╰"
+  },
+  {
+    "MessageGroupId": 160150350,
+    "Message": "……愛莉？"
+  },
+  {
+    "MessageGroupId": 160150350,
+    "Message": "有什麼煩惱嗎？"
+  },
+  {
+    "MessageGroupId": 160150360,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150360,
+    "Message": "又說了不該說的話>\"<"
+  },
+  {
+    "MessageGroupId": 160150370,
+    "Message": "我也不太清楚"
+  },
+  {
+    "MessageGroupId": 160150370,
+    "Message": "或許是吧……"
+  },
+  {
+    "MessageGroupId": 160150380,
+    "Message": "唔"
+  },
+  {
+    "MessageGroupId": 160150380,
+    "Message": "傳了不該傳的訊息"
+  },
+  {
+    "MessageGroupId": 160150390,
+    "Message": "我很抱歉╯︿╰"
+  },
+  {
+    "MessageGroupId": 160150400,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150410,
+    "Message": "那"
+  },
+  {
+    "MessageGroupId": 160150410,
+    "Message": "那個，老師"
+  },
+  {
+    "MessageGroupId": 160150420,
+    "Message": "雖然好像沒什麼關聯"
+  },
+  {
+    "MessageGroupId": 160150430,
+    "Message": "不過今天的事……"
+  },
+  {
+    "MessageGroupId": 160150430,
+    "Message": "請別告訴其他人，\n不然我會很害羞的……"
+  },
+  {
+    "MessageGroupId": 160150440,
+    "Message": "別擔心，我不會告訴任何人的"
+  },
+  {
+    "MessageGroupId": 160150440,
+    "Message": "我也感覺得出來哦:D"
+  },
+  {
+    "MessageGroupId": 160150450,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 160150450,
+    "Message": "是"
+  },
+  {
+    "MessageGroupId": 160150460,
+    "Message": "耶嘿嘿"
+  },
+  {
+    "MessageGroupId": 160150470,
+    "Message": "謝謝你！！ヾ(^▽^*)))"
   }
 ]
