@@ -21089,7 +21089,7 @@
   },
   {
     "MessageGroupId": 100700110,
-    "Message": "身為玄龍門的幹部，真是沒出息"
+    "Message": "身為玄龍門的幹部，實在令人慚愧"
   },
   {
     "MessageGroupId": 100700120,
@@ -21245,7 +21245,7 @@
   },
   {
     "MessageGroupId": 100700390,
-    "Message": "……偶爾是，嗎？"
+    "Message": "偶爾是……嗎？"
   },
   {
     "MessageGroupId": 100700400,
@@ -29702,5 +29702,313 @@
   {
     "MessageGroupId": 160150470,
     "Message": "謝謝你！！ヾ(^▽^*)))"
+  },
+  {
+    "MessageGroupId": 100930010,
+    "Message": "哈囉～"
+  },
+  {
+    "MessageGroupId": 100930020,
+    "Message": "這是老師的帳號對嗎？？"
+  },
+  {
+    "MessageGroupId": 100930030,
+    "Message": "沒錯～哈囉，綺羅羅"
+  },
+  {
+    "MessageGroupId": 100930040,
+    "Message": "啊～哈囉哈囉～老師～"
+  },
+  {
+    "MessageGroupId": 100930050,
+    "Message": "跟你說哦，今天有人問我最喜歡什麼"
+  },
+  {
+    "MessageGroupId": 100930060,
+    "Message": "所以我一～直在想這件事～"
+  },
+  {
+    "MessageGroupId": 100930060,
+    "Message": "結果！我果然還是最喜歡聊天！"
+  },
+  {
+    "MessageGroupId": 100930070,
+    "Message": "老師呢？"
+  },
+  {
+    "MessageGroupId": 100930070,
+    "Message": "喜歡聊天嗎？"
+  },
+  {
+    "MessageGroupId": 100930080,
+    "Message": "我也挺喜歡聊天的"
+  },
+  {
+    "MessageGroupId": 100930080,
+    "Message": "我也喜歡跟綺羅羅聊天哦"
+  },
+  {
+    "MessageGroupId": 100930090,
+    "Message": "哦，真的嗎！？"
+  },
+  {
+    "MessageGroupId": 100930090,
+    "Message": "老師和我想的一樣耶～哈哈哈！"
+  },
+  {
+    "MessageGroupId": 100930100,
+    "Message": "老師～"
+  },
+  {
+    "MessageGroupId": 100930110,
+    "Message": "我找到老師也可以進行閃亮亮部活動的方法了！"
+  },
+  {
+    "MessageGroupId": 100930120,
+    "Message": "如果老師願意，可以讓你當我們社團的顧問～"
+  },
+  {
+    "MessageGroupId": 100930120,
+    "Message": "所以，如果想一起放學的話隨時歡迎！"
+  },
+  {
+    "MessageGroupId": 100930130,
+    "Message": "叩叩"
+  },
+  {
+    "MessageGroupId": 100930140,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100930140,
+    "Message": "老師TAT"
+  },
+  {
+    "MessageGroupId": 100930150,
+    "Message": "是綺羅羅……嗎？"
+  },
+  {
+    "MessageGroupId": 100930160,
+    "Message": "嗯嗯嗯，沒錯！"
+  },
+  {
+    "MessageGroupId": 100930170,
+    "Message": "老師，幫幫我！"
+  },
+  {
+    "MessageGroupId": 100930170,
+    "Message": "我這次考試考不及格TAT"
+  },
+  {
+    "MessageGroupId": 100930180,
+    "Message": "老師可以在夏萊教我念書嗎TAT"
+  },
+  {
+    "MessageGroupId": 100930190,
+    "Message": "啊，但是會不會……\n正好很忙或是覺得困擾……之類的？"
+  },
+  {
+    "MessageGroupId": 100930200,
+    "Message": "沒關係，我等你來哦"
+  },
+  {
+    "MessageGroupId": 100930210,
+    "Message": "不愧是老師＞＜"
+  },
+  {
+    "MessageGroupId": 100930220,
+    "Message": "謝謝老師TAT"
+  },
+  {
+    "MessageGroupId": 100930230,
+    "Message": "多虧有老師才能念得這麼認真！！"
+  },
+  {
+    "MessageGroupId": 100930240,
+    "Message": "能幫上忙真是太好了……"
+  },
+  {
+    "MessageGroupId": 100930250,
+    "Message": "嗯？怎麼感覺回覆有氣無力的？"
+  },
+  {
+    "MessageGroupId": 100930250,
+    "Message": "老師真的教得很好呀？"
+  },
+  {
+    "MessageGroupId": 100930260,
+    "Message": "下次也拜託你囉！"
+  },
+  {
+    "MessageGroupId": 100930270,
+    "Message": "考試範圍還沒讀完嗎？"
+  },
+  {
+    "MessageGroupId": 100930280,
+    "Message": "嗯！我之後會再聯絡你的＞＜"
+  },
+  {
+    "MessageGroupId": 100930290,
+    "Message": "老師！！！！！"
+  },
+  {
+    "MessageGroupId": 100930300,
+    "Message": "今天有空嗎？"
+  },
+  {
+    "MessageGroupId": 100930310,
+    "Message": "嗯，今天正好有點閒"
+  },
+  {
+    "MessageGroupId": 100930320,
+    "Message": "好耶！"
+  },
+  {
+    "MessageGroupId": 100930320,
+    "Message": "那可以繼續上次的補習嗎？"
+  },
+  {
+    "MessageGroupId": 100930330,
+    "Message": "對了，你說過考試範圍還沒讀完吧？"
+  },
+  {
+    "MessageGroupId": 100930340,
+    "Message": "這次要不要來我們教室？"
+  },
+  {
+    "MessageGroupId": 100930340,
+    "Message": "今天教室應該不會有其他人，可以安靜讀書！"
+  },
+  {
+    "MessageGroupId": 100930350,
+    "Message": "那我等你哦！"
+  },
+  {
+    "MessageGroupId": 100930360,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100930370,
+    "Message": "我只是單純有點好奇……"
+  },
+  {
+    "MessageGroupId": 100930370,
+    "Message": "老師剛才應該沒多想什麼吧？"
+  },
+  {
+    "MessageGroupId": 100930380,
+    "Message": "想聽我的感想嗎？"
+  },
+  {
+    "MessageGroupId": 100930390,
+    "Message": "那是什麼意……"
+  },
+  {
+    "MessageGroupId": 100930390,
+    "Message": "等一下"
+  },
+  {
+    "MessageGroupId": 100930390,
+    "Message": "那是什麼意思！？"
+  },
+  {
+    "MessageGroupId": 100930400,
+    "Message": "我在想「沒想到綺羅羅這麼認真」"
+  },
+  {
+    "MessageGroupId": 100930410,
+    "Message": "？"
+  },
+  {
+    "MessageGroupId": 100930420,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 100930420,
+    "Message": "你指的是念書方面嗎？"
+  },
+  {
+    "MessageGroupId": 100930430,
+    "Message": "補考加油哦！"
+  },
+  {
+    "MessageGroupId": 100930440,
+    "Message": "唔嗯……"
+  },
+  {
+    "MessageGroupId": 100930440,
+    "Message": "我會加油的！謝謝你！呵呵呵"
+  },
+  {
+    "MessageGroupId": 100930450,
+    "Message": "老師！！"
+  },
+  {
+    "MessageGroupId": 100930460,
+    "Message": "老師老師老師老師老師！！！！！！！！！！！"
+  },
+  {
+    "MessageGroupId": 100930470,
+    "Message": "怎麼了嗎，綺羅羅？"
+  },
+  {
+    "MessageGroupId": 100930480,
+    "Message": "那當然是～！！"
+  },
+  {
+    "MessageGroupId": 100930480,
+    "Message": "我順利通過今天的補考了！"
+  },
+  {
+    "MessageGroupId": 100930490,
+    "Message": "哦！恭喜你！"
+  },
+  {
+    "MessageGroupId": 100930500,
+    "Message": "耶嘿嘿"
+  },
+  {
+    "MessageGroupId": 100930500,
+    "Message": "這全都是老師的功勞，呵呵"
+  },
+  {
+    "MessageGroupId": 100930510,
+    "Message": "所以我要請客！"
+  },
+  {
+    "MessageGroupId": 100930510,
+    "Message": "一起去玩吧！"
+  },
+  {
+    "MessageGroupId": 100930520,
+    "Message": "老師！"
+  },
+  {
+    "MessageGroupId": 100930530,
+    "Message": "那個"
+  },
+  {
+    "MessageGroupId": 100930530,
+    "Message": "如果下次通過考試，要不要再兩個人去玩？"
+  },
+  {
+    "MessageGroupId": 100930540,
+    "Message": "當然可以"
+  },
+  {
+    "MessageGroupId": 100930550,
+    "Message": "因為和綺羅羅一起玩很有趣"
+  },
+  {
+    "MessageGroupId": 100930560,
+    "Message": "嘻嘻"
+  },
+  {
+    "MessageGroupId": 100930560,
+    "Message": "那我得要超認真用功才行，呵呵呵TAT"
+  },
+  {
+    "MessageGroupId": 100930570,
+    "Message": "下次見！"
   }
 ]
