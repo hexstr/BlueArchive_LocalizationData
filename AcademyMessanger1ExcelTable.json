@@ -372,6 +372,62 @@
     "Message": "……謝謝"
   },
   {
+    "MessageGroupId": 100040450,
+    "Message": "老師……可以打擾一下嗎？"
+  },
+  {
+    "MessageGroupId": 100040460,
+    "Message": "哎呀，陽奈有什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 100040470,
+    "Message": "啊……那個……唔……"
+  },
+  {
+    "MessageGroupId": 100040470,
+    "Message": "因為休年假的關係……"
+  },
+  {
+    "MessageGroupId": 100040470,
+    "Message": "今天難得不用處理風紀委員會的事"
+  },
+  {
+    "MessageGroupId": 100040480,
+    "Message": "所以我想說……如果老師願意的話，或許可以一起度過這個假日"
+  },
+  {
+    "MessageGroupId": 100040490,
+    "Message": "啊……"
+  },
+  {
+    "MessageGroupId": 100040500,
+    "Message": "啊，當然這只是我個人的想法而已"
+  },
+  {
+    "MessageGroupId": 100040500,
+    "Message": "假如老師不願意的話，我也不會強迫你……"
+  },
+  {
+    "MessageGroupId": 100040510,
+    "Message": "如果是這種事的話，我很樂意被你強迫"
+  },
+  {
+    "MessageGroupId": 100040510,
+    "Message": "我馬上過去！"
+  },
+  {
+    "MessageGroupId": 100040520,
+    "Message": "是……嗎？"
+  },
+  {
+    "MessageGroupId": 100040520,
+    "Message": "啊，嗯"
+  },
+  {
+    "MessageGroupId": 100040530,
+    "Message": "呵呵，那我等你哦，老師"
+  },
+  {
     "MessageGroupId": 130100010,
     "Message": "你好，老師。我是優香"
   },
@@ -982,6 +1038,90 @@
   {
     "MessageGroupId": 100050450,
     "Message": "嗯，沒問題。我很期待唷"
+  },
+  {
+    "MessageGroupId": 100050460,
+    "Message": "真傷腦筋"
+  },
+  {
+    "MessageGroupId": 100050470,
+    "Message": "不管躲在什麼地方"
+  },
+  {
+    "MessageGroupId": 100050470,
+    "Message": "都會被可愛的後輩們嘮叨"
+  },
+  {
+    "MessageGroupId": 100050470,
+    "Message": "大叔我好可憐喔"
+  },
+  {
+    "MessageGroupId": 100050480,
+    "Message": "又被罵了嗎？"
+  },
+  {
+    "MessageGroupId": 100050480,
+    "Message": "星野還是老樣子呢"
+  },
+  {
+    "MessageGroupId": 100050490,
+    "Message": "就是說啊"
+  },
+  {
+    "MessageGroupId": 100050490,
+    "Message": "雖然這兩件事沒什麼關聯"
+  },
+  {
+    "MessageGroupId": 100050500,
+    "Message": "不過"
+  },
+  {
+    "MessageGroupId": 100050500,
+    "Message": "看在這件事的份上"
+  },
+  {
+    "MessageGroupId": 100050510,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100050510,
+    "Message": "待會能見個面嗎？"
+  },
+  {
+    "MessageGroupId": 100050520,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 100050530,
+    "Message": "其實大叔我還有很多這類的道具哦"
+  },
+  {
+    "MessageGroupId": 100050530,
+    "Message": "是不是很好奇呀？"
+  },
+  {
+    "MessageGroupId": 100050540,
+    "Message": "聽你這麼說，的確是有點好奇"
+  },
+  {
+    "MessageGroupId": 100050540,
+    "Message": "所以是會隨著條件達成逐漸解鎖嗎？"
+  },
+  {
+    "MessageGroupId": 100050550,
+    "Message": "對吧？"
+  },
+  {
+    "MessageGroupId": 100050550,
+    "Message": "那樣也不錯呢"
+  },
+  {
+    "MessageGroupId": 100050560,
+    "Message": "下次再讓你看看別的吧"
+  },
+  {
+    "MessageGroupId": 100050560,
+    "Message": "敬請期待～"
   },
   {
     "MessageGroupId": 130080010,
@@ -4266,6 +4406,50 @@
   {
     "MessageGroupId": 130010220,
     "Message": "等著唷"
+  },
+  {
+    "MessageGroupId": 130010230,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 130010240,
+    "Message": "夏天到了"
+  },
+  {
+    "MessageGroupId": 130010240,
+    "Message": "好熱哦～"
+  },
+  {
+    "MessageGroupId": 130010250,
+    "Message": "就是說啊，今年夏天好像特別熱"
+  },
+  {
+    "MessageGroupId": 130010260,
+    "Message": "不過"
+  },
+  {
+    "MessageGroupId": 130010260,
+    "Message": "也能聽到風吹來的聲音"
+  },
+  {
+    "MessageGroupId": 130010270,
+    "Message": "風的聲音？"
+  },
+  {
+    "MessageGroupId": 130010280,
+    "Message": "不對"
+  },
+  {
+    "MessageGroupId": 130010280,
+    "Message": "是風吹來的聲音"
+  },
+  {
+    "MessageGroupId": 130010290,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 130010300,
+    "Message": "就讓老師也聽聽看吧"
   },
   {
     "MessageGroupId": 130030010,
