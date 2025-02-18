@@ -11857,7 +11857,7 @@
   },
   {
     "MessageGroupId": 200160130,
-    "Message": "麻煩來一杯濃郁的美式咖啡"
+    "Message": "麻煩來一杯濃郁的黑咖啡"
   },
   {
     "MessageGroupId": 200160140,
@@ -32218,5 +32218,265 @@
   {
     "MessageGroupId": 260130170,
     "Message": "所以我打算認真思考接下來要拍什麼"
+  },
+  {
+    "MessageGroupId": 101030010,
+    "Message": "老師……？"
+  },
+  {
+    "MessageGroupId": 101030020,
+    "Message": "瑪麗娜，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 101030030,
+    "Message": "我現在在山海經一個叫做「玄武商會」的地方"
+  },
+  {
+    "MessageGroupId": 101030030,
+    "Message": "遇到了一些困難"
+  },
+  {
+    "MessageGroupId": 101030040,
+    "Message": "雖然有點難為情，希望能請老師幫個忙……"
+  },
+  {
+    "MessageGroupId": 101030050,
+    "Message": "我馬上過去！"
+  },
+  {
+    "MessageGroupId": 101030060,
+    "Message": "不知道是不是吃太多的關係……"
+  },
+  {
+    "MessageGroupId": 101030070,
+    "Message": "肚子好像有點痛……"
+  },
+  {
+    "MessageGroupId": 101030080,
+    "Message": "……還好嗎？"
+  },
+  {
+    "MessageGroupId": 101030090,
+    "Message": "我切身學到了一件事"
+  },
+  {
+    "MessageGroupId": 101030090,
+    "Message": "那就是食物的外觀，未必與味道相符"
+  },
+  {
+    "MessageGroupId": 101030100,
+    "Message": "聽說那些炸蟲串，好像是專門賣給觀光客的"
+  },
+  {
+    "MessageGroupId": 101030110,
+    "Message": "這種事為什麼現在才說！"
+  },
+  {
+    "MessageGroupId": 101030120,
+    "Message": "老師到哪裡了？"
+  },
+  {
+    "MessageGroupId": 101030130,
+    "Message": "我已經到囉"
+  },
+  {
+    "MessageGroupId": 101030140,
+    "Message": "抱歉，瑪麗娜！我可能會遲到5分鐘！"
+  },
+  {
+    "MessageGroupId": 101030150,
+    "Message": "這點小事不算什麼"
+  },
+  {
+    "MessageGroupId": 101030150,
+    "Message": "我在廣場等你"
+  },
+  {
+    "MessageGroupId": 101030160,
+    "Message": "……真是個令人頭痛的經歷"
+  },
+  {
+    "MessageGroupId": 101030170,
+    "Message": "不過真的很適合你哦"
+  },
+  {
+    "MessageGroupId": 101030180,
+    "Message": "就算是客套話，也請別這麼說"
+  },
+  {
+    "MessageGroupId": 101030190,
+    "Message": "……如果不是客套話就更糟了"
+  },
+  {
+    "MessageGroupId": 101030200,
+    "Message": "已經有一堆人聯絡我，說看過那本寫真集了……"
+  },
+  {
+    "MessageGroupId": 101030200,
+    "Message": "以防萬一確認一下，老師應該沒有買吧？"
+  },
+  {
+    "MessageGroupId": 101030210,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 101030220,
+    "Message": "等一下，這個沉默是什麼意思？"
+  },
+  {
+    "MessageGroupId": 101030230,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 101030230,
+    "Message": "老師！？！？"
+  },
+  {
+    "MessageGroupId": 101030240,
+    "Message": "今天約好要去的茶館叫什麼名字？"
+  },
+  {
+    "MessageGroupId": 101030250,
+    "Message": "應該是桃源鄉吧"
+  },
+  {
+    "MessageGroupId": 101030260,
+    "Message": "啊啊，確實是這個名字沒錯"
+  },
+  {
+    "MessageGroupId": 101030270,
+    "Message": "不知道山海經的茶味道怎麼樣"
+  },
+  {
+    "MessageGroupId": 101030270,
+    "Message": "嗯，真令人期待"
+  },
+  {
+    "MessageGroupId": 200380010,
+    "Message": "在山海經的生活確實很新鮮"
+  },
+  {
+    "MessageGroupId": 200380020,
+    "Message": "有稍微習慣一點了嗎？"
+  },
+  {
+    "MessageGroupId": 200380030,
+    "Message": "雖然習慣了就該說習慣了……"
+  },
+  {
+    "MessageGroupId": 200380030,
+    "Message": "不過我也有股不太想習慣的心情"
+  },
+  {
+    "MessageGroupId": 200380040,
+    "Message": "為什麼呢？"
+  },
+  {
+    "MessageGroupId": 200380050,
+    "Message": "嗯……該怎麼說呢？"
+  },
+  {
+    "MessageGroupId": 200380060,
+    "Message": "因為如果習慣了"
+  },
+  {
+    "MessageGroupId": 200380060,
+    "Message": "說不定就會失去新鮮感和樂趣吧？"
+  },
+  {
+    "MessageGroupId": 200380070,
+    "Message": "來到別的學園之後才發現"
+  },
+  {
+    "MessageGroupId": 200380080,
+    "Message": "原來山海經和赤冬真的很不一樣呢"
+  },
+  {
+    "MessageGroupId": 200380090,
+    "Message": "哪些部分的差異特別大呢？"
+  },
+  {
+    "MessageGroupId": 200380100,
+    "Message": "首先是很熱"
+  },
+  {
+    "MessageGroupId": 200380110,
+    "Message": "靜靜待著不動也會一直冒汗……"
+  },
+  {
+    "MessageGroupId": 200380110,
+    "Message": "老實說，我還是第一次有這種體驗"
+  },
+  {
+    "MessageGroupId": 200380120,
+    "Message": "啊，跟赤冬比起來確實是……"
+  },
+  {
+    "MessageGroupId": 200380130,
+    "Message": "當然也不禁讓我心想"
+  },
+  {
+    "MessageGroupId": 200380130,
+    "Message": "世界上比赤冬「涼快」的地方究竟有多少呢"
+  },
+  {
+    "MessageGroupId": 200380140,
+    "Message": "話雖如此，還是讓人有點難適應"
+  },
+  {
+    "MessageGroupId": 200380150,
+    "Message": "老～師～"
+  },
+  {
+    "MessageGroupId": 200380160,
+    "Message": "您現在忙嗎？"
+  },
+  {
+    "MessageGroupId": 200380170,
+    "Message": "正好有空哦，怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 200380180,
+    "Message": "如果可以的話，要不要一起吃個午餐呢"
+  },
+  {
+    "MessageGroupId": 200380180,
+    "Message": "當然是在老師方便的時候"
+  },
+  {
+    "MessageGroupId": 200380190,
+    "Message": "好哇！那我帶你去吃一家中華料理！"
+  },
+  {
+    "MessageGroupId": 200380200,
+    "Message": "不過仔細想想……你應該已經吃過不少中華料理了吧？"
+  },
+  {
+    "MessageGroupId": 200380210,
+    "Message": "雖然的確是這樣沒錯"
+  },
+  {
+    "MessageGroupId": 200380210,
+    "Message": "不過在老師的親自介紹之下"
+  },
+  {
+    "MessageGroupId": 200380220,
+    "Message": "那間店對我來說一定會別具意義，所以我很期待哦"
+  },
+  {
+    "MessageGroupId": 200380230,
+    "Message": "期待太高的話，我怕你可能會失望……"
+  },
+  {
+    "MessageGroupId": 200380240,
+    "Message": "我可以斷言"
+  },
+  {
+    "MessageGroupId": 200380240,
+    "Message": "那種情況絕不會發生"
+  },
+  {
+    "MessageGroupId": 200380250,
+    "Message": "因為有老師陪著我呀？"
   }
 ]
