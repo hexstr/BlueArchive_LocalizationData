@@ -676,6 +676,38 @@
     "Message": "……？"
   },
   {
+    "MessageGroupId": 2300600400,
+    "Message": "老師！老師！"
+  },
+  {
+    "MessageGroupId": 2300600410,
+    "Message": "從今天起，百夜堂的特別季節活動就要開始囉！"
+  },
+  {
+    "MessageGroupId": 2300600410,
+    "Message": "咚隆咚隆……「蘋果祭」！！"
+  },
+  {
+    "MessageGroupId": 2300600420,
+    "Message": "有清新的蘋果茶，還有各種酸甜可口的甜點組成的饗宴哦！"
+  },
+  {
+    "MessageGroupId": 2300600430,
+    "Message": "看來我可不能缺席呢！"
+  },
+  {
+    "MessageGroupId": 2300600440,
+    "Message": "呵呵呵呵呵"
+  },
+  {
+    "MessageGroupId": 2300600440,
+    "Message": "一定要來玩哦！"
+  },
+  {
+    "MessageGroupId": 2300600450,
+    "Message": "我會跟往常一樣，用最頂級的規格款待老師的！"
+  },
+  {
     "MessageGroupId": 100140010,
     "Message": "主公。伊樹菜最近因為有煩惱的事，晚上睡不著……"
   },
@@ -5008,6 +5040,30 @@
     "Message": "等等，你在想什麼？"
   },
   {
+    "MessageGroupId": 100230310,
+    "Message": "老師，發生了緊急情況"
+  },
+  {
+    "MessageGroupId": 100230320,
+    "Message": "嗯？怎麼了？"
+  },
+  {
+    "MessageGroupId": 100230330,
+    "Message": "有太妹在海邊的餐廳鬧事"
+  },
+  {
+    "MessageGroupId": 100230330,
+    "Message": "之前明明掃蕩一空了，結果不知道又從哪裡冒了出來……"
+  },
+  {
+    "MessageGroupId": 100230340,
+    "Message": "總之，希望老師能來現場協助指揮"
+  },
+  {
+    "MessageGroupId": 100230350,
+    "Message": "我知道了。地點在哪裡呢？"
+  },
+  {
     "MessageGroupId": 100240010,
     "Message": "我打算出遠門一段時間"
   },
@@ -7130,6 +7186,78 @@
   {
     "MessageGroupId": 230080450,
     "Message": "……只是，想這麼叫您一聲"
+  },
+  {
+    "MessageGroupId": 230080460,
+    "Message": "您好，老師"
+  },
+  {
+    "MessageGroupId": 230080470,
+    "Message": "如果時間方便的話……"
+  },
+  {
+    "MessageGroupId": 230080480,
+    "Message": "當然方便"
+  },
+  {
+    "MessageGroupId": 230080480,
+    "Message": "該在哪裡碰面？"
+  },
+  {
+    "MessageGroupId": 230080490,
+    "Message": "您，您居然回應得這麼快……"
+  },
+  {
+    "MessageGroupId": 230080500,
+    "Message": "事情是這樣的，這次需要採買一些修女會的備品"
+  },
+  {
+    "MessageGroupId": 230080510,
+    "Message": "只有我一個人的話，可能會忙不過來"
+  },
+  {
+    "MessageGroupId": 230080510,
+    "Message": "雖然非常不好意思，希望能請老師幫忙……"
+  },
+  {
+    "MessageGroupId": 230080520,
+    "Message": "這可是我的專長"
+  },
+  {
+    "MessageGroupId": 230080520,
+    "Message": "那我該去哪裡呢？"
+  },
+  {
+    "MessageGroupId": 230080530,
+    "Message": "真是非常感謝您，老師……"
+  },
+  {
+    "MessageGroupId": 230080540,
+    "Message": "老師，今天在各方面都非常感謝"
+  },
+  {
+    "MessageGroupId": 230080550,
+    "Message": "不僅送我回來，還招待我餐點……"
+  },
+  {
+    "MessageGroupId": 230080560,
+    "Message": "雖然沒能送飾品給你有點可惜"
+  },
+  {
+    "MessageGroupId": 230080570,
+    "Message": "呵呵，我完全不覺得可惜哦"
+  },
+  {
+    "MessageGroupId": 230080580,
+    "Message": "多虧老師今天跟我說的那番話"
+  },
+  {
+    "MessageGroupId": 230080580,
+    "Message": "這朵花蘊含的心意變得更加珍貴了"
+  },
+  {
+    "MessageGroupId": 230080590,
+    "Message": "這樣……已經足夠了"
   },
   {
     "MessageGroupId": 200070010,
@@ -32478,5 +32606,597 @@
   {
     "MessageGroupId": 200380250,
     "Message": "因為有老師陪著我呀？"
+  },
+  {
+    "MessageGroupId": 101040010,
+    "Message": "您好，老師"
+  },
+  {
+    "MessageGroupId": 101040020,
+    "Message": "聽說老師明天會來訪山海經是嗎？"
+  },
+  {
+    "MessageGroupId": 101040030,
+    "Message": "你……怎麼會知道！？"
+  },
+  {
+    "MessageGroupId": 101040040,
+    "Message": "果然如此呢"
+  },
+  {
+    "MessageGroupId": 101040050,
+    "Message": "關於您的疑問"
+  },
+  {
+    "MessageGroupId": 101040050,
+    "Message": "只能說我們玄武商會自有一些商業手段"
+  },
+  {
+    "MessageGroupId": 101040060,
+    "Message": "商業手段啊……\u00A0"
+  },
+  {
+    "MessageGroupId": 101040070,
+    "Message": "不，其實也沒什麼了不起的就是了……"
+  },
+  {
+    "MessageGroupId": 101040070,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 101040080,
+    "Message": "那個，不知道能不能稱之為交換"
+  },
+  {
+    "MessageGroupId": 101040090,
+    "Message": "但如果老師願意明天一早到我告訴你的地方來"
+  },
+  {
+    "MessageGroupId": 101040090,
+    "Message": "我會讓老師看看我的……"
+  },
+  {
+    "MessageGroupId": 101040100,
+    "Message": "日常行程之一"
+  },
+  {
+    "MessageGroupId": 101040110,
+    "Message": "聽說老師今天會光臨敝商會是嗎？"
+  },
+  {
+    "MessageGroupId": 101040120,
+    "Message": "嗯，我超期待的！"
+  },
+  {
+    "MessageGroupId": 101040130,
+    "Message": "聽您這麼說真讓人開心"
+  },
+  {
+    "MessageGroupId": 101040130,
+    "Message": "不過也感受到些許壓力呢"
+  },
+  {
+    "MessageGroupId": 101040140,
+    "Message": "……不行嗎？"
+  },
+  {
+    "MessageGroupId": 101040150,
+    "Message": "請別這麼說"
+  },
+  {
+    "MessageGroupId": 101040160,
+    "Message": "受人期待總比不受期待來得好"
+  },
+  {
+    "MessageGroupId": 101040160,
+    "Message": "尤其對餐飲業而言更是如此"
+  },
+  {
+    "MessageGroupId": 101040170,
+    "Message": "那麼老師"
+  },
+  {
+    "MessageGroupId": 101040180,
+    "Message": "稍後用餐時間見"
+  },
+  {
+    "MessageGroupId": 101040190,
+    "Message": "如同我先前提過的……"
+  },
+  {
+    "MessageGroupId": 101040200,
+    "Message": "今天是玄武商會的視察日"
+  },
+  {
+    "MessageGroupId": 101040210,
+    "Message": "希望玄龍門那邊不要有太多意見……"
+  },
+  {
+    "MessageGroupId": 101040220,
+    "Message": "是啊……"
+  },
+  {
+    "MessageGroupId": 101040230,
+    "Message": "不過坦白說，我實在有點在意"
+  },
+  {
+    "MessageGroupId": 101040230,
+    "Message": "老師是否有必要特地前來參觀"
+  },
+  {
+    "MessageGroupId": 101040240,
+    "Message": "畢竟我在形式上是以顧問的身分參加的"
+  },
+  {
+    "MessageGroupId": 101040250,
+    "Message": "這點我也清楚，只不過……"
+  },
+  {
+    "MessageGroupId": 101040260,
+    "Message": "唉……"
+  },
+  {
+    "MessageGroupId": 101040270,
+    "Message": "要是上次視察時，我們的成員沒有不小心"
+  },
+  {
+    "MessageGroupId": 101040280,
+    "Message": "把玄龍門的視察員送進醫院就好了……"
+  },
+  {
+    "MessageGroupId": 101040290,
+    "Message": "送進醫院！？"
+  },
+  {
+    "MessageGroupId": 101040300,
+    "Message": "不，不是的"
+  },
+  {
+    "MessageGroupId": 101040310,
+    "Message": "那純粹是場意外，絕不是有意為之……"
+  },
+  {
+    "MessageGroupId": 101040310,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 101040320,
+    "Message": "無論現在如何辯解，聽起來都只是藉口吧"
+  },
+  {
+    "MessageGroupId": 101040330,
+    "Message": "實在抱歉。那麼今天就請您多多關照了"
+  },
+  {
+    "MessageGroupId": 101040340,
+    "Message": "嗯，嗯……"
+  },
+  {
+    "MessageGroupId": 101040350,
+    "Message": "今天是由我擔任夏萊的值日生"
+  },
+  {
+    "MessageGroupId": 101040350,
+    "Message": "是否有特別需要注意或準備的事項呢？"
+  },
+  {
+    "MessageGroupId": 101040360,
+    "Message": "直接過來就可以囉"
+  },
+  {
+    "MessageGroupId": 101040370,
+    "Message": "原來如此……"
+  },
+  {
+    "MessageGroupId": 101040380,
+    "Message": "那麼，稍後夏萊見"
+  },
+  {
+    "MessageGroupId": 200390010,
+    "Message": "老師，汝在嗎？"
+  },
+  {
+    "MessageGroupId": 200390020,
+    "Message": "我在"
+  },
+  {
+    "MessageGroupId": 200390030,
+    "Message": "唔呣"
+  },
+  {
+    "MessageGroupId": 200390040,
+    "Message": "那麼請聽……"
+  },
+  {
+    "MessageGroupId": 200390040,
+    "Message": "不，應該是請看才對"
+  },
+  {
+    "MessageGroupId": 200390050,
+    "Message": "現在在玄龍門"
+  },
+  {
+    "MessageGroupId": 200390060,
+    "Message": "不，是玄龍門的門主身上"
+  },
+  {
+    "MessageGroupId": 200390070,
+    "Message": "發生了前所未有的事件"
+  },
+  {
+    "MessageGroupId": 200390080,
+    "Message": "這麼突然！？"
+  },
+  {
+    "MessageGroupId": 200390090,
+    "Message": "此事分秒必爭"
+  },
+  {
+    "MessageGroupId": 200390090,
+    "Message": "當然也需要完全保密"
+  },
+  {
+    "MessageGroupId": 200390100,
+    "Message": "若汝自認是名不會辜負學生期待的教育家"
+  },
+  {
+    "MessageGroupId": 200390110,
+    "Message": "希望汝能在完全保密的情況下……"
+  },
+  {
+    "MessageGroupId": 200390120,
+    "Message": "現在，立刻來山海經一趟"
+  },
+  {
+    "MessageGroupId": 200390130,
+    "Message": "玄龍門的工作體驗如何，老師？"
+  },
+  {
+    "MessageGroupId": 200390140,
+    "Message": "讓人不禁覺得……妃姬真是了不起"
+  },
+  {
+    "MessageGroupId": 200390150,
+    "Message": "言重了。不過在山海經"
+  },
+  {
+    "MessageGroupId": 200390160,
+    "Message": "本就不常發生踰矩的事件"
+  },
+  {
+    "MessageGroupId": 200390160,
+    "Message": "當然，設法加以避免也必不可少"
+  },
+  {
+    "MessageGroupId": 200390170,
+    "Message": "怎麼聽起來好像話中有話……"
+  },
+  {
+    "MessageGroupId": 200390180,
+    "Message": "嗯？"
+  },
+  {
+    "MessageGroupId": 200390190,
+    "Message": "不太清楚汝這番話的涵義"
+  },
+  {
+    "MessageGroupId": 200390200,
+    "Message": "下次換妾身去拜訪夏萊吧"
+  },
+  {
+    "MessageGroupId": 200390200,
+    "Message": "呵呵。妾身相當期待，老師"
+  },
+  {
+    "MessageGroupId": 200390210,
+    "Message": "之前有跟汝提過"
+  },
+  {
+    "MessageGroupId": 200390220,
+    "Message": "今日妾身希望以值日生的身分拜訪夏萊一事吧"
+  },
+  {
+    "MessageGroupId": 200390230,
+    "Message": "隨時歡迎你來"
+  },
+  {
+    "MessageGroupId": 200390240,
+    "Message": "唔呣"
+  },
+  {
+    "MessageGroupId": 200390250,
+    "Message": "看見如此爽快的答覆，屬實令人高興"
+  },
+  {
+    "MessageGroupId": 200390260,
+    "Message": "那麼晚些時候夏萊見"
+  },
+  {
+    "MessageGroupId": 200390270,
+    "Message": "身體是否好些了呢？老師"
+  },
+  {
+    "MessageGroupId": 200390280,
+    "Message": "多少……有比較好了"
+  },
+  {
+    "MessageGroupId": 200390290,
+    "Message": "妃姬今天有來過夏萊……對吧？"
+  },
+  {
+    "MessageGroupId": 200390300,
+    "Message": "嗯？"
+  },
+  {
+    "MessageGroupId": 200390310,
+    "Message": "原來如此"
+  },
+  {
+    "MessageGroupId": 200390310,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200390320,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 200390330,
+    "Message": "倘若妾身表示自己也不太清楚，汝打算怎麼辦呢？"
+  },
+  {
+    "MessageGroupId": 200390340,
+    "Message": "妃姬有可能不清楚的嗎！？"
+  },
+  {
+    "MessageGroupId": 200390350,
+    "Message": "夢者究竟是蝶是己……"
+  },
+  {
+    "MessageGroupId": 200390350,
+    "Message": "不覺得是個虛幻又難解的問題嗎？老師"
+  },
+  {
+    "MessageGroupId": 200390360,
+    "Message": "總之，無論怎樣都好"
+  },
+  {
+    "MessageGroupId": 200390370,
+    "Message": "畢竟老師的照片將會保存在妾身的手機裡"
+  },
+  {
+    "MessageGroupId": 200390380,
+    "Message": "趕快刪掉！"
+  },
+  {
+    "MessageGroupId": 200390390,
+    "Message": "夏萊值日生的工作"
+  },
+  {
+    "MessageGroupId": 200390400,
+    "Message": "似乎已日漸熟悉了"
+  },
+  {
+    "MessageGroupId": 200390410,
+    "Message": "我倒感覺已經超越「還在熟悉」的程度了……"
+  },
+  {
+    "MessageGroupId": 200390420,
+    "Message": "是嗎？"
+  },
+  {
+    "MessageGroupId": 200390420,
+    "Message": "相對來說，對玄龍門方面的憂慮"
+  },
+  {
+    "MessageGroupId": 200390430,
+    "Message": "也在與日俱增呢"
+  },
+  {
+    "MessageGroupId": 200390440,
+    "Message": "汝之所見確實言之有理"
+  },
+  {
+    "MessageGroupId": 200390450,
+    "Message": "因此，妾身今日也要去夏萊"
+  },
+  {
+    "MessageGroupId": 200390460,
+    "Message": "這是什麼邏輯！？"
+  },
+  {
+    "MessageGroupId": 200390470,
+    "Message": "汝不清楚嗎？老師"
+  },
+  {
+    "MessageGroupId": 200390480,
+    "Message": "世間有時是不需要邏輯的"
+  },
+  {
+    "MessageGroupId": 200390490,
+    "Message": "更聽不懂你在說什麼了！"
+  },
+  {
+    "MessageGroupId": 200390500,
+    "Message": "玄龍門門主的美德之一"
+  },
+  {
+    "MessageGroupId": 200390510,
+    "Message": "乃不會違背約定"
+  },
+  {
+    "MessageGroupId": 200390520,
+    "Message": "嗯，遵守約定是很重要的"
+  },
+  {
+    "MessageGroupId": 200390530,
+    "Message": "除此之外的另一美德"
+  },
+  {
+    "MessageGroupId": 200390530,
+    "Message": "乃不遺忘他人許下的約定"
+  },
+  {
+    "MessageGroupId": 200390540,
+    "Message": "無論動用任何手段，必定會要求履行"
+  },
+  {
+    "MessageGroupId": 200390550,
+    "Message": "真的嗎！？"
+  },
+  {
+    "MessageGroupId": 200390560,
+    "Message": "此乃戲言"
+  },
+  {
+    "MessageGroupId": 200390570,
+    "Message": "不過，老師"
+  },
+  {
+    "MessageGroupId": 200390580,
+    "Message": "汝確實提過要一同四處遊歷"
+  },
+  {
+    "MessageGroupId": 200390580,
+    "Message": "妾身記得老師的約定"
+  },
+  {
+    "MessageGroupId": 200390590,
+    "Message": "因此也希望老師，莫要忘了與妾身的約定"
+  },
+  {
+    "MessageGroupId": 200390600,
+    "Message": "我這麼問純粹是出於好奇……"
+  },
+  {
+    "MessageGroupId": 200390610,
+    "Message": "假如真的忘記了會怎麼樣？"
+  },
+  {
+    "MessageGroupId": 200390620,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200390630,
+    "Message": "倒也無足掛齒"
+  },
+  {
+    "MessageGroupId": 200390640,
+    "Message": "只不過"
+  },
+  {
+    "MessageGroupId": 200390650,
+    "Message": "須以玄龍門的方式，付出相應的代價罷了"
+  },
+  {
+    "MessageGroupId": 200390660,
+    "Message": "我絕對不會忘記的！"
+  },
+  {
+    "MessageGroupId": 200390670,
+    "Message": "唔呣"
+  },
+  {
+    "MessageGroupId": 200390670,
+    "Message": "汝在嗎，老師？"
+  },
+  {
+    "MessageGroupId": 200390680,
+    "Message": "身體還好嗎？"
+  },
+  {
+    "MessageGroupId": 200390690,
+    "Message": "無須擔心"
+  },
+  {
+    "MessageGroupId": 200390700,
+    "Message": "……雖說鍊丹術研究會仍略顯驚慌就是"
+  },
+  {
+    "MessageGroupId": 200390710,
+    "Message": "汝將妾身送回山海經一事，在此向汝致謝"
+  },
+  {
+    "MessageGroupId": 200390720,
+    "Message": "不用客氣"
+  },
+  {
+    "MessageGroupId": 200390730,
+    "Message": "唔呣"
+  },
+  {
+    "MessageGroupId": 200390740,
+    "Message": "不知稱之為交換是否妥當"
+  },
+  {
+    "MessageGroupId": 200390740,
+    "Message": "或者……該稱之為報答呢"
+  },
+  {
+    "MessageGroupId": 200390750,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 200390760,
+    "Message": "兩者似乎皆不甚貼切啊……"
+  },
+  {
+    "MessageGroupId": 200390770,
+    "Message": "怎麼了嗎？"
+  },
+  {
+    "MessageGroupId": 200390780,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200390780,
+    "Message": "怎麼說呢"
+  },
+  {
+    "MessageGroupId": 200390790,
+    "Message": "簡而言之"
+  },
+  {
+    "MessageGroupId": 200390800,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200390810,
+    "Message": "就是這麼回事"
+  },
+  {
+    "MessageGroupId": 200390820,
+    "Message": ""
+  },
+  {
+    "MessageGroupId": 200390830,
+    "Message": "！？！？"
+  },
+  {
+    "MessageGroupId": 200390830,
+    "Message": "這……！這是！？"
+  },
+  {
+    "MessageGroupId": 200390840,
+    "Message": "不過是方才試拍的照片罷了"
+  },
+  {
+    "MessageGroupId": 200390850,
+    "Message": "我會永遠珍藏的！"
+  },
+  {
+    "MessageGroupId": 200390860,
+    "Message": "是嗎"
+  },
+  {
+    "MessageGroupId": 200390860,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 200390870,
+    "Message": "若真要如此倒也無妨"
+  },
+  {
+    "MessageGroupId": 200390880,
+    "Message": "然還請汝至少莫要讓他人察覺"
   }
 ]

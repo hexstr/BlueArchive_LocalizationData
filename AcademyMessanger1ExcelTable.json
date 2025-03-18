@@ -6424,6 +6424,30 @@
     "Message": "……老師"
   },
   {
+    "MessageGroupId": 200000510,
+    "Message": "老師，你上次委託我修理的自行車修好了哦"
+  },
+  {
+    "MessageGroupId": 200000520,
+    "Message": "有空就來拿回去吧"
+  },
+  {
+    "MessageGroupId": 200000530,
+    "Message": "這麼快？真不愧是響呢"
+  },
+  {
+    "MessageGroupId": 200000530,
+    "Message": "我馬上過去"
+  },
+  {
+    "MessageGroupId": 200000540,
+    "Message": "嗯。不過我還有其他工作要忙"
+  },
+  {
+    "MessageGroupId": 200000540,
+    "Message": "到了再跟我說一聲吧"
+  },
+  {
     "MessageGroupId": 200020010,
     "Message": "老師，可以來我的研究室一下嗎？"
   },
