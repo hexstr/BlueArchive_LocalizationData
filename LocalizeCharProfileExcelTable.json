@@ -4779,13 +4779,13 @@
     "KRCharacterVoice": "Shin Nari",
     "Hobby": "祈禱、思考",
     "WeaponName": "Piety",
-    "WeaponDesc": "即使成為了偶像，瑪麗也依舊隨身攜帶的手槍。\n\n其獨特的設計與偶像服也相當適合。",
-    "ProfileIntroduction": "三一綜合學園所屬，偶像團體「Antique Seraphim」的隊長。\n\n雖然一開始只是為了協助他人而加入，但在不知不覺中已逐漸成長為能在舞台上獨當一面，為某個人歌唱的專屬偶像。\n在「為了所有人的幸福而努力」的層面上，或許早在穿上偶像服之前，便已充分展現了成為偶像的潛力。",
+    "WeaponDesc": "即使成為了偶像，瑪麗也依舊隨身攜帶的手槍。\n\n其獨特的設計，與偶像服也相當契合。",
+    "ProfileIntroduction": "三一綜合學園所屬，偶像團體「Antique Seraphim」的領袖。\n\n雖然一開始只是為了協助他人而加入，但在不知不覺中已逐漸成長為能在舞台上獨當一面，為某個人歌唱的專屬偶像。\n在「為了所有人的幸福而努力」的層面上，或許早在穿上偶像服之前，便已充分展現了成為偶像的潛力。",
     "CharacterSSRNew": "其實……我也一直憧憬著成為偶像"
   },
   {
     "CharacterId": 10106,
-    "StatusMessage": "這就是神來一筆",
+    "StatusMessage": "這就是神之一手",
     "FullName": "歌住櫻子",
     "FamilyName": "歌住",
     "FamilyNameRuby": "",
@@ -4825,7 +4825,7 @@
     "KRCharacterVoice": "Ahn Youngmi",
     "Hobby": "收集醫療用品",
     "WeaponName": "救護的證明",
-    "WeaponDesc": "美禰常用的散彈槍。\n\n就好比偶像活動是救護騎士團任務的延續，這把槍同樣也是偶像道具的延續。",
+    "WeaponDesc": "美禰愛用的散彈槍。\n\n就好比偶像活動是救護騎士團任務的延續一般，或許這把槍也同樣是偶像道具的延續。",
     "ProfileIntroduction": "三一綜合學園所屬，偶像團體「Antique Seraphim」的成員。\n\n為了成為更加貼近大眾的救護騎士團團長，自願參加了偶像活動。儘管其剛正不阿的個性依舊一如既往，但對於自己喜歡可愛事物的一面似乎多少坦率了一些。",
     "CharacterSSRNew": ""
   }
