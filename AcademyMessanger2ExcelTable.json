@@ -232,6 +232,34 @@
     "Message": "我還以為是很普通的興趣呢……"
   },
   {
+    "MessageGroupId": 200030410,
+    "Message": "雖然這個問題有點唐突"
+  },
+  {
+    "MessageGroupId": 200030420,
+    "Message": "請問老師喜歡看書嗎？"
+  },
+  {
+    "MessageGroupId": 200030430,
+    "Message": "還可以吧……"
+  },
+  {
+    "MessageGroupId": 200030440,
+    "Message": "原來如此"
+  },
+  {
+    "MessageGroupId": 200030450,
+    "Message": "你又在讀關於正義的書嗎？"
+  },
+  {
+    "MessageGroupId": 200030460,
+    "Message": "不，不是的"
+  },
+  {
+    "MessageGroupId": 200030460,
+    "Message": "單純只是好奇而已"
+  },
+  {
     "MessageGroupId": 100150010,
     "Message": ""
   },
@@ -19200,6 +19228,34 @@
     "Message": "那麼，稍後再見"
   },
   {
+    "MessageGroupId": 100620240,
+    "Message": "我認為現在"
+  },
+  {
+    "MessageGroupId": 100620250,
+    "Message": "是我們之間需要「信物」的時候了"
+  },
+  {
+    "MessageGroupId": 100620250,
+    "Message": "今天想跟您討論這件事情"
+  },
+  {
+    "MessageGroupId": 100620260,
+    "Message": "我不太明白你的意思！"
+  },
+  {
+    "MessageGroupId": 100620270,
+    "Message": "不必擔心"
+  },
+  {
+    "MessageGroupId": 100620270,
+    "Message": "老師不明白也沒關係，只要我明白就行了"
+  },
+  {
+    "MessageGroupId": 100620280,
+    "Message": "季……？"
+  },
+  {
     "MessageGroupId": 200240010,
     "Message": "久疏問候"
   },
@@ -34714,5 +34770,477 @@
   {
     "MessageGroupId": 101070430,
     "Message": "之後我再親自送過來，敬請期待～！"
+  },
+  {
+    "MessageGroupId": 101080010,
+    "Message": "老師，你已經睡了嗎？"
+  },
+  {
+    "MessageGroupId": 101080020,
+    "Message": "沒有，我還醒著"
+  },
+  {
+    "MessageGroupId": 101080020,
+    "Message": "這麼晚找我有什麼事嗎？"
+  },
+  {
+    "MessageGroupId": 101080030,
+    "Message": "啊，如果打擾到你睡覺的話，我很抱歉"
+  },
+  {
+    "MessageGroupId": 101080040,
+    "Message": "今天不知道為什麼，都這麼晚了還是睡不著……"
+  },
+  {
+    "MessageGroupId": 101080040,
+    "Message": "所以我提前整理了明天要提交給夏萊的會計報告"
+  },
+  {
+    "MessageGroupId": 101080050,
+    "Message": "我會用郵件寄過去，再麻煩有空的時候確認一下"
+  },
+  {
+    "MessageGroupId": 101080060,
+    "Message": "辛苦你了，優香"
+  },
+  {
+    "MessageGroupId": 101080070,
+    "Message": "你沒有為了值日生的工作而勉強自己吧？"
+  },
+  {
+    "MessageGroupId": 101080080,
+    "Message": "沒問題的。我的日程，包含睡覺時間在內都安排得很完美"
+  },
+  {
+    "MessageGroupId": 101080090,
+    "Message": "那麼明天見了。祝你有個好夢"
+  },
+  {
+    "MessageGroupId": 101080100,
+    "Message": "多虧老師之前給的建議"
+  },
+  {
+    "MessageGroupId": 101080110,
+    "Message": "最近我好像比以前更容易入睡了"
+  },
+  {
+    "MessageGroupId": 101080120,
+    "Message": "雖然現在還是經常過了午夜才睡著……"
+  },
+  {
+    "MessageGroupId": 101080130,
+    "Message": "我有點擔心……"
+  },
+  {
+    "MessageGroupId": 101080130,
+    "Message": "你有什麼煩惱嗎？"
+  },
+  {
+    "MessageGroupId": 101080140,
+    "Message": "其實也沒有特別的煩惱"
+  },
+  {
+    "MessageGroupId": 101080140,
+    "Message": "真要說有什麼讓我在意的事"
+  },
+  {
+    "MessageGroupId": 101080150,
+    "Message": "<system>訊息發送錯誤！"
+  },
+  {
+    "MessageGroupId": 101080160,
+    "Message": "優香……？"
+  },
+  {
+    "MessageGroupId": 101080170,
+    "Message": "<system>訊息發送錯誤！"
+  },
+  {
+    "MessageGroupId": 101080180,
+    "Message": "<system>訊息發送錯誤！"
+  },
+  {
+    "MessageGroupId": 101080190,
+    "Message": "老師，我剛才回去時看到"
+  },
+  {
+    "MessageGroupId": 101080200,
+    "Message": "有成堆的杯麵箱……"
+  },
+  {
+    "MessageGroupId": 101080210,
+    "Message": "你該不會打算吃杯麵當正餐吧？"
+  },
+  {
+    "MessageGroupId": 101080220,
+    "Message": "那不是我買來自己吃的！"
+  },
+  {
+    "MessageGroupId": 101080220,
+    "Message": "是買來給當值日生時肚子餓的學生們的"
+  },
+  {
+    "MessageGroupId": 101080230,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 101080230,
+    "Message": "那倒還算情有可原……"
+  },
+  {
+    "MessageGroupId": 101080230,
+    "Message": "請老師一定要按時好好吃飯哦！"
+  },
+  {
+    "MessageGroupId": 101080240,
+    "Message": "我知道，我知道"
+  },
+  {
+    "MessageGroupId": 101080250,
+    "Message": "話說優香自己也有好好吃飯嗎？"
+  },
+  {
+    "MessageGroupId": 101080260,
+    "Message": "那當然"
+  },
+  {
+    "MessageGroupId": 101080270,
+    "Message": "我都有好好吃飯"
+  },
+  {
+    "MessageGroupId": 101080280,
+    "Message": "總覺得你好像回答得有點慢……"
+  },
+  {
+    "MessageGroupId": 101080290,
+    "Message": "我不久前在小玉前輩的建議之下"
+  },
+  {
+    "MessageGroupId": 101080300,
+    "Message": "開始在睡前收聽廣播節目"
+  },
+  {
+    "MessageGroupId": 101080310,
+    "Message": "廣播也有獨特的魅力呢"
+  },
+  {
+    "MessageGroupId": 101080320,
+    "Message": "你都聽什麼節目呢？"
+  },
+  {
+    "MessageGroupId": 101080330,
+    "Message": "聽一個叫＜DJ梅莉的音樂之旅＞的節目"
+  },
+  {
+    "MessageGroupId": 101080340,
+    "Message": "主持人會配合輕鬆的故事，播放有助於入眠的各種音樂"
+  },
+  {
+    "MessageGroupId": 101080340,
+    "Message": "很適合在睡前收聽"
+  },
+  {
+    "MessageGroupId": 101080350,
+    "Message": "下次我睡不著的時候，也來試著聽聽看吧"
+  },
+  {
+    "MessageGroupId": 101080360,
+    "Message": "嗯"
+  },
+  {
+    "MessageGroupId": 101080360,
+    "Message": "希望老師也會喜歡"
+  },
+  {
+    "MessageGroupId": 101080370,
+    "Message": "那個，老師"
+  },
+  {
+    "MessageGroupId": 101080380,
+    "Message": "你有在聽廣播節目嗎？"
+  },
+  {
+    "MessageGroupId": 101080390,
+    "Message": "偶爾會聽哦。怎麼突然問這個？"
+  },
+  {
+    "MessageGroupId": 101080400,
+    "Message": "那個，你有沒有在上次的節目"
+  },
+  {
+    "MessageGroupId": 101080400,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 101080410,
+    "Message": "果然還是算了"
+  },
+  {
+    "MessageGroupId": 101080420,
+    "Message": "上次的節目？"
+  },
+  {
+    "MessageGroupId": 101080420,
+    "Message": "什麼意思？"
+  },
+  {
+    "MessageGroupId": 101080430,
+    "Message": "抱歉。可能是我誤會了"
+  },
+  {
+    "MessageGroupId": 101080430,
+    "Message": "請不要在意"
+  },
+  {
+    "MessageGroupId": 101080440,
+    "Message": "話說回來，優香"
+  },
+  {
+    "MessageGroupId": 101080450,
+    "Message": "你的失眠症已經好了嗎？"
+  },
+  {
+    "MessageGroupId": 101080460,
+    "Message": "果然……"
+  },
+  {
+    "MessageGroupId": 101080460,
+    "Message": "是的，多虧老師的幫忙"
+  },
+  {
+    "MessageGroupId": 101080470,
+    "Message": "今天也請多多指教"
+  },
+  {
+    "MessageGroupId": 101080480,
+    "Message": "我才是，請你多多指教"
+  },
+  {
+    "MessageGroupId": 101090010,
+    "Message": "老師，我是乃愛"
+  },
+  {
+    "MessageGroupId": 101090020,
+    "Message": "非常抱歉，明天我恐怕無法如期到夏萊完成值日生的工作了"
+  },
+  {
+    "MessageGroupId": 101090020,
+    "Message": "今天從早上就有點發燒，到下午又更嚴重了……"
+  },
+  {
+    "MessageGroupId": 101090030,
+    "Message": "真糟糕。身體會很不舒服嗎？"
+  },
+  {
+    "MessageGroupId": 101090040,
+    "Message": "不用擔心。吃過藥後已經比較好了"
+  },
+  {
+    "MessageGroupId": 101090040,
+    "Message": "我只是擔心如果用這種狀態去夏萊，反而會給老師添麻煩……"
+  },
+  {
+    "MessageGroupId": 101090050,
+    "Message": "突然調整日程真的很抱歉"
+  },
+  {
+    "MessageGroupId": 101090060,
+    "Message": "不用擔心，你好好休息吧"
+  },
+  {
+    "MessageGroupId": 101090060,
+    "Message": "如果有事隨時可以跟我說"
+  },
+  {
+    "MessageGroupId": 101090070,
+    "Message": "好的，老師晚安"
+  },
+  {
+    "MessageGroupId": 101090080,
+    "Message": "你好，老師"
+  },
+  {
+    "MessageGroupId": 101090090,
+    "Message": "因為感冒的關係，很久沒去見老師了……"
+  },
+  {
+    "MessageGroupId": 101090090,
+    "Message": "最近過得還好嗎？"
+  },
+  {
+    "MessageGroupId": 101090100,
+    "Message": "我過得很好哦"
+  },
+  {
+    "MessageGroupId": 101090100,
+    "Message": "乃愛的身體有比較好了嗎？"
+  },
+  {
+    "MessageGroupId": 101090110,
+    "Message": "是，這都多虧了老師"
+  },
+  {
+    "MessageGroupId": 101090120,
+    "Message": "話說回來，如果方便的話"
+  },
+  {
+    "MessageGroupId": 101090120,
+    "Message": "這週末能請老師到我的房間來一趟嗎？"
+  },
+  {
+    "MessageGroupId": 101090130,
+    "Message": "去乃愛的房間……？"
+  },
+  {
+    "MessageGroupId": 101090140,
+    "Message": "哎呀"
+  },
+  {
+    "MessageGroupId": 101090150,
+    "Message": "上次老師來探病的時候，不是跟我約好下次要幫我裝飾房間嗎？"
+  },
+  {
+    "MessageGroupId": 101090150,
+    "Message": "難道這段期間，老師已經忘記了自己的承諾嗎？"
+  },
+  {
+    "MessageGroupId": 101090160,
+    "Message": "我，我當然記得！"
+  },
+  {
+    "MessageGroupId": 101090160,
+    "Message": "只是隨口問一下而已！"
+  },
+  {
+    "MessageGroupId": 101090170,
+    "Message": "呵呵，老師不必這麼慌張"
+  },
+  {
+    "MessageGroupId": 101090170,
+    "Message": "我只是開個玩笑而已"
+  },
+  {
+    "MessageGroupId": 101090180,
+    "Message": "那麼我們週末見"
+  },
+  {
+    "MessageGroupId": 101090190,
+    "Message": "老師，你身體還好嗎？"
+  },
+  {
+    "MessageGroupId": 101090200,
+    "Message": "我聽其他學生說你感冒了……"
+  },
+  {
+    "MessageGroupId": 101090210,
+    "Message": "啊，是乃愛啊"
+  },
+  {
+    "MessageGroupId": 101090220,
+    "Message": "我沒事。多虧感冒也能難得休息一下"
+  },
+  {
+    "MessageGroupId": 101090230,
+    "Message": "雖然老師說沒事"
+  },
+  {
+    "MessageGroupId": 101090230,
+    "Message": "但我有點擔心"
+  },
+  {
+    "MessageGroupId": 101090230,
+    "Message": "是不是之前來看我的時候被我傳染了……"
+  },
+  {
+    "MessageGroupId": 101090240,
+    "Message": "這不是乃愛的錯"
+  },
+  {
+    "MessageGroupId": 101090240,
+    "Message": "別放在心上"
+  },
+  {
+    "MessageGroupId": 101090250,
+    "Message": "可是……"
+  },
+  {
+    "MessageGroupId": 101090260,
+    "Message": "老師明天應該沒有特別的行程吧？"
+  },
+  {
+    "MessageGroupId": 101090260,
+    "Message": "我可以在中午左右過去探病嗎？"
+  },
+  {
+    "MessageGroupId": 101090270,
+    "Message": "可以是可以……"
+  },
+  {
+    "MessageGroupId": 101090270,
+    "Message": "這樣好嗎？研討會的工作會不會忙不過來？"
+  },
+  {
+    "MessageGroupId": 101090280,
+    "Message": "不必擔心。病假期間累積的工作，都已經妥善處理完畢了"
+  },
+  {
+    "MessageGroupId": 101090290,
+    "Message": "那麼明天見"
+  },
+  {
+    "MessageGroupId": 101090300,
+    "Message": "因為這幾天一直下雨的關係，天氣漸漸變涼爽了呢"
+  },
+  {
+    "MessageGroupId": 101090310,
+    "Message": "雖然洗好的制服一直不乾，讓人有點煩惱就是了"
+  },
+  {
+    "MessageGroupId": 101090320,
+    "Message": "我能理解那種心情……"
+  },
+  {
+    "MessageGroupId": 101090320,
+    "Message": "有時候衣服曬太久會有味道對吧"
+  },
+  {
+    "MessageGroupId": 101090330,
+    "Message": "話說回來，乃愛有幾套制服呢？"
+  },
+  {
+    "MessageGroupId": 101090340,
+    "Message": "唔嗯"
+  },
+  {
+    "MessageGroupId": 101090340,
+    "Message": "包括備用的在內大約有4套吧"
+  },
+  {
+    "MessageGroupId": 101090350,
+    "Message": "由於千年的服儀規定並不是特別嚴格"
+  },
+  {
+    "MessageGroupId": 101090350,
+    "Message": "所以幾乎沒有學生會有好幾套相同的制服……"
+  },
+  {
+    "MessageGroupId": 101090350,
+    "Message": "但我畢竟是研討會的幹部"
+  },
+  {
+    "MessageGroupId": 101090360,
+    "Message": "這麼說來，我幾乎沒見過乃愛穿便服的樣子呢"
+  },
+  {
+    "MessageGroupId": 101090370,
+    "Message": "突然覺得有點可惜……"
+  },
+  {
+    "MessageGroupId": 101090380,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 101090380,
+    "Message": "之後有機會的話，我會讓老師看看的"
   }
 ]

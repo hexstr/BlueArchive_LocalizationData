@@ -6084,6 +6084,38 @@
     "Message": "我一定會好好回答的……"
   },
   {
+    "MessageGroupId": 160020380,
+    "Message": "呼！"
+  },
+  {
+    "MessageGroupId": 160020390,
+    "Message": "差點就出大事了！"
+  },
+  {
+    "MessageGroupId": 160020400,
+    "Message": "亞都梨？"
+  },
+  {
+    "MessageGroupId": 160020400,
+    "Message": "怎麼了？"
+  },
+  {
+    "MessageGroupId": 160020410,
+    "Message": "啊，其實也沒什麼！"
+  },
+  {
+    "MessageGroupId": 160020410,
+    "Message": "只是眼鏡出了點問題，所以送去修理了"
+  },
+  {
+    "MessageGroupId": 160020420,
+    "Message": "本來想說一天不戴眼鏡應該沒問題"
+  },
+  {
+    "MessageGroupId": 160020420,
+    "Message": "結果我的視力根本不行！啊哈哈！！"
+  },
+  {
     "MessageGroupId": 200000010,
     "Message": "早安，老師。上次聯絡之後，一直沒有收到回覆……"
   },
