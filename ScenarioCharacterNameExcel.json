@@ -1730,6 +1730,11 @@
     "Nickname": "訓練部"
   },
   {
+    "CharacterName": 1274500166,
+    "Name": "莉",
+    "Nickname": "訓練部"
+  },
+  {
     "CharacterName": 134464208,
     "Name": "？？？",
     "Nickname": ""
@@ -2173,6 +2178,46 @@
     "CharacterName": 3666493938,
     "Name": "陽葵&莉央",
     "Nickname": ""
+  },
+  {
+    "CharacterName": 3452768816,
+    "Name": "風華",
+    "Nickname": "供給部"
+  },
+  {
+    "CharacterName": 4275417295,
+    "Name": "茱莉",
+    "Nickname": "供給部"
+  },
+  {
+    "CharacterName": 1810763002,
+    "Name": "瀬奈",
+    "Nickname": "急救醫學部"
+  },
+  {
+    "CharacterName": 1606344189,
+    "Name": "堇",
+    "Nickname": "訓練部"
+  },
+  {
+    "CharacterName": 1261186132,
+    "Name": "堇",
+    "Nickname": "訓練部"
+  },
+  {
+    "CharacterName": 3623566116,
+    "Name": "青葉",
+    "Nickname": "貨物輸送管理部"
+  },
+  {
+    "CharacterName": 1403183288,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4234421856,
+    "Name": "伊織",
+    "Nickname": "風紀委員會"
   },
   {
     "CharacterName": 3261875659,
@@ -9277,6 +9322,656 @@
   {
     "CharacterName": 2010253428,
     "Name": "小流氓全體",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3841450969,
+    "Name": "格黑娜學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1901013255,
+    "Name": "咖啡廳廚師",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1920795448,
+    "Name": "路過的格黑娜學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3136474346,
+    "Name": "等待的客人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2648634823,
+    "Name": "等待的客人B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 555326693,
+    "Name": "等待的客人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4022212271,
+    "Name": "等待的客人B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3984267447,
+    "Name": "尖叫聲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1352525458,
+    "Name": "驚訝的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3875378527,
+    "Name": "受到衝擊的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1612794187,
+    "Name": "恐懼的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2734241979,
+    "Name": "倒楣的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2306180573,
+    "Name": "客人的聲音",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3452238258,
+    "Name": "滿身黏液的格黑娜學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3599942906,
+    "Name": "大家",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 542124871,
+    "Name": "恢復意識的格黑娜學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4163346752,
+    "Name": "困惑的格黑娜學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1366715309,
+    "Name": "女服務生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 186468596,
+    "Name": "女服務生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 952086350,
+    "Name": "工讀生們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 969448718,
+    "Name": "咖啡廳經理",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1503171268,
+    "Name": "遊戲機台",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1449780713,
+    "Name": "清潔機器人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 429627385,
+    "Name": "弟弟",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2540835677,
+    "Name": "姐姐",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3413092597,
+    "Name": "市民A",
+    "Nickname": "一般人"
+  },
+  {
+    "CharacterName": 2323009867,
+    "Name": "播報員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3509775841,
+    "Name": "教練",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1785875391,
+    "Name": "教練",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3557703923,
+    "Name": "選手",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1906271448,
+    "Name": "解說員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2826402178,
+    "Name": "沸騰的觀眾A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 301904249,
+    "Name": "沸騰的觀眾B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2829078999,
+    "Name": "原本沸騰的觀眾A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2268065205,
+    "Name": "原本沸騰的觀眾B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 813301579,
+    "Name": "粉絲實況主播",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4253353957,
+    "Name": "憤怒的粉絲A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3011730865,
+    "Name": "憤怒的粉絲B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3115802642,
+    "Name": "興奮的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2112131399,
+    "Name": "期待的粉絲A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2530470268,
+    "Name": "期待的粉絲B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2773517184,
+    "Name": "祈禱的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1504861529,
+    "Name": "激動的粉絲A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3462313189,
+    "Name": "激動的粉絲B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 460224037,
+    "Name": "不敢置信的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 123355030,
+    "Name": "學生粉絲A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1444862241,
+    "Name": "學生粉絲B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 679785149,
+    "Name": "學生粉絲C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2176729478,
+    "Name": "嚎叫的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3302564932,
+    "Name": "想要放下執念的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2858935270,
+    "Name": "哭泣的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2053881784,
+    "Name": "緊張的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4169284161,
+    "Name": "原本昏倒的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4152693193,
+    "Name": "犯人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4135218295,
+    "Name": "寬容的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3499071533,
+    "Name": "原本寬容的粉絲",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 892408439,
+    "Name": "周圍的觀眾A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 755867089,
+    "Name": "周圍的觀眾B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4197200424,
+    "Name": "應援團長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1586824383,
+    "Name": "鼓隊應援團A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2001442031,
+    "Name": "鼓隊應援團B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2659082296,
+    "Name": "鼓隊應援團全員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3725264058,
+    "Name": "正在記錄的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1792391146,
+    "Name": "原本在記錄的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 867693429,
+    "Name": "口渴的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2178634514,
+    "Name": "滿意的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3784160193,
+    "Name": "保鑣",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2056354656,
+    "Name": "第4棒打者",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3908545818,
+    "Name": "自稱投手戰力分析官",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 477683746,
+    "Name": "自稱野手戰力分析官",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3769793093,
+    "Name": "口渴的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 242019906,
+    "Name": "興奮的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 586230448,
+    "Name": "嗨起來的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3479878412,
+    "Name": "心情變好的觀眾",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 506846923,
+    "Name": "運動場經理",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 237176193,
+    "Name": "飲料公司部長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1997470831,
+    "Name": "飲料公司高層A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3326927690,
+    "Name": "飲料公司高層B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 510489961,
+    "Name": "飲料公司高層C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1936353336,
+    "Name": "雜貨店商人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3812047469,
+    "Name": "貪婪的商人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3801209277,
+    "Name": "萬能修理工",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1169482387,
+    "Name": "訓練輔助機器人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3731090004,
+    "Name": "觀看的玩家A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2009949088,
+    "Name": "觀看的玩家B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 64072728,
+    "Name": "驚嘆的玩家",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2833754133,
+    "Name": "驚訝的玩家",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 748032615,
+    "Name": "膽小的玩家",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2533580965,
+    "Name": "迷路的孩子",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 653747109,
+    "Name": "美食街商人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1435316379,
+    "Name": "美食街客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3458513467,
+    "Name": "美食街路人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3187127487,
+    "Name": "疲累的工讀生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3654538635,
+    "Name": "疲累的工讀生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2249302573,
+    "Name": "體育館館長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3856944101,
+    "Name": "飛鏢遊戲人工智慧",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3819653240,
+    "Name": "父親",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3551770959,
+    "Name": "母親",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1593491180,
+    "Name": "裁判",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1242487811,
+    "Name": "旅客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1510751406,
+    "Name": "旅客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1759095369,
+    "Name": "旅客B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 388000982,
+    "Name": "旅客C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3345231877,
+    "Name": "旅客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1140620044,
+    "Name": "旅客B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1472206021,
+    "Name": "全體旅客",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3824812598,
+    "Name": "劇團成員A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3407352736,
+    "Name": "劇團成員B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2085186708,
+    "Name": "司機",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 382452949,
+    "Name": "極地狐狸",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3752532882,
+    "Name": "指引語音",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2443644544,
+    "Name": "螢幕",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 532172676,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 509955846,
+    "Name": "委託人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3272364368,
+    "Name": "委託人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3332397244,
+    "Name": "中央幹部",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1276256729,
+    "Name": "站務員A",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 2083276339,
+    "Name": "站務員B",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 1971484801,
+    "Name": "站務員",
+    "Nickname": "高地人鐵道學園"
+  },
+  {
+    "CharacterName": 3169346697,
+    "Name": "暴走族頭目",
+    "Nickname": "轟隆轟隆疾馳聯盟"
+  },
+  {
+    "CharacterName": 416083570,
+    "Name": "暴走族",
+    "Nickname": "轟隆轟隆疾馳聯盟"
+  },
+  {
+    "CharacterName": 1281306731,
+    "Name": "暴走族A",
+    "Nickname": "轟隆轟隆疾馳聯盟"
+  },
+  {
+    "CharacterName": 3157292745,
+    "Name": "暴走族B",
+    "Nickname": "轟隆轟隆疾馳聯盟"
+  },
+  {
+    "CharacterName": 1050207493,
+    "Name": "外送員",
+    "Nickname": "轟隆轟隆疾馳聯盟"
+  },
+  {
+    "CharacterName": 194490555,
+    "Name": "黑市幹部",
+    "Nickname": "黑市"
+  },
+  {
+    "CharacterName": 741923826,
+    "Name": "組織成員",
+    "Nickname": "黑市"
+  },
+  {
+    "CharacterName": 3425690292,
+    "Name": "公車司機",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1761870018,
+    "Name": "小流氓A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2080377079,
+    "Name": "小流氓B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3861431074,
+    "Name": "小流氓C",
     "Nickname": ""
   }
 ]
