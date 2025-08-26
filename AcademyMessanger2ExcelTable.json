@@ -11292,6 +11292,58 @@
     "Message": "我想還是穿得像樣一點比較好"
   },
   {
+    "MessageGroupId": 200140320,
+    "Message": "老師，不好意思"
+  },
+  {
+    "MessageGroupId": 200140330,
+    "Message": "能幫我看看休息室有沒有一本書嗎？"
+  },
+  {
+    "MessageGroupId": 200140340,
+    "Message": "應該在桌上才對，如果有看到的請幫我收起來"
+  },
+  {
+    "MessageGroupId": 200140350,
+    "Message": "上面寫著「空井」的名字，應該一眼就能認出來"
+  },
+  {
+    "MessageGroupId": 200140360,
+    "Message": "知道了嗎？我等等到夏萊的時候再跟你拿！"
+  },
+  {
+    "MessageGroupId": 200140370,
+    "Message": "老師，你今天什麼都沒看到"
+  },
+  {
+    "MessageGroupId": 200140380,
+    "Message": "要是洩露情報的話，我可是會不惜動用武力的哦！"
+  },
+  {
+    "MessageGroupId": 200140390,
+    "Message": "這是簽字筆，不太容易擦掉耶"
+  },
+  {
+    "MessageGroupId": 200140400,
+    "Message": "你活該！"
+  },
+  {
+    "MessageGroupId": 200140410,
+    "Message": "因為咲希幫忙寫字，感覺好像變成教戰手冊了呢"
+  },
+  {
+    "MessageGroupId": 200140420,
+    "Message": "你在胡說"
+  },
+  {
+    "MessageGroupId": 200140420,
+    "Message": "八道什麼"
+  },
+  {
+    "MessageGroupId": 200140430,
+    "Message": "想嚐嚐迫擊砲的滋味是吧，你給我等著"
+  },
+  {
     "MessageGroupId": 100390010,
     "Message": "那個"
   },
@@ -14566,6 +14618,38 @@
   {
     "MessageGroupId": 100480310,
     "Message": "沙，沙，沙織！？"
+  },
+  {
+    "MessageGroupId": 100480320,
+    "Message": "老師，我想老師說不定會知道"
+  },
+  {
+    "MessageGroupId": 100480330,
+    "Message": "請問你有認識手藝不錯的修理工嗎？"
+  },
+  {
+    "MessageGroupId": 100480330,
+    "Message": "我有設備想要修理"
+  },
+  {
+    "MessageGroupId": 100480340,
+    "Message": "嗯？是什麼種類的設備？"
+  },
+  {
+    "MessageGroupId": 100480350,
+    "Message": "這……"
+  },
+  {
+    "MessageGroupId": 100480360,
+    "Message": "說來話長，在這裡有點難解釋"
+  },
+  {
+    "MessageGroupId": 100480370,
+    "Message": "我過去找你"
+  },
+  {
+    "MessageGroupId": 100480370,
+    "Message": "直接見面談吧"
   },
   {
     "MessageGroupId": 200180010,
@@ -23834,6 +23918,50 @@
   {
     "MessageGroupId": 130130390,
     "Message": "圖書館……？"
+  },
+  {
+    "MessageGroupId": 130130400,
+    "Message": "老師"
+  },
+  {
+    "MessageGroupId": 130130410,
+    "Message": "不好意思"
+  },
+  {
+    "MessageGroupId": 130130410,
+    "Message": "我今天好像無法依照約定去拜訪你了"
+  },
+  {
+    "MessageGroupId": 130130420,
+    "Message": "怎麼這麼突然？"
+  },
+  {
+    "MessageGroupId": 130130430,
+    "Message": "我在圖書館弄丟了一樣重要的"
+  },
+  {
+    "MessageGroupId": 130130440,
+    "Message": "啊"
+  },
+  {
+    "MessageGroupId": 130130440,
+    "Message": "弄丟了一樣小東西"
+  },
+  {
+    "MessageGroupId": 130130450,
+    "Message": "得找到才行"
+  },
+  {
+    "MessageGroupId": 130130460,
+    "Message": "那我也來幫忙吧"
+  },
+  {
+    "MessageGroupId": 130130470,
+    "Message": "咦？"
+  },
+  {
+    "MessageGroupId": 130130470,
+    "Message": "老師要親自幫忙嗎？"
   },
   {
     "MessageGroupId": 100760010,
@@ -37277,7 +37405,7 @@
   },
   {
     "MessageGroupId": 200440220,
-    "Message": "就是我之前提過的那款訓練機"
+    "Message": "之前提過的那款訓練機"
   },
   {
     "MessageGroupId": 200440220,
@@ -37297,7 +37425,7 @@
   },
   {
     "MessageGroupId": 200440260,
-    "Message": "不過這跟訓練其實也差不多"
+    "Message": "不過這其實跟訓練也相差無幾"
   },
   {
     "MessageGroupId": 200440260,
@@ -37397,7 +37525,7 @@
   },
   {
     "MessageGroupId": 200440450,
-    "Message": "沒什麼別的意思，只是想跟你打個招呼而已"
+    "Message": "其實也沒什麼事，只是想跟你打個招呼而已"
   },
   {
     "MessageGroupId": 200440460,
@@ -37429,7 +37557,7 @@
   },
   {
     "MessageGroupId": 200440510,
-    "Message": "我……？"
+    "Message": "討論我……？"
   },
   {
     "MessageGroupId": 200440510,
@@ -37489,7 +37617,7 @@
   },
   {
     "MessageGroupId": 101150070,
-    "Message": "啊，說得也是"
+    "Message": "啊，對了"
   },
   {
     "MessageGroupId": 101150070,
@@ -37645,7 +37773,7 @@
   },
   {
     "MessageGroupId": 101150360,
-    "Message": "嗯，就麻煩你囉"
+    "Message": "嗯，歡迎你來"
   },
   {
     "MessageGroupId": 101150360,
@@ -37653,6 +37781,6 @@
   },
   {
     "MessageGroupId": 101150370,
-    "Message": "我等你！"
+    "Message": "我等你哦！"
   }
 ]

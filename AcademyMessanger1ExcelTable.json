@@ -9141,7 +9141,7 @@
   },
   {
     "MessageGroupId": 260000040,
-    "Message": "有朝一日絕對會報答你的"
+    "Message": "有朝一日絕對會報答您的"
   },
   {
     "MessageGroupId": 260000040,
@@ -9193,7 +9193,7 @@
   },
   {
     "MessageGroupId": 260000110,
-    "Message": "那個，我稍後會告訴您地點。我會在那裡等著"
+    "Message": "稍後會告訴您地點。我會在那裡等著"
   },
   {
     "MessageGroupId": 260000120,
@@ -9406,6 +9406,78 @@
   {
     "MessageGroupId": 260000450,
     "Message": "在同個地方也沒關係"
+  },
+  {
+    "MessageGroupId": 260000460,
+    "Message": "今天是難得的休假"
+  },
+  {
+    "MessageGroupId": 260000470,
+    "Message": "請問老師今天有空嗎？"
+  },
+  {
+    "MessageGroupId": 260000480,
+    "Message": "真巧，我今天也正好休息"
+  },
+  {
+    "MessageGroupId": 260000480,
+    "Message": "那我也來偷懶一下吧！"
+  },
+  {
+    "MessageGroupId": 260000490,
+    "Message": "呵呵"
+  },
+  {
+    "MessageGroupId": 260000490,
+    "Message": "聽起來真不錯呢"
+  },
+  {
+    "MessageGroupId": 260000500,
+    "Message": "……"
+  },
+  {
+    "MessageGroupId": 260000500,
+    "Message": "那似乎有點……"
+  },
+  {
+    "MessageGroupId": 260000510,
+    "Message": "總之，不好意思打擾了"
+  },
+  {
+    "MessageGroupId": 260000520,
+    "Message": "祝老師有美好的一天\u3000～千夏～"
+  },
+  {
+    "MessageGroupId": 260000530,
+    "Message": "真是辛苦您了，老師"
+  },
+  {
+    "MessageGroupId": 260000540,
+    "Message": "難得老師有時間休息，我卻讓老師一直工作"
+  },
+  {
+    "MessageGroupId": 260000550,
+    "Message": "別這麼說，我反而恢復了元氣"
+  },
+  {
+    "MessageGroupId": 260000550,
+    "Message": "雖然消耗了體力，但心靈卻回復了"
+  },
+  {
+    "MessageGroupId": 260000560,
+    "Message": "這樣啊"
+  },
+  {
+    "MessageGroupId": 260000560,
+    "Message": "那麼現在是時候想辦法恢復體力了"
+  },
+  {
+    "MessageGroupId": 260000570,
+    "Message": "呵呵，這樣正好"
+  },
+  {
+    "MessageGroupId": 260000570,
+    "Message": "我馬上就去找您\u3000～千夏～"
   },
   {
     "MessageGroupId": 160000010,
