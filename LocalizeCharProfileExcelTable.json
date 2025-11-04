@@ -5334,5 +5334,28 @@
     "WeaponDesc": "仁耶總是隨身攜帶的手槍。\n\n雖然總是放在最顯眼的位置，但實際看過他開槍的人卻少之又少。",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，陰陽部的部長。\n\n雖然在外人眼中是學生會長，不過由於聯合學園的架構相當複雜，實際牽扯的內情遠比表面來的多。因此，他更廣為人知的稱號是「不工作的部長」……雖然如此為自己辯解，其實不愛工作是他與生俱來的天性。儘管看似總是因興趣惹事生非，其背後似乎隱藏著不願吐露的真實想法。",
     "CharacterSSRNew": "啊～果然不做不行對吧～？\n好好好～我會工作的啦～"
+  },
+  {
+    "CharacterId": 10120,
+    "StatusMessage": "鼓＝Antinomy",
+    "FullName": "柚鳥夏",
+    "FamilyName": "柚鳥",
+    "FamilyNameRuby": "",
+    "PersonalName": "夏",
+    "PersonalNameRuby": "",
+    "SchoolYear": "1年級",
+    "CharacterAge": "15歲",
+    "BirthDay": "12/4",
+    "Birthday": "12月4日",
+    "CharHeight": "152cm",
+    "DesignerName": "Mx2J",
+    "IllustratorName": "Mx2J",
+    "CharacterVoice": "長縄まりあ",
+    "KRCharacterVoice": "Kang Saebom",
+    "Hobby": "浪漫的事物、思索",
+    "WeaponName": "Beyond The Lumination",
+    "WeaponDesc": "夏的衝鋒槍。\n\n當思考無法解決問題時的最後手段。畢竟世界如此複雜，有時總是需要能夠克服困難的解決方案。",
+    "ProfileIntroduction": "三一綜合學園所屬，放學後的甜點部的成員，同時也是臨時組成的樂團「Sugar Rush」的鼓手兼行程管理負責人。\n\n雖然看似對「搖滾」精神有著最深刻的洞察，他本人卻從未好好解釋過。因為解釋這件事情……並不搖滾。",
+    "CharacterSSRNew": "啊啊……要跟我一同踏上「搖滾」之路嗎？"
   }
 ]
