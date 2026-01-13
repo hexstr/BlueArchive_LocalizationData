@@ -15,6 +15,11 @@
     "Nickname": "補課部"
   },
   {
+    "CharacterName": 1168634647,
+    "Name": "日步美",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 1007191014,
     "Name": "日步美",
     "Nickname": "回家部"
@@ -50,14 +55,29 @@
     "Nickname": "圖書委員會"
   },
   {
+    "CharacterName": 344579124,
+    "Name": "志美子",
+    "Nickname": "圖書委員會"
+  },
+  {
     "CharacterName": 667578093,
     "Name": "芹奈",
     "Nickname": "救護騎士團"
   },
   {
+    "CharacterName": 1940629388,
+    "Name": "芹奈",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 912463881,
     "Name": "花繪",
     "Nickname": "救護騎士團"
+  },
+  {
+    "CharacterName": 1340630528,
+    "Name": "花繪",
+    "Nickname": ""
   },
   {
     "CharacterName": 1034441153,
@@ -515,6 +535,11 @@
     "Nickname": "補課部"
   },
   {
+    "CharacterName": 3981203562,
+    "Name": "花子",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 1994093906,
     "Name": "小春",
     "Nickname": "補課部"
@@ -533,6 +558,11 @@
     "CharacterName": 2402650919,
     "Name": "梓",
     "Nickname": "補課部"
+  },
+  {
+    "CharacterName": 414417122,
+    "Name": "梓",
+    "Nickname": ""
   },
   {
     "CharacterName": 1557377981,
@@ -865,6 +895,11 @@
     "Nickname": "救護騎士團"
   },
   {
+    "CharacterName": 2473323070,
+    "Name": "美禰",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 1731015540,
     "Name": "美咲",
     "Nickname": "奧利斯小隊"
@@ -936,6 +971,11 @@
   },
   {
     "CharacterName": 4057172687,
+    "Name": "憂",
+    "Nickname": "圖書委員會"
+  },
+  {
+    "CharacterName": 4045644713,
     "Name": "憂",
     "Nickname": "圖書委員會"
   },
@@ -2355,6 +2395,206 @@
     "Nickname": "溫泉開發部"
   },
   {
+    "CharacterName": 3188505523,
+    "Name": "繪梨",
+    "Nickname": "神秘學研究會"
+  },
+  {
+    "CharacterName": 1369134951,
+    "Name": "繪梨",
+    "Nickname": "狂獵藝術學院"
+  },
+  {
+    "CharacterName": 570307233,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1293662705,
+    "Name": "玲奈",
+    "Nickname": "神秘學研究會"
+  },
+  {
+    "CharacterName": 479095181,
+    "Name": "玲奈",
+    "Nickname": "狂獵藝術學院"
+  },
+  {
+    "CharacterName": 1674774776,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1666976057,
+    "Name": "鹿江",
+    "Nickname": "神秘學研究會"
+  },
+  {
+    "CharacterName": 3310429820,
+    "Name": "鹿江",
+    "Nickname": "狂獵藝術學院"
+  },
+  {
+    "CharacterName": 3459859270,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2104204969,
+    "Name": "紬",
+    "Nickname": "神秘學研究會"
+  },
+  {
+    "CharacterName": 1782018225,
+    "Name": "美代",
+    "Nickname": "狂獵藝術學院"
+  },
+  {
+    "CharacterName": 1573381788,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3254626457,
+    "Name": "米莉亞",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 1921620977,
+    "Name": "舍監隊幹部",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 178211173,
+    "Name": "舍監隊幹部",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 3511617901,
+    "Name": "敦子",
+    "Nickname": "奧利斯小隊"
+  },
+  {
+    "CharacterName": 1410059040,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 594881167,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2823463440,
+    "Name": "昴",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2212579573,
+    "Name": "舞彩",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4080363677,
+    "Name": "昴",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 237205934,
+    "Name": "舞彩",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 892825076,
+    "Name": "冬",
+    "Nickname": "特殊交易部"
+  },
+  {
+    "CharacterName": 3341685608,
+    "Name": "律",
+    "Nickname": "特殊交易部"
+  },
+  {
+    "CharacterName": 1118867376,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4260459994,
+    "Name": "美代",
+    "Nickname": "特殊交易部"
+  },
+  {
+    "CharacterName": 141212648,
+    "Name": "裕美",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 837974592,
+    "Name": "裕美",
+    "Nickname": "狂獵藝術學院"
+  },
+  {
+    "CharacterName": 1970304747,
+    "Name": "冬&律",
+    "Nickname": "特殊交易部"
+  },
+  {
+    "CharacterName": 740886232,
+    "Name": "冬&美代",
+    "Nickname": "特殊交易部"
+  },
+  {
+    "CharacterName": 3323672404,
+    "Name": "鈴美",
+    "Nickname": "三一自衛隊"
+  },
+  {
+    "CharacterName": 3476441545,
+    "Name": "澪紗",
+    "Nickname": "三一自衛隊"
+  },
+  {
+    "CharacterName": 4063606911,
+    "Name": "Thermite White",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 329096809,
+    "Name": "Thermite Pink",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3198734879,
+    "Name": "Thermite White＆Pink",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 481556675,
+    "Name": "志美子",
+    "Nickname": "圖書委員會"
+  },
+  {
+    "CharacterName": 1744180465,
+    "Name": "艾拉",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2751209752,
+    "Name": "？？？",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2190812222,
+    "Name": "可疑的商人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2861560550,
+    "Name": "鈴美&澪紗",
+    "Nickname": ""
+  },
+  {
     "CharacterName": 3261875659,
     "Name": "梓",
     "Nickname": "補課部"
@@ -3378,6 +3618,16 @@
     "CharacterName": 3945318135,
     "Name": "佳澄",
     "Nickname": "溫泉開發部"
+  },
+  {
+    "CharacterName": 459123828,
+    "Name": "評議會長",
+    "Nickname": "藝術評議會"
+  },
+  {
+    "CharacterName": 1432642103,
+    "Name": "良舞",
+    "Nickname": "頭盔團"
   },
   {
     "CharacterName": 1800434827,
@@ -4506,27 +4756,27 @@
   },
   {
     "CharacterName": 1263855748,
-    "Name": "溫泉開發部成員",
+    "Name": "溫泉開發部部員",
     "Nickname": "溫泉開發部"
   },
   {
     "CharacterName": 2731799849,
-    "Name": "溫泉開發部成員A",
+    "Name": "溫泉開發部部員A",
     "Nickname": "溫泉開發部"
   },
   {
     "CharacterName": 354306519,
-    "Name": "溫泉開發部成員B",
+    "Name": "溫泉開發部部員B",
     "Nickname": "溫泉開發部"
   },
   {
     "CharacterName": 2948369014,
-    "Name": "溫泉開發部成員C",
+    "Name": "溫泉開發部部員C",
     "Nickname": "溫泉開發部"
   },
   {
     "CharacterName": 2844902071,
-    "Name": "溫泉開發部成員D",
+    "Name": "溫泉開發部部員D",
     "Nickname": "溫泉開發部"
   },
   {
@@ -10547,6 +10797,621 @@
   {
     "CharacterName": 1793565267,
     "Name": "海之家店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 472669325,
+    "Name": "行人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2907003435,
+    "Name": "舍監隊員",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 165707890,
+    "Name": "狂獵學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1643702463,
+    "Name": "狂獵學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3816842794,
+    "Name": "黑貓",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 655426334,
+    "Name": "烏鴉",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 52077097,
+    "Name": "繪畫學科學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 728309801,
+    "Name": "繪畫學科學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2274934021,
+    "Name": "舍監隊員A",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 816266941,
+    "Name": "舍監隊員B",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 3183778481,
+    "Name": "舍監隊員C",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 227033233,
+    "Name": "舍監隊員D",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 3512335860,
+    "Name": "舍監隊員E",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 246833297,
+    "Name": "聲音可愛的學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1521383991,
+    "Name": "舍監隊學生",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 3656006799,
+    "Name": "謹慎的三一學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2593993232,
+    "Name": "謹慎的三一學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1454332828,
+    "Name": "陌生的三一學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 569999955,
+    "Name": "御者",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1600361056,
+    "Name": "奧利斯學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2577709721,
+    "Name": "奧利斯學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2474522752,
+    "Name": "奧利斯學生C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1833492568,
+    "Name": "奧利斯學生D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 264876484,
+    "Name": "奧利斯學生E",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3919510002,
+    "Name": "奧利斯學生F",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 449930541,
+    "Name": "興奮的奧利斯學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1698550605,
+    "Name": "興奮的奧利斯學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3037047245,
+    "Name": "慌張的奧利斯學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 965766325,
+    "Name": "慌張的奧利斯學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2127105175,
+    "Name": "慌張的奧利斯學生C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3458746437,
+    "Name": "不安的奧利斯學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2494106480,
+    "Name": "不安的奧利斯學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1253923465,
+    "Name": "不安的奧利斯學生C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 340242790,
+    "Name": "哭泣的孩子",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3552615486,
+    "Name": "受驚的孩子",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3763335738,
+    "Name": "生氣的媽媽",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 340249517,
+    "Name": "警戒的媽媽",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2540788904,
+    "Name": "路過的行人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3571053031,
+    "Name": "作業班長",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1942516882,
+    "Name": "高利貸業者",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4163725558,
+    "Name": "組織老大",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1387878296,
+    "Name": "受驚的貓",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4261877442,
+    "Name": "驚訝的人們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1639982184,
+    "Name": "警戒的人們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1303292872,
+    "Name": "奧利斯學生A&B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2781491575,
+    "Name": "奧利斯學生C&D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2140503737,
+    "Name": "組織老大",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2389112696,
+    "Name": "對立組織的老大",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2393799354,
+    "Name": "啟示錄的天使",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1188890334,
+    "Name": "三一學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2512597606,
+    "Name": "三一學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 372090370,
+    "Name": "出版社職員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4194168262,
+    "Name": "山之貴人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4088731510,
+    "Name": "可疑的服飾店店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 64111373,
+    "Name": "恭敬的服飾店店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1645397156,
+    "Name": "畫坊主人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 570693707,
+    "Name": "舍監隊幹部",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 2302771410,
+    "Name": "認真的舍監隊員",
+    "Nickname": "舍監隊"
+  },
+  {
+    "CharacterName": 1324697119,
+    "Name": "魯莽的狂獵學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1015836755,
+    "Name": "狂獵學生們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2814475438,
+    "Name": "狂獵學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 99095363,
+    "Name": "委託學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2561678379,
+    "Name": "委託學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2664347303,
+    "Name": "委託人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1149686737,
+    "Name": "咖啡廳店員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2181581205,
+    "Name": "觀覽者A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1727920169,
+    "Name": "觀覽者B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3112250577,
+    "Name": "觀覽者C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1019156937,
+    "Name": "觀覽者D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2331329475,
+    "Name": "展覽會管理員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3395809072,
+    "Name": "觀覽者們",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1412792221,
+    "Name": "生氣的學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2657059058,
+    "Name": "生氣的學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2477341796,
+    "Name": "孩子的聲音",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 185675541,
+    "Name": "奧利斯學生A",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 3786810131,
+    "Name": "奧利斯學生B",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 4194134998,
+    "Name": "奧利斯學生C",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 1433453800,
+    "Name": "奧利斯學生D",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 257187866,
+    "Name": "奧利斯學生E",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 1040874946,
+    "Name": "奧利斯學生F",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 1404952007,
+    "Name": "奧利斯學生A&B",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 2532706594,
+    "Name": "奧利斯學生C&D",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 3129206206,
+    "Name": "奧利斯學生們",
+    "Nickname": "尼科米底亞部隊"
+  },
+  {
+    "CharacterName": 1530918832,
+    "Name": "小孩A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3532454889,
+    "Name": "小孩B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1918774918,
+    "Name": "觀覽者A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 461567946,
+    "Name": "觀覽者B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2966154569,
+    "Name": "觀光客A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1877654638,
+    "Name": "觀光客B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 350976475,
+    "Name": "觀光客C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 389654442,
+    "Name": "觀光客D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2116421529,
+    "Name": "公園管理員",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1677477358,
+    "Name": "疑似科學部員A",
+    "Nickname": "疑似科學部"
+  },
+  {
+    "CharacterName": 2310290550,
+    "Name": "疑似科學部員B",
+    "Nickname": "疑似科學部"
+  },
+  {
+    "CharacterName": 2013976073,
+    "Name": "乘客",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 234219275,
+    "Name": "小流氓D",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2585557995,
+    "Name": "小流氓X",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1440618627,
+    "Name": "小流氓Y",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3569351362,
+    "Name": "小流氓Z",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3319149131,
+    "Name": "狂熱者A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2459346008,
+    "Name": "狂熱者B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1263821426,
+    "Name": "狂熱者C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2664981962,
+    "Name": "狂熱者J",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2354605598,
+    "Name": "狂熱者F",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1876668397,
+    "Name": "劇團團員A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4219573669,
+    "Name": "劇團團員B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2128135722,
+    "Name": "坑坑疤疤頭盔團隊長",
+    "Nickname": "坑坑疤疤頭盔團"
+  },
+  {
+    "CharacterName": 466036247,
+    "Name": "小流氓B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1419782734,
+    "Name": "市民A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3337503652,
+    "Name": "市民B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2592658250,
+    "Name": "市民C",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 3285836043,
+    "Name": "小孩",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1701539306,
+    "Name": "觀覽者A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 137876958,
+    "Name": "小流氓",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 4025293199,
+    "Name": "日和&舞彩",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2204114172,
+    "Name": "吹號角的天使",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 883464456,
+    "Name": "救護騎士團員們",
+    "Nickname": "救護騎士團"
+  },
+  {
+    "CharacterName": 3948563806,
+    "Name": "轉學的奧利斯學生A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 528015378,
+    "Name": "轉學的奧利斯學生B",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1467144584,
+    "Name": "挑釁的客人",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 2443267597,
+    "Name": "打工中的奧利斯學生",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1293598292,
+    "Name": "驚嘆的客人A",
+    "Nickname": ""
+  },
+  {
+    "CharacterName": 1814365380,
+    "Name": "驚嘆的客人B",
     "Nickname": ""
   }
 ]
