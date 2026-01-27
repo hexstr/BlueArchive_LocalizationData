@@ -66415,6 +66415,582 @@
     ]
   },
   {
+    "Id": 62000,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61010"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61010
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62001,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61020"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61020
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62002,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61030"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61030
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62003,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61040"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61040
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62004,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61050"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61050
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62005,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61060"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61060
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62006,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61070"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61070
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62007,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61080"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61080
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62008,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61090"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61090
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62009,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61100"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61100
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62010,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61110"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61110
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
+    "Id": 62011,
+    "Category": 3,
+    "Description": 1203493632,
+    "ResetType": 0,
+    "ToastDisplayType": 1,
+    "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+    "ViewFlag": true,
+    "Limit": false,
+    "StartDate": "2026-02-03 11:00:00",
+    "EndDate": "",
+    "EndDay": 0,
+    "StartableEndDate": "",
+    "DateAutoRefer": 0,
+    "DisplayOrder": 62000,
+    "PreMissionIdLength": 0,
+    "PreMissionId": [],
+    "AccountType": 1,
+    "AccountLevel": 1,
+    "ContentTagsLength": 0,
+    "ContentTags": [],
+    "ShortcutUILength": 1,
+    "ShortcutUI": [
+      "UIScenarioMode_Volume|61120"
+    ],
+    "ChallengeStageShortcut": 0,
+    "CompleteConditionType": 56,
+    "CompleteConditionCount": 1,
+    "CompleteConditionParameterLength": 1,
+    "CompleteConditionParameter": [
+      61120
+    ],
+    "CompleteConditionParameterTagLength": 0,
+    "CompleteConditionParameterTag": [],
+    "RewardIcon": "",
+    "MissionRewardParcelTypeLength": 1,
+    "MissionRewardParcelType": [
+      2
+    ],
+    "MissionRewardParcelIdLength": 1,
+    "MissionRewardParcelId": [
+      3
+    ],
+    "MissionRewardAmountLength": 1,
+    "MissionRewardAmount": [
+      20
+    ]
+  },
+  {
     "Id": 70000,
     "Category": 3,
     "Description": 2490203958,
